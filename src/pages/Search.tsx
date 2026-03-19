@@ -155,21 +155,28 @@ export default function Search() {
 
     if (finalMetadata) {
       if (finalMetadata.snkrPrice || finalMetadata.snkr) {
-        snkrPriceDisplay = `¥ ${Math.floor(finalMetadata.snkrPrice || finalMetadata.snkr).toLocaleString()}`
+        snkrPriceDisplay = `NT$ ${Math.floor(finalMetadata.snkrPrice || finalMetadata.snkr).toLocaleString()}`
       }
       if (finalMetadata.ebayPrice || finalMetadata.ebay) {
-        ebayPriceDisplay = `¥ ${Math.floor(finalMetadata.ebayPrice || finalMetadata.ebay).toLocaleString()}`
+        ebayPriceDisplay = `NT$ ${Math.floor(finalMetadata.ebayPrice || finalMetadata.ebay).toLocaleString()}`
       }
-    } else if (marketUsd) {
+    }
+
+    // 備援估算邏輯：如果該平台尚未抓取到數據，則回退到倍率估計 (前提是有 TCGPlayer 市場價)
+    if (marketUsd) {
       let baseNtd = marketUsd * 32
       if (version === 'JP') baseNtd = baseNtd * 1.3
       else if (version === 'TW') baseNtd = baseNtd * 0.75
 
-      const snkrVal = baseNtd * 4.2
-      snkrPriceDisplay = `¥ ${Math.floor(snkrVal).toLocaleString()}`
+      if (snkrPriceDisplay === '---') {
+        const snkrVal = baseNtd * 4.2
+        snkrPriceDisplay = `NT$ ${Math.floor(snkrVal).toLocaleString()}`
+      }
 
-      const ebayVal = baseNtd * 3.8
-      ebayPriceDisplay = `¥ ${Math.floor(ebayVal).toLocaleString()}`
+      if (ebayPriceDisplay === '---') {
+        const ebayVal = baseNtd * 3.8
+        ebayPriceDisplay = `NT$ ${Math.floor(ebayVal).toLocaleString()}`
+      }
     }
 
     // 獲取鑑定卡實拍圖 (優先使用 eBay 縮圖，因為通常清晰度較佳)
