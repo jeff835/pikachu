@@ -1,14 +1,26 @@
 import { useState } from 'react'
 import { usePortfolioStore, type PokemonCard } from '../store/usePortfolioStore'
 import { useAuthStore } from '../store/useAuthStore'
-import { Trash2, TrendingUp, TrendingDown, DollarSign, Wallet, Activity, Search as SearchIcon } from 'lucide-react'
+import { Trash2, TrendingUp, TrendingDown, DollarSign, Wallet, Activity, Search as SearchIcon, Edit2, Check, X } from 'lucide-react'
 import { PieChart, Pie, Cell, ResponsiveContainer, Tooltip as RechartsTooltip, Legend } from 'recharts'
 import { Link } from 'react-router-dom'
 
 export default function Portfolio() {
-  const { items, removeItem } = usePortfolioStore()
+  const { items, removeItem, updatePrice } = usePortfolioStore()
   const { user } = useAuthStore()
   const [searchTerm, setSearchTerm] = useState('')
+  const [editingId, setEditingId] = useState<string | null>(null)
+  const [tempPrice, setTempPrice] = useState<number>(0)
+
+  const handleStartEdit = (uid: string, currentPrice: number) => {
+    setEditingId(uid)
+    setTempPrice(currentPrice)
+  }
+
+  const handleSaveEdit = (uid: string) => {
+    updatePrice(uid, tempPrice)
+    setEditingId(null)
+  }
 
   // 取得真實 TCGPlayer 美金報價
   const getBasePriceUsd = (card: PokemonCard) => {
@@ -147,9 +159,47 @@ export default function Portfolio() {
                       <p className="text-[10px] md:text-xs text-slate-400 font-bold mb-2 md:mb-3 truncate">{card.set.name}</p>
                       
                       <div className="flex items-center gap-3 md:gap-6 overflow-x-auto no-scrollbar">
-                        <div className="flex flex-col shrink-0">
-                          <span className="text-[8px] md:text-[10px] text-slate-400 uppercase tracking-widest font-black mb-0.5 whitespace-nowrap">購入</span>
-                          <span className="text-[10px] md:text-sm font-black text-slate-700">¥ {purchasePriceNtd.toLocaleString()}</span>
+                        <div className="flex flex-col shrink-0 min-w-[70px] md:min-w-[100px]">
+                          <div className="flex items-center gap-1 mb-0.5">
+                            <span className="text-[8px] md:text-[10px] text-slate-400 uppercase tracking-widest font-black whitespace-nowrap">購入</span>
+                            {editingId !== uid && (
+                              <button 
+                                onClick={() => handleStartEdit(uid, purchasePriceNtd)}
+                                className="text-slate-300 hover:text-red-500 transition-colors"
+                              >
+                                <Edit2 className="w-2.5 h-2.5" />
+                              </button>
+                            )}
+                          </div>
+                          
+                          {editingId === uid ? (
+                            <div className="flex items-center gap-1 mt-1">
+                              <div className="relative">
+                                <span className="absolute left-1.5 top-1/2 -translate-y-1/2 text-[8px] md:text-xs font-black text-slate-400">¥</span>
+                                <input 
+                                  type="number"
+                                  value={tempPrice}
+                                  onChange={(e) => setTempPrice(Number(e.target.value))}
+                                  className="pl-4 pr-1 py-0.5 w-16 md:w-24 bg-slate-50 border border-red-300 rounded text-[10px] md:text-sm font-black text-slate-700 outline-none focus:ring-1 focus:ring-red-200"
+                                  autoFocus
+                                />
+                              </div>
+                              <button 
+                                onClick={() => handleSaveEdit(uid)}
+                                className="p-1 bg-emerald-500 text-white rounded hover:bg-emerald-600 shadow-sm"
+                              >
+                                <Check className="w-3 h-3" />
+                              </button>
+                              <button 
+                                onClick={() => setEditingId(null)}
+                                className="p-1 bg-slate-200 text-slate-600 rounded hover:bg-slate-300"
+                              >
+                                <X className="w-3 h-3" />
+                              </button>
+                            </div>
+                          ) : (
+                            <span className="text-[10px] md:text-sm font-black text-slate-700">¥ {purchasePriceNtd.toLocaleString()}</span>
+                          )}
                         </div>
                         <div className="flex flex-col shrink-0">
                           <span className="text-[8px] md:text-[10px] text-slate-400 uppercase tracking-widest font-black mb-0.5 whitespace-nowrap">現值</span>

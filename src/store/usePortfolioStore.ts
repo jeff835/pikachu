@@ -27,6 +27,7 @@ interface PortfolioState {
   items: PortfolioItem[]
   addItem: (card: PokemonCard, purchasePriceNtd: number) => void
   removeItem: (uid: string) => void
+  updatePrice: (uid: string, newPrice: number) => void
 }
 
 export const usePortfolioStore = create<PortfolioState>()(
@@ -38,6 +39,9 @@ export const usePortfolioStore = create<PortfolioState>()(
       })),
       removeItem: (uid) => set((state) => ({ 
         items: state.items.filter(item => item.uid !== uid) 
+      })),
+      updatePrice: (uid, newPrice) => set((state) => ({
+        items: state.items.map(item => item.uid === uid ? { ...item, purchasePriceNtd: newPrice } : item)
       })),
     }),
     {
