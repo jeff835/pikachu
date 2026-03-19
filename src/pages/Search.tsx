@@ -2,7 +2,8 @@ import { useState, useEffect } from 'react'
 import { useLocation, useNavigate } from 'react-router-dom'
 import { Search as SearchIcon, Loader2, Globe, Filter, Layers, ChevronRight, LayoutGrid } from 'lucide-react'
 import axios from 'axios'
-import { getEnglishPokemonName, getJapanesePokemonName } from '../lib/pokemonMap'
+// pokemonMap 已不再需要（搜尋改為直接比對繁中名稱）
+
 import localCardsData from '../data/cards.json'
 import { useAuthStore } from '../store/useAuthStore'
 import { usePortfolioStore } from '../store/usePortfolioStore'
@@ -99,27 +100,21 @@ export default function Search() {
   useEffect(() => {
     if (!searchQuery) {
       const fetchUSPopular = async () => {
+        const famousNames = ['噴火龍', '皮卡丘', '夢幻', '超夢', '伊布', '洛奇亞', '烈空坐', '沙奈朵', '耿鬼']
+        
         try {
-          const res = await axios.get(`https://api.pokemontcg.io/v2/cards?q=set.id:base1 OR set.id:swsh1&pageSize=30`)
+          const res = await axios.get(`https://api.pokemontcg.io/v2/cards?q=set.id:base1 OR set.id:swsh1&pageSize=30`, { timeout: 8000 })
           const usCards = res.data.data.map((c: any) => ({...c, region: 'US'}))
           
-          const famousNames = ['噴火龍', '皮卡丘', '夢幻', '超夢', '伊布', '洛奇亞', '烈空坐', '沙奈朵', '耿鬼']
-          const famousNamesJp = famousNames.map(name => getJapanesePokemonName(name))
-          
-          const curated = localCardsData.filter(c => 
-            famousNames.some(name => c.name.includes(name)) ||
-            famousNamesJp.some(name => c.name.includes(name))
+          const curated = (localCardsData as any[]).filter(c => 
+            famousNames.some(name => c.name?.includes(name))
           )
           
           const allExplore = [...curated, ...usCards]
           setPopularCards(allExplore.sort(() => 0.5 - Math.random()) as PokemonCard[])
         } catch(e) {
-          const famousNames = ['噴火龍', '皮卡丘', '夢幻', '超夢', '伊布', '洛奇亞', '烈空坐', '沙奈朵', '耿鬼']
-          const famousNamesJp = famousNames.map(name => getJapanesePokemonName(name))
-          
-          const curated = localCardsData.filter(c => 
-            famousNames.some(name => c.name.includes(name)) ||
-            famousNamesJp.some(name => c.name.includes(name))
+          const curated = (localCardsData as any[]).filter(c => 
+            famousNames.some(name => c.name?.includes(name))
           )
           setPopularCards(curated.sort(() => 0.5 - Math.random()) as PokemonCard[])
         }
@@ -127,6 +122,7 @@ export default function Search() {
       fetchUSPopular()
     }
   }, [searchQuery])
+
 
   // 取得真實 TCGPlayer 美金報價
   const getBasePriceUsd = (card: PokemonCard) => {
