@@ -183,7 +183,8 @@ export default function Search() {
             onClick={(e) => {
                e.stopPropagation();
                if (!isAuthenticated) {
-                 if(window.confirm('請登入訓練家帳號以解鎖收藏庫卡夾專屬功能！是否前往登入大廳？')) navigate('/login')
+                 alert('提示：請先登入訓練家帳號以解鎖資產庫功能！即將導向登入大廳...')
+                 navigate('/login')
                  return;
                }
 
@@ -196,12 +197,8 @@ export default function Search() {
                  cost = Math.floor(version === 'JP' ? baseNtd * 1.1 : baseNtd * 0.95)
                }
               
-               const input = window.prompt(`建立 ${card.name} 的數位資產記帳。\n請填寫您的實際購入的成本價格 (NTD)：`, cost.toString());
-               if (input !== null) {
-                  const finalCost = parseInt(input.trim(), 10) || 0;
-                  addItem(card, finalCost);
-                  alert(`✅ 成功將 ${card.name} 加入個人收藏庫！您可以在左側選單進入收藏庫查看實時盈虧總資產。`)
-               }
+               addItem(card, cost);
+               alert(`✅ 成功將 ${card.name} 加入個人收藏庫！\n您可以隨時在左側選單的「個人收藏庫」查看您的實時總資產。`)
             }}
             className="w-full mt-5 py-3 bg-white border-2 border-slate-200 hover:border-red-600 hover:bg-red-50 hover:text-red-700 text-slate-700 font-bold rounded-xl transition-colors shadow-sm active:scale-[0.98]"
           >
