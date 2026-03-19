@@ -10,6 +10,7 @@ interface PokemonCard {
   name: string
   images: { small: string, large: string }
   set: { name: string }
+  region?: 'US' | 'JP' | 'TW'
   tcgplayer?: {
     prices?: {
       holofoil?: { market: number }
@@ -52,10 +53,10 @@ export default function Search() {
           const response = await axios.get(`https://api.pokemontcg.io/v2/cards`, {
             params: {
               q: `name:"*${englishSearchQuery}*"`,
-              pageSize: 24
+              pageSize: 48
             }
           })
-          remoteResults = response.data.data
+          remoteResults = response.data.data.map((c: any) => ({ ...c, region: 'US' }))
         } catch (apiErr) {
           console.warn("遠端英文 API 網路連線異常，僅呈現本地結果", apiErr)
         }
@@ -73,15 +74,26 @@ export default function Search() {
     fetchCards()
   }, [searchQuery])
 
-  // 產生探索頁面的隨機熱門卡牌
+  // 產生探索頁面的隨機熱門卡牌 (包含美國版 API 預載)
   useEffect(() => {
     if (!searchQuery) {
-      // 從本地卡牌庫中隨機抓出稀有或熱門的卡牌
-      const famousNames = ['噴火龍', '皮卡丘', '夢幻', '超夢', '伊布', '洛奇亞', '烈空坐', '沙奈朵', '耿鬼']
-      const curated = localCardsData.filter(c => famousNames.some(name => c.name.includes(name)))
-      // shuffle random items
-      const shuffled = curated.sort(() => 0.5 - Math.random()).slice(0, 16)
-      setPopularCards(shuffled as PokemonCard[])
+      const fetchUSPopular = async () => {
+        try {
+          const res = await axios.get(`https://api.pokemontcg.io/v2/cards?q=set.id:base1 OR set.id:swsh1&pageSize=30`)
+          const usCards = res.data.data.map((c: any) => ({...c, region: 'US'}))
+          
+          const famousNames = ['噴火龍', '皮卡丘', '夢幻', '超夢', '伊布', '洛奇亞', '烈空坐', '沙奈朵', '耿鬼']
+          const curated = localCardsData.filter(c => famousNames.some(name => c.name.includes(name)))
+          
+          const allExplore = [...curated, ...usCards]
+          setPopularCards(allExplore.sort(() => 0.5 - Math.random()) as PokemonCard[])
+        } catch(e) {
+          const famousNames = ['噴火龍', '皮卡丘', '夢幻', '超夢', '伊布', '洛奇亞', '烈空坐', '沙奈朵', '耿鬼']
+          const curated = localCardsData.filter(c => famousNames.some(name => c.name.includes(name)))
+          setPopularCards(curated.sort(() => 0.5 - Math.random()) as PokemonCard[])
+        }
+      }
+      fetchUSPopular()
     }
   }, [searchQuery])
 
@@ -126,7 +138,7 @@ export default function Search() {
           <img src={card.images.small} alt={card.name} className="h-64 object-contain group-hover:scale-105 transition-transform drop-shadow-md" loading="lazy" />
           <div className="absolute top-2 right-2 bg-slate-800/80 backdrop-blur text-white text-xs px-2.5 py-1.5 rounded-lg font-bold flex items-center shadow-sm">
             <Globe className="w-3.5 h-3.5 mr-1.5" opacity={0.8} />
-            {version}版
+            {card.region}版原卡
           </div>
         </div>
         <div className="p-5 flex-1 flex flex-col">
@@ -152,6 +164,24 @@ export default function Search() {
     )
   }
 
+  // 取得當前真實過濾的顯示卡牌
+  const displayCards = cards.filter(c => c.region === version)
+  const displayPopular = popularCards.filter(c => c.region === version).slice(0, 16)
+
+  const renderVersionTabs = () => (
+    <div className="flex items-center bg-white p-1.5 rounded-xl border border-slate-200 shadow-sm self-start mb-6 md:mb-0">
+      {versionTabs.map((tab) => (
+         <button 
+           key={tab.id}
+           onClick={() => setVersion(tab.id as CardVersion)}
+           className={`px-4 py-2 rounded-lg text-sm font-bold transition-all ${version === tab.id ? 'bg-red-50 text-red-600 shadow-sm border border-red-200 pointer-events-none' : 'text-slate-500 hover:bg-slate-50 hover:text-slate-700 border border-transparent'}`}
+         >
+           {tab.label}
+         </button>
+      ))}
+    </div>
+  )
+
   if (!searchQuery) {
     return (
       <div className="animate-in fade-in duration-500">
@@ -174,27 +204,25 @@ export default function Search() {
         </div>
 
         {/* 版本切換區 */}
-        <div className="flex items-center bg-white p-1.5 rounded-xl border border-slate-200 shadow-sm self-start w-fit mb-6">
-          {versionTabs.map((tab) => (
-             <button 
-               key={tab.id}
-               onClick={() => setVersion(tab.id as CardVersion)}
-               className={`px-4 py-2 rounded-lg text-sm font-bold transition-all ${version === tab.id ? 'bg-red-50 text-red-600 shadow-sm border border-red-200 pointer-events-none' : 'text-slate-500 hover:bg-slate-50 hover:text-slate-700 border border-transparent'}`}
-             >
-               {tab.label}
-             </button>
-          ))}
-        </div>
+        {renderVersionTabs()}
 
-        <h2 className="text-xl font-bold text-slate-800 flex items-center mb-6">
+        <h2 className="text-xl font-bold text-slate-800 flex items-center mb-6 mt-6">
            <span className="w-1.5 h-6 bg-red-500 rounded-full mr-2"></span>
-           精選熱門卡牌目錄
+           精選熱門卡片目錄 ({version}版)
         </h2>
 
         {/* 隨機展示本地圖鑑 */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 pb-10">
-           {popularCards.map(renderCard)}
-        </div>
+        {displayPopular.length === 0 ? (
+          <div className="bg-slate-50 p-6 flex flex-col items-center justify-center rounded-2xl border border-slate-200 border-dashed text-slate-500 py-20">
+            <Globe className="w-8 h-8 mb-3 opacity-50" />
+            <p className="font-bold">目前區域尚未加載此語言版本的熱門推薦卡片</p>
+            <p className="text-sm mt-1">請嘗試直接在上方搜尋特定的卡片名稱</p>
+          </div>
+        ) : (
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 pb-10">
+             {displayPopular.map(renderCard)}
+          </div>
+        )}
       </div>
     )
   }
@@ -202,30 +230,23 @@ export default function Search() {
   // 以下為原本完整的搜尋結果渲染邏輯
   return (
     <div className="animate-in fade-in duration-500 pb-10">
-      <div className="flex flex-col md:flex-row md:items-center justify-between mb-8 space-y-4 md:space-y-0">
+      <div className="flex flex-col md:flex-row md:items-start lg:items-center justify-between mb-8 space-y-4 md:space-y-0">
         <div>
           <h1 className="text-3xl font-black text-slate-800 tracking-tight">
             "{searchQuery}" 的搜尋結果
           </h1>
-          <p className="text-slate-500 font-medium mt-1">找到 {cards.length} 張相關的卡牌插畫設計</p>
+          <p className="text-slate-500 font-medium mt-1">找到 {displayCards.length} 張 {version} 版本的卡牌插畫設計</p>
         </div>
         
         <div className="flex flex-col sm:flex-row items-start sm:items-center gap-4">
-          <div className="flex items-center bg-white p-1.5 rounded-xl border border-slate-200 shadow-sm self-start">
-            {versionTabs.map((tab) => (
-               <button 
-                 key={tab.id}
-                 onClick={() => setVersion(tab.id as CardVersion)}
-                 className={`px-4 py-2 rounded-lg text-sm font-bold transition-all ${version === tab.id ? 'bg-red-50 text-red-600 shadow-sm border border-red-200 pointer-events-none' : 'text-slate-500 hover:bg-slate-50 hover:text-slate-700 border border-transparent'}`}
-               >
-                 {tab.label}
-               </button>
-            ))}
-          </div>
+          {renderVersionTabs()}
           
           <button 
-            onClick={() => navigate('/search')}
-            className="px-4 py-2.5 bg-slate-100 hover:bg-slate-200 text-slate-600 hover:text-red-600 rounded-xl text-sm font-bold transition-all shadow-sm whitespace-nowrap"
+            onClick={() => {
+              setVersion('US') // reset default
+              navigate('/search')
+            }}
+            className="px-4 py-2.5 bg-slate-100 hover:bg-slate-200 text-slate-600 hover:text-red-600 rounded-xl text-sm font-bold transition-all shadow-sm whitespace-nowrap mb-6 md:mb-0"
           >
              清除篩選 ✕
           </button>
@@ -241,14 +262,15 @@ export default function Search() {
         <div className="bg-rose-50 p-6 rounded-2xl border border-rose-200 text-center py-16 shadow-sm">
           <p className="text-rose-600 font-bold">{error}</p>
         </div>
-      ) : cards.length === 0 ? (
+      ) : displayCards.length === 0 ? (
         <div className="bg-white p-6 rounded-2xl border border-slate-200 shadow-sm text-center py-32 relative overflow-hidden">
           <SearchIcon className="h-12 w-12 text-slate-300 mx-auto mb-4" />
-          <p className="text-slate-500 text-lg font-bold relative z-10">找不到與 "{searchQuery}" 相關的卡牌。</p>
+          <p className="text-slate-500 text-lg font-bold relative z-10">找不到與 "{searchQuery}" 相關的 {version} 版本卡牌。</p>
+          <p className="text-slate-400 mt-2 text-sm">您可以嘗試切換至其他語言版本 (例如日版、繁中版) 來獲得更多結果。</p>
         </div>
       ) : (
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-          {cards.map(renderCard)}
+          {displayCards.map(renderCard)}
         </div>
       )}
     </div>
