@@ -1,11 +1,6 @@
 import { Link, useLocation } from 'react-router-dom'
 import { LayoutDashboard, Search, Briefcase } from 'lucide-react'
-import { clsx, type ClassValue } from 'clsx'
-import { twMerge } from 'tailwind-merge'
-
-export function cn(...inputs: ClassValue[]) {
-  return twMerge(clsx(inputs))
-}
+import { cn } from '../../lib/utils'
 
 export default function Sidebar() {
   const location = useLocation()
@@ -17,9 +12,8 @@ export default function Sidebar() {
   ]
 
   return (
-    <aside className="w-64 bg-red-600 border-r border-red-700 shadow-xl flex flex-col shrink-0 transition-all z-20">
+    <aside className="hidden md:flex w-64 bg-red-600 border-r border-red-700 shadow-xl flex-col shrink-0 transition-all z-20">
       <div className="h-16 flex items-center justify-center px-6 border-b border-red-500/50 bg-red-700/30">
-        {/* CSS 精靈球 Logo 模擬 */}
         <div className="h-8 w-8 rounded-full bg-white border-4 border-slate-900 flex items-center justify-center relative overflow-hidden mr-3 shadow-md">
            <div className="absolute top-0 left-0 w-full h-1/2 bg-red-600 border-b-2 border-slate-900"></div>
            <div className="absolute z-10 w-3 h-3 bg-white border-2 border-slate-900 rounded-full"></div>
@@ -47,7 +41,6 @@ export default function Sidebar() {
           )
         })}
       </nav>
-      {/* 底部裝飾 */}
       <div className="p-4 text-center text-red-200/60 text-xs font-medium">
         v1.0.0
       </div>

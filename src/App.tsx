@@ -1,6 +1,7 @@
 import { Routes, Route } from 'react-router-dom'
 import Sidebar from './components/layout/Sidebar'
 import Navbar from './components/layout/Navbar'
+import BottomNav from './components/layout/BottomNav'
 import Dashboard from './pages/Dashboard'
 import Search from './pages/Search'
 import Portfolio from './pages/Portfolio'
@@ -11,9 +12,9 @@ function App() {
   return (
     <div className="flex h-screen overflow-hidden bg-slate-50 text-slate-900">
       <Sidebar />
-      <div className="flex flex-col flex-1 overflow-hidden">
+      <div className="flex flex-col flex-1 overflow-hidden relative">
         <Navbar />
-        <main className="flex-1 overflow-y-auto p-6 relative">
+        <main className="flex-1 overflow-y-auto p-4 md:p-6 pb-24 md:pb-6 relative">
           <Routes>
             <Route path="/" element={<Dashboard />} />
             <Route path="/search" element={<Search />} />
@@ -25,6 +26,7 @@ function App() {
             } />
           </Routes>
         </main>
+        <BottomNav />
       </div>
     </div>
   )

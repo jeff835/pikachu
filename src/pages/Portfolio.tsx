@@ -51,48 +51,48 @@ export default function Portfolio() {
 
   return (
     <div className="animate-in fade-in duration-500 pb-10">
-      <div className="mb-8 flex flex-col md:flex-row md:items-start justify-between">
+      <div className="mb-6 md:mb-8 flex flex-col md:flex-row md:items-start justify-between space-y-2 md:space-y-0 text-center md:text-left">
         <div>
-          <h1 className="text-3xl font-black text-slate-800 tracking-tight flex items-center">
+          <h1 className="text-2xl md:text-3xl font-black text-slate-800 tracking-tight flex items-center justify-center md:justify-start">
             {user?.username} 的資產收藏庫
           </h1>
-          <p className="text-slate-500 font-medium mt-2">追蹤您的卡牌投資組合與實時市值</p>
+          <p className="text-slate-400 font-bold mt-1 md:mt-2 text-xs md:text-sm">追蹤您的卡牌投資組合與實時市值</p>
         </div>
       </div>
 
       {/* 總覽指標卡片區 */}
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-10">
-        <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm relative overflow-hidden group">
-          <div className="absolute -right-4 -top-4 bg-blue-50 w-24 h-24 rounded-full group-hover:scale-110 transition-transform flex items-center justify-center">
-            <Wallet className="w-8 h-8 text-blue-500 opacity-50 absolute bottom-4 left-4" />
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6 mb-8 md:mb-10">
+        <div className="bg-white rounded-2xl p-4 md:p-6 border border-slate-200 shadow-sm relative overflow-hidden group">
+          <div className="absolute -right-4 -top-4 bg-blue-50 w-20 h-20 md:w-24 md:h-24 rounded-full group-hover:scale-110 transition-transform flex items-center justify-center">
+            <Wallet className="w-6 h-6 md:w-8 md:h-8 text-blue-400 opacity-40 absolute bottom-4 left-4" />
           </div>
-          <p className="text-slate-500 font-bold mb-1 relative z-10">總投入成本</p>
+          <p className="text-slate-400 text-[10px] md:text-xs font-bold mb-1 relative z-10 uppercase tracking-widest">總投入成本</p>
           <div className="flex items-baseline space-x-2 relative z-10">
-            <h3 className="text-3xl font-black text-slate-800 tracking-tight">NT$ {totalSpent.toLocaleString()}</h3>
+            <h3 className="text-2xl md:text-3xl font-black text-slate-800 tracking-tight">NT$ {totalSpent.toLocaleString()}</h3>
           </div>
         </div>
 
-        <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm relative overflow-hidden group">
-          <div className="absolute -right-4 -top-4 bg-indigo-50 w-24 h-24 rounded-full group-hover:scale-110 transition-transform flex items-center justify-center">
-            <Activity className="w-8 h-8 text-indigo-500 opacity-50 absolute bottom-4 left-4" />
+        <div className="bg-white rounded-2xl p-4 md:p-6 border border-slate-200 shadow-sm relative overflow-hidden group">
+          <div className="absolute -right-4 -top-4 bg-indigo-50 w-20 h-20 md:w-24 md:h-24 rounded-full group-hover:scale-110 transition-transform flex items-center justify-center">
+            <Activity className="w-6 h-6 md:w-8 md:h-8 text-indigo-400 opacity-40 absolute bottom-4 left-4" />
           </div>
-          <p className="text-slate-500 font-bold mb-1 relative z-10">當前總市值估價</p>
+          <p className="text-slate-400 text-[10px] md:text-xs font-bold mb-1 relative z-10 uppercase tracking-widest">當前總市值估價</p>
           <div className="flex items-baseline space-x-2 relative z-10">
-            <h3 className="text-3xl font-black text-slate-800 tracking-tight">NT$ {totalCurrentValue.toLocaleString()}</h3>
+            <h3 className="text-2xl md:text-3xl font-black text-slate-800 tracking-tight">NT$ {totalCurrentValue.toLocaleString()}</h3>
           </div>
         </div>
 
-        <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm relative overflow-hidden group">
-          <div className={`absolute -right-4 -top-4 w-24 h-24 rounded-full group-hover:scale-110 transition-transform flex items-center justify-center ${profitLoss >= 0 ? 'bg-red-50' : 'bg-green-50'}`}>
-            <DollarSign className={`w-8 h-8 opacity-50 absolute bottom-4 left-4 ${profitLoss >= 0 ? 'text-red-500' : 'text-green-500'}`} />
+        <div className="bg-white rounded-2xl p-4 md:p-6 border border-slate-200 shadow-sm relative overflow-hidden group sm:col-span-2 lg:col-span-1">
+          <div className={`absolute -right-4 -top-4 w-20 h-20 md:w-24 md:h-24 rounded-full group-hover:scale-110 transition-transform flex items-center justify-center ${profitLoss >= 0 ? 'bg-red-50' : 'bg-green-50'}`}>
+            <DollarSign className={`w-6 h-6 md:w-8 md:h-8 opacity-40 absolute bottom-4 left-4 ${profitLoss >= 0 ? 'text-red-400' : 'text-green-400'}`} />
           </div>
-          <p className="text-slate-500 font-bold mb-1 relative z-10">未實現帳面損益</p>
-          <div className="flex items-baseline space-x-3 relative z-10">
-            <h3 className={`text-3xl font-black tracking-tight ${profitLoss >= 0 ? 'text-red-600' : 'text-green-600'}`}>
+          <p className="text-slate-400 text-[10px] md:text-xs font-bold mb-1 relative z-10 uppercase tracking-widest">未實現帳面損益</p>
+          <div className="flex items-baseline space-x-2 md:space-x-3 relative z-10">
+            <h3 className={`text-2xl md:text-3xl font-black tracking-tight ${profitLoss >= 0 ? 'text-red-600' : 'text-green-600'}`}>
               {profitLoss > 0 ? '+' : ''}{profitLoss.toLocaleString()}
             </h3>
-            <div className={`flex items-center text-sm font-bold px-2 py-0.5 rounded-md ${profitLoss >= 0 ? 'bg-red-100 text-red-700' : 'bg-green-100 text-green-700'}`}>
-              {profitLoss >= 0 ? <TrendingUp className="w-3.5 h-3.5 mr-1" /> : <TrendingDown className="w-3.5 h-3.5 mr-1" />}
+            <div className={`flex items-center text-[10px] md:text-sm font-bold px-1.5 md:px-2 py-0.5 rounded-md ${profitLoss >= 0 ? 'bg-red-100 text-red-700' : 'bg-green-100 text-green-700'}`}>
+              {profitLoss >= 0 ? <TrendingUp className="w-3 h-3 md:w-3.5 md:h-3.5 mr-1" /> : <TrendingDown className="w-3 h-3 md:w-3.5 md:h-3.5 mr-1" />}
               {profitLossPercentage.toFixed(1)}%
             </div>
           </div>
@@ -114,21 +114,21 @@ export default function Portfolio() {
         <div className="flex flex-col xl:flex-row gap-8">
           {/* 左側列表區 */}
           <div className="flex-1">
-            <div className="flex justify-between items-center mb-6">
-              <h2 className="text-xl font-bold text-slate-800">卡牌資產明細 ({items.length})</h2>
+            <div className="flex flex-col sm:flex-row justify-between sm:items-center mb-6 space-y-4 sm:space-y-0 text-center sm:text-left">
+              <h2 className="text-lg md:text-xl font-black text-slate-800">卡牌資產明細 ({items.length})</h2>
               <div className="relative">
                 <SearchIcon className="w-4 h-4 text-slate-400 absolute left-3 top-1/2 -translate-y-1/2" />
                 <input 
                   type="text" 
-                  placeholder="搜尋收藏卡牌名稱..." 
+                  placeholder="搜尋收藏..." 
                   value={searchTerm}
                   onChange={(e) => setSearchTerm(e.target.value)}
-                  className="pl-9 pr-4 py-2 border border-slate-200 rounded-lg text-sm focus:ring-2 focus:ring-red-200 focus:border-red-500 outline-none w-64 bg-white"
+                  className="pl-9 pr-4 py-2 border border-slate-200 rounded-lg text-xs md:text-sm focus:ring-2 focus:ring-red-200 focus:border-red-500 outline-none w-full sm:w-48 md:w-64 bg-white"
                 />
               </div>
             </div>
 
-            <div className="space-y-4">
+            <div className="space-y-3 md:space-y-4">
               {filteredItems.map(({ uid, card, purchasePriceNtd }) => {
                 const currentVal = getCurrentMarketValue(card)
                 const diff = currentVal - purchasePriceNtd
@@ -136,38 +136,32 @@ export default function Portfolio() {
                 const noPrice = currentVal === 0
                 
                 return (
-                  <div key={uid} className="bg-white p-4 rounded-2xl border border-slate-200 shadow-sm flex items-center hover:shadow-md transition-shadow group relative overflow-hidden">
-                    <img src={card.images.small} alt={card.name} className="w-16 h-24 object-contain mr-5 drop-shadow-sm rounded-md" />
+                  <div key={uid} className="bg-white p-3 md:p-4 rounded-xl md:rounded-2xl border border-slate-200 shadow-sm flex items-center hover:shadow-md transition-shadow group relative overflow-hidden">
+                    <img src={card.images.small} alt={card.name} className="w-12 h-16 md:w-16 md:h-24 object-contain mr-3 md:mr-5 drop-shadow-sm rounded-md" />
                     
                     <div className="flex-1 min-w-0">
-                      <div className="flex items-center mb-1">
-                        <span className="text-[10px] font-black bg-slate-100 text-slate-500 px-2 py-0.5 rounded mr-2">{card.region}版</span>
-                        <h4 className="font-black text-slate-800 truncate text-lg pr-4">{card.name}</h4>
+                      <div className="flex items-center mb-0.5 md:mb-1">
+                        <span className="text-[8px] md:text-[10px] font-black bg-slate-100 text-slate-500 px-1.5 py-0.5 rounded mr-1.5">{card.region}版</span>
+                        <h4 className="font-black text-slate-800 truncate text-sm md:text-lg pr-8">{card.name}</h4>
                       </div>
-                      <p className="text-xs text-slate-400 font-bold mb-3">{card.set.name}</p>
+                      <p className="text-[10px] md:text-xs text-slate-400 font-bold mb-2 md:mb-3 truncate">{card.set.name}</p>
                       
-                      <div className="flex items-center gap-6">
-                        <div className="flex flex-col">
-                          <span className="text-[10px] text-slate-400 uppercase tracking-widest font-bold mb-0.5">購入成本</span>
-                          <span className="text-sm font-black text-slate-700">NT$ {purchasePriceNtd.toLocaleString()}</span>
+                      <div className="flex items-center gap-3 md:gap-6 overflow-x-auto no-scrollbar">
+                        <div className="flex flex-col shrink-0">
+                          <span className="text-[8px] md:text-[10px] text-slate-400 uppercase tracking-widest font-black mb-0.5 whitespace-nowrap">購入</span>
+                          <span className="text-[10px] md:text-sm font-black text-slate-700">¥ {purchasePriceNtd.toLocaleString()}</span>
                         </div>
-                        <div className="flex flex-col">
-                          <span className="text-[10px] text-slate-400 uppercase tracking-widest font-bold mb-0.5">當前估價</span>
-                          <span className="text-sm font-black text-slate-800">{noPrice ? '無報價' : `NT$ ${currentVal.toLocaleString()}`}</span>
+                        <div className="flex flex-col shrink-0">
+                          <span className="text-[8px] md:text-[10px] text-slate-400 uppercase tracking-widest font-black mb-0.5 whitespace-nowrap">現值</span>
+                          <span className="text-[10px] md:text-sm font-black text-slate-800">{noPrice ? '--' : `¥ ${currentVal.toLocaleString()}`}</span>
                         </div>
                         {!noPrice && (
-                          <div className="flex flex-col items-end flex-auto pr-6">
-                            <span className="text-[10px] text-slate-400 uppercase tracking-widest font-bold mb-0.5">帳面損益</span>
-                            <div className={`flex items-center ${diff >= 0 ? 'text-red-500' : 'text-green-500'} font-black text-sm`}>
-                              {diff > 0 ? '+' : ''}{diff.toLocaleString()} ({diffPct.toFixed(1)}%)
+                          <div className="flex flex-col items-end flex-auto pr-6 md:pr-10 shrink-0">
+                            <span className="text-[8px] md:text-[10px] text-slate-400 uppercase tracking-widest font-black mb-0.5">預估損益</span>
+                            <div className={`flex items-center ${diff >= 0 ? 'text-red-500' : 'text-green-500'} font-black text-[10px] md:text-sm`}>
+                              {diff > 0 ? '+' : ''}{diffPct.toFixed(1)}%
                             </div>
                           </div>
-                        )}
-                        {noPrice && (
-                           <div className="flex flex-col items-end flex-auto pr-6">
-                             <span className="text-[10px] text-slate-300 uppercase tracking-widest font-bold mb-0.5">帳面損益</span>
-                             <span className="text-sm font-black text-slate-300">--</span>
-                           </div>
                         )}
                       </div>
                     </div>
@@ -176,10 +170,10 @@ export default function Portfolio() {
                       onClick={() => {
                         if (window.confirm('確定要把這張卡片從資產庫中拋售/移除嗎？')) removeItem(uid)
                       }}
-                      className="w-10 h-10 bg-slate-50 hover:bg-rose-100 hover:text-rose-600 text-slate-400 rounded-full flex items-center justify-center transition-colors opacity-0 group-hover:opacity-100 absolute right-4"
+                      className="w-8 h-8 md:w-10 md:h-10 bg-slate-50 hover:bg-rose-100 hover:text-rose-600 text-slate-400 rounded-full flex items-center justify-center transition-colors absolute right-2 md:right-4"
                       title="賣出/移除此卡"
                     >
-                      <Trash2 className="w-4 h-4" />
+                      <Trash2 className="w-3.5 h-3.5 md:w-4 md:h-4" />
                     </button>
                   </div>
                 )

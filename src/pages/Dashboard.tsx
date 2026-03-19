@@ -19,53 +19,54 @@ const recentTrades = [
 
 export default function Dashboard() {
   return (
-    <div className="space-y-6 animate-in fade-in duration-500">
-      <div className="flex justify-between items-center mb-6">
-        <h1 className="text-3xl font-black text-slate-800 tracking-tight">市場總覽</h1>
-        <div className="flex items-center space-x-2 text-sm text-slate-500 bg-white px-3 py-1.5 rounded-full border border-slate-200 shadow-sm">
-          <TrendingUp className="h-4 w-4 text-emerald-500" />
+    <div className="space-y-4 md:space-y-6 animate-in fade-in duration-500 pb-10">
+      <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center mb-4 md:mb-6 space-y-3 sm:space-y-0">
+        <h1 className="text-2xl md:text-3xl font-black text-slate-800 tracking-tight">市場總覽</h1>
+        <div className="flex items-center space-x-2 text-[10px] md:text-sm text-slate-500 bg-white px-3 py-1.5 rounded-full border border-slate-200 shadow-sm self-start sm:self-auto">
+          <TrendingUp className="h-3.5 w-3.5 md:h-4 md:w-4 text-emerald-500" />
           <span className="font-medium">大盤情緒：<strong className="text-emerald-600">看漲</strong></span>
         </div>
       </div>
       
       {/* 頂部數據卡片 */}
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-        <div className="bg-white p-6 rounded-2xl border border-slate-200 shadow-sm relative overflow-hidden group hover:shadow-md hover:border-red-200 transition-all">
-          <div className="absolute top-0 right-0 w-24 h-24 bg-red-50 rounded-bl-full -mr-4 -mt-4 opacity-50 group-hover:scale-110 transition-transform"></div>
+      {/* 頂部數據卡片 */}
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6">
+        <div className="bg-white p-4 md:p-6 rounded-2xl border border-slate-200 shadow-sm relative overflow-hidden group hover:shadow-md hover:border-red-200 transition-all">
+          <div className="absolute top-0 right-0 w-20 h-20 md:w-24 md:h-24 bg-red-50 rounded-bl-full -mr-4 -mt-4 opacity-50 group-hover:scale-110 transition-transform"></div>
           <div className="relative z-10">
-            <h3 className="text-slate-500 text-sm font-bold uppercase tracking-wider">PTCG 價格指數</h3>
-            <div className="flex items-baseline mt-2">
-              <p className="text-4xl font-black text-slate-800 tracking-tight">12,450</p>
-              <div className="ml-3 flex items-center text-sm font-bold text-emerald-600 bg-emerald-50 px-2 py-0.5 rounded border border-emerald-100">
-                <ArrowUpRight className="h-4 w-4 mr-0.5 stroke-[3]" />
+            <h3 className="text-slate-400 text-[10px] md:text-xs font-bold uppercase tracking-wider">PTCG 價格指數</h3>
+            <div className="flex items-baseline mt-1 md:mt-2">
+              <p className="text-2xl md:text-4xl font-black text-slate-800 tracking-tight">12,450</p>
+              <div className="ml-2 md:ml-3 flex items-center text-[10px] md:text-sm font-bold text-emerald-600 bg-emerald-50 px-1.5 md:px-2 py-0.5 rounded border border-emerald-100">
+                <ArrowUpRight className="h-3 w-3 md:h-4 md:w-4 mr-0.5 stroke-[3]" />
                 <span>+2.4%</span>
               </div>
             </div>
           </div>
         </div>
 
-        <div className="bg-white p-6 rounded-2xl border border-slate-200 shadow-sm relative overflow-hidden group hover:shadow-md hover:border-red-200 transition-all">
-          <div className="absolute top-0 right-0 w-24 h-24 bg-blue-50 rounded-bl-full -mr-4 -mt-4 opacity-50 group-hover:scale-110 transition-transform"></div>
+        <div className="bg-white p-4 md:p-6 rounded-2xl border border-slate-200 shadow-sm relative overflow-hidden group hover:shadow-md hover:border-red-200 transition-all">
+          <div className="absolute top-0 right-0 w-20 h-20 md:w-24 md:h-24 bg-blue-50 rounded-bl-full -mr-4 -mt-4 opacity-50 group-hover:scale-110 transition-transform"></div>
           <div className="relative z-10">
-            <h3 className="text-slate-500 text-sm font-bold uppercase tracking-wider">24H 交易量 (SNKRDUNK)</h3>
-            <div className="flex items-baseline mt-2">
-              <p className="text-4xl font-black text-slate-800 tracking-tight">2.8M</p>
-              <div className="ml-3 flex items-center text-sm font-bold text-emerald-600 bg-emerald-50 px-2 py-0.5 rounded border border-emerald-100">
-                <ArrowUpRight className="h-4 w-4 mr-0.5 stroke-[3]" />
+            <h3 className="text-slate-400 text-[10px] md:text-xs font-bold uppercase tracking-wider">24H 交易量</h3>
+            <div className="flex items-baseline mt-1 md:mt-2">
+              <p className="text-2xl md:text-4xl font-black text-slate-800 tracking-tight">2.8M</p>
+              <div className="ml-2 md:ml-3 flex items-center text-[10px] md:text-sm font-bold text-emerald-600 bg-emerald-50 px-1.5 md:px-2 py-0.5 rounded border border-emerald-100">
+                <ArrowUpRight className="h-3 w-3 md:h-4 md:w-4 mr-0.5 stroke-[3]" />
                 <span>+12%</span>
               </div>
             </div>
           </div>
         </div>
 
-        <div className="bg-white p-6 rounded-2xl border border-slate-200 shadow-sm relative overflow-hidden group hover:shadow-md hover:border-red-200 transition-all">
-          <div className="absolute top-0 right-0 w-24 h-24 bg-rose-50 rounded-bl-full -mr-4 -mt-4 opacity-50 group-hover:scale-110 transition-transform"></div>
+        <div className="bg-white p-4 md:p-6 rounded-2xl border border-slate-200 shadow-sm relative overflow-hidden group hover:shadow-md hover:border-red-200 transition-all sm:col-span-2 lg:col-span-1">
+          <div className="absolute top-0 right-0 w-20 h-20 md:w-24 md:h-24 bg-rose-50 rounded-bl-full -mr-4 -mt-4 opacity-50 group-hover:scale-110 transition-transform"></div>
           <div className="relative z-10">
-            <h3 className="text-slate-500 text-sm font-bold uppercase tracking-wider">跌幅警告</h3>
-            <div className="flex items-baseline mt-2">
-              <p className="text-4xl font-black text-slate-800 tracking-tight">18 <span className="text-xl text-slate-400">張</span></p>
-              <div className="ml-3 flex items-center text-sm font-bold text-rose-600 bg-rose-50 px-2 py-0.5 rounded border border-rose-100">
-                <ArrowDownRight className="h-4 w-4 mr-0.5 stroke-[3]" />
+            <h3 className="text-slate-400 text-[10px] md:text-xs font-bold uppercase tracking-wider">跌幅警告</h3>
+            <div className="flex items-baseline mt-1 md:mt-2">
+              <p className="text-2xl md:text-4xl font-black text-slate-800 tracking-tight">18 <span className="text-base md:text-xl text-slate-400">張</span></p>
+              <div className="ml-2 md:ml-3 flex items-center text-[10px] md:text-sm font-bold text-rose-600 bg-rose-50 px-1.5 md:px-2 py-0.5 rounded border border-rose-100">
+                <ArrowDownRight className="h-3 w-3 md:h-4 md:w-4 mr-0.5 stroke-[3]" />
                 <span>&gt; 10%</span>
               </div>
             </div>
@@ -76,65 +77,57 @@ export default function Dashboard() {
       {/* 主要圖表與列表區域 */}
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
         {/* 左側：大盤趨勢圖 */}
-        <div className="lg:col-span-2 bg-white p-6 rounded-2xl border border-slate-200 shadow-sm hover:shadow-md transition-shadow">
-          <h3 className="text-lg font-bold text-slate-800 mb-6 flex items-center">
+        <div className="lg:col-span-2 bg-white p-4 md:p-6 rounded-2xl border border-slate-200 shadow-sm hover:shadow-md transition-shadow">
+          <h3 className="text-base md:text-lg font-bold text-slate-800 mb-4 md:mb-6 flex items-center">
             <span className="w-1.5 h-5 bg-red-500 rounded-full mr-2"></span>
             市場指標走勢 (eBay vs SNKR)
           </h3>
-          <div className="h-[320px] w-full">
+          <div className="h-[250px] md:h-[320px] w-full">
             <ResponsiveContainer width="100%" height="100%">
-              <LineChart data={mockPriceData} margin={{ top: 5, right: 30, left: 20, bottom: 5 }}>
+              <LineChart data={mockPriceData} margin={{ top: 5, right: 10, left: -20, bottom: 5 }}>
                 <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" vertical={false} />
-                <XAxis dataKey="date" stroke="#64748b" tick={{ fill: '#64748b', fontWeight: 500 }} tickLine={false} axisLine={false} />
-                <YAxis stroke="#64748b" tick={{ fill: '#64748b', fontWeight: 500 }} tickLine={false} axisLine={false} tickFormatter={(value) => `$${value}`} />
+                <XAxis dataKey="date" stroke="#94a3b8" tick={{ fill: '#94a3b8', fontSize: 10, fontWeight: 500 }} tickLine={false} axisLine={false} />
+                <YAxis stroke="#94a3b8" tick={{ fill: '#94a3b8', fontSize: 10, fontWeight: 500 }} tickLine={false} axisLine={false} tickFormatter={(value) => `$${value}`} />
                 <Tooltip 
-                  contentStyle={{ backgroundColor: '#ffffff', borderColor: '#e2e8f0', borderRadius: '0.75rem', color: '#0f172a', boxShadow: '0 10px 15px -3px rgb(0 0 0 / 0.1)' }}
+                  contentStyle={{ backgroundColor: '#ffffff', border: 'none', borderRadius: '0.75rem', color: '#0f172a', fontSize: '12px', boxShadow: '0 10px 15px -3px rgb(0 0 0 / 0.1)' }}
                   itemStyle={{ fontWeight: 700 }}
                   labelStyle={{ color: '#64748b', marginBottom: '0.25rem', fontWeight: 500 }}
                 />
-                <Legend iconType="circle" wrapperStyle={{ paddingTop: '20px', fontWeight: 600 }} />
-                <Line type="monotone" dataKey="snkrdunk" name="SNKRDUNK" stroke="#ef4444" strokeWidth={3} dot={{ r: 4, strokeWidth: 2, fill: '#fff' }} activeDot={{ r: 6, stroke: '#ef4444', strokeWidth: 2, fill: '#fff' }} />
-                <Line type="monotone" dataKey="ebay" name="eBay" stroke="#3b82f6" strokeWidth={3} dot={{ r: 4, strokeWidth: 2, fill: '#fff' }} activeDot={{ r: 6, stroke: '#3b82f6', strokeWidth: 2, fill: '#fff' }} />
+                <Legend iconType="circle" wrapperStyle={{ paddingTop: '10px', fontSize: '10px', fontWeight: 600 }} />
+                <Line type="monotone" dataKey="snkrdunk" name="SNKR" stroke="#ef4444" strokeWidth={2} dot={{ r: 3, fill: '#ef4444' }} activeDot={{ r: 5 }} />
+                <Line type="monotone" dataKey="ebay" name="eBay" stroke="#3b82f6" strokeWidth={2} dot={{ r: 3, fill: '#3b82f6' }} activeDot={{ r: 5 }} />
               </LineChart>
             </ResponsiveContainer>
           </div>
         </div>
 
         {/* 右側：最新交易紀錄 */}
-        <div className="bg-white p-6 rounded-2xl border border-slate-200 shadow-sm hover:shadow-md transition-shadow flex flex-col">
-          <h3 className="text-lg font-bold text-slate-800 mb-6 flex items-center">
+        <div className="bg-white p-4 md:p-6 rounded-2xl border border-slate-200 shadow-sm hover:shadow-md transition-shadow flex flex-col">
+          <h3 className="text-base md:text-lg font-bold text-slate-800 mb-4 md:mb-6 flex items-center">
             <span className="w-1.5 h-5 bg-blue-500 rounded-full mr-2"></span>
             最新成交紀錄
           </h3>
-          <div className="space-y-3 flex-1">
+          <div className="space-y-2.5 md:space-y-3 flex-1">
             {recentTrades.map((trade) => (
-              <div key={trade.id} className="flex items-center justify-between p-3 rounded-xl bg-slate-50 border border-slate-100 hover:bg-red-50 hover:border-red-100 transition-all hover:-translate-y-0.5 cursor-pointer">
-                <div>
-                  <p className="font-bold text-slate-800">{trade.card}</p>
-                  <div className="flex items-center text-xs mt-1.5 space-x-2">
-                    <span className={`px-2 py-0.5 rounded font-bold border ${trade.platform === 'SNKRDUNK' ? "bg-red-100 text-red-700 border-red-200" : "bg-blue-100 text-blue-700 border-blue-200"}`}>{trade.platform}</span>
-                    <span className="text-slate-300">&bull;</span>
-                    <span className="text-slate-500 font-medium">{trade.time}</span>
+              <div key={trade.id} className="flex items-center justify-between p-2.5 md:p-3 rounded-xl bg-slate-50 border border-slate-100 hover:bg-red-50 hover:border-red-100 transition-all hover:-translate-y-0.5 cursor-pointer">
+                <div className="min-w-0 flex-1 mr-2">
+                  <p className="font-bold text-slate-800 text-xs md:text-sm truncate">{trade.card}</p>
+                  <div className="flex items-center text-[10px] mt-1 space-x-2">
+                    <span className={`px-1.5 py-0.5 rounded font-black border ${trade.platform === 'SNKRDUNK' ? "bg-red-100 text-red-600 border-red-200" : "bg-blue-100 text-blue-600 border-blue-200"}`}>{trade.platform}</span>
+                    <span className="text-slate-400 font-medium">{trade.time}</span>
                   </div>
                 </div>
-                <div className="text-right">
-                  <p className="font-black text-slate-800">NT$ {trade.price.toLocaleString()}</p>
-                  {trade.trend === 'up' ? (
-                    <div className="flex items-center justify-end text-emerald-600 text-sm mt-0.5 font-bold">
-                      <ArrowUpRight className="h-3.5 w-3.5 stroke-[3] mr-0.5" />
-                      <span>漲</span>
-                    </div>
-                  ) : (
-                    <div className="flex items-center justify-end text-rose-600 text-sm mt-0.5 font-bold">
-                      <ArrowDownRight className="h-3.5 w-3.5 stroke-[3] mr-0.5" />
-                      <span>跌</span>
-                    </div>
-                  )}
+                <div className="text-right shrink-0">
+                  <p className="font-black text-slate-800 text-xs md:text-sm">NT$ {trade.price.toLocaleString()}</p>
+                  <div className={`flex items-center justify-end text-[10px] font-bold ${trade.trend === 'up' ? 'text-emerald-600' : 'text-rose-600'}`}>
+                    {trade.trend === 'up' ? <ArrowUpRight className="h-3 w-3 mr-0.5" /> : <ArrowDownRight className="h-3 w-3 mr-0.5" />}
+                    <span>{trade.trend === 'up' ? '漲' : '跌'}</span>
+                  </div>
                 </div>
               </div>
             ))}
           </div>
-          <button className="w-full mt-4 py-3 text-sm font-bold text-slate-600 hover:text-red-600 hover:bg-red-50 rounded-xl transition-colors border border-slate-200 hover:border-red-200">
+          <button className="w-full mt-4 py-2.5 text-xs font-bold text-slate-500 hover:text-red-600 hover:bg-red-50 rounded-xl transition-colors border border-slate-200 hover:border-red-200">
             查看全部紀錄 &rarr;
           </button>
         </div>
