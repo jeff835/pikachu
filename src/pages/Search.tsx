@@ -6,6 +6,7 @@ import { getEnglishPokemonName, getJapanesePokemonName } from '../lib/pokemonMap
 import localCardsData from '../data/cards.json'
 import { useAuthStore } from '../store/useAuthStore'
 import { usePortfolioStore } from '../store/usePortfolioStore'
+import gradedPrices from '../data/graded-prices.json'
 
 interface PokemonCard {
   id: string
@@ -146,15 +147,22 @@ export default function Search() {
     let snkrPriceDisplay = '---'
     let ebayPriceDisplay = '---'
 
-    if (marketUsd) {
+    // 優先使用爬取的真實鑑定價格數據
+    const gradedData = (gradedPrices as any)[card.id]
+
+    if (gradedData) {
+      if (gradedData.snkr) snkrPriceDisplay = `¥ ${Math.floor(gradedData.snkr).toLocaleString()}`
+      if (gradedData.ebay) ebayPriceDisplay = `¥ ${Math.floor(gradedData.ebay).toLocaleString()}`
+    } else if (marketUsd) {
       let baseNtd = marketUsd * 32
       if (version === 'JP') baseNtd = baseNtd * 1.3
       else if (version === 'TW') baseNtd = baseNtd * 0.75
 
-      const snkrVal = version === 'JP' ? baseNtd * 1.1 : baseNtd * 0.95
+      // 備援方案：以基礎市場價套用 PSA 10 溢價倍率 (SNKR 4.2x / eBay 3.8x)
+      const snkrVal = baseNtd * 4.2
       snkrPriceDisplay = `¥ ${Math.floor(snkrVal).toLocaleString()}`
 
-      const ebayVal = version === 'US' ? baseNtd * 1.05 : baseNtd * 0.85
+      const ebayVal = baseNtd * 3.8
       ebayPriceDisplay = `¥ ${Math.floor(ebayVal).toLocaleString()}`
     }
 
@@ -192,13 +200,13 @@ export default function Search() {
           
           <div className="grid grid-cols-2 gap-2 mb-3">
             <div className="bg-red-50/50 rounded-lg p-1.5 border border-red-50 flex flex-col">
-              <span className="text-[7px] font-black text-red-400 uppercase tracking-widest leading-none mb-1">SNKR</span>
+              <span className="text-[7px] font-black text-red-400 uppercase tracking-widest leading-none mb-1">SNKR PSA 10</span>
               <span className={`text-[10px] md:text-xs font-black text-slate-800`}>
                 {snkrPriceDisplay}
               </span>
             </div>
             <div className="bg-blue-50/50 rounded-lg p-1.5 border border-blue-50 flex flex-col">
-              <span className="text-[7px] font-black text-blue-400 uppercase tracking-widest leading-none mb-1">eBay</span>
+              <span className="text-[7px] font-black text-blue-400 uppercase tracking-widest leading-none mb-1">eBay PSA 10</span>
               <span className={`text-[10px] md:text-xs font-black text-slate-800`}>
                 {ebayPriceDisplay}
               </span>
