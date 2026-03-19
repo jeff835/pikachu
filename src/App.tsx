@@ -4,6 +4,8 @@ import Navbar from './components/layout/Navbar'
 import Dashboard from './pages/Dashboard'
 import Search from './pages/Search'
 import Portfolio from './pages/Portfolio'
+import Login from './pages/Login'
+import ProtectedRoute from './components/auth/ProtectedRoute'
 
 function App() {
   return (
@@ -11,11 +13,16 @@ function App() {
       <Sidebar />
       <div className="flex flex-col flex-1 overflow-hidden">
         <Navbar />
-        <main className="flex-1 overflow-y-auto p-6">
+        <main className="flex-1 overflow-y-auto p-6 relative">
           <Routes>
             <Route path="/" element={<Dashboard />} />
             <Route path="/search" element={<Search />} />
-            <Route path="/portfolio" element={<Portfolio />} />
+            <Route path="/login" element={<Login />} />
+            <Route path="/portfolio" element={
+              <ProtectedRoute>
+                <Portfolio />
+              </ProtectedRoute>
+            } />
           </Routes>
         </main>
       </div>
