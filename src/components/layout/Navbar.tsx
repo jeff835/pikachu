@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import { Search as SearchIcon, Bell, User, X } from 'lucide-react'
-import { useNavigate, useLocation } from 'react-router-dom'
+import { useNavigate, useLocation, Link } from 'react-router-dom'
 
 import { useAuthStore } from '../../store/useAuthStore'
 
@@ -37,10 +37,10 @@ export default function Navbar() {
     <header className="h-16 bg-white border-b border-slate-200 flex items-center justify-between px-4 md:px-6 shrink-0 z-10 shadow-sm relative">
       <div className="flex-1 flex justify-start items-center">
         {/* 手機版顯示 Logo */}
-        <div className="md:hidden h-8 w-8 rounded-full bg-white border-2 border-slate-900 flex items-center justify-center relative overflow-hidden mr-3 shadow-sm shrink-0">
+        <Link to="/" className="md:hidden h-8 w-8 rounded-full bg-white border-2 border-slate-900 flex items-center justify-center relative overflow-hidden mr-3 shadow-sm shrink-0 active:scale-95 transition-transform">
            <div className="absolute top-0 left-0 w-full h-1/2 bg-red-600 border-b border-slate-900"></div>
            <div className="absolute z-10 w-2 h-2 bg-white border border-slate-900 rounded-full"></div>
-        </div>
+        </Link>
 
         <form onSubmit={handleSearch} className="relative w-full max-w-md">
           <div className="relative w-full">
