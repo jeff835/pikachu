@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import { useLocation, useNavigate } from 'react-router-dom'
-import { Search as SearchIcon, Loader2, Globe, Sparkles } from 'lucide-react'
+import { Search as SearchIcon, Loader2, Globe, Sparkles, Filter, Layers, ChevronRight, LayoutGrid } from 'lucide-react'
 import axios from 'axios'
 import { getEnglishPokemonName, getJapanesePokemonName } from '../lib/pokemonMap'
 import localCardsData from '../data/cards.json'
@@ -35,9 +35,14 @@ export default function Search() {
   const [error, setError] = useState('')
   const [version, setVersion] = useState<CardVersion>('US')
   const [popularCards, setPopularCards] = useState<PokemonCard[]>([])
+  const [selectedSet, setSelectedSet] = useState<string>('ALL')
+  const [showFilters, setShowFilters] = useState(false)
 
   const { isAuthenticated } = useAuthStore()
   const { addItem } = usePortfolioStore()
+
+  // 取得所有可用的系列 (從 ID 解析)
+  const availableSets = Array.from(new Set(localCardsData.map(c => c.id.split('-')[0]))).sort()
 
   // 抓取遠端與本地搜尋結果
   useEffect(() => {
@@ -126,7 +131,7 @@ export default function Search() {
     { id: 'TW', label: '🇹🇼 繁中版 (TW)' },
   ]
 
-  // 快速過濾標籤 (類似卡拍拍介面)
+  // 快速過濾標籤
   const quickFilters = ['噴火龍', '皮卡丘', '伊布家族', '神獸精選', '耿鬼', '超夢']
   const handleQuickFilter = (tag: string) => {
      let query = tag
@@ -135,50 +140,63 @@ export default function Search() {
      navigate(`/search?q=${encodeURIComponent(query)}`)
   }
 
-  // 渲染單一卡片小工具
+  // 渲染單一卡片小工具 (優化版：更精簡且顯示更多資訊)
   const renderCard = (card: PokemonCard) => {
     const marketUsd = getBasePriceUsd(card)
-    let snkrPriceDisplay = '無歷史價格'
-    let ebayPriceDisplay = '無歷史價格'
+    let snkrPriceDisplay = '---'
+    let ebayPriceDisplay = '---'
 
-    // 若有真實的美金報價，則進行台幣換算與溢價估計
     if (marketUsd) {
-      let baseNtd = marketUsd * 32 // 暫時以固定匯率 32 換算為台幣
-      
+      let baseNtd = marketUsd * 32
       if (version === 'JP') baseNtd = baseNtd * 1.3
       else if (version === 'TW') baseNtd = baseNtd * 0.75
 
       const snkrVal = version === 'JP' ? baseNtd * 1.1 : baseNtd * 0.95
-      snkrPriceDisplay = `NT$ ${Math.floor(snkrVal).toLocaleString()}`
+      snkrPriceDisplay = `¥ ${Math.floor(snkrVal).toLocaleString()}`
 
       const ebayVal = version === 'US' ? baseNtd * 1.05 : baseNtd * 0.85
-      ebayPriceDisplay = `NT$ ${Math.floor(ebayVal).toLocaleString()}`
+      ebayPriceDisplay = `¥ ${Math.floor(ebayVal).toLocaleString()}`
     }
+
+    const setId = card.id.split('-')[0]
     
     return (
-      <div key={card.id} className="bg-white rounded-xl md:rounded-2xl border border-slate-200 shadow-sm hover:shadow-xl hover:-translate-y-1 hover:border-red-300 transition-all overflow-hidden flex flex-col group cursor-pointer">
-        <div className="bg-slate-50 p-3 md:p-4 flex justify-center items-center relative min-h-[160px] md:min-h-[280px] border-b border-slate-100">
-          <img src={card.images.small} alt={card.name} className="h-32 md:h-64 object-contain group-hover:scale-105 transition-transform drop-shadow-md" loading="lazy" />
-          <div className="absolute top-1 right-1 md:top-2 md:right-2 bg-slate-800/80 backdrop-blur text-white text-[8px] md:text-xs px-1.5 md:px-2.5 py-0.5 md:py-1.5 rounded md:rounded-lg font-bold flex items-center shadow-sm">
-            <Globe className="w-2.5 h-2.5 md:w-3.5 md:h-3.5 mr-1 md:mr-1.5" opacity={0.8} />
-            {card.region}版
+      <div key={card.id} className="bg-white rounded-xl border border-slate-100 shadow-sm hover:shadow-2xl hover:-translate-y-2 hover:border-red-500 transition-all overflow-hidden flex flex-col group cursor-pointer relative">
+        {/* 背景裝飾 */}
+        <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-red-500 via-yellow-500 to-red-500 opacity-0 group-hover:opacity-100 transition-opacity" />
+        
+        <div className="bg-slate-50/50 p-3 md:p-4 flex justify-center items-center relative aspect-[3/4] overflow-hidden">
+          <img src={card.images.small} alt={card.name} className="h-full object-contain group-hover:scale-110 transition-transform duration-500 drop-shadow-xl" loading="lazy" />
+          
+          <div className="absolute top-2 left-2 flex flex-col gap-1">
+             <span className="bg-white/90 backdrop-blur px-1.5 py-0.5 rounded text-[8px] font-black text-slate-800 shadow-sm border border-slate-100 uppercase tracking-tighter">
+                {setId}
+             </span>
+          </div>
+          
+          <div className="absolute top-2 right-2 bg-slate-900/90 text-[8px] text-white px-2 py-1 rounded font-black flex items-center shadow-lg transform translate-x-2 opacity-0 group-hover:translate-x-0 group-hover:opacity-100 transition-all">
+            <Globe className="w-2 h-2 mr-1" />
+            {card.region}
           </div>
         </div>
-        <div className="p-3 md:p-5 flex-1 flex flex-col">
-          <h3 className="text-sm md:text-lg font-black text-slate-800 line-clamp-1" title={card.name}>{card.name}</h3>
-          <p className="text-slate-400 text-[10px] mt-0.5 md:mt-1 mb-2 md:mb-4 font-bold tracking-wider truncate">ID: {card.id}</p>
+
+        <div className="p-3 md:p-4 flex-1 flex flex-col bg-white">
+          <div className="mb-2">
+            <h3 className="text-xs md:text-sm font-black text-slate-800 line-clamp-1 group-hover:text-red-600 transition-colors" title={card.name}>{card.name}</h3>
+            <p className="text-[8px] md:text-[10px] text-slate-400 font-bold tracking-widest">{card.id}</p>
+          </div>
           
-          <div className="mt-auto space-y-1.5 md:space-y-2.5">
-            <div className="flex justify-between items-center px-2 md:px-4 py-1.5 md:py-2.5 bg-red-50 rounded-lg md:rounded-xl border border-red-100">
-              <span className="text-[8px] md:text-xs font-black text-red-600 tracking-wider">SNKR</span>
-              <span className={`font-black text-[10px] md:text-base ${snkrPriceDisplay === '無歷史價格' ? 'text-slate-400 text-[8px]' : 'text-slate-800'}`}>
-                {snkrPriceDisplay.replace('NT$ ', '¥')}
+          <div className="grid grid-cols-2 gap-2 mb-3">
+            <div className="bg-red-50/50 rounded-lg p-1.5 border border-red-50 flex flex-col">
+              <span className="text-[7px] font-black text-red-400 uppercase tracking-widest leading-none mb-1">SNKR</span>
+              <span className={`text-[10px] md:text-xs font-black text-slate-800`}>
+                {snkrPriceDisplay}
               </span>
             </div>
-            <div className="flex justify-between items-center px-2 md:px-4 py-1.5 md:py-2.5 bg-blue-50 rounded-lg md:rounded-xl border border-blue-100">
-              <span className="text-[8px] md:text-xs font-black text-blue-600 tracking-wider">eBay</span>
-              <span className={`font-black text-[10px] md:text-base ${ebayPriceDisplay === '無歷史價格' ? 'text-slate-400 text-[8px]' : 'text-slate-800'}`}>
-                {ebayPriceDisplay.replace('NT$ ', '¥')}
+            <div className="bg-blue-50/50 rounded-lg p-1.5 border border-blue-50 flex flex-col">
+              <span className="text-[7px] font-black text-blue-400 uppercase tracking-widest leading-none mb-1">eBay</span>
+              <span className={`text-[10px] md:text-xs font-black text-slate-800`}>
+                {ebayPriceDisplay}
               </span>
             </div>
           </div>
@@ -203,9 +221,9 @@ export default function Search() {
                addItem(card, cost);
                alert(`✅ 成功將 ${card.name} 加入個人收藏庫！`)
             }}
-            className="w-full mt-3 md:mt-5 py-2 md:py-3 bg-white border-2 border-slate-200 hover:border-red-600 hover:bg-red-50 hover:text-red-700 text-slate-700 font-bold rounded-lg md:rounded-xl text-[10px] md:text-sm transition-all shadow-sm active:scale-[0.98]"
+            className="w-full py-1.5 md:py-2 bg-slate-50 hover:bg-red-600 text-slate-600 hover:text-white border border-slate-100 hover:border-red-600 rounded-lg text-[10px] font-bold transition-all active:scale-95 flex items-center justify-center"
           >
-            + 加入收藏
+            + 加入蒐藏
           </button>
         </div>
       </div>
@@ -213,8 +231,14 @@ export default function Search() {
   }
 
   // 取得當前真實過濾的顯示卡牌
-  const displayCards = cards.filter(c => c.region === version)
-  const displayPopular = popularCards.filter(c => c.region === version).slice(0, 16)
+  const displayCards = cards.filter(c => 
+    c.region === version && 
+    (selectedSet === 'ALL' || c.id.startsWith(selectedSet + '-'))
+  )
+  const displayPopular = popularCards.filter(c => 
+    c.region === version && 
+    (selectedSet === 'ALL' || c.id.startsWith(selectedSet + '-'))
+  ).slice(0, 16)
 
   const renderVersionTabs = () => (
     <div className="flex items-center bg-white p-1 rounded-lg md:rounded-xl border border-slate-200 shadow-sm self-start mb-4 md:mb-0 overflow-x-auto max-w-full no-scrollbar">
@@ -230,99 +254,128 @@ export default function Search() {
     </div>
   )
 
-  if (!searchQuery) {
-    return (
-      <div className="animate-in fade-in duration-500 pb-10">
-        <h1 className="text-2xl md:text-3xl font-black text-slate-800 mb-4 md:mb-6 tracking-tight flex items-center">
-          <Sparkles className="w-6 h-6 md:w-8 md:h-8 text-yellow-500 mr-2" />
-          探索卡牌庫
-        </h1>
-        
-        {/* 快速瀏覽快篩區 (卡拍拍風格) */}
-        <div className="flex flex-wrap gap-2 mb-6 md:mb-8">
-           {quickFilters.map(tag => (
-             <button 
-               key={tag}
-               onClick={() => handleQuickFilter(tag)}
-               className="px-4 md:px-5 py-1.5 md:py-2 bg-white border border-slate-200 hover:border-red-400 hover:bg-red-50 hover:text-red-700 text-slate-600 rounded-full font-bold text-[10px] md:text-sm transition-all shadow-sm"
-             >
-               {tag}
-             </button>
-           ))}
-        </div>
-
-        {/* 版本切換區 */}
-        <div className="mb-4 md:mb-6">
-          {renderVersionTabs()}
-        </div>
-
-        <h2 className="text-lg md:text-xl font-bold text-slate-800 flex items-center mb-4 md:mb-6">
-           <span className="w-1.5 h-6 bg-red-500 rounded-full mr-2"></span>
-           精選熱門卡片 ({version}版)
-        </h2>
-
-        {/* 隨機展示本地圖鑑 */}
-        {displayPopular.length === 0 ? (
-          <div className="bg-slate-50 p-6 flex flex-col items-center justify-center rounded-2xl border border-slate-200 border-dashed text-slate-500 py-20 text-center">
-            <Globe className="w-8 h-8 mb-3 opacity-50" />
-            <p className="font-bold text-sm md:text-base">目前區域尚未加載此語言版本的熱門推薦卡片</p>
-            <p className="text-xs md:text-sm mt-1">請嘗試直接在上方搜尋特定的卡片名稱</p>
-          </div>
-        ) : (
-          <div className="grid grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-3 md:gap-6">
-             {displayPopular.map(renderCard)}
-          </div>
-        )}
-      </div>
-    )
-  }
-
-  // 以下為原本完整的搜尋結果渲染邏輯
   return (
     <div className="animate-in fade-in duration-500 pb-10">
-      <div className="flex flex-col md:flex-row md:items-start lg:items-center justify-between mb-6 md:mb-8 space-y-4 md:space-y-0">
+      {/* 頂部控制列 */}
+      <div className="flex flex-col md:flex-row md:items-center justify-between mb-8 space-y-4 md:space-y-0 sticky top-16 z-20 bg-slate-50/90 backdrop-blur-md py-4">
         <div>
-          <h1 className="text-2xl md:text-3xl font-black text-slate-800 tracking-tight">
-            "{searchQuery}"
+          <h1 className="text-xl md:text-3xl font-black text-slate-800 tracking-tight flex items-center">
+            {searchQuery ? (
+              <>
+                <span className="text-red-600 mr-2 text-2xl md:text-4xl">"</span>
+                {searchQuery}
+                <span className="text-red-600 ml-1 text-2xl md:text-4xl">"</span>
+              </>
+            ) : (
+              <>
+                <Sparkles className="w-6 h-6 md:w-8 md:h-8 text-yellow-500 mr-3" />
+                探索卡牌庫
+              </>
+            )}
           </h1>
-          <p className="text-slate-500 font-medium mt-1 text-xs md:text-base">找到 {displayCards.length} 張 {version} 版本的卡牌系列</p>
+          <p className="text-slate-500 font-bold mt-1 text-[10px] md:text-sm uppercase tracking-widest">
+            {displayCards.length || displayPopular.length} 張符合條件的卡片
+          </p>
         </div>
         
-        <div className="flex flex-col sm:flex-row items-start sm:items-center gap-3">
+        <div className="flex items-center gap-3">
           {renderVersionTabs()}
-          
           <button 
-            onClick={() => {
-              setVersion('US') // reset default
-              navigate('/search')
-            }}
-            className="px-3 md:px-4 py-1.5 md:py-2.5 bg-slate-100 hover:bg-slate-200 text-slate-600 hover:text-red-600 rounded-lg md:rounded-xl text-[10px] md:text-sm font-bold transition-all shadow-sm whitespace-nowrap"
+            onClick={() => setShowFilters(!showFilters)}
+            className={`md:hidden p-2 rounded-lg border shadow-sm transition-all ${showFilters ? 'bg-red-500 text-white border-red-600' : 'bg-white text-slate-600 border-slate-200'}`}
           >
-             清除篩選 ✕
+            <Filter className="w-5 h-5" />
           </button>
         </div>
       </div>
 
-      {loading ? (
-        <div className="flex flex-col items-center justify-center py-20 md:py-32 bg-white rounded-2xl border border-slate-200 shadow-sm">
-          <Loader2 className="h-10 w-10 md:h-12 md:w-12 text-red-600 animate-spin mb-4" />
-          <p className="text-slate-600 font-bold text-sm md:text-base">正在全力搜尋資料庫中...</p>
-        </div>
-      ) : error ? (
-        <div className="bg-rose-50 p-6 rounded-2xl border border-rose-200 text-center py-16 shadow-sm">
-          <p className="text-rose-600 font-bold">{error}</p>
-        </div>
-      ) : displayCards.length === 0 ? (
-        <div className="bg-white p-10 rounded-2xl border border-slate-200 shadow-sm text-center py-20 md:py-32 relative overflow-hidden">
-          <SearchIcon className="h-10 w-10 md:h-12 md:w-12 text-slate-200 mx-auto mb-4" />
-          <p className="text-slate-500 text-sm md:text-lg font-bold relative z-10">找不到與 "{searchQuery}" 相關的 {version} 版本卡牌。</p>
-          <p className="text-slate-400 mt-2 text-xs md:text-sm">您可以嘗試切換至其他區域版本或檢查名稱正確性。</p>
-        </div>
-      ) : (
-        <div className="grid grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-3 md:gap-6">
-          {displayCards.map(renderCard)}
-        </div>
-      )}
+      <div className="flex flex-col md:flex-row gap-8">
+        {/* 左側過濾欄 (Desktop) / 下拉式過濾 (Mobile) */}
+        <aside className={`${showFilters ? 'block' : 'hidden'} md:block w-full md:w-64 shrink-0 space-y-6`}>
+           <div className="bg-white rounded-2xl border border-slate-200 p-5 shadow-sm">
+             <div className="flex items-center justify-between mb-5">
+               <h3 className="text-sm font-black text-slate-800 flex items-center tracking-wider">
+                 <Layers className="w-4 h-4 mr-2 text-red-500" />
+                 擴充包系列 (Expansion)
+               </h3>
+               {selectedSet !== 'ALL' && (
+                 <button onClick={() => setSelectedSet('ALL')} className="text-[10px] font-bold text-red-500 hover:underline">清除</button>
+               )}
+             </div>
+             
+             <div className="space-y-1.5 max-h-[400px] overflow-y-auto no-scrollbar pr-1">
+               <button 
+                 onClick={() => setSelectedSet('ALL')}
+                 className={`w-full text-left px-3 py-2 rounded-lg text-xs font-bold transition-all flex items-center justify-between group ${selectedSet === 'ALL' ? 'bg-red-50 text-red-600' : 'text-slate-500 hover:bg-slate-50 hover:text-slate-800'}`}
+               >
+                 全部系列 (ALL)
+                 <ChevronRight className={`w-3 h-3 group-hover:translate-x-0.5 transition-transform ${selectedSet === 'ALL' ? 'opacity-100' : 'opacity-0'}`} />
+               </button>
+               {availableSets.map(set => (
+                 <button 
+                   key={set}
+                   onClick={() => setSelectedSet(set)}
+                   className={`w-full text-left px-3 py-2 rounded-lg text-xs font-bold transition-all flex items-center justify-between group ${selectedSet === set ? 'bg-red-50 text-red-600' : 'text-slate-500 hover:bg-slate-50 hover:text-slate-800'}`}
+                 >
+                   {set} 系列
+                   <ChevronRight className={`w-3 h-3 group-hover:translate-x-0.5 transition-transform ${selectedSet === set ? 'opacity-100' : 'opacity-0'}`} />
+                 </button>
+               ))}
+             </div>
+           </div>
+
+           <div className="bg-white rounded-2xl border border-slate-200 p-5 shadow-sm">
+             <h3 className="text-sm font-black text-slate-800 flex items-center tracking-wider mb-5">
+               <LayoutGrid className="w-4 h-4 mr-2 text-blue-500" />
+               快捷篩選 (Quick)
+             </h3>
+             <div className="flex flex-wrap gap-2">
+               {quickFilters.map(tag => (
+                 <button 
+                   key={tag}
+                   onClick={() => handleQuickFilter(tag)}
+                   className="px-3 py-1.5 bg-slate-50 hover:bg-red-50 text-slate-500 hover:text-red-600 border border-slate-100 hover:border-red-200 rounded-lg text-[10px] font-black transition-all"
+                 >
+                   {tag}
+                 </button>
+               ))}
+             </div>
+           </div>
+        </aside>
+
+        {/* 右側內容區 */}
+        <main className="flex-1">
+          {loading ? (
+            <div className="flex flex-col items-center justify-center py-24 bg-white rounded-2xl border border-slate-200 shadow-sm">
+              <Loader2 className="h-10 w-10 text-red-600 animate-spin mb-4" />
+              <p className="text-slate-600 font-bold">正在從各地區數據庫載入卡牌...</p>
+            </div>
+          ) : error ? (
+            <div className="bg-rose-50 p-6 rounded-2xl border border-rose-200 text-center py-16">
+              <p className="text-rose-600 font-bold">{error}</p>
+            </div>
+          ) : (displayCards.length || (!searchQuery && displayPopular.length)) === 0 ? (
+            <div className="bg-white p-10 rounded-2xl border border-slate-200 shadow-sm text-center py-24">
+              <SearchIcon className="h-12 w-12 text-slate-200 mx-auto mb-4" />
+              <p className="text-slate-500 text-lg font-bold">找不到符合條件的卡牌。</p>
+              <p className="text-slate-400 mt-2 text-sm">請嘗試修改過濾條件或清除搜尋關鍵字。</p>
+              <button 
+                onClick={() => {
+                   setSelectedSet('ALL')
+                   navigate('/search')
+                }}
+                className="mt-6 px-6 py-2 bg-red-600 text-white rounded-xl font-bold hover:bg-red-700 transition-colors"
+                >
+                清除所有過濾
+              </button>
+            </div>
+          ) : (
+            <div className="grid grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 md:gap-6">
+              {searchQuery ? displayCards.map(renderCard) : displayPopular.map(renderCard)}
+            </div>
+          )}
+        </main>
+      </div>
     </div>
   )
 }
