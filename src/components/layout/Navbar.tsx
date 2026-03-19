@@ -24,8 +24,8 @@ export default function Navbar() {
             type="text"
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
-            className="block w-full pl-10 pr-4 py-2.5 border border-slate-200 rounded-full leading-5 bg-slate-50 text-slate-900 placeholder-slate-400 focus:outline-none focus:bg-white focus:border-red-500 focus:ring-2 focus:ring-red-200 sm:text-sm transition-all"
-            placeholder="輸入寶可夢名字或編號按 Enter 搜尋..."
+            className="block w-full pl-10 pr-4 py-2.5 border border-slate-200 rounded-full leading-5 bg-slate-50 text-slate-900 placeholder-slate-400 focus:outline-none focus:bg-white focus:border-red-500 focus:ring-2 focus:ring-red-200 sm:text-sm transition-all shadow-inner"
+            placeholder="輸入中文寶可夢名稱（例如: 皮卡丘、烈空坐）..."
           />
         </form>
       </div>
