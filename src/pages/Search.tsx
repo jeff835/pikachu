@@ -4,6 +4,8 @@ import { Search as SearchIcon, Loader2, Globe, Sparkles } from 'lucide-react'
 import axios from 'axios'
 import { getEnglishPokemonName, getJapanesePokemonName } from '../lib/pokemonMap'
 import localCardsData from '../data/cards.json'
+import { useAuthStore } from '../store/useAuthStore'
+import { usePortfolioStore } from '../store/usePortfolioStore'
 
 interface PokemonCard {
   id: string
@@ -33,6 +35,9 @@ export default function Search() {
   const [error, setError] = useState('')
   const [version, setVersion] = useState<CardVersion>('US')
   const [popularCards, setPopularCards] = useState<PokemonCard[]>([])
+
+  const { isAuthenticated } = useAuthStore()
+  const { addItem } = usePortfolioStore()
 
   // 抓取遠端與本地搜尋結果
   useEffect(() => {
@@ -174,7 +179,32 @@ export default function Search() {
             </div>
           </div>
           
-          <button className="w-full mt-5 py-3 bg-white border-2 border-slate-200 hover:border-red-600 hover:bg-red-50 hover:text-red-700 text-slate-700 font-bold rounded-xl transition-colors shadow-sm active:scale-[0.98]">
+          <button 
+            onClick={(e) => {
+               e.stopPropagation();
+               if (!isAuthenticated) {
+                 if(window.confirm('請登入訓練家帳號以解鎖收藏庫卡夾專屬功能！是否前往登入大廳？')) navigate('/login')
+                 return;
+               }
+
+               // 預設以當前的 SNKRDUNK 估值作為購買成本參考，防呆機制
+               let cost = 0
+               if (marketUsd) {
+                 let baseNtd = marketUsd * 32
+                 if (version === 'JP') baseNtd = baseNtd * 1.3
+                 else if (version === 'TW') baseNtd = baseNtd * 0.75
+                 cost = Math.floor(version === 'JP' ? baseNtd * 1.1 : baseNtd * 0.95)
+               }
+              
+               const input = window.prompt(`建立 ${card.name} 的數位資產記帳。\n請填寫您的實際購入的成本價格 (NTD)：`, cost.toString());
+               if (input !== null) {
+                  const finalCost = parseInt(input.trim(), 10) || 0;
+                  addItem(card, finalCost);
+                  alert(`✅ 成功將 ${card.name} 加入個人收藏庫！您可以在左側選單進入收藏庫查看實時盈虧總資產。`)
+               }
+            }}
+            className="w-full mt-5 py-3 bg-white border-2 border-slate-200 hover:border-red-600 hover:bg-red-50 hover:text-red-700 text-slate-700 font-bold rounded-xl transition-colors shadow-sm active:scale-[0.98]"
+          >
             + 加入個人收藏
           </button>
         </div>
