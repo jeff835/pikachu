@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import { useLocation, useNavigate } from 'react-router-dom'
-import { Search as SearchIcon, Loader2, Globe, Sparkles, Filter, Layers, ChevronRight, LayoutGrid } from 'lucide-react'
+import { Search as SearchIcon, Loader2, Globe, Filter, Layers, ChevronRight, LayoutGrid } from 'lucide-react'
 import axios from 'axios'
 import { getEnglishPokemonName, getJapanesePokemonName } from '../lib/pokemonMap'
 import localCardsData from '../data/cards.json'
@@ -261,21 +261,17 @@ export default function Search() {
   return (
     <div className="animate-in fade-in duration-500 pb-20 max-w-[1600px] mx-auto">
       {/* 頂部控制與標題區 */}
-      <div className="flex flex-col lg:flex-row lg:items-end justify-between gap-6 mb-12 pt-4 px-2">
-        <div className="space-y-2">
-           <div className="flex items-center gap-3 text-slate-400 font-black text-[10px] uppercase tracking-[0.2em] mb-1">
-             <Sparkles className="w-4 h-4 text-yellow-500" />
-             Market Exploration
-           </div>
-           <h1 className="text-4xl md:text-6xl font-black text-slate-900 tracking-tighter leading-none italic uppercase">
+      <div className="flex flex-col lg:flex-row lg:items-end justify-between gap-6 mb-8 pt-4 px-2">
+        <div className="space-y-1">
+           <h1 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
              {searchQuery ? (
-               <><span className="text-red-600">"{searchQuery}"</span> Result</>
+               <><span className="text-red-600">"{searchQuery}"</span> 搜尋結果</>
              ) : (
-               <>Card <span className="text-red-600">Archive</span></>
+               <>熱門卡牌探索</>
              )}
            </h1>
-           <p className="text-slate-400 font-bold text-xs uppercase tracking-widest pl-1">
-             {displayCards.length || displayPopular.length} 份精選市場數據正在實時更新
+           <p className="text-slate-500 font-bold text-sm">
+             共計 {displayCards.length || displayPopular.length} 筆結果
            </p>
         </div>
         
