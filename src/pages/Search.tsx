@@ -3,6 +3,7 @@ import { useLocation } from 'react-router-dom'
 import { Search as SearchIcon, Loader2, Globe } from 'lucide-react'
 import axios from 'axios'
 import { getEnglishPokemonName } from '../lib/pokemonMap'
+import localCardsData from '../data/cards.json'
 
 interface PokemonCard {
   id: string
@@ -37,16 +38,32 @@ export default function Search() {
       setLoading(true)
       setError('')
       try {
-        // 利用字典檔將中文查詢自動轉換為英文，API 才能讀懂
-        const englishSearchQuery = getEnglishPokemonName(searchQuery.trim())
+        // 第一軌：從本地 2000+ 張繁中卡牌大補帖中光速搜尋
+        const localResults: PokemonCard[] = localCardsData
+          .filter(c => c.name.includes(searchQuery.trim()))
+          .map(c => c as PokemonCard) // 強制轉換確保格式一致
 
-        const response = await axios.get(`https://api.pokemontcg.io/v2/cards`, {
-          params: {
-            q: `name:"*${englishSearchQuery}*"`,
-            pageSize: 24
-          }
-        })
-        setCards(response.data.data)
+        // 第二軌：利用字典將中文查詢轉換為英文後，向官方英文 API 進行廣泛查找
+        const englishSearchQuery = getEnglishPokemonName(searchQuery.trim())
+        let remoteResults: PokemonCard[] = []
+        
+        try {
+          const response = await axios.get(`https://api.pokemontcg.io/v2/cards`, {
+            params: {
+              q: `name:"*${englishSearchQuery}*"`,
+              pageSize: 24
+            }
+          })
+          remoteResults = response.data.data
+        } catch (apiErr) {
+          console.warn("遠端英文 API 網路連線異常，僅呈現本地結果", apiErr)
+        }
+
+        // 完美合併兩方結果：本地繁中版優先展示，並將重複 ID 去除
+        const merged = [...localResults, ...remoteResults]
+        const uniqueCards = Array.from(new Map(merged.map(c => [c.id, c])).values())
+        
+        setCards(uniqueCards)
       } catch (err) {
         setError('無法取得卡牌資料，請稍後檢查網路或再試一次。')
       } finally {
