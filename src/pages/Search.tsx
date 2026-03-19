@@ -54,31 +54,38 @@ export default function Search() {
       setLoading(true)
       setError('')
       try {
-        const jpSearchQuery = getJapanesePokemonName(searchQuery.trim())
-        const localResults: PokemonCard[] = localCardsData
-          .filter(c => c.name.includes(searchQuery.trim()) || c.name.includes(jpSearchQuery))
+        const query = searchQuery.trim()
+        
+        // 1. 本地搜尋 (直接支援繁中、日文): 模糊比對名稱、ID
+        const localResults: PokemonCard[] = (localCardsData as any[])
+          .filter(c =>
+            c.name?.includes(query) ||
+            c.id?.includes(query) ||
+            c.localId?.includes(query)
+          )
           .map(c => c as PokemonCard)
 
-        const englishSearchQuery = getEnglishPokemonName(searchQuery.trim())
+        // 2. 遠端英文 API 搜尋 (直接傳原始詞，若是英文也能搜到)
         let remoteResults: PokemonCard[] = []
-        
         try {
           const response = await axios.get(`https://api.pokemontcg.io/v2/cards`, {
             params: {
-              q: `name:"*${englishSearchQuery}*"`,
-              pageSize: 48
-            }
+              q: `name:"*${query}*"`,
+              pageSize: 36
+            },
+            timeout: 8000
           })
           remoteResults = response.data.data.map((c: any) => ({ ...c, region: 'US' }))
         } catch (apiErr) {
-          console.warn("遠端英文 API 網路連線異常，僅呈現本地結果", apiErr)
+          console.warn("遠端英文 API 連線失敗，僅顯示本地結果", apiErr)
         }
 
+        // 3. 合併並去重 (本地優先)
         const merged = [...localResults, ...remoteResults]
         const uniqueCards = Array.from(new Map(merged.map(c => [c.id, c])).values())
         setCards(uniqueCards)
       } catch (err) {
-        setError('無法取得卡牌資料，請稍後檢查網路或再試一次。')
+        setError('無法取得卡牌資料，請稍後再試。')
       } finally {
         setLoading(false)
       }
@@ -86,6 +93,7 @@ export default function Search() {
 
     fetchCards()
   }, [searchQuery])
+
 
   // 產生探索頁面的隨機熱門卡牌 (包含美國版 API 預載)
   useEffect(() => {
