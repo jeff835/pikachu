@@ -6,7 +6,7 @@ import Dashboard from './pages/Dashboard'
 import Search from './pages/Search'
 import Portfolio from './pages/Portfolio'
 import Login from './pages/Login'
-import PriceDrop from './pages/PriceDrop'
+import MarketAlerts from './pages/MarketAlerts'
 import ProtectedRoute from './components/auth/ProtectedRoute'
 
 function App() {
@@ -19,7 +19,7 @@ function App() {
           <Routes>
             <Route path="/" element={<Dashboard />} />
             <Route path="/search" element={<Search />} />
-            <Route path="/price-drop" element={<PriceDrop />} />
+            <Route path="/market-alerts/:type" element={<MarketAlerts />} />
             <Route path="/login" element={<Login />} />
             <Route path="/portfolio" element={
               <ProtectedRoute>

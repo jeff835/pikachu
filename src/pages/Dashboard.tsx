@@ -32,7 +32,7 @@ export default function Dashboard() {
       </div>
       
       {/* 頂部數據卡片 */}
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6">
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 xl:grid-cols-4 gap-4 md:gap-6">
         <div className="bg-white p-4 md:p-6 rounded-2xl border border-slate-200 shadow-sm relative overflow-hidden group hover:shadow-md hover:border-red-200 transition-all">
           <div className="absolute top-0 right-0 w-20 h-20 md:w-24 md:h-24 bg-red-50 rounded-bl-full -mr-4 -mt-4 opacity-50 group-hover:scale-110 transition-transform"></div>
           <div className="relative z-10">
@@ -62,8 +62,8 @@ export default function Dashboard() {
         </div>
 
         <button 
-          onClick={() => navigate('/price-drop')}
-          className="bg-white p-4 md:p-6 rounded-2xl border border-slate-200 shadow-sm relative overflow-hidden group hover:shadow-xl hover:border-red-500 transition-all sm:col-span-2 lg:col-span-1 cursor-pointer active:scale-95 text-left w-full focus:outline-none focus:ring-2 focus:ring-red-500 focus:ring-offset-2"
+          onClick={() => navigate('/market-alerts/drop')}
+          className="bg-white p-4 md:p-6 rounded-2xl border border-slate-200 shadow-sm relative overflow-hidden group hover:shadow-xl hover:border-red-500 transition-all cursor-pointer active:scale-95 text-left w-full focus:outline-none focus:ring-2 focus:ring-red-500 focus:ring-offset-2"
         >
           <div className="absolute top-0 right-0 w-20 h-20 md:w-24 md:h-24 bg-rose-50 rounded-bl-full -mr-4 -mt-4 opacity-50 group-hover:scale-125 transition-transform duration-500"></div>
           <div className="relative z-10">
@@ -77,6 +77,26 @@ export default function Dashboard() {
             </div>
             <div className="mt-4 flex items-center text-[10px] font-bold text-slate-400 group-hover:text-red-600 transition-colors">
               <span className="bg-slate-100 group-hover:bg-red-50 px-2 py-1 rounded transition-colors">點擊查看詳情 &rarr;</span>
+            </div>
+          </div>
+        </button>
+
+        <button 
+          onClick={() => navigate('/market-alerts/rise')}
+          className="bg-white p-4 md:p-6 rounded-2xl border border-slate-200 shadow-sm relative overflow-hidden group hover:shadow-xl hover:border-emerald-500 transition-all cursor-pointer active:scale-95 text-left w-full focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2"
+        >
+          <div className="absolute top-0 right-0 w-20 h-20 md:w-24 md:h-24 bg-emerald-50 rounded-bl-full -mr-4 -mt-4 opacity-50 group-hover:scale-125 transition-transform duration-500"></div>
+          <div className="relative z-10">
+            <h3 className="text-slate-400 text-[10px] md:text-xs font-bold uppercase tracking-wider">漲幅警告</h3>
+            <div className="flex items-baseline mt-1 md:mt-2">
+              <p className="text-2xl md:text-4xl font-black text-slate-800 tracking-tight">12 <span className="text-base md:text-xl text-slate-400">張</span></p>
+              <div className="ml-2 md:ml-3 flex items-center text-[10px] md:text-sm font-bold text-emerald-600 bg-emerald-50 px-1.5 md:px-2 py-0.5 rounded border border-emerald-100">
+                <ArrowUpRight className="h-3 w-3 md:h-4 md:w-4 mr-0.5 stroke-[3]" />
+                <span>&gt; 10%</span>
+              </div>
+            </div>
+            <div className="mt-4 flex items-center text-[10px] font-bold text-slate-400 group-hover:text-emerald-600 transition-colors">
+              <span className="bg-slate-100 group-hover:bg-emerald-50 px-2 py-1 rounded transition-colors">點擊查看詳情 &rarr;</span>
             </div>
           </div>
         </button>
