@@ -259,34 +259,31 @@ export default function Search() {
   )
 
   return (
-    <div className="animate-in fade-in duration-500 pb-10">
-      {/* 頂部控制列 */}
-      <div className="flex flex-col md:flex-row md:items-center justify-between mb-8 space-y-4 md:space-y-0 sticky top-16 z-20 bg-slate-50/90 backdrop-blur-md py-4">
-        <div>
-          <h1 className="text-xl md:text-3xl font-black text-slate-800 tracking-tight flex items-center">
-            {searchQuery ? (
-              <>
-                <span className="text-red-600 mr-2 text-2xl md:text-4xl">"</span>
-                {searchQuery}
-                <span className="text-red-600 ml-1 text-2xl md:text-4xl">"</span>
-              </>
-            ) : (
-              <>
-                <Sparkles className="w-6 h-6 md:w-8 md:h-8 text-yellow-500 mr-3" />
-                探索卡牌庫
-              </>
-            )}
-          </h1>
-          <p className="text-slate-500 font-bold mt-1 text-[10px] md:text-sm uppercase tracking-widest">
-            {displayCards.length || displayPopular.length} 張符合條件的卡片
-          </p>
+    <div className="animate-in fade-in duration-500 pb-20 max-w-[1600px] mx-auto">
+      {/* 頂部控制與標題區 */}
+      <div className="flex flex-col lg:flex-row lg:items-end justify-between gap-6 mb-12 pt-4 px-2">
+        <div className="space-y-2">
+           <div className="flex items-center gap-3 text-slate-400 font-black text-[10px] uppercase tracking-[0.2em] mb-1">
+             <Sparkles className="w-4 h-4 text-yellow-500" />
+             Market Exploration
+           </div>
+           <h1 className="text-4xl md:text-6xl font-black text-slate-900 tracking-tighter leading-none italic uppercase">
+             {searchQuery ? (
+               <><span className="text-red-600">"{searchQuery}"</span> Result</>
+             ) : (
+               <>Card <span className="text-red-600">Archive</span></>
+             )}
+           </h1>
+           <p className="text-slate-400 font-bold text-xs uppercase tracking-widest pl-1">
+             {displayCards.length || displayPopular.length} 份精選市場數據正在實時更新
+           </p>
         </div>
         
-        <div className="flex items-center gap-3">
+        <div className="flex flex-wrap items-center gap-3">
           {renderVersionTabs()}
           <button 
             onClick={() => setShowFilters(!showFilters)}
-            className={`md:hidden p-2 rounded-lg border shadow-sm transition-all ${showFilters ? 'bg-red-500 text-white border-red-600' : 'bg-white text-slate-600 border-slate-200'}`}
+            className={`md:hidden p-3 rounded-2xl border shadow-sm transition-all ${showFilters ? 'bg-slate-900 text-white border-slate-900' : 'bg-white text-slate-600 border-slate-200'}`}
           >
             <Filter className="w-5 h-5" />
           </button>
