@@ -108,19 +108,11 @@ export default function Search() {
     }
   }, [searchQuery])
 
-  // 模擬依據卡牌版本區分的匯率與溢價計算
-  const getPrice = (card: PokemonCard, platform: 'snkr' | 'ebay', currentVersion: CardVersion) => {
-    const marketUsd = card.tcgplayer?.prices?.holofoil?.market || 
-                      card.tcgplayer?.prices?.reverseHolofoil?.market || 
-                      card.tcgplayer?.prices?.normal?.market || 
-                      (Math.random() * 40 + 10);
-                      
-    let baseNtd = marketUsd * 32
-    if (currentVersion === 'JP') baseNtd = baseNtd * 1.3
-    else if (currentVersion === 'TW') baseNtd = baseNtd * 0.75
-
-    if (platform === 'snkr') return currentVersion === 'JP' ? Math.floor(baseNtd * 1.1) : Math.floor(baseNtd * 0.95)
-    else return currentVersion === 'US' ? Math.floor(baseNtd * 1.05) : Math.floor(baseNtd * 0.85)
+  // 取得真實 TCGPlayer 美金報價
+  const getBasePriceUsd = (card: PokemonCard) => {
+    return card.tcgplayer?.prices?.holofoil?.market || 
+           card.tcgplayer?.prices?.reverseHolofoil?.market || 
+           card.tcgplayer?.prices?.normal?.market;
   }
 
   const versionTabs = [
@@ -140,8 +132,23 @@ export default function Search() {
 
   // 渲染單一卡片小工具
   const renderCard = (card: PokemonCard) => {
-    const snkrPrice = getPrice(card, 'snkr', version)
-    const ebayPrice = getPrice(card, 'ebay', version)
+    const marketUsd = getBasePriceUsd(card)
+    let snkrPriceDisplay = '無歷史價格'
+    let ebayPriceDisplay = '無歷史價格'
+
+    // 若有真實的美金報價，則進行台幣換算與溢價估計
+    if (marketUsd) {
+      let baseNtd = marketUsd * 32 // 暫時以固定匯率 32 換算為台幣
+      
+      if (version === 'JP') baseNtd = baseNtd * 1.3
+      else if (version === 'TW') baseNtd = baseNtd * 0.75
+
+      const snkrVal = version === 'JP' ? baseNtd * 1.1 : baseNtd * 0.95
+      snkrPriceDisplay = `NT$ ${Math.floor(snkrVal).toLocaleString()}`
+
+      const ebayVal = version === 'US' ? baseNtd * 1.05 : baseNtd * 0.85
+      ebayPriceDisplay = `NT$ ${Math.floor(ebayVal).toLocaleString()}`
+    }
     
     return (
       <div key={card.id} className="bg-white rounded-2xl border border-slate-200 shadow-sm hover:shadow-xl hover:-translate-y-1 hover:border-red-300 transition-all overflow-hidden flex flex-col group cursor-pointer">
@@ -159,11 +166,11 @@ export default function Search() {
           <div className="mt-auto space-y-2.5">
             <div className="flex justify-between items-center px-4 py-2.5 bg-red-50 rounded-xl border border-red-100 transition-colors group-hover:bg-red-100/50">
               <span className="text-xs font-black text-red-600 tracking-wider">SNKRDUNK</span>
-              <span className="font-black text-slate-800">NT$ {snkrPrice.toLocaleString()}</span>
+              <span className={`font-black ${snkrPriceDisplay === '無歷史價格' ? 'text-slate-400 text-xs' : 'text-slate-800'}`}>{snkrPriceDisplay}</span>
             </div>
             <div className="flex justify-between items-center px-4 py-2.5 bg-blue-50 rounded-xl border border-blue-100 transition-colors group-hover:bg-blue-100/50">
               <span className="text-xs font-black text-blue-600 tracking-wider">eBay</span>
-              <span className="font-black text-slate-800">NT$ {ebayPrice.toLocaleString()}</span>
+              <span className={`font-black ${ebayPriceDisplay === '無歷史價格' ? 'text-slate-400 text-xs' : 'text-slate-800'}`}>{ebayPriceDisplay}</span>
             </div>
           </div>
           
