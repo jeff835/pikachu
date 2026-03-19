@@ -210,16 +210,25 @@ export default function Search() {
           <p className="text-slate-500 font-medium mt-1">找到 {cards.length} 張相關的卡牌插畫設計</p>
         </div>
         
-        <div className="flex items-center bg-white p-1.5 rounded-xl border border-slate-200 shadow-sm self-start">
-          {versionTabs.map((tab) => (
-             <button 
-               key={tab.id}
-               onClick={() => setVersion(tab.id as CardVersion)}
-               className={`px-4 py-2 rounded-lg text-sm font-bold transition-all ${version === tab.id ? 'bg-red-50 text-red-600 shadow-sm border border-red-200 pointer-events-none' : 'text-slate-500 hover:bg-slate-50 hover:text-slate-700 border border-transparent'}`}
-             >
-               {tab.label}
-             </button>
-          ))}
+        <div className="flex flex-col sm:flex-row items-start sm:items-center gap-4">
+          <div className="flex items-center bg-white p-1.5 rounded-xl border border-slate-200 shadow-sm self-start">
+            {versionTabs.map((tab) => (
+               <button 
+                 key={tab.id}
+                 onClick={() => setVersion(tab.id as CardVersion)}
+                 className={`px-4 py-2 rounded-lg text-sm font-bold transition-all ${version === tab.id ? 'bg-red-50 text-red-600 shadow-sm border border-red-200 pointer-events-none' : 'text-slate-500 hover:bg-slate-50 hover:text-slate-700 border border-transparent'}`}
+               >
+                 {tab.label}
+               </button>
+            ))}
+          </div>
+          
+          <button 
+            onClick={() => navigate('/search')}
+            className="px-4 py-2.5 bg-slate-100 hover:bg-slate-200 text-slate-600 hover:text-red-600 rounded-xl text-sm font-bold transition-all shadow-sm whitespace-nowrap"
+          >
+             清除篩選 ✕
+          </button>
         </div>
       </div>
 
