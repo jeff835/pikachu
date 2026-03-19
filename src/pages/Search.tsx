@@ -286,6 +286,25 @@ export default function Search() {
         </div>
       </div>
 
+      {/* 快捷篩選區塊 (第一層) */}
+      <div className="mb-8 px-2 overflow-x-auto no-scrollbar">
+         <div className="flex items-center gap-2 pb-2">
+           <div className="flex items-center gap-2 mr-4 shrink-0">
+             <LayoutGrid className="w-4 h-4 text-blue-500" />
+             <span className="text-xs font-black text-slate-400 uppercase tracking-widest text-[10px]">Quick Filters</span>
+           </div>
+           {quickFilters.map(tag => (
+             <button 
+               key={tag}
+               onClick={() => handleQuickFilter(tag)}
+               className="px-4 py-1.5 bg-white hover:bg-slate-50 text-slate-600 hover:text-red-600 border border-slate-200 hover:border-red-200 rounded-full text-xs font-bold transition-all shadow-sm whitespace-nowrap"
+             >
+               {tag}
+             </button>
+           ))}
+         </div>
+      </div>
+
       <div className="flex flex-col md:flex-row gap-8">
         {/* 左側過濾欄 (Desktop) / 下拉式過濾 (Mobile) */}
         <aside className={`${showFilters ? 'block' : 'hidden'} md:block w-full md:w-64 shrink-0 space-y-6`}>
@@ -321,23 +340,6 @@ export default function Search() {
              </div>
            </div>
 
-           <div className="bg-white rounded-2xl border border-slate-200 p-5 shadow-sm">
-             <h3 className="text-sm font-black text-slate-800 flex items-center tracking-wider mb-5">
-               <LayoutGrid className="w-4 h-4 mr-2 text-blue-500" />
-               快捷篩選 (Quick)
-             </h3>
-             <div className="flex flex-wrap gap-2">
-               {quickFilters.map(tag => (
-                 <button 
-                   key={tag}
-                   onClick={() => handleQuickFilter(tag)}
-                   className="px-3 py-1.5 bg-slate-50 hover:bg-red-50 text-slate-500 hover:text-red-600 border border-slate-100 hover:border-red-200 rounded-lg text-[10px] font-black transition-all"
-                 >
-                   {tag}
-                 </button>
-               ))}
-             </div>
-           </div>
         </aside>
 
         {/* 右側內容區 */}
