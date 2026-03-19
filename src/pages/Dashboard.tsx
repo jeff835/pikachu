@@ -67,7 +67,7 @@ export default function Dashboard() {
         >
           <div className="absolute top-0 right-0 w-20 h-20 md:w-24 md:h-24 bg-rose-50 rounded-bl-full -mr-4 -mt-4 opacity-50 group-hover:scale-125 transition-transform duration-500"></div>
           <div className="relative z-10">
-            <h3 className="text-slate-400 text-[10px] md:text-xs font-bold uppercase tracking-wider">跌幅警告</h3>
+            <h3 className="text-slate-400 text-[10px] md:text-xs font-bold uppercase tracking-wider">當日跌幅排行</h3>
             <div className="flex items-baseline mt-1 md:mt-2">
               <p className="text-2xl md:text-4xl font-black text-slate-800 tracking-tight">18 <span className="text-base md:text-xl text-slate-400">張</span></p>
               <div className="ml-2 md:ml-3 flex items-center text-[10px] md:text-sm font-bold text-rose-600 bg-rose-50 px-1.5 md:px-2 py-0.5 rounded border border-rose-100">
@@ -87,7 +87,7 @@ export default function Dashboard() {
         >
           <div className="absolute top-0 right-0 w-20 h-20 md:w-24 md:h-24 bg-emerald-50 rounded-bl-full -mr-4 -mt-4 opacity-50 group-hover:scale-125 transition-transform duration-500"></div>
           <div className="relative z-10">
-            <h3 className="text-slate-400 text-[10px] md:text-xs font-bold uppercase tracking-wider">漲幅警告</h3>
+            <h3 className="text-slate-400 text-[10px] md:text-xs font-bold uppercase tracking-wider">當日漲幅排行</h3>
             <div className="flex items-baseline mt-1 md:mt-2">
               <p className="text-2xl md:text-4xl font-black text-slate-800 tracking-tight">12 <span className="text-base md:text-xl text-slate-400">張</span></p>
               <div className="ml-2 md:ml-3 flex items-center text-[10px] md:text-sm font-bold text-emerald-600 bg-emerald-50 px-1.5 md:px-2 py-0.5 rounded border border-emerald-100">

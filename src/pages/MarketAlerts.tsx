@@ -203,7 +203,7 @@ export default function MarketAlerts() {
 
   // 主題配色與圖示
   const theme = {
-    title: isRise ? '漲幅警告詳情' : '跌幅警告詳情',
+    title: isRise ? '當日漲幅排行' : '當日跌幅排行',
     description: `當前市場有 ${currentMockData.length} 張異常價格波動卡牌`,
     iconColor: isRise ? 'text-emerald-500' : 'text-rose-500',
     bgColor: isRise ? 'bg-emerald-50' : 'bg-rose-50',
@@ -212,7 +212,7 @@ export default function MarketAlerts() {
     chartStroke: isRise ? '#10b981' : '#ef4444',
     StatusIcon: isRise ? TrendingUp : TrendingDown,
     ArrowIcon: isRise ? ArrowUpRight : ArrowDownRight,
-    statusText: isRise ? '警示價位噴發中' : '警示價位崩落中',
+    statusText: isRise ? '漲幅領先中' : '跌幅墊底中',
     statusBg: isRise ? 'bg-emerald-500' : 'bg-rose-500',
     statusShadow: isRise ? 'shadow-emerald-200' : 'shadow-rose-200',
     cardActiveBorder: isRise ? 'border-emerald-500' : 'border-red-500',
@@ -263,7 +263,7 @@ export default function MarketAlerts() {
       <div className="grid grid-cols-1 lg:grid-cols-4 gap-6">
         {/* Sidebar List */}
         <div className="lg:col-span-1 space-y-3">
-          <p className="text-[10px] font-black text-slate-400 uppercase tracking-widest pl-2 mb-2">警告名單</p>
+          <p className="text-[10px] font-black text-slate-400 uppercase tracking-widest pl-2 mb-2">當日排行名單</p>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-1 gap-3">
             {currentMockData.map((card) => (
               <button
@@ -380,7 +380,7 @@ export default function MarketAlerts() {
                                      <span className="text-xl font-black">¥ {payload[0].value?.toLocaleString()}</span>
                                      <span className={`text-[10px] font-black flex items-center ${isRise ? 'text-emerald-400' : 'text-rose-400'}`}>
                                        {isRise ? <ArrowUpRight className="w-3 h-3" /> : <ArrowDownRight className="w-3 h-3" />}
-                                       警告
+                                       異動
                                      </span>
                                   </div>
                                 </div>
