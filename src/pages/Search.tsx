@@ -36,7 +36,7 @@ export default function Search() {
   const [cards, setCards] = useState<PokemonCard[]>([])
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState('')
-  const [version, setVersion] = useState<CardVersion>('US')
+  const [version, setVersion] = useState<CardVersion>('TW')
   const [popularCards, setPopularCards] = useState<PokemonCard[]>([])
   const [selectedSet, setSelectedSet] = useState<string>('ALL')
   const [showFilters, setShowFilters] = useState(false)
@@ -274,12 +274,18 @@ export default function Search() {
   }
 
   // 取得當前真實過濾的顯示卡牌
+  // region 過濾邏輯：TW/JP 版的本地卡牌有 region 欄位；US 版的遠端卡牌也有 region='US'
+  // 若卡牌沒有 region 欄位則只在 US tab 顯示（向下相容舊資料）
+  const matchRegion = (card: PokemonCard) => {
+    if (!card.region) return version === 'US'
+    return card.region === version
+  }
   const displayCards = cards.filter(c => 
-    c.region === version && 
+    matchRegion(c) && 
     (selectedSet === 'ALL' || c.id.startsWith(selectedSet + '-'))
   )
   const displayPopular = popularCards.filter(c => 
-    c.region === version && 
+    matchRegion(c) && 
     (selectedSet === 'ALL' || c.id.startsWith(selectedSet + '-'))
   ).slice(0, 16)
 
