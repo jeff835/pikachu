@@ -5,112 +5,147 @@ import { fileURLToPath } from 'url';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
+const DATA_DIR = path.join(__dirname, '../src/data');
+const CARDS_FILE = path.join(DATA_DIR, 'cards.json');
+const METADATA_FILE = path.join(DATA_DIR, 'enriched-metadata.json');
 
-// 定義需要優先追蹤的熱門卡牌
-const HOT_CARDS = [
-  { name: 'Pikachu with Grey Felt Hat', id: 'svp-85' },
-  { name: 'Charizard ex 199/165', id: 'sv1en-199' },
-  { name: 'M Charizard-EX', id: 'xy12-13' },
-  { name: 'Umbreon VMAX 215/203', id: 'swsh7-215' },
-  { name: 'Giratina V 186/196', id: 'swsh11-186' }
-];
+interface CardEntry {
+  id: string;
+  name: string;
+  region: string;
+}
 
-async function fetchEbayPrice(keyword: string): Promise<number | null> {
-  console.log(`[eBay] 正在搜尋: ${keyword} PSA 10...`);
+interface EnrichedMetadata {
+  ebayPrice?: number | null;
+  snkrPrice?: number | null;
+  ebayImageUrl?: string | null;
+  snkrImageUrl?: string | null;
+  updatedAt: string;
+}
+
+// 讀取現有卡牌資料
+const allCards: CardEntry[] = JSON.parse(fs.readFileSync(CARDS_FILE, 'utf-8'));
+let enrichedMetadata: Record<string, EnrichedMetadata> = {};
+
+// 讀取已存在的豐富化數據 (支援斷點續傳)
+if (fs.existsSync(METADATA_FILE)) {
+  try {
+    enrichedMetadata = JSON.parse(fs.readFileSync(METADATA_FILE, 'utf-8'));
+    console.log(`載入現有數據: ${Object.keys(enrichedMetadata).length} 筆`);
+  } catch (e) {
+    console.warn('讀取 meta 文件失敗，將建立新文件');
+  }
+}
+
+async function fetchEbayData(keyword: string): Promise<{ price: number | null; imageUrl: string | null }> {
   try {
     const url = `https://www.ebay.com/sch/i.html?_nkw=${encodeURIComponent(keyword)}+PSA+10&_sop=15`;
     const response = await axios.get(url, {
       headers: {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
-      }
+      },
+      timeout: 10000
     });
     
-    // 尋找 NT$ 價格 (eBay 會根據 IP 自動轉換)
+    // 提取 NT$ 價格
     const priceMatches = response.data.match(/NT\$\s*([\d,]+)/g);
-    if (priceMatches && priceMatches.length > 0) {
-      const prices = priceMatches.map((m: string) => parseInt(m.replace(/[^\d]/g, ''), 10));
-      // 取前幾筆結果的中位數以避免極端值
-      const validPrices = prices.filter((p: number) => p > 100); // 排除運費或太便宜的廣告
-      if (validPrices.length === 0) return null;
-      const topFew = validPrices.slice(0, 5).sort((a: number, b: number) => a - b);
-      return topFew[Math.floor(topFew.length / 2)];
+    let price: number | null = null;
+    if (priceMatches) {
+      const p = priceMatches.map((m: string) => parseInt(m.replace(/[^\d]/g, ''), 10)).filter((v: number) => v > 100);
+      if (p.length > 0) price = p[0];
     }
-    return null;
+    
+    // 試圖抓取第一個合適的商品圖片 (eBay 搜尋結果中的縮圖)
+    const imgMatch = response.data.match(/src="(https:\/\/i\.ebayimg\.com\/images\/g\/[\w-]+\/s-l\d+\.jpg)"/);
+    const imageUrl = imgMatch ? imgMatch[1] : null;
+
+    return { price, imageUrl };
   } catch (e: any) {
-    console.warn(`[eBay] 抓取失敗 (${keyword}):`, e.message);
-    return null;
+    return { price: null, imageUrl: null };
   }
 }
 
-async function fetchSnkrPrice(keyword: string): Promise<number | null> {
-  console.log(`[SNKRDUNK] 正在搜尋: ${keyword} PSA 10...`);
+async function fetchSnkrData(keyword: string): Promise<{ price: number | null; imageUrl: string | null }> {
   try {
-    // 優先使用英文版搜尋，因為關鍵字匹配較準
     const url = `https://snkrdunk.com/en/search/pokemon-cards?keyword=${encodeURIComponent(keyword)}+PSA10`;
     const response = await axios.get(url, {
       headers: {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8'
-      }
+      },
+      timeout: 10000
     });
 
-    // SNKRDUNK 是 Next.js 應用，通常數據在 __NEXT_DATA__ 中
+    let price: number | null = null;
+    let imageUrl: string | null = null;
+
     const nextDataMatch = response.data.match(/<script id="__NEXT_DATA__" type="application\/json">([\s\S]+?)<\/script>/);
     if (nextDataMatch) {
       const data = JSON.parse(nextDataMatch[1]);
-      // 不同版本的路徑可能不同，嘗試常見路徑
-      const products = data?.props?.pageProps?.initialState?.search?.products || 
-                       data?.props?.pageProps?.products || [];
+      const products = data?.props?.pageProps?.initialState?.search?.products || [];
       
       if (products.length > 0) {
-        let price = products[0].price || products[0].lowestPrice;
-        // 如果是日幣，簡單換算為台幣 (約 0.22)
-        if (price > 1000) return Math.floor(price * 0.22); 
-        return price;
+        const prod = products[0];
+        const rawPrice = prod.price || prod.lowestPrice;
+        price = rawPrice > 1000 ? Math.floor(rawPrice * 0.22) : rawPrice;
+        imageUrl = prod.image || prod.thumbnail || null;
       }
     }
-    
-    // 備援方案：正則匹配價格字串
-    const genericPriceMatch = response.data.match(/¥([\d,]+)/);
-    if (genericPriceMatch) {
-      const yen = parseInt(genericPriceMatch[1].replace(/,/g, ''), 10);
-      return Math.floor(yen * 0.22);
+
+    return { price, imageUrl };
+  } catch (e: any) {
+    return { price: null, imageUrl: null };
+  }
+}
+
+async function startWideScaleEnrichment(limitPerRun = 20) {
+  console.log(`--- 開始執行全量數據豐富化 (本次限制: ${limitPerRun} 筆) ---`);
+  
+  let processed = 0;
+  for (const card of allCards) {
+    if (enrichedMetadata[card.id] && enrichedMetadata[card.id].ebayPrice) {
+       // 如果已經有數據且已有價格（非 null），則跳過
+       continue;
     }
 
-    return null;
-  } catch (e: any) {
-    console.warn(`[SNKRDUNK] 抓取失敗 (${keyword}):`, e.message);
-    return null;
-  }
-}
+    if (processed >= limitPerRun) break;
 
-async function startScraping() {
-  const results: Record<string, { ebay: number | null; snkr: number | null, updatedAt: string }> = {};
+    // 生成精確搜尋詞：名稱 + 卡號
+    const idParts = card.id.split('-');
+    const cardNum = idParts[idParts.length - 1];
+    const searchQuery = `${card.name} ${cardNum}`;
 
-  for (const card of HOT_CARDS) {
-    const ebay = await fetchEbayPrice(card.name);
-    const snkr = await fetchSnkrPrice(card.name);
+    console.log(`[${processed + 1}] 正在豐富化: ${card.name} (${cardNum})...`);
     
-    results[card.id] = { 
-      ebay, 
-      snkr,
+    const [ebay, snkr] = await Promise.all([
+      fetchEbayData(searchQuery),
+      fetchSnkrData(searchQuery)
+    ]);
+
+    enrichedMetadata[card.id] = {
+      ebayPrice: ebay.price,
+      ebayImageUrl: ebay.imageUrl,
+      snkrPrice: snkr.price,
+      snkrImageUrl: snkr.imageUrl,
       updatedAt: new Date().toISOString()
     };
-    
-    // 緩減壓力，避免被 Ban
-    await new Promise(resolve => setTimeout(resolve, 3000));
+
+    processed++;
+
+    // 每 5 筆寫入一次磁碟，確保進度保存
+    if (processed % 5 === 0) {
+      fs.writeFileSync(METADATA_FILE, JSON.stringify(enrichedMetadata, null, 2));
+      console.log(`> 已暫存 ${processed} 筆進度至磁碟`);
+    }
+
+    // 隨機延遲 3-6 秒以防被 Ban
+    await new Promise(r => setTimeout(r, 3000 + Math.random() * 3000));
   }
 
-  const outDir = path.join(__dirname, '../src/data');
-  if (!fs.existsSync(outDir)) fs.mkdirSync(outDir, { recursive: true });
-  
-  fs.writeFileSync(
-    path.join(outDir, 'graded-prices.json'), 
-    JSON.stringify(results, null, 2)
-  );
-  
-  console.log('\n✨ 鑑定卡價格更新完成！');
-  console.log('檔案路徑: src/data/graded-prices.json');
+  // 最終寫入
+  fs.writeFileSync(METADATA_FILE, JSON.stringify(enrichedMetadata, null, 2));
+  console.log(`\n✨ 本次豐富化完成！總計處理: ${processed} 筆。`);
 }
 
-startScraping();
+// 預設每次跑 50 筆
+startWideScaleEnrichment(50);

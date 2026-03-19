@@ -7,6 +7,7 @@ import localCardsData from '../data/cards.json'
 import { useAuthStore } from '../store/useAuthStore'
 import { usePortfolioStore } from '../store/usePortfolioStore'
 import gradedPrices from '../data/graded-prices.json'
+import enrichedMetadata from '../data/enriched-metadata.json'
 
 interface PokemonCard {
   id: string
@@ -147,24 +148,32 @@ export default function Search() {
     let snkrPriceDisplay = '---'
     let ebayPriceDisplay = '---'
 
-    // 優先使用爬取的真實鑑定價格數據
-    const gradedData = (gradedPrices as any)[card.id]
+    // 優先使用全量豐富化數據，再回退到特定熱門卡牌數據
+    const enriched = (enrichedMetadata as any)[card.id]
+    const hotGraded = (gradedPrices as any)[card.id]
+    const finalMetadata = enriched || hotGraded
 
-    if (gradedData) {
-      if (gradedData.snkr) snkrPriceDisplay = `¥ ${Math.floor(gradedData.snkr).toLocaleString()}`
-      if (gradedData.ebay) ebayPriceDisplay = `¥ ${Math.floor(gradedData.ebay).toLocaleString()}`
+    if (finalMetadata) {
+      if (finalMetadata.snkrPrice || finalMetadata.snkr) {
+        snkrPriceDisplay = `¥ ${Math.floor(finalMetadata.snkrPrice || finalMetadata.snkr).toLocaleString()}`
+      }
+      if (finalMetadata.ebayPrice || finalMetadata.ebay) {
+        ebayPriceDisplay = `¥ ${Math.floor(finalMetadata.ebayPrice || finalMetadata.ebay).toLocaleString()}`
+      }
     } else if (marketUsd) {
       let baseNtd = marketUsd * 32
       if (version === 'JP') baseNtd = baseNtd * 1.3
       else if (version === 'TW') baseNtd = baseNtd * 0.75
 
-      // 備援方案：以基礎市場價套用 PSA 10 溢價倍率 (SNKR 4.2x / eBay 3.8x)
       const snkrVal = baseNtd * 4.2
       snkrPriceDisplay = `¥ ${Math.floor(snkrVal).toLocaleString()}`
 
       const ebayVal = baseNtd * 3.8
       ebayPriceDisplay = `¥ ${Math.floor(ebayVal).toLocaleString()}`
     }
+
+    // 獲取鑑定卡實拍圖 (優先使用 eBay 縮圖，因為通常清晰度較佳)
+    const realImageUrl = finalMetadata?.ebayImageUrl || finalMetadata?.snkrImageUrl
 
     const setId = card.id.split('-')[0]
     
@@ -178,12 +187,23 @@ export default function Search() {
         <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-red-500 via-yellow-500 to-red-500 opacity-0 group-hover:opacity-100 transition-opacity" />
         
         <div className="bg-slate-50/50 p-3 md:p-4 flex justify-center items-center relative aspect-[3/4] overflow-hidden">
-          <img src={card.images.small} alt={card.name} className="h-full object-contain group-hover:scale-110 transition-transform duration-500 drop-shadow-xl" loading="lazy" />
+          {/* 優先顯示鑑定實拍圖，若無則顯示官網標案圖 */}
+          <img 
+            src={realImageUrl || card.images.small} 
+            alt={card.name} 
+            className={`h-full object-contain group-hover:scale-110 transition-transform duration-500 drop-shadow-xl ${realImageUrl ? 'border-2 border-slate-200 rounded' : ''}`} 
+            loading="lazy" 
+          />
           
           <div className="absolute top-2 left-2 flex flex-col gap-1">
              <span className="bg-white/90 backdrop-blur px-1.5 py-0.5 rounded text-[8px] font-black text-slate-800 shadow-sm border border-slate-100 uppercase tracking-tighter">
                 {setId}
              </span>
+             {realImageUrl && (
+               <span className="bg-green-500 text-white px-1.5 py-0.5 rounded text-[7px] font-black shadow-sm uppercase tracking-tighter">
+                 鑑定實拍
+               </span>
+             )}
           </div>
           
           <div className="absolute top-2 right-2 bg-slate-900/90 text-[8px] text-white px-2 py-1 rounded font-black flex items-center shadow-lg transform translate-x-2 opacity-0 group-hover:translate-x-0 group-hover:opacity-100 transition-all">
