@@ -161,7 +161,11 @@ export default function Search() {
     const setId = card.id.split('-')[0]
     
     return (
-      <div key={card.id} className="bg-white rounded-xl border border-slate-100 shadow-sm hover:shadow-2xl hover:-translate-y-2 hover:border-red-500 transition-all overflow-hidden flex flex-col group cursor-pointer relative">
+      <div 
+        key={card.id} 
+        onClick={() => navigate(`/card/${card.id}`)}
+        className="bg-white rounded-xl border border-slate-100 shadow-sm hover:shadow-2xl hover:-translate-y-2 hover:border-red-500 transition-all overflow-hidden flex flex-col group cursor-pointer relative"
+      >
         {/* 背景裝飾 */}
         <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-red-500 via-yellow-500 to-red-500 opacity-0 group-hover:opacity-100 transition-opacity" />
         

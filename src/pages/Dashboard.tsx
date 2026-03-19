@@ -12,10 +12,10 @@ const mockPriceData = [
 ]
 
 const recentTrades = [
-  { id: 1, card: '噴火龍 ex (SAR)', price: 4200, platform: 'SNKRDUNK', time: '10 分鐘前', trend: 'up' },
-  { id: 2, card: '皮卡丘 VMAX', price: 1800, platform: 'eBay', time: '1 小時前', trend: 'down' },
-  { id: 3, card: '夢幻 ex (UR)', price: 2100, platform: 'SNKRDUNK', time: '2 小時前', trend: 'up' },
-  { id: 4, card: '烈空坐 VMAX (SA)', price: 8500, platform: 'eBay', time: '4 小時前', trend: 'up' },
+  { id: 1, cardId: 'sv3-125', card: '噴火龍 ex (SAR)', price: 4200, platform: 'SNKRDUNK', time: '10 分鐘前', trend: 'up' },
+  { id: 2, cardId: 'sv4a-131', card: '皮卡丘 VMAX', price: 1800, platform: 'eBay', time: '1 小時前', trend: 'down' },
+  { id: 3, cardId: 'sv4a-131', card: '夢幻 ex (UR)', price: 2100, platform: 'SNKRDUNK', time: '2 小時前', trend: 'up' },
+  { id: 4, cardId: 'sv4a-131', card: '烈空坐 VMAX (SA)', price: 8500, platform: 'eBay', time: '4 小時前', trend: 'up' },
 ]
 
 export default function Dashboard() {
@@ -137,7 +137,11 @@ export default function Dashboard() {
           </h3>
           <div className="space-y-2.5 md:space-y-3 flex-1">
             {recentTrades.map((trade) => (
-              <div key={trade.id} className="flex items-center justify-between p-2.5 md:p-3 rounded-xl bg-slate-50 border border-slate-100 hover:bg-red-50 hover:border-red-100 transition-all hover:-translate-y-0.5 cursor-pointer">
+              <div 
+                key={trade.id} 
+                onClick={() => navigate(`/card/${trade.cardId}`)}
+                className="flex items-center justify-between p-2.5 md:p-3 rounded-xl bg-slate-50 border border-slate-100 hover:bg-red-50 hover:border-red-100 transition-all hover:-translate-y-0.5 cursor-pointer"
+              >
                 <div className="min-w-0 flex-1 mr-2">
                   <p className="font-bold text-slate-800 text-xs md:text-sm truncate">{trade.card}</p>
                   <div className="flex items-center text-[10px] mt-1 space-x-2">

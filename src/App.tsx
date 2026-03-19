@@ -7,6 +7,7 @@ import Search from './pages/Search'
 import Portfolio from './pages/Portfolio'
 import Login from './pages/Login'
 import MarketAlerts from './pages/MarketAlerts'
+import CardDetail from './pages/CardDetail'
 import ProtectedRoute from './components/auth/ProtectedRoute'
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
             <Route path="/" element={<Dashboard />} />
             <Route path="/search" element={<Search />} />
             <Route path="/market-alerts/:type" element={<MarketAlerts />} />
+            <Route path="/card/:id" element={<CardDetail />} />
             <Route path="/login" element={<Login />} />
             <Route path="/portfolio" element={
               <ProtectedRoute>
