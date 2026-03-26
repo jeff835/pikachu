@@ -416,7 +416,7 @@ export default function Search() {
               </button>
             </div>
           ) : (
-            <div className="grid grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 md:gap-6">
+            <div className="grid grid-cols-[repeat(auto-fill,minmax(150px,1fr))] md:grid-cols-[repeat(auto-fill,minmax(200px,1fr))] xl:grid-cols-[repeat(auto-fill,minmax(240px,1fr))] gap-4 md:gap-6">
               {searchQuery ? displayCards.map(renderCard) : displayPopular.map(renderCard)}
             </div>
           )}
