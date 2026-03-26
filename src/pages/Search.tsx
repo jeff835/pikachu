@@ -306,17 +306,17 @@ export default function Search() {
   return (
     <div className="animate-in fade-in duration-500 pb-20 max-w-[1600px] mx-auto">
       <div className="mb-0 pt-4">
-        <div className="flex flex-col md:flex-row md:items-center justify-between gap-6 pb-6 mt-4">
-          <div className="space-y-1">
-            <h1 className="text-xl md:text-2xl font-bold text-slate-800 flex items-center">
+        <div className="flex flex-col lg:flex-row lg:items-center justify-between gap-4 md:gap-6 pb-6 mt-4">
+          <div className="space-y-1 shrink-0">
+            <h1 className="text-lg md:text-xl font-bold text-slate-800 flex flex-wrap items-center gap-x-1.5 md:gap-x-2">
               {searchQuery ? (
                 <>
-                  <span className="text-slate-400 font-medium mr-2">搜尋結果:</span>
-                  <span className="text-red-600 font-black tracking-tight">{searchQuery}</span>
-                  <span className="ml-2 text-slate-400 font-bold text-sm">({displayCards.length || displayPopular.length} 筆)</span>
+                  <span className="text-slate-400 font-medium whitespace-nowrap">搜尋結果:</span>
+                  <span className="text-red-600 font-black tracking-tight max-w-[200px] sm:max-w-xs md:max-w-sm truncate" title={searchQuery}>{searchQuery}</span>
+                  <span className="text-slate-400 font-bold text-xs md:text-sm whitespace-nowrap">({displayCards.length || displayPopular.length} 筆)</span>
                 </>
               ) : (
-                <><Sparkles className="w-6 h-6 text-yellow-500 mr-2" /> 探索卡牌庫</>
+                <><Sparkles className="w-5 h-5 text-yellow-500" /> <span className="whitespace-nowrap">探索卡牌庫</span></>
               )}
             </h1>
           </div>
