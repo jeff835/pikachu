@@ -70,6 +70,16 @@ export const getJapanesePokemonName = (chineseName: string): string => {
     '蒼響': 'ザシアン',
     '藏瑪然特': 'ザマゼンタ',
     '武道熊師': 'ウーラオス',
+    '蕾冠王': 'バドレックス',
+    '眷戀雲': 'ラブトロス',
+    '波加曼': 'ポッチャマ',
+    '小卡比獸': 'ゴンベ',
+    '路里路里': 'ルリリ',
+    '利歐路': 'リオル',
+    '小球飛魚': 'タマンタ',
+    '魔尼尼': 'マネネ',
+    '盆才怪': 'ウソハチ',
+    '愛哭樹': 'ウソハチ',
   }
   return map[chineseName.trim()] || chineseName.trim()
 }

@@ -9,143 +9,132 @@ const DATA_DIR = path.join(__dirname, '../src/data');
 const CARDS_FILE = path.join(DATA_DIR, 'cards.json');
 const METADATA_FILE = path.join(DATA_DIR, 'enriched-metadata.json');
 
-interface CardEntry {
-  id: string;
-  name: string;
-  region: string;
-}
+// 從 pokemonMap 導入映射邏輯 (這裡模擬或導入)
+const POKEMON_JA_MAP: Record<string, string> = {
+  '皮卡丘': 'ピカチュウ', '噴火龍': 'リザードン', '妙蛙種子': 'フシギダネ', '水箭龜': 'カメックス',
+  '耿鬼': 'ゲンガー', '卡比獸': 'カビゴン', '超夢': 'ミュウツー', '夢幻': 'ミュウ',
+  '洛奇亞': 'ルギア', '鳳王': 'ホウオウ', '水君': 'スイクン', '烈空坐': 'レックウザ',
+  '伊布': 'イーブイ', '沙奈朵': 'サーナイト', '甲賀忍蛙': 'ゲッコウガ'
+};
 
+const POKEMON_EN_MAP: Record<string, string> = {
+  '皮卡丘': 'Pikachu', '噴火龍': 'Charizard', '妙蛙種子': 'Bulbasaur', '水箭龜': 'Blastoise',
+  '伊布': 'Eevee', '耿鬼': 'Gengar', '烈空坐': 'Rayquaza', '超夢': 'Mewtwo', '夢幻': 'Mew'
+};
+
+interface CardEntry { id: string; name: string; region: string; }
 interface EnrichedMetadata {
   ebayPrice?: number | null;
   snkrPrice?: number | null;
   ebayImageUrl?: string | null;
   snkrImageUrl?: string | null;
+  lastAttempted?: string;
   updatedAt: string;
 }
 
-// 讀取現有卡牌資料
 const allCards: CardEntry[] = JSON.parse(fs.readFileSync(CARDS_FILE, 'utf-8'));
 let enrichedMetadata: Record<string, EnrichedMetadata> = {};
 
-// 讀取已存在的豐富化數據 (支援斷點續傳)
 if (fs.existsSync(METADATA_FILE)) {
   try {
     enrichedMetadata = JSON.parse(fs.readFileSync(METADATA_FILE, 'utf-8'));
-    console.log(`載入現有數據: ${Object.keys(enrichedMetadata).length} 筆`);
-  } catch (e) {
-    console.warn('讀取 meta 文件失敗，將建立新文件');
-  }
+  } catch (e) {}
 }
 
-async function fetchEbayData(keyword: string): Promise<{ price: number | null; imageUrl: string | null }> {
+async function fetchFromEbay(query: string) {
   try {
-    const url = `https://www.ebay.com/sch/i.html?_nkw=${encodeURIComponent(keyword)}+PSA+10&_sop=15`;
+    const url = `https://www.ebay.com/sch/i.html?_nkw=${encodeURIComponent(query)}&_sop=15`;
     const response = await axios.get(url, {
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
-      },
-      timeout: 10000
+      headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0 Safari/537.36' },
+      timeout: 8000
     });
-    
-    // 提取 NT$ 價格
-    const priceMatches = response.data.match(/NT\$\s*([\d,]+)/g);
+    const body = response.data;
+    const priceMatches = body.match(/(?:NT\$|US\$)\s*([\d,.]+)/g);
     let price: number | null = null;
     if (priceMatches) {
-      const p = priceMatches.map((m: string) => parseInt(m.replace(/[^\d]/g, ''), 10)).filter((v: number) => v > 100);
-      if (p.length > 0) price = p[0];
+      const validPrices = priceMatches.map((m: string) => {
+        const val = parseFloat(m.replace(/[^\d.]/g, ''));
+        return m.includes('US$') ? val * 32 : val;
+      }).filter((v: number) => v > 100);
+      if (validPrices.length > 0) price = Math.floor(validPrices[0]);
     }
-    
-    // 試圖抓取第一個合適的商品圖片 (eBay 搜尋結果中的縮圖)
-    const imgMatch = response.data.match(/src="(https:\/\/i\.ebayimg\.com\/images\/g\/[\w-]+\/s-l\d+\.jpg)"/);
-    const imageUrl = imgMatch ? imgMatch[1] : null;
-
-    return { price, imageUrl };
-  } catch (e: any) {
-    return { price: null, imageUrl: null };
-  }
+    const imgMatch = body.match(/(?:src|data-src)="(https:\/\/i\.ebayimg\.com\/images\/g\/[\w-]+\/s-l\d+\.(?:jpg|webp|jpeg))"/);
+    return { price, imageUrl: imgMatch ? imgMatch[1] : null };
+  } catch (e) { return { price: null, imageUrl: null }; }
 }
 
-async function fetchSnkrData(keyword: string): Promise<{ price: number | null; imageUrl: string | null }> {
+async function fetchFromSNKRDunk(query: string) {
   try {
-    const url = `https://snkrdunk.com/en/search/pokemon-cards?keyword=${encodeURIComponent(keyword)}+PSA10`;
+    // 模擬 SNKRDUNK 抓取邏輯 (由於 SNKRDUNK 有 Cloudflare，這裡實作特徵比對架構)
+    const url = `https://snkrdunk.com/products/search?q=${encodeURIComponent(query)}`;
     const response = await axios.get(url, {
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8'
-      },
-      timeout: 10000
+      headers: { 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' },
+      timeout: 8000
     });
-
+    const body = response.data;
+    
+    // 日幣提取 (JPY 符號或 ¥)
+    const jpyMatches = body.match(/(?:¥|円)\s*([\d,]+)/g);
     let price: number | null = null;
-    let imageUrl: string | null = null;
-
-    const nextDataMatch = response.data.match(/<script id="__NEXT_DATA__" type="application\/json">([\s\S]+?)<\/script>/);
-    if (nextDataMatch) {
-      const data = JSON.parse(nextDataMatch[1]);
-      const products = data?.props?.pageProps?.initialState?.search?.products || [];
-      
-      if (products.length > 0) {
-        const prod = products[0];
-        const rawPrice = prod.price || prod.lowestPrice;
-        price = rawPrice > 1000 ? Math.floor(rawPrice * 0.22) : rawPrice;
-        imageUrl = prod.image || prod.thumbnail || null;
-      }
+    if (jpyMatches) {
+      const validPrices = jpyMatches.map((m: string) => {
+        return parseFloat(m.replace(/[^\d]/g, '')) * 0.22; // JPY to NTD
+      }).filter((v: number) => v > 100);
+      if (validPrices.length > 0) price = Math.floor(validPrices[0]);
     }
 
-    return { price, imageUrl };
-  } catch (e: any) {
-    return { price: null, imageUrl: null };
-  }
+    const imgMatch = body.match(/src="(https:\/\/img\.snkrdunk\.com\/images\/product\/[\w/]+\.jpg)"/);
+    return { price, imageUrl: imgMatch ? imgMatch[1] : null };
+  } catch (e) { return { price: null, imageUrl: null }; }
 }
 
-async function startWideScaleEnrichment(limitPerRun = 20) {
-  console.log(`--- 開始執行全量數據豐富化 (本次限制: ${limitPerRun} 筆) ---`);
-  
+async function startEnrichment(limit = 50, forceAll = false) {
+  console.log(`🚀 啟動行情強化爬蟲 (批次: ${limit})`);
   let processed = 0;
+  const now = new Date();
+
   for (const card of allCards) {
-    if (enrichedMetadata[card.id] && enrichedMetadata[card.id].ebayPrice) {
-       // 如果已經有數據且已有價格（非 null），則跳過
-       continue;
+    const existing = enrichedMetadata[card.id];
+    if (existing && existing.ebayPrice && existing.snkrPrice && (now.getTime() - new Date(existing.updatedAt).getTime()) < 86400000 * 7) continue;
+
+    if (!forceAll && processed >= limit) break;
+
+    const [setId, cardNum] = card.id.split('-');
+    const jaName = POKEMON_JA_MAP[card.name] || card.name;
+    const enName = POKEMON_EN_MAP[card.name] || card.name;
+
+    console.log(`[${processed + 1}] 正在抓取: ${card.name} (${card.id})`);
+
+    // 1. 抓取 SNKRDUNK (優先處理日版關鍵字)
+    let snkrResult = await fetchFromSNKRDunk(`${jaName} ${cardNum}/${setId} PSA 10`);
+    if (!snkrResult.price) {
+      snkrResult = await fetchFromSNKRDunk(`${jaName} PSA 10`);
     }
 
-    if (processed >= limitPerRun) break;
-
-    // 生成精確搜尋詞：名稱 + 卡號
-    const idParts = card.id.split('-');
-    const cardNum = idParts[idParts.length - 1];
-    const searchQuery = `${card.name} ${cardNum}`;
-
-    console.log(`[${processed + 1}] 正在豐富化: ${card.name} (${cardNum})...`);
-    
-    const [ebay, snkr] = await Promise.all([
-      fetchEbayData(searchQuery),
-      fetchSnkrData(searchQuery)
-    ]);
+    // 2. 抓取 eBay (優先美版關鍵字)
+    let ebayResult = await fetchFromEbay(`${enName} ${cardNum} PSA 10`);
+    if (!ebayResult.price) {
+      ebayResult = await fetchFromEbay(`${card.id} PSA 10`);
+    }
 
     enrichedMetadata[card.id] = {
-      ebayPrice: ebay.price,
-      ebayImageUrl: ebay.imageUrl,
-      snkrPrice: snkr.price,
-      snkrImageUrl: snkr.imageUrl,
-      updatedAt: new Date().toISOString()
+      ...existing,
+      ebayPrice: ebayResult.price || existing?.ebayPrice || null,
+      ebayImageUrl: ebayResult.imageUrl || existing?.ebayImageUrl || null,
+      snkrPrice: snkrResult.price || existing?.snkrPrice || null,
+      snkrImageUrl: snkrResult.imageUrl || existing?.snkrImageUrl || null,
+      lastAttempted: now.toISOString(),
+      updatedAt: (ebayResult.price || snkrResult.price) ? now.toISOString() : (existing?.updatedAt || now.toISOString())
     };
 
     processed++;
-
-    // 每 5 筆寫入一次磁碟，確保進度保存
-    if (processed % 5 === 0) {
-      fs.writeFileSync(METADATA_FILE, JSON.stringify(enrichedMetadata, null, 2));
-      console.log(`> 已暫存 ${processed} 筆進度至磁碟`);
-    }
-
-    // 隨機延遲 3-6 秒以防被 Ban
-    await new Promise(r => setTimeout(r, 3000 + Math.random() * 3000));
+    fs.writeFileSync(METADATA_FILE, JSON.stringify(enrichedMetadata, null, 2));
+    
+    const delay = (ebayResult.price || snkrResult.price) ? 3000 : 1000;
+    await new Promise(r => setTimeout(r, delay + Math.random() * 1000));
   }
-
-  // 最終寫入
-  fs.writeFileSync(METADATA_FILE, JSON.stringify(enrichedMetadata, null, 2));
-  console.log(`\n✨ 本次豐富化完成！總計處理: ${processed} 筆。`);
+  console.log(`✨ 完成！共更新 ${processed} 筆數據。`);
 }
 
-// 預設每次跑 50 筆
-startWideScaleEnrichment(50);
+const isAll = process.argv.includes('--all');
+startEnrichment(isAll ? 9999 : 50, isAll);

@@ -12,5 +12,673 @@
     "snkrPrice": 14800,
     "snkrImageUrl": "https://snkrdunk.com/v1/products/215784/images/1.jpg",
     "updatedAt": "2026-03-20T00:00:00.000Z"
+  },
+  "S7D-001": {
+    "ebayPrice": 2033,
+    "ebayImageUrl": null,
+    "snkrPrice": null,
+    "snkrImageUrl": null,
+    "lastAttempted": "2026-03-26T03:42:09.700Z",
+    "updatedAt": "2026-03-26T03:42:09.700Z"
+  },
+  "SN-001": {
+    "ebayPrice": 1902,
+    "ebayImageUrl": null,
+    "snkrPrice": null,
+    "snkrImageUrl": null,
+    "lastAttempted": "2026-03-26T03:42:09.700Z",
+    "updatedAt": "2026-03-26T03:42:09.700Z"
+  },
+  "S6K-001": {
+    "ebayPrice": 25586,
+    "ebayImageUrl": null,
+    "snkrPrice": null,
+    "snkrImageUrl": null,
+    "lastAttempted": "2026-03-26T03:42:09.700Z",
+    "updatedAt": "2026-03-26T03:42:09.700Z"
+  },
+  "S8-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "snkrPrice": null,
+    "snkrImageUrl": null,
+    "lastAttempted": "2026-03-26T03:44:07.426Z",
+    "updatedAt": "2026-03-26T03:42:09.700Z"
+  },
+  "SDL-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "snkrPrice": null,
+    "snkrImageUrl": null,
+    "lastAttempted": "2026-03-26T03:44:11.439Z",
+    "updatedAt": "2026-03-26T03:42:09.700Z"
+  },
+  "SDM-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "snkrPrice": null,
+    "snkrImageUrl": null,
+    "lastAttempted": "2026-03-26T03:44:15.421Z",
+    "updatedAt": "2026-03-26T03:42:09.700Z"
+  },
+  "SCD-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "snkrPrice": null,
+    "snkrImageUrl": null,
+    "lastAttempted": "2026-03-26T03:44:20.738Z",
+    "updatedAt": "2026-03-26T03:42:09.700Z"
+  },
+  "S10b-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "snkrPrice": null,
+    "snkrImageUrl": null,
+    "lastAttempted": "2026-03-26T03:44:25.334Z",
+    "updatedAt": "2026-03-26T03:42:09.700Z"
+  },
+  "SP6-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "snkrPrice": null,
+    "snkrImageUrl": null,
+    "lastAttempted": "2026-03-26T03:44:31.515Z",
+    "updatedAt": "2026-03-26T03:42:09.700Z"
+  },
+  "S6a-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "snkrPrice": null,
+    "snkrImageUrl": null,
+    "lastAttempted": "2026-03-26T03:44:37.849Z",
+    "updatedAt": "2026-03-26T03:42:09.700Z"
+  },
+  "S9a-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "snkrPrice": null,
+    "snkrImageUrl": null,
+    "lastAttempted": "2026-03-26T03:44:41.847Z",
+    "updatedAt": "2026-03-26T03:42:09.700Z"
+  },
+  "SCC-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "snkrPrice": null,
+    "snkrImageUrl": null,
+    "lastAttempted": "2026-03-26T03:44:46.192Z",
+    "updatedAt": "2026-03-26T03:42:09.700Z"
+  },
+  "SCB-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "snkrPrice": null,
+    "snkrImageUrl": null,
+    "lastAttempted": "2026-03-26T03:44:50.338Z",
+    "updatedAt": "2026-03-26T03:42:09.700Z"
+  },
+  "SI-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "snkrPrice": null,
+    "snkrImageUrl": null,
+    "lastAttempted": "2026-03-26T03:44:54.521Z",
+    "updatedAt": "2026-03-26T03:42:09.700Z"
+  },
+  "S12a-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "snkrPrice": null,
+    "snkrImageUrl": null,
+    "lastAttempted": "2026-03-26T03:45:00.216Z",
+    "updatedAt": "2026-03-26T03:42:09.700Z"
+  },
+  "S5R-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "snkrPrice": null,
+    "snkrImageUrl": null,
+    "lastAttempted": "2026-03-26T03:45:05.309Z",
+    "updatedAt": "2026-03-26T03:42:09.700Z"
+  },
+  "SPZ-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "snkrPrice": null,
+    "snkrImageUrl": null,
+    "lastAttempted": "2026-03-26T03:45:10.399Z",
+    "updatedAt": "2026-03-26T03:42:09.700Z"
+  },
+  "S6H-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "snkrPrice": null,
+    "snkrImageUrl": null,
+    "lastAttempted": "2026-03-26T03:45:14.758Z",
+    "updatedAt": "2026-03-26T03:42:09.700Z"
+  },
+  "SH-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "snkrPrice": null,
+    "snkrImageUrl": null,
+    "lastAttempted": "2026-03-26T03:45:20.042Z",
+    "updatedAt": "2026-03-26T03:42:09.700Z"
+  },
+  "SPD-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "snkrPrice": null,
+    "snkrImageUrl": null,
+    "lastAttempted": "2026-03-26T03:45:25.709Z",
+    "updatedAt": "2026-03-26T03:42:09.700Z"
+  },
+  "S11-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "snkrPrice": null,
+    "snkrImageUrl": null,
+    "lastAttempted": "2026-03-26T03:45:30.665Z",
+    "updatedAt": "2026-03-26T03:42:09.700Z"
+  },
+  "S7R-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "snkrPrice": null,
+    "snkrImageUrl": null,
+    "lastAttempted": "2026-03-26T03:45:36.241Z",
+    "updatedAt": "2026-03-26T03:42:09.700Z"
+  },
+  "S10a-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "snkrPrice": null,
+    "snkrImageUrl": null,
+    "lastAttempted": "2026-03-26T03:45:40.733Z",
+    "updatedAt": "2026-03-26T03:42:09.700Z"
+  },
+  "S8a-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "snkrPrice": null,
+    "snkrImageUrl": null,
+    "lastAttempted": "2026-03-26T03:45:45.101Z",
+    "updatedAt": "2026-03-26T03:42:09.700Z"
+  },
+  "SLD-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "snkrPrice": null,
+    "snkrImageUrl": null,
+    "lastAttempted": "2026-03-26T03:45:49.723Z",
+    "updatedAt": "2026-03-26T03:42:09.700Z"
+  },
+  "SK-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:45:55.124Z",
+    "updatedAt": "2026-03-26T03:45:55.124Z"
+  },
+  "SV7a-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:46:00.790Z",
+    "updatedAt": "2026-03-26T03:46:00.790Z"
+  },
+  "SP5-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:46:06.432Z",
+    "updatedAt": "2026-03-26T03:46:06.432Z"
+  },
+  "SLL-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:46:12.194Z",
+    "updatedAt": "2026-03-26T03:46:12.194Z"
+  },
+  "S10D-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:46:17.701Z",
+    "updatedAt": "2026-03-26T03:46:17.701Z"
+  },
+  "SV7-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:46:22.776Z",
+    "updatedAt": "2026-03-26T03:46:22.776Z"
+  },
+  "SVEL-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:46:28.481Z",
+    "updatedAt": "2026-03-26T03:46:28.481Z"
+  },
+  "S4-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:46:32.548Z",
+    "updatedAt": "2026-03-26T03:46:32.548Z"
+  },
+  "S10P-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:46:37.602Z",
+    "updatedAt": "2026-03-26T03:46:37.602Z"
+  },
+  "SV3-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:46:43.332Z",
+    "updatedAt": "2026-03-26T03:46:43.332Z"
+  },
+  "S5a-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:46:48.918Z",
+    "updatedAt": "2026-03-26T03:46:48.918Z"
+  },
+  "SVAW-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:46:53.735Z",
+    "updatedAt": "2026-03-26T03:46:53.735Z"
+  },
+  "SJ-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:46:58.320Z",
+    "updatedAt": "2026-03-26T03:46:58.320Z"
+  },
+  "SVAL-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:47:02.998Z",
+    "updatedAt": "2026-03-26T03:47:02.998Z"
+  },
+  "S4a-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:47:08.569Z",
+    "updatedAt": "2026-03-26T03:47:08.569Z"
+  },
+  "S5I-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:47:12.586Z",
+    "updatedAt": "2026-03-26T03:47:12.586Z"
+  },
+  "SV4K-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:47:16.498Z",
+    "updatedAt": "2026-03-26T03:47:16.498Z"
+  },
+  "SV2a-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:47:20.849Z",
+    "updatedAt": "2026-03-26T03:47:20.849Z"
+  },
+  "SVC-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:47:25.245Z",
+    "updatedAt": "2026-03-26T03:47:25.245Z"
+  },
+  "SV1V-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:47:29.421Z",
+    "updatedAt": "2026-03-26T03:47:29.421Z"
+  },
+  "S8b-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:47:35.062Z",
+    "updatedAt": "2026-03-26T03:47:35.062Z"
+  },
+  "SVEM-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:47:39.781Z",
+    "updatedAt": "2026-03-26T03:47:39.781Z"
+  },
+  "SV1S-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:47:44.371Z",
+    "updatedAt": "2026-03-26T03:47:44.371Z"
+  },
+  "SVAM-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:47:49.440Z",
+    "updatedAt": "2026-03-26T03:47:49.440Z"
+  },
+  "S9-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:47:54.095Z",
+    "updatedAt": "2026-03-26T03:47:54.095Z"
+  },
+  "SV8-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:47:59.939Z",
+    "updatedAt": "2026-03-26T03:47:59.939Z"
+  },
+  "SV3a-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:48:04.049Z",
+    "updatedAt": "2026-03-26T03:48:04.049Z"
+  },
+  "SV5a-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:48:08.317Z",
+    "updatedAt": "2026-03-26T03:48:08.317Z"
+  },
+  "SVHK-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:48:12.997Z",
+    "updatedAt": "2026-03-26T03:48:12.997Z"
+  },
+  "SV1a-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:48:17.950Z",
+    "updatedAt": "2026-03-26T03:48:17.950Z"
+  },
+  "SV4M-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:48:22.488Z",
+    "updatedAt": "2026-03-26T03:48:22.488Z"
+  },
+  "SV5M-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:48:26.420Z",
+    "updatedAt": "2026-03-26T03:48:26.420Z"
+  },
+  "SVF-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:48:31.370Z",
+    "updatedAt": "2026-03-26T03:48:31.370Z"
+  },
+  "SVD-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:48:36.042Z",
+    "updatedAt": "2026-03-26T03:48:36.042Z"
+  },
+  "SV2D-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:48:40.512Z",
+    "updatedAt": "2026-03-26T03:48:40.512Z"
+  },
+  "SV6-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:48:45.016Z",
+    "updatedAt": "2026-03-26T03:48:45.016Z"
+  },
+  "SV9-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:48:50.872Z",
+    "updatedAt": "2026-03-26T03:48:50.872Z"
+  },
+  "SV4a-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:48:55.704Z",
+    "updatedAt": "2026-03-26T03:48:55.704Z"
+  },
+  "SV5K-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:49:01.445Z",
+    "updatedAt": "2026-03-26T03:49:01.445Z"
+  },
+  "SCA-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:49:05.609Z",
+    "updatedAt": "2026-03-26T03:49:05.609Z"
+  },
+  "SVHM-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:49:10.243Z",
+    "updatedAt": "2026-03-26T03:49:10.243Z"
+  },
+  "SV9a-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:49:14.112Z",
+    "updatedAt": "2026-03-26T03:49:14.112Z"
+  },
+  "SVP1-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:49:19.140Z",
+    "updatedAt": "2026-03-26T03:49:19.140Z"
+  },
+  "S11a-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:49:24.689Z",
+    "updatedAt": "2026-03-26T03:49:24.689Z"
+  },
+  "SVB-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:49:29.658Z",
+    "updatedAt": "2026-03-26T03:49:29.658Z"
+  },
+  "SV2P-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:49:35.082Z",
+    "updatedAt": "2026-03-26T03:49:35.082Z"
+  },
+  "SV10-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:49:39.261Z",
+    "updatedAt": "2026-03-26T03:49:39.262Z"
+  },
+  "SDP-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:49:43.475Z",
+    "updatedAt": "2026-03-26T03:49:43.475Z"
+  },
+  "SV8a-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:49:48.319Z",
+    "updatedAt": "2026-03-26T03:49:48.319Z"
+  },
+  "S12-001-001": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:49:54.209Z",
+    "updatedAt": "2026-03-26T03:49:54.209Z"
+  },
+  "S7D-002-002": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:49:58.203Z",
+    "updatedAt": "2026-03-26T03:49:58.203Z"
+  },
+  "SN-002-002": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:50:02.099Z",
+    "updatedAt": "2026-03-26T03:50:02.099Z"
+  },
+  "S6K-002-002": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:50:06.088Z",
+    "updatedAt": "2026-03-26T03:50:06.088Z"
+  },
+  "S8-002-002": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:50:10.202Z",
+    "updatedAt": "2026-03-26T03:50:10.202Z"
+  },
+  "SDL-002-002": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:50:15.142Z",
+    "updatedAt": "2026-03-26T03:50:15.142Z"
+  },
+  "SDM-002-002": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:50:19.985Z",
+    "updatedAt": "2026-03-26T03:50:19.985Z"
+  },
+  "SCD-002-002": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:50:24.348Z",
+    "updatedAt": "2026-03-26T03:50:24.348Z"
+  },
+  "S10b-002-002": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:50:29.584Z",
+    "updatedAt": "2026-03-26T03:50:29.584Z"
+  },
+  "SP6-002-002": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:50:34.608Z",
+    "updatedAt": "2026-03-26T03:50:34.608Z"
+  },
+  "S6a-002-002": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:50:39.788Z",
+    "updatedAt": "2026-03-26T03:50:39.788Z"
+  },
+  "S9a-002-002": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:50:44.953Z",
+    "updatedAt": "2026-03-26T03:50:44.953Z"
+  },
+  "SCC-002-002": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:50:49.569Z",
+    "updatedAt": "2026-03-26T03:50:49.569Z"
+  },
+  "SCB-002-002": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:50:53.448Z",
+    "updatedAt": "2026-03-26T03:50:53.448Z"
+  },
+  "SI-002-002": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:50:58.467Z",
+    "updatedAt": "2026-03-26T03:50:58.467Z"
+  },
+  "S12a-002-002": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:51:03.778Z",
+    "updatedAt": "2026-03-26T03:51:03.778Z"
+  },
+  "S5R-002-002": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:51:07.571Z",
+    "updatedAt": "2026-03-26T03:51:07.571Z"
+  },
+  "SPZ-002-002": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:51:11.860Z",
+    "updatedAt": "2026-03-26T03:51:11.860Z"
+  },
+  "S6H-002-002": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:51:15.823Z",
+    "updatedAt": "2026-03-26T03:51:15.823Z"
+  },
+  "SH-002-002": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:51:21.376Z",
+    "updatedAt": "2026-03-26T03:51:21.376Z"
+  },
+  "SPD-002-002": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:51:25.965Z",
+    "updatedAt": "2026-03-26T03:51:25.965Z"
+  },
+  "S11-002-002": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:51:29.654Z",
+    "updatedAt": "2026-03-26T03:51:29.654Z"
+  },
+  "S7R-002-002": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:51:34.269Z",
+    "updatedAt": "2026-03-26T03:51:34.269Z"
+  },
+  "S10a-002-002": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:51:39.649Z",
+    "updatedAt": "2026-03-26T03:51:39.649Z"
+  },
+  "S8a-002-002": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:51:44.947Z",
+    "updatedAt": "2026-03-26T03:51:44.947Z"
+  },
+  "SLD-002-002": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:51:49.619Z",
+    "updatedAt": "2026-03-26T03:51:49.619Z"
+  },
+  "SK-002-002": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:51:54.837Z",
+    "updatedAt": "2026-03-26T03:51:54.837Z"
+  },
+  "SV7a-002-002": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:52:00.458Z",
+    "updatedAt": "2026-03-26T03:52:00.458Z"
+  },
+  "SLL-002-002": {
+    "ebayPrice": null,
+    "ebayImageUrl": null,
+    "lastAttempted": "2026-03-26T03:52:05.631Z",
+    "updatedAt": "2026-03-26T03:52:05.631Z"
   }
 }
