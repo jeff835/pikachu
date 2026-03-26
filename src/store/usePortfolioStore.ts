@@ -1,5 +1,5 @@
 import { create } from 'zustand'
-import { persist } from 'zustand/middleware'
+import { supabase } from '../lib/supabase'
 
 export interface PokemonCard {
   id: string
@@ -25,27 +25,81 @@ export interface PortfolioItem {
 
 interface PortfolioState {
   items: PortfolioItem[]
-  addItem: (card: PokemonCard, purchasePriceNtd: number) => void
-  removeItem: (uid: string) => void
-  updatePrice: (uid: string, newPrice: number) => void
+  isLoading: boolean
+  fetchItems: () => Promise<void>
+  addItem: (card: PokemonCard, purchasePriceNtd: number) => Promise<void>
+  removeItem: (uid: string) => Promise<void>
+  updatePrice: (uid: string, newPrice: number) => Promise<void>
+  clear: () => void
 }
 
-export const usePortfolioStore = create<PortfolioState>()(
-  persist(
-    (set) => ({
-      items: [],
-      addItem: (card, purchasePriceNtd) => set((state) => ({ 
-        items: [...state.items, { uid: Date.now().toString() + Math.random().toString(), card, purchasePriceNtd, addedAt: new Date().toISOString() }] 
-      })),
-      removeItem: (uid) => set((state) => ({ 
-        items: state.items.filter(item => item.uid !== uid) 
-      })),
-      updatePrice: (uid, newPrice) => set((state) => ({
-        items: state.items.map(item => item.uid === uid ? { ...item, purchasePriceNtd: newPrice } : item)
-      })),
-    }),
-    {
-      name: 'pikachu-portfolio-storage',
+export const usePortfolioStore = create<PortfolioState>((set, get) => ({
+  items: [],
+  isLoading: false,
+  fetchItems: async () => {
+    set({ isLoading: true })
+    const { data: sessionData } = await supabase.auth.getSession()
+    if (!sessionData?.session?.user) {
+      set({ items: [], isLoading: false })
+      return
     }
-  )
-)
+
+    const { data, error } = await supabase
+      .from('portfolios')
+      .select('*')
+      .order('created_at', { ascending: false })
+    
+    if (!error && data) {
+      set({
+        items: data.map(row => ({
+          uid: row.id,
+          card: row.card_data,
+          purchasePriceNtd: row.purchase_price_ntd,
+          addedAt: row.created_at
+        })),
+        isLoading: false
+      })
+    } else {
+      set({ isLoading: false })
+    }
+  },
+  addItem: async (card, purchasePriceNtd) => {
+    const { data: sessionData } = await supabase.auth.getSession()
+    const user = sessionData?.session?.user
+    if (!user) return
+
+    const { data, error } = await supabase
+      .from('portfolios')
+      .insert({
+        user_id: user.id,
+        card_id: card.id,
+        card_data: card,
+        purchase_price_ntd: purchasePriceNtd
+      })
+      .select()
+      .single()
+
+    if (!error && data) {
+      const newItem: PortfolioItem = {
+        uid: data.id,
+        card: data.card_data,
+        purchasePriceNtd: data.purchase_price_ntd,
+        addedAt: data.created_at
+      }
+      set({ items: [newItem, ...get().items] })
+    }
+  },
+  removeItem: async (uid) => {
+    const { error } = await supabase.from('portfolios').delete().eq('id', uid)
+    if (!error) {
+      set({ items: get().items.filter(i => i.uid !== uid) })
+    }
+  },
+  updatePrice: async (uid, newPrice) => {
+    const { error } = await supabase.from('portfolios').update({ purchase_price_ntd: newPrice }).eq('id', uid)
+    if (!error) {
+      set({ items: get().items.map(i => i.uid === uid ? { ...i, purchasePriceNtd: newPrice } : i) })
+    }
+  },
+  clear: () => set({ items: [] })
+}))

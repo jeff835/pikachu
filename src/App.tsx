@@ -1,4 +1,5 @@
 import { Routes, Route } from 'react-router-dom'
+import { useEffect } from 'react'
 import Sidebar from './components/layout/Sidebar'
 import Navbar from './components/layout/Navbar'
 import BottomNav from './components/layout/BottomNav'
@@ -9,8 +10,21 @@ import Login from './pages/Login'
 import MarketAlerts from './pages/MarketAlerts'
 import CardDetail from './pages/CardDetail'
 import ProtectedRoute from './components/auth/ProtectedRoute'
+import { useAuthStore } from './store/useAuthStore'
+import { usePortfolioStore } from './store/usePortfolioStore'
 
 function App() {
+  const { isAuthenticated } = useAuthStore()
+  const { fetchItems, clear } = usePortfolioStore()
+
+  useEffect(() => {
+    if (isAuthenticated) {
+      fetchItems()
+    } else {
+      clear()
+    }
+  }, [isAuthenticated, fetchItems, clear])
+
   return (
     <div className="flex h-screen overflow-hidden bg-slate-50 text-slate-900">
       <Sidebar />

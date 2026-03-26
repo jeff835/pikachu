@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import { useLocation, useNavigate } from 'react-router-dom'
-import { Search as SearchIcon, Loader2, Globe, Filter, Layers, ChevronRight, LayoutGrid } from 'lucide-react'
+import { Search as SearchIcon, Loader2, Globe, Sparkles, Filter, Layers, ChevronRight, LayoutGrid } from 'lucide-react'
 import axios from 'axios'
 // pokemonMap 已不再需要（搜尋改為直接比對繁中名稱）
 
