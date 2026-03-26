@@ -53,10 +53,10 @@ const generateAlertCards = (isRise: boolean): AlertCard[] => {
     return {
       id,
       name: card?.name || '未知卡牌',
-      image: card?.images?.small || '',
+      image: (card as any)?.image || (card as any)?.images?.small || '',
       currentPrice,
       changePercent: (3 + Math.random() * 15).toFixed(1) + '%',
-      region: card?.region || 'JP',
+      region: (card as any)?.region || 'JP',
       history: {
         day: generateHistory(12, currentPrice, 0.05),
         month: generateHistory(10, currentPrice, 0.15),
