@@ -260,26 +260,23 @@ export default function Search() {
 
   return (
     <div className="animate-in fade-in duration-500 pb-20 max-w-[1600px] mx-auto">
-      {/* 頂部控制與標題區 */}
-      <div className="flex flex-col lg:flex-row lg:items-end justify-between gap-6 mb-12 pt-4 px-2">
-        <div className="space-y-2">
-           <div className="flex items-center gap-3 text-slate-400 font-black text-[10px] uppercase tracking-[0.2em] mb-1">
-             <Sparkles className="w-4 h-4 text-yellow-500" />
-             Market Exploration
-           </div>
-           <h1 className="text-4xl md:text-6xl font-black text-slate-900 tracking-tighter leading-none italic uppercase">
-             {searchQuery ? (
-               <><span className="text-red-600">"{searchQuery}"</span> Result</>
-             ) : (
-               <>Card <span className="text-red-600">Archive</span></>
-             )}
-           </h1>
-           <p className="text-slate-400 font-bold text-xs uppercase tracking-widest pl-1">
-             {displayCards.length || displayPopular.length} 份精選市場數據正在實時更新
-           </p>
-        </div>
-        
-        <div className="flex flex-wrap items-center gap-3">
+      <div className="mb-0 pt-4">
+        <div className="flex flex-col md:flex-row md:items-center justify-between gap-6 pb-6 mt-4">
+          <div className="space-y-1">
+            <h1 className="text-xl md:text-2xl font-bold text-slate-800 flex items-center">
+              {searchQuery ? (
+                <>
+                  <span className="text-slate-400 font-medium mr-2">搜尋結果:</span>
+                  <span className="text-red-600 font-black tracking-tight">{searchQuery}</span>
+                  <span className="ml-2 text-slate-400 font-bold text-sm">({displayCards.length || displayPopular.length} 筆)</span>
+                </>
+              ) : (
+                <><Sparkles className="w-6 h-6 text-yellow-500 mr-2" /> 探索卡牌庫</>
+              )}
+            </h1>
+          </div>
+          
+          <div className="flex flex-wrap items-center gap-3">
           {renderVersionTabs()}
           <button 
             onClick={() => setShowFilters(!showFilters)}
