@@ -3,7 +3,7 @@ import { useLocation, useNavigate } from 'react-router-dom'
 import { Search as SearchIcon, Loader2, Globe, Sparkles, Filter, Layers, ChevronRight, LayoutGrid } from 'lucide-react'
 import axios from 'axios'
 
-import localCardsData from '../data/cards.json'
+import { supabase } from '../lib/supabase'
 import { useAuthStore } from '../store/useAuthStore'
 import { usePortfolioStore } from '../store/usePortfolioStore'
 import gradedPrices from '../data/graded-prices.json'
@@ -42,54 +42,90 @@ export default function Search() {
   const [popularCards, setPopularCards] = useState<PokemonCard[]>([])
   const [selectedSet, setSelectedSet] = useState<string>('ALL')
   const [showFilters, setShowFilters] = useState(false)
+  const [availableSets, setAvailableSets] = useState<{id: string, name: string}[]>([])
 
   const { isAuthenticated, isLoading: isAuthLoading } = useAuthStore()
   const { addItem } = usePortfolioStore()
 
-  const availableSets = useMemo(() => {
-    const setsMap = new Map();
-    (localCardsData as any[]).forEach(c => {
-      if (c.set && c.set.id) {
-        setsMap.set(c.set.id, c.set.name || c.set.id);
-      }
-    });
-    return Array.from(setsMap.entries()).map(([id, name]) => ({ id, name })).sort((a,b) => b.id.localeCompare(a.id));
-  }, []);
-
+  // 從 Supabase 抓取所有可用系列
   useEffect(() => {
-    if (!searchQuery.trim()) return
+    const fetchSets = async () => {
+      // 這裡直接從 cards 表獲取唯一的 set_id 與 set_name
+      const { data, error } = await supabase
+        .from('cards')
+        .select('set_id, set_name')
+        .order('set_id', { ascending: false })
 
+      if (!error && data) {
+        // 去重
+        const setsMap = new Map();
+        data.forEach(item => {
+          if (item.set_id) setsMap.set(item.set_id, item.set_name || item.set_id);
+        });
+        setAvailableSets(
+          Array.from(setsMap.entries())
+            .map(([id, name]) => ({ id, name }))
+            .sort((a,b) => b.id.localeCompare(a.id))
+        );
+      }
+    }
+    fetchSets()
+  }, [])
+
+  // 核心搜尋邏輯 (改成查詢 Supabase)
+  useEffect(() => {
     const fetchCards = async () => {
       setLoading(true)
       setError('')
       try {
-        const query = searchQuery.trim()
-        const localResults: PokemonCard[] = (localCardsData as any[])
-          .filter(c =>
-            c.name?.includes(query) ||
-            c.id?.includes(query) ||
-            c.localId?.includes(query)
-          )
-          .map(c => c as PokemonCard)
-
-        let remoteResults: PokemonCard[] = []
-        try {
-          const response = await axios.get(`https://api.pokemontcg.io/v2/cards`, {
-            params: {
-              q: `name:"*${query}*"`,
-              pageSize: 36
-            },
-            timeout: 8000
-          })
-          remoteResults = response.data.data.map((c: any) => ({ ...c, region: 'US' }))
-        } catch (apiErr) {
-          console.warn("遠端英文 API 連線失敗，僅顯示本地結果", apiErr)
+        let queryBuilder = supabase.from('cards').select('*')
+        
+        // 1. 關鍵字搜尋 (模糊比對 name, id, local_id)
+        if (searchQuery.trim()) {
+           const sq = `%${searchQuery.trim()}%`
+           queryBuilder = queryBuilder.or(`name.ilike.${sq},id.ilike.${sq},local_id.ilike.${sq}`)
         }
 
-        const merged = [...localResults, ...remoteResults]
+        // 2. 彈種過濾 (修正點擊側邊欄顯示不出的問題)
+        if (selectedSet !== 'ALL') {
+          queryBuilder = queryBuilder.eq('set_id', selectedSet)
+        }
+
+        // 3. 地區過濾
+        queryBuilder = queryBuilder.eq('region', version)
+        
+        // 限制顯示前 100 筆，避免手機端過載
+        const { data: dbResults, error: dbError } = await queryBuilder.limit(100)
+
+        if (dbError) throw dbError
+
+        const mappedResults: PokemonCard[] = (dbResults || []).map(c => ({
+           id: c.id,
+           localId: c.local_id,
+           name: c.name,
+           image: c.image_url,
+           region: c.region as any,
+           rarity: c.rarity,
+           set: { id: c.set_id, name: c.set_name }
+        }))
+
+        // 如果是美版且關鍵字存在，額外抓取外部 API (補足可能缺失的資料)
+        let remoteResults: PokemonCard[] = []
+        if (version === 'US' && searchQuery.trim()) {
+          try {
+            const apiRes = await axios.get(`https://api.pokemontcg.io/v2/cards`, {
+              params: { q: `name:"*${searchQuery.trim()}*"`, pageSize: 20 },
+              timeout: 5000
+            })
+            remoteResults = apiRes.data.data.map((c: any) => ({ ...c, region: 'US' }))
+          } catch (e) { console.warn("外部 API 失敗") }
+        }
+
+        const merged = [...mappedResults, ...remoteResults]
         const uniqueCards = Array.from(new Map(merged.map(c => [c.id, c])).values())
         setCards(uniqueCards)
       } catch (err) {
+        console.error(err)
         setError('無法取得卡牌資料，請稍後再試。')
       } finally {
         setLoading(false)
@@ -97,30 +133,27 @@ export default function Search() {
     }
 
     fetchCards()
-  }, [searchQuery])
+  }, [searchQuery, selectedSet, version])
 
+
+  // 探索頁熱門卡牌 (僅在無搜尋且無特定彈種時顯示)
   useEffect(() => {
-    if (!searchQuery) {
-      const fetchUSPopular = async () => {
-        const famousNames = ['噴火龍', '皮卡丘', '夢幻', '超夢', '伊布', '洛奇亞', '烈空坐', '沙奈朵', '耿鬼']
-        try {
-          const res = await axios.get(`https://api.pokemontcg.io/v2/cards?q=set.id:base1 OR set.id:swsh1&pageSize=30`, { timeout: 8000 })
-          const usCards = res.data.data.map((c: any) => ({...c, region: 'US'}))
-          const curated = (localCardsData as any[]).filter(c => 
-            famousNames.some(name => c.name?.includes(name))
-          )
-          const allExplore = [...curated, ...usCards]
-          setPopularCards(allExplore.sort(() => 0.5 - Math.random()) as PokemonCard[])
-        } catch(e) {
-          const curated = (localCardsData as any[]).filter(c => 
-            famousNames.some(name => c.name?.includes(name))
-          )
-          setPopularCards(curated.sort(() => 0.5 - Math.random()) as PokemonCard[])
+    if (!searchQuery && selectedSet === 'ALL') {
+      const fetchExplore = async () => {
+        const { data } = await supabase.from('cards').select('*').limit(30)
+        if (data) {
+          setPopularCards(data.map(c => ({
+            id: c.id,
+            name: c.name,
+            image: c.image_url,
+            region: c.region as any,
+            set: { id: c.set_id, name: c.set_name }
+          })))
         }
       }
-      fetchUSPopular()
+      fetchExplore()
     }
-  }, [searchQuery])
+  }, [searchQuery, selectedSet])
 
   const getBasePriceUsd = (card: PokemonCard) => {
     return card.tcgplayer?.prices?.holofoil?.market || 
@@ -239,14 +272,13 @@ export default function Search() {
                   else if (version === 'TW') baseNtd = baseNtd * 0.75
                   cost = Math.floor(version === 'JP' ? baseNtd * 1.1 : baseNtd * 0.95)
                 }
+                
                 const success = await addItem({
-                  ...card,
-                  images: card.images || { small: card.image || '', large: card.image || '' }
+                   ...card,
+                   images: card.images || { small: card.image || '', large: card.image || '' }
                 } as any, cost);
                 if (success) {
                   alert(`✅ 成功將 ${card.name} 加入個人收藏庫！`)
-                } else {
-                  alert(`❌ 收藏失敗，請確認登入狀態或稍後再試。`)
                 }
             }}
             className="w-full py-1.5 md:py-2 bg-slate-50 hover:bg-red-600 text-slate-600 hover:text-white border border-slate-100 hover:border-red-600 rounded-lg text-[10px] font-bold transition-all active:scale-95 flex items-center justify-center font-black"
@@ -258,45 +290,19 @@ export default function Search() {
     )
   }
 
-  const matchRegion = (card: PokemonCard) => {
-    if (!card.region) return version === 'US'
-    return card.region === version
-  }
-  const displayCards = useMemo(() => cards.filter(c => 
-    matchRegion(c) && 
-    (selectedSet === 'ALL' || (typeof c.set === 'string' ? c.set === selectedSet : c.set?.id === selectedSet))
-  ), [cards, version, selectedSet])
-
-  const displayPopular = useMemo(() => popularCards.filter(c => 
-    matchRegion(c) && 
-    (selectedSet === 'ALL' || (typeof c.set === 'string' ? c.set === selectedSet : c.set?.id === selectedSet))
-  ).slice(0, 48), [popularCards, version, selectedSet])
-
-  const renderVersionTabs = () => (
-    <div className="flex items-center bg-white p-1 rounded-lg md:rounded-xl border border-slate-200 shadow-sm self-start mb-4 md:mb-0 overflow-x-auto max-w-full no-scrollbar">
-      {versionTabs.map((tab) => (
-         <button 
-           key={tab.id}
-           onClick={() => setVersion(tab.id as CardVersion)}
-           className={`px-3 md:px-4 py-1.5 md:py-2 rounded-lg text-[10px] md:text-sm font-bold transition-all whitespace-nowrap ${version === tab.id ? 'bg-red-50 text-red-600 shadow-sm border border-red-200 pointer-events-none' : 'text-slate-500 hover:bg-slate-50 hover:text-slate-700 border border-transparent'}`}
-         >
-           {tab.label}
-         </button>
-      ))}
-    </div>
-  )
-
   return (
     <div className="animate-in fade-in duration-500 pb-20 max-w-[1600px] mx-auto">
       <div className="mb-0 pt-4">
         <div className="flex flex-col lg:flex-row lg:items-center justify-between gap-4 md:gap-6 pb-6 mt-4">
           <div className="space-y-1 shrink-0">
             <h1 className="text-lg md:text-xl font-bold text-slate-800 flex flex-wrap items-center gap-x-1.5 md:gap-x-2">
-              {searchQuery ? (
+              {searchQuery || selectedSet !== 'ALL' ? (
                 <>
                   <span className="text-slate-400 font-medium whitespace-nowrap">搜尋結果:</span>
-                  <span className="text-red-600 font-black tracking-tight max-w-[200px] sm:max-w-xs md:max-w-sm truncate" title={searchQuery}>{searchQuery}</span>
-                  <span className="text-slate-400 font-bold text-xs md:text-sm whitespace-nowrap">({displayCards.length || displayPopular.length} 筆)</span>
+                  <span className="text-red-600 font-black tracking-tight max-w-[200px] sm:max-w-xs md:max-w-sm truncate">
+                    {searchQuery || (availableSets.find(s => s.id === selectedSet)?.name)}
+                  </span>
+                  <span className="text-slate-400 font-bold text-xs md:text-sm whitespace-nowrap">({cards.length} 筆)</span>
                 </>
               ) : (
                 <><Sparkles className="w-5 h-5 text-yellow-500" /> <span className="whitespace-nowrap">探索卡牌庫</span></>
@@ -353,13 +359,16 @@ export default function Search() {
                  全部系列 (ALL)
                  <ChevronRight className={`w-3 h-3 group-hover:translate-x-0.5 transition-transform ${selectedSet === 'ALL' ? 'opacity-100' : 'opacity-0'}`} />
                </button>
-               {availableSets.map((set: any) => (
+               {availableSets.map((set) => (
                  <button 
                    key={set.id}
                    onClick={() => setSelectedSet(set.id)}
                    className={`w-full text-left px-3 py-2 rounded-lg text-xs font-bold transition-all flex items-center justify-between group ${selectedSet === set.id ? 'bg-red-50 text-red-600' : 'text-slate-500 hover:bg-slate-50 hover:text-slate-800'}`}
                  >
-                   <span className="truncate">{set.name} 系列</span>
+                   <div className="flex flex-col min-w-0">
+                     <span className="text-[10px] text-slate-400 font-black uppercase tracking-tighter">[{set.id}]</span>
+                     <span className="truncate">{set.name}</span>
+                   </div>
                    <ChevronRight className={`w-3 h-3 group-hover:translate-x-0.5 transition-transform ${selectedSet === set.id ? 'opacity-100' : 'opacity-0'}`} />
                  </button>
                ))}
@@ -371,17 +380,20 @@ export default function Search() {
           {loading ? (
             <div className="flex flex-col items-center justify-center py-24 bg-white rounded-2xl border border-slate-200 shadow-sm">
               <Loader2 className="h-10 w-10 text-red-600 animate-spin mb-4" />
-              <p className="text-slate-600 font-bold">正在從各地區數據庫載入卡牌...</p>
+              <p className="text-slate-600 font-bold">正在從資料庫載入卡牌...</p>
             </div>
           ) : error ? (
             <div className="bg-rose-50 p-6 rounded-2xl border border-rose-200 text-center py-16">
               <p className="text-rose-600 font-bold">{error}</p>
             </div>
-          ) : (displayCards.length || (!searchQuery && displayPopular.length)) === 0 ? (
+          ) : (cards.length === 0 && !searchQuery && selectedSet === 'ALL' && popularCards.length > 0) ? (
+            <div className="grid grid-cols-[repeat(auto-fill,minmax(150px,1fr))] md:grid-cols-[repeat(auto-fill,minmax(200px,1fr))] xl:grid-cols-[repeat(auto-fill,minmax(240px,1fr))] gap-4 md:gap-6">
+              {popularCards.map(renderCard)}
+            </div>
+          ) : (cards.length === 0) ? (
             <div className="bg-white p-10 rounded-2xl border border-slate-200 shadow-sm text-center py-24">
               <SearchIcon className="h-12 w-12 text-slate-200 mx-auto mb-4" />
               <p className="text-slate-500 text-lg font-bold">找不到符合條件的卡牌。</p>
-              <p className="text-slate-400 mt-2 text-sm">請嘗試修改過濾條件或清除搜尋關鍵字。</p>
               <button 
                 onClick={() => {
                    setSelectedSet('ALL')
@@ -394,7 +406,7 @@ export default function Search() {
             </div>
           ) : (
             <div className="grid grid-cols-[repeat(auto-fill,minmax(150px,1fr))] md:grid-cols-[repeat(auto-fill,minmax(200px,1fr))] xl:grid-cols-[repeat(auto-fill,minmax(240px,1fr))] gap-4 md:gap-6">
-              {searchQuery ? displayCards.map(renderCard) : displayPopular.map(renderCard)}
+              {cards.map(renderCard)}
             </div>
           )}
         </main>

@@ -1,4 +1,4 @@
-import { useState, useMemo } from 'react'
+import { useState, useMemo, useEffect } from 'react'
 import { useParams, useNavigate } from 'react-router-dom'
 import { 
   ChevronLeft, 
@@ -9,7 +9,8 @@ import {
   Info, 
   ExternalLink,
   ShieldCheck,
-  Zap
+  Zap,
+  Loader2
 } from 'lucide-react'
 import { 
   XAxis, 
@@ -21,7 +22,7 @@ import {
   Area
 } from 'recharts'
 
-import cardsData from '../data/cards.json'
+import { supabase } from '../lib/supabase'
 import enrichedMetadata from '../data/enriched-metadata.json'
 
 interface PricePoint {
@@ -58,67 +59,87 @@ export default function CardDetail() {
   const { id } = useParams<{ id: string }>()
   const navigate = useNavigate()
   const [timeframe, setTimeframe] = useState<'day' | 'month' | 'year'>('month')
+  const [data, setData] = useState<CardDetailData | null>(null)
+  const [loading, setLoading] = useState(true)
   
-  // 取得真實資料整合
-  const data = useMemo(() => {
-    const card = (cardsData as any[]).find(c => c.id === id)
-    const meta = (enrichedMetadata as any)[id || '']
-    
-    // 如果找不到真實卡片，回傳一個基礎結構
-    if (!card) {
-      return {
-        id: id || 'Unknown',
-        name: '未知卡牌',
-        image: '',
-        currentPrice: 0,
-        changePercent: '0%',
-        isUp: true,
-        region: 'JP',
-        rarity: 'Common',
-        set: 'Unknown Set',
-        setLogo: '',
-        description: '目前暫無此卡牌的詳細描述。',
-        platforms: [],
-        history: { day: [], month: [], year: [] }
+  // 從 Supabase 抓取卡牌詳情
+  useEffect(() => {
+    const fetchDetail = async () => {
+      if (!id) return
+      setLoading(true)
+      
+      try {
+        const { data: card, error } = await supabase
+          .from('cards')
+          .select('*')
+          .eq('id', id)
+          .single()
+
+        if (error) throw error
+
+        const meta = (enrichedMetadata as any)[id]
+        const currentPrice = Math.floor(meta?.snkrPrice || meta?.ebayPrice || 2000)
+        const isUp = Math.random() > 0.5
+
+        // 生成模擬歷史數據
+        const generateHistory = (count: number, base: number) => {
+          return Array.from({ length: count }).map((_, i) => ({
+            time: `T-${count - i}`,
+            price: Math.floor(base * (0.8 + Math.random() * 0.4))
+          }))
+        }
+
+        setData({
+          id: card.id,
+          name: card.name,
+          image: card.image_url || '',
+          currentPrice,
+          changePercent: (2 + Math.random() * 8).toFixed(1) + '%',
+          isUp,
+          region: card.region || 'JP',
+          rarity: card.rarity || 'Normal',
+          set: card.set_name || '未知系列',
+          setLogo: card.set_logo || '',
+          description: `此卡牌為 ${card.set_name || '未知系列'} 的一部分。具有高度的收藏價值。`,
+          platforms: [
+            { name: 'SNKRDUNK', price: Math.floor(currentPrice * 0.95), status: 'Low', lastUpdate: '10 mins ago' },
+            { name: 'eBay', price: Math.floor(currentPrice * 1.05), status: 'High', lastUpdate: '1 hour ago' },
+          ],
+          history: {
+            day: generateHistory(12, currentPrice),
+            month: generateHistory(10, currentPrice),
+            year: generateHistory(8, currentPrice),
+          }
+        })
+      } catch (err) {
+        console.error('Fetch Card Detail Error:', err)
+      } finally {
+        setLoading(false)
       }
     }
 
-    const currentPrice = Math.floor(meta?.snkrPrice || meta?.ebayPrice || 2000)
-    const isUp = Math.random() > 0.5
-
-    // 生成模擬歷史數據 (因為目前還沒有歷史數據庫)
-    const generateHistory = (count: number, base: number) => {
-      return Array.from({ length: count }).map((_, i) => ({
-        time: `T-${count - i}`,
-        price: Math.floor(base * (0.8 + Math.random() * 0.4))
-      }))
-    }
-
-    return {
-      id: card.id,
-      name: card.name,
-      image: card.image || card.images?.large || card.images?.small || '',
-      currentPrice,
-      changePercent: (2 + Math.random() * 8).toFixed(1) + '%',
-      isUp,
-      region: card.region || 'JP',
-      rarity: card.rarity || 'Normal',
-      set: card.set?.name || '未知系列',
-      setLogo: card.set?.logo || '',
-      description: `此卡牌為 ${card.set?.name || '未知系列'} 的一部分。具有高度的收藏價值。`,
-      platforms: [
-        { name: 'SNKRDUNK', price: Math.floor(currentPrice * 0.95), status: 'Low', lastUpdate: '10 mins ago' },
-        { name: 'eBay', price: Math.floor(currentPrice * 1.05), status: 'High', lastUpdate: '1 hour ago' },
-      ],
-      history: {
-        day: generateHistory(12, currentPrice),
-        month: generateHistory(10, currentPrice),
-        year: generateHistory(8, currentPrice),
-      }
-    } as CardDetailData
+    fetchDetail()
   }, [id])
 
-  const chartData = useMemo(() => data.history[timeframe], [data, timeframe])
+  const chartData = useMemo(() => data?.history[timeframe] || [], [data, timeframe])
+
+  if (loading) {
+    return (
+      <div className="flex flex-col items-center justify-center py-48">
+        <Loader2 className="h-12 w-12 text-red-600 animate-spin mb-4" />
+        <p className="text-slate-600 font-bold">正在讀取卡牌詳細數據...</p>
+      </div>
+    )
+  }
+
+  if (!data) {
+    return (
+      <div className="text-center py-48 bg-white rounded-3xl border border-slate-200">
+        <p className="text-slate-500 font-bold text-xl">找不到該卡牌的詳細資料</p>
+        <button onClick={() => navigate('/search')} className="mt-4 px-6 py-2 bg-red-600 text-white rounded-xl font-bold">返回搜尋</button>
+      </div>
+    )
+  }
 
   return (
     <div className="animate-in fade-in slide-in-from-right-4 duration-500 pb-20 max-w-7xl mx-auto">
@@ -181,14 +202,14 @@ export default function CardDetail() {
           {/* Main Title & Price */}
           <div className="space-y-4">
             <div className="flex items-center gap-3">
-               <img src={data.setLogo} alt={data.set} className="h-6 object-contain opacity-50" />
+               {data.setLogo && <img src={data.setLogo} alt={data.set} className="h-6 object-contain opacity-50" />}
                <span className="text-slate-400 font-bold text-sm tracking-tight">{data.set} • {data.id}</span>
             </div>
             <h1 className="text-4xl md:text-6xl font-black text-slate-800 tracking-tighter leading-none italic">{data.name}</h1>
             <div className="flex flex-wrap items-end gap-6 pt-2">
                <div className="space-y-1">
                  <p className="text-xs font-black text-slate-400 uppercase tracking-widest">目前估值 (Est.)</p>
-                 <p className="text-5xl font-black text-slate-900">¥ {data.currentPrice.toLocaleString()}</p>
+                 <p className="text-5xl font-black text-slate-900">NT$ {data.currentPrice.toLocaleString()}</p>
                </div>
                <div className={`mb-1 px-4 py-2 rounded-2xl flex items-center gap-2 font-black ${
                  data.isUp ? 'bg-emerald-50 text-emerald-600 border border-emerald-100' : 'bg-rose-50 text-rose-600 border border-rose-100'
@@ -244,7 +265,7 @@ export default function CardDetail() {
                     axisLine={false} 
                     tickLine={false} 
                     tick={{fill: '#94a3b8', fontSize: 10, fontWeight: 700}}
-                    tickFormatter={(v) => `¥${v}`}
+                    tickFormatter={(v) => `NT$${v}`}
                   />
                   <Tooltip 
                     content={({ active, payload }) => {
@@ -252,7 +273,7 @@ export default function CardDetail() {
                         return (
                           <div className="bg-slate-900 text-white p-4 rounded-2xl shadow-2xl border border-slate-700">
                             <p className="text-[10px] text-slate-400 font-bold mb-1">{payload[0].payload.time}</p>
-                            <p className="text-xl font-black">¥ {payload[0].value?.toLocaleString()}</p>
+                            <p className="text-xl font-black">NT$ {payload[0].value?.toLocaleString()}</p>
                           </div>
                         )
                       }
@@ -293,7 +314,7 @@ export default function CardDetail() {
                        </div>
                      </div>
                      <div className="text-right">
-                       <p className="font-black text-slate-900">¥ {p.price.toLocaleString()}</p>
+                       <p className="font-black text-slate-900">NT$ {p.price.toLocaleString()}</p>
                        <span className={`text-[10px] font-black px-1.5 py-0.5 rounded ${
                          p.status === 'Low' ? 'bg-rose-50 text-rose-500' : p.status === 'High' ? 'bg-emerald-50 text-emerald-500' : 'bg-slate-50 text-slate-400'
                        }`}>
@@ -315,8 +336,7 @@ export default function CardDetail() {
                    {data.description}
                  </p>
                  <div className="mt-6 flex flex-wrap gap-2">
-                    <span className="px-3 py-1 bg-white rounded-full text-[10px] font-black text-slate-500 border border-slate-200 uppercase tracking-wider">Shiny Treasure</span>
-                    <span className="px-3 py-1 bg-white rounded-full text-[10px] font-black text-slate-500 border border-slate-200 uppercase tracking-wider">Charizard</span>
+                    <span className="px-3 py-1 bg-white rounded-full text-[10px] font-black text-slate-500 border border-slate-200 uppercase tracking-wider">{data.set}</span>
                     <span className="px-3 py-1 bg-white rounded-full text-[10px] font-black text-slate-500 border border-slate-200 uppercase tracking-wider">High Liquidity</span>
                  </div>
                </div>

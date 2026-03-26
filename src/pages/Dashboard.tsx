@@ -1,8 +1,9 @@
-import { useMemo } from 'react'
+import { useMemo, useState, useEffect } from 'react'
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, Legend } from 'recharts'
 import { ArrowUpRight, ArrowDownRight, TrendingUp } from 'lucide-react'
 import { useNavigate } from 'react-router-dom'
-import cardsData from '../data/cards.json'
+
+import { supabase } from '../lib/supabase'
 import enrichedMetadata from '../data/enriched-metadata.json'
 
 // 根據真實數據生成模擬趨勢 (實際應有歷史資料庫)
@@ -27,25 +28,38 @@ interface Trade {
 
 export default function Dashboard() {
   const navigate = useNavigate()
+  const [recentTrades, setRecentTrades] = useState<Trade[]>([])
 
-  // 從 Enriched Metadata 挑選最近有價格更新的卡片作為「最新成交紀錄」
-  const recentTrades: Trade[] = useMemo(() => {
-    const enrichedEntries = Object.entries(enrichedMetadata as Record<string, any>)
-      .filter(([_, meta]) => meta.snkrPrice || meta.ebayPrice)
-      .slice(0, 4)
-    
-    return enrichedEntries.map(([id, meta], index) => {
-      const card = cardsData.find(c => c.id === id)
-      return {
-        id: index + 1,
-        cardId: id,
-        card: card?.name || '未知卡牌',
-        price: Math.floor(meta.snkrPrice || meta.ebayPrice || 0),
-        platform: meta.snkrPrice ? 'SNKRDUNK' : 'eBay',
-        time: '剛更新',
-        trend: Math.random() > 0.5 ? 'up' : 'down'
-      }
-    })
+  // 從 Supabase 獲取最新成交紀錄的卡片資訊
+  useEffect(() => {
+    const fetchRecentTrades = async () => {
+      const enrichedEntries = Object.entries(enrichedMetadata as Record<string, any>)
+        .filter(([_, meta]) => meta.snkrPrice || meta.ebayPrice)
+        .slice(0, 4)
+      
+      const ids = enrichedEntries.map(([id]) => id)
+      
+      const { data: cards } = await supabase
+        .from('cards')
+        .select('id, name')
+        .in('id', ids)
+
+      const trades = enrichedEntries.map(([id, meta], index) => {
+        const card = cards?.find(c => c.id === id)
+        return {
+          id: index + 1,
+          cardId: id,
+          card: card?.name || '未知卡牌',
+          price: Math.floor(meta.snkrPrice || meta.ebayPrice || 0),
+          platform: meta.snkrPrice ? 'SNKRDUNK' : 'eBay',
+          time: '剛更新',
+          trend: Math.random() > 0.5 ? 'up' : 'down'
+        }
+      })
+      setRecentTrades(trades)
+    }
+
+    fetchRecentTrades()
   }, [])
 
   return (
@@ -186,7 +200,10 @@ export default function Dashboard() {
               </div>
             ))}
           </div>
-          <button className="w-full mt-4 py-2.5 text-xs font-bold text-slate-500 hover:text-red-600 hover:bg-red-50 rounded-xl transition-colors border border-slate-200 hover:border-red-200">
+          <button 
+             onClick={() => navigate('/search')}
+             className="w-full mt-4 py-2.5 text-xs font-bold text-slate-500 hover:text-red-600 hover:bg-red-50 rounded-xl transition-colors border border-slate-200 hover:border-red-200"
+          >
             查看全部紀錄 &rarr;
           </button>
         </div>
