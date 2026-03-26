@@ -1,11 +1,14 @@
 import { useState, useEffect } from 'react'
 import { useLocation, useNavigate } from 'react-router-dom'
-import { Search as SearchIcon, Loader2, Globe, Sparkles, Filter, Layers, ChevronRight, LayoutGrid } from 'lucide-react'
+import { Search as SearchIcon, Loader2, Globe, Filter, Layers, ChevronRight, LayoutGrid } from 'lucide-react'
 import axios from 'axios'
-import { getEnglishPokemonName, getJapanesePokemonName } from '../lib/pokemonMap'
+// pokemonMap 已不再需要（搜尋改為直接比對繁中名稱）
+
 import localCardsData from '../data/cards.json'
 import { useAuthStore } from '../store/useAuthStore'
 import { usePortfolioStore } from '../store/usePortfolioStore'
+import gradedPrices from '../data/graded-prices.json'
+import enrichedMetadata from '../data/enriched-metadata.json'
 
 interface PokemonCard {
   id: string
@@ -33,7 +36,7 @@ export default function Search() {
   const [cards, setCards] = useState<PokemonCard[]>([])
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState('')
-  const [version, setVersion] = useState<CardVersion>('US')
+  const [version, setVersion] = useState<CardVersion>('TW')
   const [popularCards, setPopularCards] = useState<PokemonCard[]>([])
   const [selectedSet, setSelectedSet] = useState<string>('ALL')
   const [showFilters, setShowFilters] = useState(false)
@@ -52,31 +55,38 @@ export default function Search() {
       setLoading(true)
       setError('')
       try {
-        const jpSearchQuery = getJapanesePokemonName(searchQuery.trim())
-        const localResults: PokemonCard[] = localCardsData
-          .filter(c => c.name.includes(searchQuery.trim()) || c.name.includes(jpSearchQuery))
+        const query = searchQuery.trim()
+        
+        // 1. 本地搜尋 (直接支援繁中、日文): 模糊比對名稱、ID
+        const localResults: PokemonCard[] = (localCardsData as any[])
+          .filter(c =>
+            c.name?.includes(query) ||
+            c.id?.includes(query) ||
+            c.localId?.includes(query)
+          )
           .map(c => c as PokemonCard)
 
-        const englishSearchQuery = getEnglishPokemonName(searchQuery.trim())
+        // 2. 遠端英文 API 搜尋 (直接傳原始詞，若是英文也能搜到)
         let remoteResults: PokemonCard[] = []
-        
         try {
           const response = await axios.get(`https://api.pokemontcg.io/v2/cards`, {
             params: {
-              q: `name:"*${englishSearchQuery}*"`,
-              pageSize: 48
-            }
+              q: `name:"*${query}*"`,
+              pageSize: 36
+            },
+            timeout: 8000
           })
           remoteResults = response.data.data.map((c: any) => ({ ...c, region: 'US' }))
         } catch (apiErr) {
-          console.warn("遠端英文 API 網路連線異常，僅呈現本地結果", apiErr)
+          console.warn("遠端英文 API 連線失敗，僅顯示本地結果", apiErr)
         }
 
+        // 3. 合併並去重 (本地優先)
         const merged = [...localResults, ...remoteResults]
         const uniqueCards = Array.from(new Map(merged.map(c => [c.id, c])).values())
         setCards(uniqueCards)
       } catch (err) {
-        setError('無法取得卡牌資料，請稍後檢查網路或再試一次。')
+        setError('無法取得卡牌資料，請稍後再試。')
       } finally {
         setLoading(false)
       }
@@ -85,31 +95,26 @@ export default function Search() {
     fetchCards()
   }, [searchQuery])
 
+
   // 產生探索頁面的隨機熱門卡牌 (包含美國版 API 預載)
   useEffect(() => {
     if (!searchQuery) {
       const fetchUSPopular = async () => {
+        const famousNames = ['噴火龍', '皮卡丘', '夢幻', '超夢', '伊布', '洛奇亞', '烈空坐', '沙奈朵', '耿鬼']
+        
         try {
-          const res = await axios.get(`https://api.pokemontcg.io/v2/cards?q=set.id:base1 OR set.id:swsh1&pageSize=30`)
+          const res = await axios.get(`https://api.pokemontcg.io/v2/cards?q=set.id:base1 OR set.id:swsh1&pageSize=30`, { timeout: 8000 })
           const usCards = res.data.data.map((c: any) => ({...c, region: 'US'}))
           
-          const famousNames = ['噴火龍', '皮卡丘', '夢幻', '超夢', '伊布', '洛奇亞', '烈空坐', '沙奈朵', '耿鬼']
-          const famousNamesJp = famousNames.map(name => getJapanesePokemonName(name))
-          
-          const curated = localCardsData.filter(c => 
-            famousNames.some(name => c.name.includes(name)) ||
-            famousNamesJp.some(name => c.name.includes(name))
+          const curated = (localCardsData as any[]).filter(c => 
+            famousNames.some(name => c.name?.includes(name))
           )
           
           const allExplore = [...curated, ...usCards]
           setPopularCards(allExplore.sort(() => 0.5 - Math.random()) as PokemonCard[])
         } catch(e) {
-          const famousNames = ['噴火龍', '皮卡丘', '夢幻', '超夢', '伊布', '洛奇亞', '烈空坐', '沙奈朵', '耿鬼']
-          const famousNamesJp = famousNames.map(name => getJapanesePokemonName(name))
-          
-          const curated = localCardsData.filter(c => 
-            famousNames.some(name => c.name.includes(name)) ||
-            famousNamesJp.some(name => c.name.includes(name))
+          const curated = (localCardsData as any[]).filter(c => 
+            famousNames.some(name => c.name?.includes(name))
           )
           setPopularCards(curated.sort(() => 0.5 - Math.random()) as PokemonCard[])
         }
@@ -117,6 +122,7 @@ export default function Search() {
       fetchUSPopular()
     }
   }, [searchQuery])
+
 
   // 取得真實 TCGPlayer 美金報價
   const getBasePriceUsd = (card: PokemonCard) => {
@@ -146,17 +152,39 @@ export default function Search() {
     let snkrPriceDisplay = '---'
     let ebayPriceDisplay = '---'
 
+    // 優先使用全量豐富化數據，再回退到特定熱門卡牌數據
+    const enriched = (enrichedMetadata as any)[card.id]
+    const hotGraded = (gradedPrices as any)[card.id]
+    const finalMetadata = enriched || hotGraded
+
+    if (finalMetadata) {
+      if (finalMetadata.snkrPrice || finalMetadata.snkr) {
+        snkrPriceDisplay = `NT$ ${Math.floor(finalMetadata.snkrPrice || finalMetadata.snkr).toLocaleString()}`
+      }
+      if (finalMetadata.ebayPrice || finalMetadata.ebay) {
+        ebayPriceDisplay = `NT$ ${Math.floor(finalMetadata.ebayPrice || finalMetadata.ebay).toLocaleString()}`
+      }
+    }
+
+    // 備援估算邏輯：如果該平台尚未抓取到數據，則回退到倍率估計 (前提是有 TCGPlayer 市場價)
     if (marketUsd) {
       let baseNtd = marketUsd * 32
       if (version === 'JP') baseNtd = baseNtd * 1.3
       else if (version === 'TW') baseNtd = baseNtd * 0.75
 
-      const snkrVal = version === 'JP' ? baseNtd * 1.1 : baseNtd * 0.95
-      snkrPriceDisplay = `¥ ${Math.floor(snkrVal).toLocaleString()}`
+      if (snkrPriceDisplay === '---') {
+        const snkrVal = baseNtd * 4.2
+        snkrPriceDisplay = `NT$ ${Math.floor(snkrVal).toLocaleString()}`
+      }
 
-      const ebayVal = version === 'US' ? baseNtd * 1.05 : baseNtd * 0.85
-      ebayPriceDisplay = `¥ ${Math.floor(ebayVal).toLocaleString()}`
+      if (ebayPriceDisplay === '---') {
+        const ebayVal = baseNtd * 3.8
+        ebayPriceDisplay = `NT$ ${Math.floor(ebayVal).toLocaleString()}`
+      }
     }
+
+    // 獲取鑑定卡實拍圖 (優先使用 eBay 縮圖，因為通常清晰度較佳)
+    const realImageUrl = finalMetadata?.ebayImageUrl || finalMetadata?.snkrImageUrl
 
     const setId = card.id.split('-')[0]
     
@@ -170,12 +198,23 @@ export default function Search() {
         <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-red-500 via-yellow-500 to-red-500 opacity-0 group-hover:opacity-100 transition-opacity" />
         
         <div className="bg-slate-50/50 p-3 md:p-4 flex justify-center items-center relative aspect-[3/4] overflow-hidden">
-          <img src={card.images.small} alt={card.name} className="h-full object-contain group-hover:scale-110 transition-transform duration-500 drop-shadow-xl" loading="lazy" />
+          {/* 優先顯示鑑定實拍圖，若無則顯示官網標案圖 */}
+          <img 
+            src={realImageUrl || card.images.small} 
+            alt={card.name} 
+            className={`h-full object-contain group-hover:scale-110 transition-transform duration-500 drop-shadow-xl ${realImageUrl ? 'border-2 border-slate-200 rounded' : ''}`} 
+            loading="lazy" 
+          />
           
           <div className="absolute top-2 left-2 flex flex-col gap-1">
              <span className="bg-white/90 backdrop-blur px-1.5 py-0.5 rounded text-[8px] font-black text-slate-800 shadow-sm border border-slate-100 uppercase tracking-tighter">
                 {setId}
              </span>
+             {realImageUrl && (
+               <span className="bg-green-500 text-white px-1.5 py-0.5 rounded text-[7px] font-black shadow-sm uppercase tracking-tighter">
+                 鑑定實拍
+               </span>
+             )}
           </div>
           
           <div className="absolute top-2 right-2 bg-slate-900/90 text-[8px] text-white px-2 py-1 rounded font-black flex items-center shadow-lg transform translate-x-2 opacity-0 group-hover:translate-x-0 group-hover:opacity-100 transition-all">
@@ -192,13 +231,13 @@ export default function Search() {
           
           <div className="grid grid-cols-2 gap-2 mb-3">
             <div className="bg-red-50/50 rounded-lg p-1.5 border border-red-50 flex flex-col">
-              <span className="text-[7px] font-black text-red-400 uppercase tracking-widest leading-none mb-1">SNKR</span>
+              <span className="text-[7px] font-black text-red-400 uppercase tracking-widest leading-none mb-1">SNKR PSA 10</span>
               <span className={`text-[10px] md:text-xs font-black text-slate-800`}>
                 {snkrPriceDisplay}
               </span>
             </div>
             <div className="bg-blue-50/50 rounded-lg p-1.5 border border-blue-50 flex flex-col">
-              <span className="text-[7px] font-black text-blue-400 uppercase tracking-widest leading-none mb-1">eBay</span>
+              <span className="text-[7px] font-black text-blue-400 uppercase tracking-widest leading-none mb-1">eBay PSA 10</span>
               <span className={`text-[10px] md:text-xs font-black text-slate-800`}>
                 {ebayPriceDisplay}
               </span>
@@ -235,12 +274,18 @@ export default function Search() {
   }
 
   // 取得當前真實過濾的顯示卡牌
+  // region 過濾邏輯：TW/JP 版的本地卡牌有 region 欄位；US 版的遠端卡牌也有 region='US'
+  // 若卡牌沒有 region 欄位則只在 US tab 顯示（向下相容舊資料）
+  const matchRegion = (card: PokemonCard) => {
+    if (!card.region) return version === 'US'
+    return card.region === version
+  }
   const displayCards = cards.filter(c => 
-    c.region === version && 
+    matchRegion(c) && 
     (selectedSet === 'ALL' || c.id.startsWith(selectedSet + '-'))
   )
   const displayPopular = popularCards.filter(c => 
-    c.region === version && 
+    matchRegion(c) && 
     (selectedSet === 'ALL' || c.id.startsWith(selectedSet + '-'))
   ).slice(0, 16)
 
@@ -288,6 +333,25 @@ export default function Search() {
       </div>
       </div>
 
+      {/* 快捷篩選區塊 (第一層) */}
+      <div className="mb-8 px-2 overflow-x-auto no-scrollbar">
+         <div className="flex items-center gap-2 pb-2">
+           <div className="flex items-center gap-2 mr-4 shrink-0">
+             <LayoutGrid className="w-4 h-4 text-blue-500" />
+             <span className="text-xs font-black text-slate-400 uppercase tracking-widest text-[10px]">Quick Filters</span>
+           </div>
+           {quickFilters.map(tag => (
+             <button 
+               key={tag}
+               onClick={() => handleQuickFilter(tag)}
+               className="px-4 py-1.5 bg-white hover:bg-slate-50 text-slate-600 hover:text-red-600 border border-slate-200 hover:border-red-200 rounded-full text-xs font-bold transition-all shadow-sm whitespace-nowrap"
+             >
+               {tag}
+             </button>
+           ))}
+         </div>
+      </div>
+
       <div className="flex flex-col md:flex-row gap-8">
         {/* 左側過濾欄 (Desktop) / 下拉式過濾 (Mobile) */}
         <aside className={`${showFilters ? 'block' : 'hidden'} md:block w-full md:w-64 shrink-0 space-y-6`}>
@@ -323,23 +387,6 @@ export default function Search() {
              </div>
            </div>
 
-           <div className="bg-white rounded-2xl border border-slate-200 p-5 shadow-sm">
-             <h3 className="text-sm font-black text-slate-800 flex items-center tracking-wider mb-5">
-               <LayoutGrid className="w-4 h-4 mr-2 text-blue-500" />
-               快捷篩選 (Quick)
-             </h3>
-             <div className="flex flex-wrap gap-2">
-               {quickFilters.map(tag => (
-                 <button 
-                   key={tag}
-                   onClick={() => handleQuickFilter(tag)}
-                   className="px-3 py-1.5 bg-slate-50 hover:bg-red-50 text-slate-500 hover:text-red-600 border border-slate-100 hover:border-red-200 rounded-lg text-[10px] font-black transition-all"
-                 >
-                   {tag}
-                 </button>
-               ))}
-             </div>
-           </div>
         </aside>
 
         {/* 右側內容區 */}

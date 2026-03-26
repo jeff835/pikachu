@@ -113,13 +113,50 @@ async function scrapeCards() {
     if (!fs.existsSync(outDir)) {
       fs.mkdirSync(outDir, { recursive: true });
     }
+  } catch (e) {
+    // 靜默失敗
+  }
+  return null;
+}
+
+// ==============================
+// 主要爬蟲流程
+// ==============================
+async function scrapeCards() {
+  console.log('🚀 開始執行全量卡牌爬蟲...\n');
+
+  // 確保輸出目錄存在
+  if (!fs.existsSync(DATA_DIR)) {
+    fs.mkdirSync(DATA_DIR, { recursive: true });
+  }
+
+  try {
+    // **第一步：同時抓取繁中與日文版**
+    const [twCards, jpCards] = await Promise.all([fetchTWCards(), fetchJPCards()]);
+    console.log(`✅ 繁中版: ${twCards.length} 張`);
+    console.log(`✅ 日文版: ${jpCards.length} 張`);
+
+    // **第二步：合併，去重**
+    const allCards = [...twCards, ...jpCards];
+    const uniqueCards = Array.from(new Map(allCards.map((c) => [c.id, c])).values());
+    console.log(`📊 去重後總計: ${uniqueCards.length} 張`);
+
+    // **第三步：寫出基礎卡牌資料庫**
+    fs.writeFileSync(
+      path.join(DATA_DIR, 'cards.json'),
+      JSON.stringify(uniqueCards, null, 2)
+    );
+    console.log(`\n💾 已儲存基礎卡牌資料至 src/data/cards.json`);
+    console.log(`\n✨ 爬蟲完成！共 ${uniqueCards.length} 筆卡牌資料已寫出。`);
+    console.log('\n💡 提示：如需更新 eBay/SNKR 的 PSA 10 鑑定價格，請執行：npm run scrape:prices');
 
     fs.writeFileSync(path.join(outDir, 'cards.json'), JSON.stringify(database, null, 2));
     console.log(`成功獲取 ${twDatabase.length} 筆繁中、${jpDatabase.length} 筆日文卡牌！`);
     console.log(`成功匯出總計 ${database.length} 筆圖鑑詳細資料至 src/data/cards.json`);
     
   } catch (error: any) {
-    console.error('爬蟲發生錯誤:', error.message);
+    console.error('❌ 爬蟲發生錯誤:', error.message);
+    process.exit(1);
   }
 }
 
