@@ -25,7 +25,13 @@ export default function Login() {
         if (error) throw error
         navigate(from, { replace: true })
       } else {
-        const { error } = await supabase.auth.signUp({ email, password })
+        const { error } = await supabase.auth.signUp({ 
+          email, 
+          password,
+          options: {
+            emailRedirectTo: `${window.location.origin}${from}`
+          }
+        })
         if (error) throw error
         setMessage({ type: 'success', text: '註冊成功！請去新信箱收信並點取驗證連結，接著即可回來登入。' })
       }
