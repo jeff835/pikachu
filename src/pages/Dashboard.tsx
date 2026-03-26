@@ -1,4 +1,4 @@
-import { useMemo, useState, useEffect } from 'react'
+import { useState, useEffect } from 'react'
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, Legend } from 'recharts'
 import { ArrowUpRight, ArrowDownRight, TrendingUp } from 'lucide-react'
 import { useNavigate } from 'react-router-dom'

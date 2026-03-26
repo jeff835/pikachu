@@ -1,4 +1,4 @@
-import { useState, useEffect, useMemo } from 'react'
+import { useState, useEffect } from 'react'
 import { useLocation, useNavigate } from 'react-router-dom'
 import { Search as SearchIcon, Loader2, Globe, Sparkles, Filter, Layers, ChevronRight, LayoutGrid } from 'lucide-react'
 import axios from 'axios'
@@ -174,6 +174,20 @@ export default function Search() {
      if (tag === '神獸精選') query = '洛奇亞'
      navigate(`/search?q=${encodeURIComponent(query)}`)
   }
+
+  const renderVersionTabs = () => (
+    <div className="flex bg-white p-1 rounded-xl border border-slate-200 shadow-sm">
+      {versionTabs.map(tab => (
+         <button
+            key={tab.id}
+            onClick={() => setVersion(tab.id as CardVersion)}
+            className={`px-3 md:px-4 py-1.5 md:py-2 rounded-lg text-[10px] md:text-sm font-bold transition-all whitespace-nowrap ${version === tab.id ? 'bg-red-50 text-red-600 shadow-sm border border-red-200 pointer-events-none' : 'text-slate-500 hover:bg-slate-50 hover:text-slate-700 border border-transparent'}`}
+          >
+            {tab.label}
+          </button>
+       ))}
+    </div>
+  )
 
   const renderCard = (card: PokemonCard) => {
     const marketUsd = getBasePriceUsd(card)
