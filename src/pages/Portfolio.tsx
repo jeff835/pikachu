@@ -50,7 +50,7 @@ export default function Portfolio() {
 
   // 準備圖表資料 (依據卡牌系列分佈)
   const distributionMap = items.reduce((acc, item) => {
-    const setName = item.card.set?.name || '未知系列'
+    const setName = typeof item.card.set === 'string' ? item.card.set : (item.card.set?.name || '未知系列')
     acc[setName] = (acc[setName] || 0) + 1
     return acc
   }, {} as Record<string, number>)
@@ -156,7 +156,7 @@ export default function Portfolio() {
                         <span className="text-[8px] md:text-[10px] font-black bg-slate-100 text-slate-500 px-1.5 py-0.5 rounded mr-1.5">{card.region}版</span>
                         <h4 className="font-black text-slate-800 truncate text-sm md:text-lg pr-8">{card.name}</h4>
                       </div>
-                      <p className="text-[10px] md:text-xs text-slate-400 font-bold mb-2 md:mb-3 truncate">{card.set.name}</p>
+                      <p className="text-[10px] md:text-xs text-slate-400 font-bold mb-2 md:mb-3 truncate">{typeof card.set === 'string' ? card.set : card.set?.name}</p>
                       
                       <div className="flex items-center gap-3 md:gap-6 overflow-x-auto no-scrollbar">
                         <div className="flex flex-col shrink-0 min-w-[70px] md:min-w-[100px]">

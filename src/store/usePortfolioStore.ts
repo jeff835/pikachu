@@ -5,7 +5,7 @@ export interface PokemonCard {
   id: string
   name: string
   images: { small: string, large: string }
-  set: { name: string }
+  set: string | { name: string }
   region?: 'US' | 'JP' | 'TW'
   tcgplayer?: {
     prices?: {

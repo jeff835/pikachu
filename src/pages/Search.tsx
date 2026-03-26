@@ -11,7 +11,7 @@ interface PokemonCard {
   id: string
   name: string
   images: { small: string, large: string }
-  set: { name: string }
+  set: string | { name: string }
   region?: 'US' | 'JP' | 'TW'
   tcgplayer?: {
     prices?: {
@@ -285,6 +285,7 @@ export default function Search() {
             <Filter className="w-5 h-5" />
           </button>
         </div>
+      </div>
       </div>
 
       <div className="flex flex-col md:flex-row gap-8">
