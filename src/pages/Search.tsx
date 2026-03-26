@@ -2,7 +2,6 @@ import { useState, useEffect } from 'react'
 import { useLocation, useNavigate } from 'react-router-dom'
 import { Search as SearchIcon, Loader2, Globe, Sparkles, Filter, Layers, ChevronRight, LayoutGrid } from 'lucide-react'
 import axios from 'axios'
-// pokemonMap 已不再需要（搜尋改為直接比對繁中名稱）
 
 import localCardsData from '../data/cards.json'
 import { useAuthStore } from '../store/useAuthStore'
@@ -41,7 +40,7 @@ export default function Search() {
   const [selectedSet, setSelectedSet] = useState<string>('ALL')
   const [showFilters, setShowFilters] = useState(false)
 
-  const { isAuthenticated } = useAuthStore()
+  const { isAuthenticated, isLoading: isAuthLoading } = useAuthStore()
   const { addItem } = usePortfolioStore()
 
   // 取得所有可用的系列 (從 ID 解析)
@@ -146,13 +145,12 @@ export default function Search() {
      navigate(`/search?q=${encodeURIComponent(query)}`)
   }
 
-  // 渲染單一卡片小工具 (優化版：更精簡且顯示更多資訊)
+  // 渲染單一卡片小工具
   const renderCard = (card: PokemonCard) => {
     const marketUsd = getBasePriceUsd(card)
     let snkrPriceDisplay = '---'
     let ebayPriceDisplay = '---'
 
-    // 優先使用全量豐富化數據，再回退到特定熱門卡牌數據
     const enriched = (enrichedMetadata as any)[card.id]
     const hotGraded = (gradedPrices as any)[card.id]
     const finalMetadata = enriched || hotGraded
@@ -166,7 +164,6 @@ export default function Search() {
       }
     }
 
-    // 備援估算邏輯：如果該平台尚未抓取到數據，則回退到倍率估計 (前提是有 TCGPlayer 市場價)
     if (marketUsd) {
       let baseNtd = marketUsd * 32
       if (version === 'JP') baseNtd = baseNtd * 1.3
@@ -183,9 +180,7 @@ export default function Search() {
       }
     }
 
-    // 獲取鑑定卡實拍圖 (優先使用 eBay 縮圖，因為通常清晰度較佳)
     const realImageUrl = finalMetadata?.ebayImageUrl || finalMetadata?.snkrImageUrl
-
     const setId = card.id.split('-')[0]
     
     return (
@@ -194,11 +189,9 @@ export default function Search() {
         onClick={() => navigate(`/card/${card.id}`)}
         className="bg-white rounded-xl border border-slate-100 shadow-sm hover:shadow-2xl hover:-translate-y-2 hover:border-red-500 transition-all overflow-hidden flex flex-col group cursor-pointer relative"
       >
-        {/* 背景裝飾 */}
         <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-red-500 via-yellow-500 to-red-500 opacity-0 group-hover:opacity-100 transition-opacity" />
         
         <div className="bg-slate-50/50 p-3 md:p-4 flex justify-center items-center relative aspect-[3/4] overflow-hidden">
-          {/* 優先顯示鑑定實拍圖，若無則顯示官網標案圖 */}
           <img 
             src={realImageUrl || card.images.small} 
             alt={card.name} 
@@ -245,26 +238,31 @@ export default function Search() {
           </div>
           
           <button 
-            onClick={(e) => {
-               e.stopPropagation();
-               if (!isAuthenticated) {
-                 alert('提示：請先登入訓練家帳號以解鎖資產庫功能！即將導向登入大廳...')
-                 navigate('/login')
-                 return;
-               }
+            onClick={async (e) => {
+                e.stopPropagation();
+                if (!isAuthenticated) {
+                  if (isAuthLoading) return;
+                  alert('提示：請先登入訓練家帳號以解鎖資產庫功能！即將導向登入大廳...')
+                  navigate('/login')
+                  return;
+                }
 
-               let cost = 0
-               if (marketUsd) {
-                 let baseNtd = marketUsd * 32
-                 if (version === 'JP') baseNtd = baseNtd * 1.3
-                 else if (version === 'TW') baseNtd = baseNtd * 0.75
-                 cost = Math.floor(version === 'JP' ? baseNtd * 1.1 : baseNtd * 0.95)
-               }
+                let cost = 0
+                if (marketUsd) {
+                  let baseNtd = marketUsd * 32
+                  if (version === 'JP') baseNtd = baseNtd * 1.3
+                  else if (version === 'TW') baseNtd = baseNtd * 0.75
+                  cost = Math.floor(version === 'JP' ? baseNtd * 1.1 : baseNtd * 0.95)
+                }
               
-               addItem(card, cost);
-               alert(`✅ 成功將 ${card.name} 加入個人收藏庫！`)
+                const success = await addItem(card, cost);
+                if (success) {
+                  alert(`✅ 成功將 ${card.name} 加入個人收藏庫！`)
+                } else {
+                  alert(`❌ 收藏失敗，請確認登入狀態或稍後再試。`)
+                }
             }}
-            className="w-full py-1.5 md:py-2 bg-slate-50 hover:bg-red-600 text-slate-600 hover:text-white border border-slate-100 hover:border-red-600 rounded-lg text-[10px] font-bold transition-all active:scale-95 flex items-center justify-center"
+            className="w-full py-1.5 md:py-2 bg-slate-50 hover:bg-red-600 text-slate-600 hover:text-white border border-slate-100 hover:border-red-600 rounded-lg text-[10px] font-bold transition-all active:scale-95 flex items-center justify-center font-black"
           >
             + 加入蒐藏
           </button>
@@ -273,9 +271,6 @@ export default function Search() {
     )
   }
 
-  // 取得當前真實過濾的顯示卡牌
-  // region 過濾邏輯：TW/JP 版的本地卡牌有 region 欄位；US 版的遠端卡牌也有 region='US'
-  // 若卡牌沒有 region 欄位則只在 US tab 顯示（向下相容舊資料）
   const matchRegion = (card: PokemonCard) => {
     if (!card.region) return version === 'US'
     return card.region === version
@@ -333,7 +328,6 @@ export default function Search() {
       </div>
       </div>
 
-      {/* 快捷篩選區塊 (第一層) */}
       <div className="mb-8 px-2 overflow-x-auto no-scrollbar">
          <div className="flex items-center gap-2 pb-2">
            <div className="flex items-center gap-2 mr-4 shrink-0">
@@ -353,7 +347,6 @@ export default function Search() {
       </div>
 
       <div className="flex flex-col md:flex-row gap-8">
-        {/* 左側過濾欄 (Desktop) / 下拉式過濾 (Mobile) */}
         <aside className={`${showFilters ? 'block' : 'hidden'} md:block w-full md:w-64 shrink-0 space-y-6`}>
            <div className="bg-white rounded-2xl border border-slate-200 p-5 shadow-sm">
              <div className="flex items-center justify-between mb-5">
@@ -389,7 +382,6 @@ export default function Search() {
 
         </aside>
 
-        {/* 右側內容區 */}
         <main className="flex-1">
           {loading ? (
             <div className="flex flex-col items-center justify-center py-24 bg-white rounded-2xl border border-slate-200 shadow-sm">

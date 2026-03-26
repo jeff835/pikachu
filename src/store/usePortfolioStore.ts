@@ -27,7 +27,7 @@ interface PortfolioState {
   items: PortfolioItem[]
   isLoading: boolean
   fetchItems: () => Promise<void>
-  addItem: (card: PokemonCard, purchasePriceNtd: number) => Promise<void>
+  addItem: (card: PokemonCard, purchasePriceNtd: number) => Promise<boolean>
   removeItem: (uid: string) => Promise<void>
   updatePrice: (uid: string, newPrice: number) => Promise<void>
   clear: () => void
@@ -64,29 +64,44 @@ export const usePortfolioStore = create<PortfolioState>((set, get) => ({
     }
   },
   addItem: async (card, purchasePriceNtd) => {
-    const { data: sessionData } = await supabase.auth.getSession()
-    const user = sessionData?.session?.user
-    if (!user) return
-
-    const { data, error } = await supabase
-      .from('portfolios')
-      .insert({
-        user_id: user.id,
-        card_id: card.id,
-        card_data: card,
-        purchase_price_ntd: purchasePriceNtd
-      })
-      .select()
-      .single()
-
-    if (!error && data) {
-      const newItem: PortfolioItem = {
-        uid: data.id,
-        card: data.card_data,
-        purchasePriceNtd: data.purchase_price_ntd,
-        addedAt: data.created_at
+    try {
+      const { data: sessionData } = await supabase.auth.getSession()
+      const user = sessionData?.session?.user
+      if (!user) {
+        console.error("addItem failed: No active session")
+        return false
       }
-      set({ items: [newItem, ...get().items] })
+
+      const { data, error } = await supabase
+        .from('portfolios')
+        .insert({
+          user_id: user.id,
+          card_id: card.id,
+          card_data: card,
+          purchase_price_ntd: purchasePriceNtd
+        })
+        .select()
+        .single()
+
+      if (error) {
+        console.error("Supabase insert error:", error)
+        return false
+      }
+
+      if (data) {
+        const newItem: PortfolioItem = {
+          uid: data.id,
+          card: data.card_data,
+          purchasePriceNtd: data.purchase_price_ntd,
+          addedAt: data.created_at
+        }
+        set({ items: [newItem, ...get().items] })
+        return true
+      }
+      return false
+    } catch (err) {
+      console.error("addItem exception:", err)
+      return false
     }
   },
   removeItem: async (uid) => {
