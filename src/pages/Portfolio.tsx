@@ -1,16 +1,22 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import { usePortfolioStore, type PokemonCard } from '../store/usePortfolioStore'
 import { useAuthStore } from '../store/useAuthStore'
 import { Trash2, TrendingUp, TrendingDown, DollarSign, Wallet, Activity, Search as SearchIcon, Edit2, Check, X } from 'lucide-react'
 import { PieChart, Pie, Cell, ResponsiveContainer, Tooltip as RechartsTooltip, Legend } from 'recharts'
 import { Link } from 'react-router-dom'
+import enrichedMetadata from '../data/enriched-metadata.json'
 
 export default function Portfolio() {
-  const { items, removeItem, updatePrice } = usePortfolioStore()
+  const { items, removeItem, updatePrice, fetchItems } = usePortfolioStore()
   const { user } = useAuthStore()
   const [searchTerm, setSearchTerm] = useState('')
   const [editingId, setEditingId] = useState<string | null>(null)
   const [tempPrice, setTempPrice] = useState<number>(0)
+
+  // 進入頁面時主動從 Supabase 抓取資產庫
+  useEffect(() => {
+    fetchItems()
+  }, [])
 
   const handleStartEdit = (uid: string, currentPrice: number) => {
     setEditingId(uid)
@@ -22,23 +28,26 @@ export default function Portfolio() {
     setEditingId(null)
   }
 
-  // 取得真實 TCGPlayer 美金報價
-  const getBasePriceUsd = (card: PokemonCard) => {
-    return card.tcgplayer?.prices?.holofoil?.market || 
-           card.tcgplayer?.prices?.reverseHolofoil?.market || 
-           card.tcgplayer?.prices?.normal?.market;
-  }
-
-  // 計算單張卡牌的當前市值 (以該卡牌版本的 SNKRDUNK 估價基準)
+  // 優先從 Enriched Metadata 獲取真實報價，若無則迴退至估算邏輯
   const getCurrentMarketValue = (card: PokemonCard) => {
-    const marketUsd = getBasePriceUsd(card)
-    if (!marketUsd) return 0 // 如果沒有查到真實歷史報價，市值視為 0
+    const enriched = (enrichedMetadata as any)[card.id]
+    
+    // 優先順序：SNKR > eBay > 估算
+    if (enriched) {
+      if (enriched.snkrPrice) return Math.floor(enriched.snkrPrice)
+      if (enriched.ebayPrice) return Math.floor(enriched.ebayPrice)
+    }
+
+    const marketUsd = card.tcgplayer?.prices?.holofoil?.market || 
+                      card.tcgplayer?.prices?.reverseHolofoil?.market || 
+                      card.tcgplayer?.prices?.normal?.market;
+    
+    if (!marketUsd) return 0
 
     let baseNtd = marketUsd * 32
     if (card.region === 'JP') baseNtd = baseNtd * 1.3
     else if (card.region === 'TW') baseNtd = baseNtd * 0.75
 
-    // 回傳預設 SNKRDUNK 平台估值
     return card.region === 'JP' ? Math.floor(baseNtd * 1.1) : Math.floor(baseNtd * 0.95)
   }
 

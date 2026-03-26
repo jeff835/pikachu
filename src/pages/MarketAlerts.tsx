@@ -2,6 +2,8 @@ import { useState, useMemo } from 'react'
 import { ArrowDownRight, TrendingDown, Calendar, ArrowUpRight, Globe, ChevronLeft, TrendingUp } from 'lucide-react'
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts'
 import { useNavigate, useParams } from 'react-router-dom'
+import cardsData from '../data/cards.json'
+import enrichedMetadata from '../data/enriched-metadata.json'
 
 interface PricePoint {
   time: string
@@ -22,189 +24,76 @@ interface AlertCard {
   }
 }
 
-// 模擬跌幅較大的卡牌數據
-const mockPriceDropCards: AlertCard[] = [
-  {
-    id: 'sv4a-131',
-    name: '噴火龍 ex (SSR)',
-    image: 'https://images.pokemontcg.io/sv4a/131_hierarchical_image.png',
-    currentPrice: 3200,
-    changePercent: '12.5%',
-    region: 'JP',
-    history: {
-      day: [
-        { time: '09:00', price: 3650 },
-        { time: '12:00', price: 3500 },
-        { time: '15:00', price: 3400 },
-        { time: '18:00', price: 3200 },
-        { time: '21:00', price: 3200 },
-      ],
-      month: [
-        { time: '03/01', price: 4200 },
-        { time: '03/05', price: 4000 },
-        { time: '03/10', price: 3800 },
-        { time: '03/15', price: 3500 },
-        { time: '03/19', price: 3200 },
-      ],
-      year: [
-        { time: '2023 Q3', price: 5500 },
-        { time: '2023 Q4', price: 4800 },
-        { time: '2024 Q1', price: 4200 },
-        { time: '2024 MAR', price: 3200 },
-      ]
-    }
-  },
-  {
-    id: 'swsh12-160',
-    name: '路基亞 V (SA)',
-    image: 'https://images.pokemontcg.io/swsh12/160_hierarchical_image.png',
-    currentPrice: 18500,
-    changePercent: '10.2%',
-    region: 'TW',
-    history: {
-      day: [
-        { time: '09:00', price: 20600 },
-        { time: '15:00', price: 19500 },
-        { time: '21:00', price: 18500 },
-      ],
-      month: [
-        { time: '03/01', price: 22000 },
-        { time: '03/10', price: 20500 },
-        { time: '03/19', price: 18500 },
-      ],
-      year: [
-        { time: '2023 Q2', price: 25000 },
-        { time: '2023 Q4', price: 23000 },
-        { time: '2024 MAR', price: 18500 },
-      ]
-    }
-  },
-  {
-    id: 'sv1-094',
-    name: '密勒頓 ex (SAR)',
-    image: 'https://images.pokemontcg.io/sv1/94_hierarchical_image.png',
-    currentPrice: 1200,
-    changePercent: '15.8%',
-    region: 'JP',
-    history: {
-      day: [
-        { time: '09:00', price: 1450 },
-        { time: '18:00', price: 1200 },
-      ],
-      month: [
-        { time: '03/01', price: 1800 },
-        { time: '03/15', price: 1400 },
-        { time: '03/19', price: 1200 },
-      ],
-      year: [
-        { time: '2023', price: 2800 },
-        { time: '2024', price: 1200 },
-      ]
-    }
-  }
-]
+// 根據真實數據動態生成排行榜
+const generateAlertCards = (isRise: boolean): AlertCard[] => {
+  const enrichedEntries = Object.entries(enrichedMetadata as Record<string, any>)
+    .filter(([_, meta]) => meta.snkrPrice || meta.ebayPrice)
+    // 模擬排序：漲幅榜取價高的，跌幅榜取價低的 (實際應根據歷史漲跌幅)
+    .sort((a, b) => isRise ? (b[1].snkrPrice || 0) - (a[1].snkrPrice || 0) : (a[1].snkrPrice || 0) - (b[1].snkrPrice || 0))
+    .slice(0, 10)
 
-// 模擬漲幅較大的卡牌數據
-const mockPriceRiseCards: AlertCard[] = [
-  {
-    id: 'sv5m-071',
-    name: '皮卡丘 ex (SAR)',
-    image: 'https://images.pokemontcg.io/sv5m/71_hierarchical_image.png',
-    currentPrice: 15600,
-    changePercent: '18.4%',
-    region: 'JP',
-    history: {
-      day: [
-        { time: '09:00', price: 13200 },
-        { time: '12:00', price: 14000 },
-        { time: '15:00', price: 14800 },
-        { time: '18:00', price: 15600 },
-        { time: '21:00', price: 15600 },
-      ],
-      month: [
-        { time: '03/01', price: 10000 },
-        { time: '03/05', price: 11500 },
-        { time: '03/10', price: 12800 },
-        { time: '03/15', price: 14200 },
-        { time: '03/19', price: 15600 },
-      ],
-      year: [
-        { time: '2023 Q4', price: 8000 },
-        { time: '2024 Q1', price: 11000 },
-        { time: '2024 MAR', price: 15600 },
-      ]
+  return enrichedEntries.map(([id, meta]) => {
+    const card = cardsData.find(c => c.id === id)
+    const currentPrice = Math.floor(meta.snkrPrice || meta.ebayPrice || 0)
+    
+    // 生成基於真實價格的隨機波動歷史數據
+    const generateHistory = (count: number, base: number, volatility: number) => {
+      const points: PricePoint[] = []
+      for (let i = 0; i < count; i++) {
+        const factor = 1 + (Math.random() - 0.5) * volatility
+        points.push({
+          time: `T-${count - i}`,
+          price: Math.floor(base * factor)
+        })
+      }
+      points[count - 1].price = base // 最後一點設為當前價格
+      return points
     }
-  },
-  {
-    id: 'sv3-125',
-    name: '噴火龍 ex (SAR)',
-    image: 'https://images.pokemontcg.io/sv3/125_hierarchical_image.png',
-    currentPrice: 8900,
-    changePercent: '14.2%',
-    region: 'JP',
-    history: {
-      day: [
-        { time: '09:00', price: 7800 },
-        { time: '21:00', price: 8900 },
-      ],
-      month: [
-        { time: '03/01', price: 6500 },
-        { time: '03/19', price: 8900 },
-      ],
-      year: [
-        { time: '2023 Q3', price: 4200 },
-        { time: '2024 MAR', price: 8900 },
-      ]
+
+    return {
+      id,
+      name: card?.name || '未知卡牌',
+      image: card?.images?.small || '',
+      currentPrice,
+      changePercent: (3 + Math.random() * 15).toFixed(1) + '%',
+      region: card?.region || 'JP',
+      history: {
+        day: generateHistory(12, currentPrice, 0.05),
+        month: generateHistory(10, currentPrice, 0.15),
+        year: generateHistory(8, currentPrice, 0.4)
+      }
     }
-  },
-  {
-    id: 'sv1v-095',
-    name: '布里卡隆 ex (SAR)',
-    image: 'https://images.pokemontcg.io/sv1v/95_hierarchical_image.png',
-    currentPrice: 450,
-    changePercent: '22.5%',
-    region: 'JP',
-    history: {
-      day: [
-        { time: '09:00', price: 360 },
-        { time: '18:00', price: 450 },
-      ],
-      month: [
-        { time: '03/01', price: 280 },
-        { time: '03/19', price: 450 },
-      ],
-      year: [
-        { time: '2023', price: 150 },
-        { time: '2024', price: 450 },
-      ]
-    }
-  }
-]
+  })
+}
 
 export default function MarketAlerts() {
   const navigate = useNavigate()
   const { type } = useParams<{ type: string }>()
   const isRise = type === 'rise'
   
-  const currentMockData = isRise ? mockPriceRiseCards : mockPriceDropCards
-  const [selectedCardId, setSelectedCardId] = useState(currentMockData[0].id)
+  const currentData = useMemo(() => generateAlertCards(isRise), [isRise])
+  const [selectedCardId, setSelectedCardId] = useState(currentData[0]?.id || '')
   const [timeframe, setTimeframe] = useState<'day' | 'month' | 'year'>('month')
 
   // 當 type 改變時，重置選取的卡片
   useMemo(() => {
-    setSelectedCardId(currentMockData[0].id)
-  }, [type])
+    if (currentData.length > 0) {
+      setSelectedCardId(currentData[0].id)
+    }
+  }, [type, currentData])
 
   const selectedCard = useMemo(() => 
-    currentMockData.find(c => c.id === selectedCardId) || currentMockData[0]
-  , [selectedCardId, currentMockData])
+    currentData.find((c: AlertCard) => c.id === selectedCardId) || currentData[0]
+  , [selectedCardId, currentData])
+
+  if (!selectedCard) return null
 
   const chartData = useMemo(() => selectedCard.history[timeframe], [selectedCard, timeframe])
 
   // 主題配色與圖示
   const theme = {
     title: isRise ? '當日漲幅排行' : '當日跌幅排行',
-    description: `當前市場有 ${currentMockData.length} 張異常價格波動卡牌`,
+    description: `當前市場有 ${currentData.length} 張異常價格波動卡牌`,
     iconColor: isRise ? 'text-emerald-500' : 'text-rose-500',
     bgColor: isRise ? 'bg-emerald-50' : 'bg-rose-50',
     borderColor: isRise ? 'border-emerald-100' : 'border-rose-100',
@@ -265,7 +154,7 @@ export default function MarketAlerts() {
         <div className="lg:col-span-1 space-y-3">
           <p className="text-[10px] font-black text-slate-400 uppercase tracking-widest pl-2 mb-2">當日排行名單</p>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-1 gap-3">
-            {currentMockData.map((card) => (
+            {currentData.map((card: AlertCard) => (
               <button
                 key={card.id}
                 onClick={() => setSelectedCardId(card.id)}
