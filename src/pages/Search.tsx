@@ -103,7 +103,7 @@ export default function Search() {
            id: c.id,
            localId: c.local_id,
            name: c.name,
-           image: c.image_url,
+           image: c.image_url, // 確保使用 image_url
            region: c.region as any,
            rarity: c.rarity,
            set: { id: c.set_id, name: c.set_name }
@@ -222,7 +222,7 @@ export default function Search() {
       }
     }
 
-    const cardImage = card.image || card.images?.small || '';
+    const cardImage = card.image || '';
     const setId = typeof card.set === 'string' ? card.set : card.set?.id || card.id.split('-')[0];
     
     return (

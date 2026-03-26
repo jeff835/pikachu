@@ -27,13 +27,14 @@ async function migrateCards() {
     id: c.id,
     local_id: c.localId,
     name: c.name,
-    image_url: c.image || c.images?.large || c.images?.small,
+    image_url: c.image_url || c.image || c.images?.large || c.images?.small,
     rarity: c.rarity,
     region: c.region || 'JP',
-    set_id: typeof c.set === 'string' ? c.set : c.set?.id,
-    set_name: typeof c.set === 'string' ? c.set : c.set?.name,
+    set_id: c.set_id || (typeof c.set === 'string' ? c.set : c.set?.id),
+    set_name: c.set_name || (typeof c.set === 'string' ? c.set : c.set?.name),
     set_logo: c.set?.logo || ''
   }))
+
 
   // 分批上傳 (避免 Request 過大)
   const batchSize = 500
