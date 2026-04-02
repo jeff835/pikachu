@@ -171,8 +171,8 @@ export default function CardDetail() {
               alt={data.name} 
               onError={(e) => {
                 const target = e.target as HTMLImageElement;
-                if (!target.src.includes('placeholder')) {
-                  target.src = 'https://images.pokemontcg.io/base1/1_hir.png'; // 兜底用噴火龍圖
+                if (!target.src.includes('tcg-card-back')) {
+                  target.src = 'https://tcg.pokemon.com/assets/img/global/tcg-card-back-2x.jpg';
                 }
               }}
               className="relative z-10 w-full h-auto object-contain drop-shadow-[0_20px_50px_rgba(0,0,0,0.15)] group-hover:scale-[1.02] transition-transform duration-500" 

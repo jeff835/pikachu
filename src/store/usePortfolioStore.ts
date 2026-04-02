@@ -1,5 +1,7 @@
 import { create } from 'zustand'
 import { supabase } from '../lib/supabase'
+import { fetchCardValuations, type CardValuation } from '../services/cardPricing'
+import { fetchExchangeRates, type ExchangeRates } from '../services/exchangeRate'
 
 export interface PokemonCard {
   id: string
@@ -26,16 +28,30 @@ export interface PortfolioItem {
 interface PortfolioState {
   items: PortfolioItem[]
   isLoading: boolean
+  // 即時估值相關狀態
+  valuations: Map<string, CardValuation>
+  exchangeRates: ExchangeRates | null
+  isValuationLoading: boolean
+  lastValuationUpdate: string | null
+
+  // 核心方法
   fetchItems: () => Promise<void>
   addItem: (card: PokemonCard, purchasePriceNtd: number) => Promise<boolean>
   removeItem: (uid: string) => Promise<void>
   updatePrice: (uid: string, newPrice: number) => Promise<void>
   clear: () => void
+  // 估值方法
+  refreshValuations: () => Promise<void>
 }
 
 export const usePortfolioStore = create<PortfolioState>((set, get) => ({
   items: [],
   isLoading: false,
+  valuations: new Map(),
+  exchangeRates: null,
+  isValuationLoading: false,
+  lastValuationUpdate: null,
+
   fetchItems: async () => {
     set({ isLoading: true })
     const { data: sessionData } = await supabase.auth.getSession()
@@ -50,19 +66,50 @@ export const usePortfolioStore = create<PortfolioState>((set, get) => ({
       .order('created_at', { ascending: false })
     
     if (!error && data) {
-      set({
-        items: data.map(row => ({
-          uid: row.id,
-          card: row.card_data,
-          purchasePriceNtd: row.purchase_price_ntd,
-          addedAt: row.created_at
-        })),
-        isLoading: false
-      })
+      const items = data.map(row => ({
+        uid: row.id,
+        card: row.card_data,
+        purchasePriceNtd: row.purchase_price_ntd,
+        addedAt: row.created_at
+      }))
+      set({ items, isLoading: false })
+
+      // 載入資產後，自動觸發估值刷新
+      if (items.length > 0) {
+        get().refreshValuations()
+      }
     } else {
       set({ isLoading: false })
     }
   },
+
+  refreshValuations: async () => {
+    const { items } = get()
+    if (items.length === 0) return
+
+    set({ isValuationLoading: true })
+
+    try {
+      const cardIds = items.map(item => item.card.id)
+      
+      // 並行取得匯率與估值
+      const [rates, valuations] = await Promise.all([
+        fetchExchangeRates(),
+        fetchCardValuations(cardIds, true) // 強制刷新
+      ])
+
+      set({ 
+        valuations,
+        exchangeRates: rates,
+        isValuationLoading: false,
+        lastValuationUpdate: new Date().toISOString()
+      })
+    } catch (error) {
+      console.error('❌ 估值刷新失敗:', error)
+      set({ isValuationLoading: false })
+    }
+  },
+
   addItem: async (card, purchasePriceNtd) => {
     try {
       const { data: sessionData } = await supabase.auth.getSession()
@@ -104,17 +151,20 @@ export const usePortfolioStore = create<PortfolioState>((set, get) => ({
       return false
     }
   },
+
   removeItem: async (uid) => {
     const { error } = await supabase.from('portfolios').delete().eq('id', uid)
     if (!error) {
       set({ items: get().items.filter(i => i.uid !== uid) })
     }
   },
+
   updatePrice: async (uid, newPrice) => {
     const { error } = await supabase.from('portfolios').update({ purchase_price_ntd: newPrice }).eq('id', uid)
     if (!error) {
       set({ items: get().items.map(i => i.uid === uid ? { ...i, purchasePriceNtd: newPrice } : i) })
     }
   },
-  clear: () => set({ items: [] })
+
+  clear: () => set({ items: [], valuations: new Map(), exchangeRates: null })
 }))

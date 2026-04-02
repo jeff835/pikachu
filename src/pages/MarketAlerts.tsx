@@ -183,7 +183,12 @@ export default function MarketAlerts() {
                   : `bg-white/60 border-transparent hover:bg-white ${theme.cardHoverBorder} text-slate-500`
                 }`}
               >
-                <img src={card.image} alt={card.name} className="w-12 h-16 object-contain mr-3 drop-shadow-md" />
+                <img src={card.image} alt={card.name} className="w-12 h-16 object-contain mr-3 drop-shadow-md" onError={(e) => {
+                  const target = e.target as HTMLImageElement;
+                  if (!target.src.includes('tcg-card-back')) {
+                    target.src = 'https://tcg.pokemon.com/assets/img/global/tcg-card-back-2x.jpg';
+                  }
+                }} />
                 <div className="flex-1 min-w-0">
                   <p className={`text-sm font-black truncate ${selectedCardId === card.id ? 'text-slate-800' : 'text-slate-500'}`}>{card.name}</p>
                   <div className="flex items-center gap-2 mt-1">
@@ -211,7 +216,12 @@ export default function MarketAlerts() {
                      onClick={() => navigate(`/card/${selectedCard.id}`)}
                      className="bg-slate-50 p-3 rounded-3xl border border-slate-100 shadow-inner group cursor-pointer"
                   >
-                    <img src={selectedCard.image} alt={selectedCard.name} className="w-24 md:w-32 h-32 md:h-44 object-contain group-hover:scale-105 transition-transform" />
+                    <img src={selectedCard.image} alt={selectedCard.name} className="w-24 md:w-32 h-32 md:h-44 object-contain group-hover:scale-105 transition-transform" onError={(e) => {
+                      const target = e.target as HTMLImageElement;
+                      if (!target.src.includes('tcg-card-back')) {
+                        target.src = 'https://tcg.pokemon.com/assets/img/global/tcg-card-back-2x.jpg';
+                      }
+                    }} />
                   </div>
                   <div className="space-y-1">
                     <div className="flex items-center gap-2 mb-1">

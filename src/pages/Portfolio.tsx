@@ -1,19 +1,22 @@
 import { useState, useEffect } from 'react'
 import { usePortfolioStore, type PokemonCard } from '../store/usePortfolioStore'
 import { useAuthStore } from '../store/useAuthStore'
-import { Trash2, TrendingUp, TrendingDown, DollarSign, Wallet, Activity, Search as SearchIcon, Edit2, Check, X } from 'lucide-react'
+import { Trash2, TrendingUp, TrendingDown, DollarSign, Wallet, Activity, Search as SearchIcon, Edit2, Check, X, RefreshCw, Clock } from 'lucide-react'
 import { PieChart, Pie, Cell, ResponsiveContainer, Tooltip as RechartsTooltip, Legend } from 'recharts'
 import { Link } from 'react-router-dom'
 import enrichedMetadata from '../data/enriched-metadata.json'
 
 export default function Portfolio() {
-  const { items, removeItem, updatePrice, fetchItems } = usePortfolioStore()
+  const { 
+    items, removeItem, updatePrice, fetchItems,
+    valuations, exchangeRates, isValuationLoading, lastValuationUpdate, refreshValuations
+  } = usePortfolioStore()
   const { user } = useAuthStore()
   const [searchTerm, setSearchTerm] = useState('')
   const [editingId, setEditingId] = useState<string | null>(null)
   const [tempPrice, setTempPrice] = useState<number>(0)
 
-  // 進入頁面時主動從 Supabase 抓取資產庫
+  // 進入頁面時主動從 Supabase 抓取資產庫（會自動觸發估值刷新）
   useEffect(() => {
     fetchItems()
   }, [])
@@ -28,27 +31,54 @@ export default function Portfolio() {
     setEditingId(null)
   }
 
-  // 優先從 Enriched Metadata 獲取真實報價，若無則迴退至估算邏輯
+  /**
+   * 取得卡片的即時市值估價 (TWD)
+   * 優先順序：Supabase card_prices (即時匯率換算) > enriched-metadata (舊版 Fallback) > 靜態估算
+   */
   const getCurrentMarketValue = (card: PokemonCard) => {
+    // 1. 優先使用 Supabase 即時估值
+    const valuation = valuations.get(card.id)
+    if (valuation && valuation.bestPriceTwd > 0) {
+      return valuation.bestPriceTwd
+    }
+
+    // 2. Fallback: 從 enriched-metadata 取得（舊版資料，已預先換算 NTD）
     const enriched = (enrichedMetadata as any)[card.id]
-    
-    // 優先順序：SNKR > eBay > 估算
     if (enriched) {
       if (enriched.snkrPrice) return Math.floor(enriched.snkrPrice)
       if (enriched.ebayPrice) return Math.floor(enriched.ebayPrice)
     }
 
+    // 3. 最終 Fallback: TCGPlayer 靜態估算
     const marketUsd = card.tcgplayer?.prices?.holofoil?.market || 
                       card.tcgplayer?.prices?.reverseHolofoil?.market || 
                       card.tcgplayer?.prices?.normal?.market;
     
     if (!marketUsd) return 0
 
-    let baseNtd = marketUsd * 32
+    const rate = exchangeRates?.usdToTwd || 32.5
+    let baseNtd = marketUsd * rate
     if (card.region === 'JP') baseNtd = baseNtd * 1.3
     else if (card.region === 'TW') baseNtd = baseNtd * 0.75
 
     return card.region === 'JP' ? Math.floor(baseNtd * 1.1) : Math.floor(baseNtd * 0.95)
+  }
+
+  /**
+   * 取得卡片估值的來源文字標籤
+   */
+  const getValuationSource = (card: PokemonCard): string => {
+    const valuation = valuations.get(card.id)
+    if (valuation && valuation.bestPriceTwd > 0) {
+      if (valuation.snkrPriceTwd && valuation.snkrPriceTwd >= (valuation.ebayPriceTwd || 0)) {
+        return 'SNKRDUNK'
+      }
+      return 'eBay'
+    }
+    const enriched = (enrichedMetadata as any)[card.id]
+    if (enriched?.snkrPrice) return 'SNKR (快取)'
+    if (enriched?.ebayPrice) return 'eBay (快取)'
+    return '估算'
   }
 
   // 總務計算
@@ -70,6 +100,13 @@ export default function Portfolio() {
   // 篩選列表
   const filteredItems = items.filter(item => item.card.name.toLowerCase().includes(searchTerm.toLowerCase()))
 
+  // 格式化最後更新時間
+  const formatLastUpdate = () => {
+    if (!lastValuationUpdate) return null
+    const d = new Date(lastValuationUpdate)
+    return `${d.getHours().toString().padStart(2, '0')}:${d.getMinutes().toString().padStart(2, '0')}:${d.getSeconds().toString().padStart(2, '0')}`
+  }
+
   return (
     <div className="animate-in fade-in duration-500 pb-10">
       <div className="mb-6 md:mb-8 flex flex-col md:flex-row md:items-start justify-between space-y-2 md:space-y-0 text-center md:text-left">
@@ -79,6 +116,36 @@ export default function Portfolio() {
           </h1>
           <p className="text-slate-400 font-bold mt-1 md:mt-2 text-xs md:text-sm">追蹤您的卡牌投資組合與實時市值</p>
         </div>
+
+        {/* 匯率與刷新狀態指示 */}
+        {items.length > 0 && (
+          <div className="flex items-center gap-3 text-xs">
+            {exchangeRates && (
+              <div className="bg-gradient-to-r from-blue-50 to-indigo-50 border border-blue-200/60 rounded-lg px-3 py-1.5 flex items-center gap-2 shadow-sm">
+                <DollarSign className="w-3.5 h-3.5 text-blue-500" />
+                <span className="text-slate-600 font-bold">
+                  USD {exchangeRates.usdToTwd.toFixed(1)} · JPY {exchangeRates.jpyToTwd.toFixed(3)}
+                </span>
+              </div>
+            )}
+            <button 
+              onClick={() => refreshValuations()}
+              disabled={isValuationLoading}
+              className="bg-white border border-slate-200 rounded-lg px-3 py-1.5 flex items-center gap-1.5 hover:bg-slate-50 transition-colors shadow-sm disabled:opacity-50 group"
+            >
+              <RefreshCw className={`w-3.5 h-3.5 text-slate-400 group-hover:text-red-500 transition-colors ${isValuationLoading ? 'animate-spin' : ''}`} />
+              <span className="text-slate-500 font-bold group-hover:text-slate-700">
+                {isValuationLoading ? '更新中...' : '刷新估值'}
+              </span>
+            </button>
+            {lastValuationUpdate && (
+              <div className="hidden sm:flex items-center gap-1 text-slate-400">
+                <Clock className="w-3 h-3" />
+                <span className="font-medium">{formatLastUpdate()}</span>
+              </div>
+            )}
+          </div>
+        )}
       </div>
 
       {/* 總覽指標卡片區 */}
@@ -97,7 +164,10 @@ export default function Portfolio() {
           <div className="absolute -right-4 -top-4 bg-indigo-50 w-20 h-20 md:w-24 md:h-24 rounded-full group-hover:scale-110 transition-transform flex items-center justify-center">
             <Activity className="w-6 h-6 md:w-8 md:h-8 text-indigo-400 opacity-40 absolute bottom-4 left-4" />
           </div>
-          <p className="text-slate-400 text-[10px] md:text-xs font-bold mb-1 relative z-10 uppercase tracking-widest">當前總市值估價</p>
+          <p className="text-slate-400 text-[10px] md:text-xs font-bold mb-1 relative z-10 uppercase tracking-widest">
+            當前總市值估價
+            {isValuationLoading && <span className="ml-1 text-blue-400 animate-pulse">⟳</span>}
+          </p>
           <div className="flex items-baseline space-x-2 relative z-10">
             <h3 className="text-2xl md:text-3xl font-black text-slate-800 tracking-tight">NT$ {totalCurrentValue.toLocaleString()}</h3>
           </div>
@@ -155,17 +225,34 @@ export default function Portfolio() {
                 const diff = currentVal - purchasePriceNtd
                 const diffPct = purchasePriceNtd > 0 ? (diff / purchasePriceNtd) * 100 : 0
                 const noPrice = currentVal === 0
+                const source = getValuationSource(card)
                 
                 return (
                   <div key={uid} className="bg-white p-3 md:p-4 rounded-xl md:rounded-2xl border border-slate-200 shadow-sm flex items-center hover:shadow-md transition-shadow group relative overflow-hidden">
-                    <img src={card.images.small} alt={card.name} className="w-12 h-16 md:w-16 md:h-24 object-contain mr-3 md:mr-5 drop-shadow-sm rounded-md" />
+                    <img src={card.images.small} alt={card.name} className="w-12 h-16 md:w-16 md:h-24 object-contain mr-3 md:mr-5 drop-shadow-sm rounded-md" onError={(e) => {
+                      const target = e.target as HTMLImageElement;
+                      if (!target.src.includes('tcg-card-back')) {
+                        target.src = 'https://tcg.pokemon.com/assets/img/global/tcg-card-back-2x.jpg';
+                      }
+                    }} />
                     
                     <div className="flex-1 min-w-0">
                       <div className="flex items-center mb-0.5 md:mb-1">
                         <span className="text-[8px] md:text-[10px] font-black bg-slate-100 text-slate-500 px-1.5 py-0.5 rounded mr-1.5">{card.region}版</span>
                         <h4 className="font-black text-slate-800 truncate text-sm md:text-lg pr-8">{card.name}</h4>
                       </div>
-                      <p className="text-[10px] md:text-xs text-slate-400 font-bold mb-2 md:mb-3 truncate">{typeof card.set === 'string' ? card.set : card.set?.name}</p>
+                      <div className="flex items-center gap-1.5 mb-2 md:mb-3">
+                        <p className="text-[10px] md:text-xs text-slate-400 font-bold truncate">{typeof card.set === 'string' ? card.set : card.set?.name}</p>
+                        {!noPrice && (
+                          <span className={`text-[7px] md:text-[9px] font-black px-1.5 py-0.5 rounded-full ${
+                            source.includes('SNKR') ? 'bg-purple-100 text-purple-600' :
+                            source.includes('eBay') ? 'bg-blue-100 text-blue-600' :
+                            'bg-slate-100 text-slate-500'
+                          }`}>
+                            {source}
+                          </span>
+                        )}
+                      </div>
                       
                       <div className="flex items-center gap-3 md:gap-6 overflow-x-auto no-scrollbar">
                         <div className="flex flex-col shrink-0 min-w-[70px] md:min-w-[100px]">
@@ -272,7 +359,24 @@ export default function Portfolio() {
                   </PieChart>
                 </ResponsiveContainer>
               </div>
-              <p className="text-xs text-center text-slate-400 font-bold mt-6">上述圓餅圖顯示您收藏投資的不同系列卡包佔比分佈，有助於分散風險。</p>
+
+              {/* 匯率與更新時間資訊 */}
+              {exchangeRates && (
+                <div className="mt-4 pt-4 border-t border-slate-100 space-y-2">
+                  <div className="flex justify-between text-[10px] text-slate-400 font-bold">
+                    <span>💱 即時匯率</span>
+                    <span>USD→TWD: {exchangeRates.usdToTwd.toFixed(2)} | JPY→TWD: {exchangeRates.jpyToTwd.toFixed(4)}</span>
+                  </div>
+                  {lastValuationUpdate && (
+                    <div className="flex justify-between text-[10px] text-slate-400 font-bold">
+                      <span>🕐 最後更新</span>
+                      <span>{formatLastUpdate()}</span>
+                    </div>
+                  )}
+                </div>
+              )}
+
+              <p className="text-xs text-center text-slate-400 font-bold mt-4">上述圓餅圖顯示您收藏投資的不同系列卡包佔比分佈，有助於分散風險。</p>
             </div>
           </div>
         </div>

@@ -238,6 +238,12 @@ export default function Search() {
             alt={card.name} 
             className={`h-full object-contain group-hover:scale-110 transition-transform duration-500 drop-shadow-xl ${realImageUrl ? 'border-2 border-slate-200 rounded' : ''}`} 
             loading="lazy" 
+            onError={(e) => {
+              const target = e.target as HTMLImageElement;
+              if (!target.src.includes('tcg-card-back')) {
+                target.src = 'https://tcg.pokemon.com/assets/img/global/tcg-card-back-2x.jpg';
+              }
+            }}
           />
           <div className="absolute top-2 left-2 flex flex-col gap-1">
              <span className="bg-white/90 backdrop-blur px-1.5 py-0.5 rounded text-[8px] font-black text-slate-800 shadow-sm border border-slate-100 uppercase tracking-tighter">

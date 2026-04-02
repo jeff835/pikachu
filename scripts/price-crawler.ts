@@ -2,6 +2,11 @@ import fs from 'fs';
 import path from 'path';
 import axios from 'axios';
 import { fileURLToPath } from 'url';
+import { createClient } from '@supabase/supabase-js';
+import * as dotenv from 'dotenv';
+
+// 載入環境變數
+dotenv.config({ path: '.env.local' });
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -9,7 +14,11 @@ const DATA_DIR = path.join(__dirname, '../src/data');
 const CARDS_FILE = path.join(DATA_DIR, 'cards.json');
 const METADATA_FILE = path.join(DATA_DIR, 'enriched-metadata.json');
 
-// 從 pokemonMap 導入映射邏輯 (這裡模擬或導入)
+// 初始化 Supabase (使用專案內部的環境變數)
+const supabaseUrl = process.env.VITE_SUPABASE_URL || '';
+const supabaseKey = process.env.VITE_SUPABASE_ANON_KEY || '';
+const supabase = createClient(supabaseUrl, supabaseKey);
+
 const POKEMON_JA_MAP: Record<string, string> = {
   '皮卡丘': 'ピカチュウ', '噴火龍': 'リザードン', '妙蛙種子': 'フシギダネ', '水箭龜': 'カメックス',
   '耿鬼': 'ゲンガー', '卡比獸': 'カビゴン', '超夢': 'ミュウツー', '夢幻': 'ミュウ',
@@ -49,14 +58,13 @@ async function fetchFromEbay(query: string) {
       timeout: 8000
     });
     const body = response.data;
-    const priceMatches = body.match(/(?:NT\$|US\$)\s*([\d,.]+)/g);
+    const priceMatches = body.match(/US\$\s*([\d,.]+)/g); // 僅匹配 USD
     let price: number | null = null;
     if (priceMatches) {
       const validPrices = priceMatches.map((m: string) => {
-        const val = parseFloat(m.replace(/[^\d.]/g, ''));
-        return m.includes('US$') ? val * 32 : val;
-      }).filter((v: number) => v > 100);
-      if (validPrices.length > 0) price = Math.floor(validPrices[0]);
+        return parseFloat(m.replace(/[^\d.]/g, ''));
+      }).filter((v: number) => v > 5); // 稍微過濾極端低價 (如運費)
+      if (validPrices.length > 0) price = validPrices[0];
     }
     const imgMatch = body.match(/(?:src|data-src)="(https:\/\/i\.ebayimg\.com\/images\/g\/[\w-]+\/s-l\d+\.(?:jpg|webp|jpeg))"/);
     return { price, imageUrl: imgMatch ? imgMatch[1] : null };
@@ -65,7 +73,6 @@ async function fetchFromEbay(query: string) {
 
 async function fetchFromSNKRDunk(query: string) {
   try {
-    // 模擬 SNKRDUNK 抓取邏輯 (由於 SNKRDUNK 有 Cloudflare，這裡實作特徵比對架構)
     const url = `https://snkrdunk.com/products/search?q=${encodeURIComponent(query)}`;
     const response = await axios.get(url, {
       headers: { 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' },
@@ -78,9 +85,9 @@ async function fetchFromSNKRDunk(query: string) {
     let price: number | null = null;
     if (jpyMatches) {
       const validPrices = jpyMatches.map((m: string) => {
-        return parseFloat(m.replace(/[^\d]/g, '')) * 0.22; // JPY to NTD
+        return parseFloat(m.replace(/[^\d]/g, ''));
       }).filter((v: number) => v > 100);
-      if (validPrices.length > 0) price = Math.floor(validPrices[0]);
+      if (validPrices.length > 0) price = validPrices[0];
     }
 
     const imgMatch = body.match(/src="(https:\/\/img\.snkrdunk\.com\/images\/product\/[\w/]+\.jpg)"/);
@@ -89,12 +96,13 @@ async function fetchFromSNKRDunk(query: string) {
 }
 
 async function startEnrichment(limit = 50, forceAll = false) {
-  console.log(`🚀 啟動行情強化爬蟲 (批次: ${limit})`);
+  console.log(`🚀 啟動行情強化爬蟲 (併步 Supabase) (批次: ${limit})`);
   let processed = 0;
   const now = new Date();
 
   for (const card of allCards) {
     const existing = enrichedMetadata[card.id];
+    // 如果已經有資料且更新時間在一週內，跳過 (除非強制)
     if (existing && existing.ebayPrice && existing.snkrPrice && (now.getTime() - new Date(existing.updatedAt).getTime()) < 86400000 * 7) continue;
 
     if (!forceAll && processed >= limit) break;
@@ -105,18 +113,33 @@ async function startEnrichment(limit = 50, forceAll = false) {
 
     console.log(`[${processed + 1}] 正在抓取: ${card.name} (${card.id})`);
 
-    // 1. 抓取 SNKRDUNK (優先處理日版關鍵字)
+    // 1. 抓取 SNKRDUNK (JPY)
     let snkrResult = await fetchFromSNKRDunk(`${jaName} ${cardNum}/${setId} PSA 10`);
     if (!snkrResult.price) {
       snkrResult = await fetchFromSNKRDunk(`${jaName} PSA 10`);
     }
 
-    // 2. 抓取 eBay (優先美版關鍵字)
+    // 2. 抓取 eBay (USD)
     let ebayResult = await fetchFromEbay(`${enName} ${cardNum} PSA 10`);
     if (!ebayResult.price) {
       ebayResult = await fetchFromEbay(`${card.id} PSA 10`);
     }
 
+    // 更新資料庫
+    if (ebayResult.price || snkrResult.price) {
+       const { error } = await supabase
+        .from('card_prices')
+        .upsert({
+            card_id: card.id,
+            snkr_price: snkrResult.price,
+            ebay_price: ebayResult.price,
+            last_updated: now.toISOString()
+        });
+       if (error) console.error(`❌ Supabase Upsert 失敗 (${card.id}):`, error.message);
+       else console.log(`✅ 已同步至 Supabase: ${card.id}`);
+    }
+
+    // 同步更新本地 JSON 備份
     enrichedMetadata[card.id] = {
       ...existing,
       ebayPrice: ebayResult.price || existing?.ebayPrice || null,
@@ -130,11 +153,12 @@ async function startEnrichment(limit = 50, forceAll = false) {
     processed++;
     fs.writeFileSync(METADATA_FILE, JSON.stringify(enrichedMetadata, null, 2));
     
-    const delay = (ebayResult.price || snkrResult.price) ? 3000 : 1000;
-    await new Promise(r => setTimeout(r, delay + Math.random() * 1000));
+    // 頻率限制
+    const delay = (ebayResult.price || snkrResult.price) ? 2000 : 500;
+    await new Promise(r => setTimeout(r, delay + Math.random() * 500));
   }
-  console.log(`✨ 完成！共更新 ${processed} 筆數據。`);
+  console.log(`✨ 完成！共更新 ${processed} 筆報價數據。`);
 }
 
 const isAll = process.argv.includes('--all');
-startEnrichment(isAll ? 9999 : 50, isAll);
+startEnrichment(isAll ? 9999 : 30, isAll);
