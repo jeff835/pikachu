@@ -104,6 +104,8 @@ async function syncJpDatabase() {
         rarity: card.rarity || 'Common',
         set_id: set.id,
         set_name: set.name,
+        serie_id: setDetail.serie.id,
+        serie_name: setDetail.serie.name,
         region: 'JP'
       };
     });

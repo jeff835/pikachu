@@ -32,6 +32,8 @@ async function migrateCards() {
     region: c.region || 'JP',
     set_id: c.set_id || (typeof c.set === 'string' ? c.set : c.set?.id),
     set_name: c.set_name || (typeof c.set === 'string' ? c.set : c.set?.name),
+    serie_id: c.serie_id || '',
+    serie_name: c.serie_name || '',
     set_logo: c.set?.logo || ''
   }))
 

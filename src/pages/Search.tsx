@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import { useLocation, useNavigate } from 'react-router-dom'
-import { Search as SearchIcon, Loader2, Globe, Sparkles, Filter, Layers, ChevronRight, LayoutGrid } from 'lucide-react'
+import { Search as SearchIcon, Loader2, Globe, Filter, Layers, ChevronRight, LayoutGrid, ArrowLeft } from 'lucide-react'
 import axios from 'axios'
 
 import { supabase } from '../lib/supabase'
@@ -8,6 +8,8 @@ import { useAuthStore } from '../store/useAuthStore'
 import { usePortfolioStore } from '../store/usePortfolioStore'
 import gradedPrices from '../data/graded-prices.json'
 import enrichedMetadata from '../data/enriched-metadata.json'
+import catalogStructure from '../data/catalog-structure.json'
+import { translateSeriesName, translateCardSearch } from '../services/cardDictionary'
 
 interface PokemonCard {
   id: string
@@ -19,15 +21,17 @@ interface PokemonCard {
   region?: 'US' | 'JP' | 'TW'
   rarity?: string
   tcgplayer?: {
-    prices?: {
-      holofoil?: { market: number }
-      reverseHolofoil?: { market: number }
-      normal?: { market: number }
-    }
+    prices?: { holofoil?: { market: number }; reverseHolofoil?: { market: number }; normal?: { market: number } }
   }
 }
 
 type CardVersion = 'US' | 'JP' | 'TW'
+
+interface CatalogSeries {
+  id: string
+  name: string
+  sets: { id: string, name: string, logo: string }[]
+}
 
 export default function Search() {
   const location = useLocation()
@@ -39,63 +43,51 @@ export default function Search() {
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState('')
   const [version, setVersion] = useState<CardVersion>('JP') 
-  const [popularCards, setPopularCards] = useState<PokemonCard[]>([])
-  const [selectedSet, setSelectedSet] = useState<string>('ALL')
   const [showFilters, setShowFilters] = useState(false)
-  const [availableSets, setAvailableSets] = useState<{id: string, name: string}[]>([])
+
+  // 目錄狀態
+  const [selectedSeries, setSelectedSeries] = useState<string>('sv')
+  const [selectedSet, setSelectedSet] = useState<{ id: string, name: string } | null>(null)
 
   const { isAuthenticated, isLoading: isAuthLoading } = useAuthStore()
   const { addItem } = usePortfolioStore()
 
-  // 從 Supabase 抓取所有可用系列
-  useEffect(() => {
-    const fetchSets = async () => {
-      // 這裡直接從 cards 表獲取唯一的 set_id 與 set_name
-      const { data, error } = await supabase
-        .from('cards')
-        .select('set_id, set_name')
-        .order('set_id', { ascending: false })
+  // 將 catalogStructure 轉換為方便渲染的陣列
+  const seriesList: CatalogSeries[] = Object.entries(catalogStructure).map(([id, data]) => ({
+    id,
+    name: translateSeriesName(id) || data.name,
+    sets: data.sets
+  })).sort((a, b) => b.id.localeCompare(a.id)) // 簡單的反向排序以把 sv, swsh 放前面
 
-      if (!error && data) {
-        // 去重
-        const setsMap = new Map();
-        data.forEach(item => {
-          if (item.set_id) setsMap.set(item.set_id, item.set_name || item.set_id);
-        });
-        setAvailableSets(
-          Array.from(setsMap.entries())
-            .map(([id, name]) => ({ id, name }))
-            .sort((a,b) => b.id.localeCompare(a.id))
-        );
-      }
-    }
-    fetchSets()
-  }, [])
-
-  // 核心搜尋邏輯 (改成查詢 Supabase)
+  // 核心查詢邏輯
   useEffect(() => {
     const fetchCards = async () => {
       setLoading(true)
       setError('')
+      setCards([])
       try {
         let queryBuilder = supabase.from('cards').select('*')
         
-        // 1. 關鍵字搜尋 (模糊比對 name, id, local_id)
+        // 如果有搜尋字串
         if (searchQuery.trim()) {
-           const sq = `%${searchQuery.trim()}%`
-           queryBuilder = queryBuilder.or(`name.ilike.${sq},id.ilike.${sq},local_id.ilike.${sq}`)
+           // 利用字典翻譯中文 (如 "噴火龍" -> "リザードン") 給日文庫搜尋
+           const translatedQuery = translateCardSearch(searchQuery.trim(), version)
+           const sq = `%${translatedQuery}%`
+           const rawSq = `%${searchQuery.trim()}%`
+           queryBuilder = queryBuilder.or(`name.ilike.${sq},id.ilike.${sq},local_id.ilike.${sq},name.ilike.${rawSq}`)
+        } else if (selectedSet) {
+           // 目錄模式：有選定擴充包的話
+           queryBuilder = queryBuilder.eq('set_id', selectedSet.id)
+        } else {
+           // 目錄模式：且沒有選定擴充包，就不載入卡牌
+           setLoading(false)
+           return
         }
 
-        // 2. 彈種過濾 (修正點擊側邊欄顯示不出的問題)
-        if (selectedSet !== 'ALL') {
-          queryBuilder = queryBuilder.eq('set_id', selectedSet)
-        }
-
-        // 3. 地區過濾
-        queryBuilder = queryBuilder.eq('region', version)
+        queryBuilder = queryBuilder.eq('region', version).order('local_id', { ascending: true })
         
-        // 限制顯示前 100 筆，避免手機端過載
-        const { data: dbResults, error: dbError } = await queryBuilder.limit(100)
+        // 限制顯示筆數
+        const { data: dbResults, error: dbError } = await queryBuilder.limit(300)
 
         if (dbError) throw dbError
 
@@ -103,13 +95,13 @@ export default function Search() {
            id: c.id,
            localId: c.local_id,
            name: c.name,
-           image: c.image_url, // 確保使用 image_url
+           image: c.image_url,
            region: c.region as any,
            rarity: c.rarity,
            set: { id: c.set_id, name: c.set_name }
         }))
 
-        // 如果是美版且關鍵字存在，額外抓取外部 API (補足可能缺失的資料)
+        // 特殊美版外部抓取
         let remoteResults: PokemonCard[] = []
         if (version === 'US' && searchQuery.trim()) {
           try {
@@ -132,28 +124,14 @@ export default function Search() {
       }
     }
 
-    fetchCards()
+    if (searchQuery || selectedSet) {
+      fetchCards()
+    } else {
+      setCards([])
+      setLoading(false)
+    }
   }, [searchQuery, selectedSet, version])
 
-
-  // 探索頁熱門卡牌 (僅在無搜尋且無特定彈種時顯示)
-  useEffect(() => {
-    if (!searchQuery && selectedSet === 'ALL') {
-      const fetchExplore = async () => {
-        const { data } = await supabase.from('cards').select('*').limit(30)
-        if (data) {
-          setPopularCards(data.map(c => ({
-            id: c.id,
-            name: c.name,
-            image: c.image_url,
-            region: c.region as any,
-            set: { id: c.set_id, name: c.set_name }
-          })))
-        }
-      }
-      fetchExplore()
-    }
-  }, [searchQuery, selectedSet])
 
   const getBasePriceUsd = (card: PokemonCard) => {
     return card.tcgplayer?.prices?.holofoil?.market || 
@@ -249,11 +227,6 @@ export default function Search() {
              <span className="bg-white/90 backdrop-blur px-1.5 py-0.5 rounded text-[8px] font-black text-slate-800 shadow-sm border border-slate-100 uppercase tracking-tighter">
                 {setId}
              </span>
-             {realImageUrl && (
-               <span className="bg-green-500 text-white px-1.5 py-0.5 rounded text-[7px] font-black shadow-sm uppercase tracking-tighter">
-                 鑑定實拍
-               </span>
-             )}
           </div>
           <div className="absolute top-2 right-2 bg-slate-900/90 text-[8px] text-white px-2 py-1 rounded font-black flex items-center shadow-lg transform translate-x-2 opacity-0 group-hover:translate-x-0 group-hover:opacity-100 transition-all">
             <Globe className="w-2 h-2 mr-1" />
@@ -285,20 +258,12 @@ export default function Search() {
                   navigate('/login')
                   return;
                 }
-                let cost = 0
-                if (marketUsd) {
-                  let baseNtd = marketUsd * 32
-                  if (version === 'JP') baseNtd = baseNtd * 1.3
-                  else if (version === 'TW') baseNtd = baseNtd * 0.75
-                  cost = Math.floor(version === 'JP' ? baseNtd * 1.1 : baseNtd * 0.95)
-                }
-                
                 const success = await addItem({
                    ...card,
                    images: card.images || { small: card.image || '', large: card.image || '' }
-                } as any, cost);
+                } as any, 0);
                 if (success) {
-                  alert(`✅ 成功將 ${card.name} 加入個人收藏庫！`)
+                  alert(`✅ 成功加入！`)
                 }
             }}
             className="w-full py-1.5 md:py-2 bg-slate-50 hover:bg-red-600 text-slate-600 hover:text-white border border-slate-100 hover:border-red-600 rounded-lg text-[10px] font-bold transition-all active:scale-95 flex items-center justify-center font-black"
@@ -310,22 +275,32 @@ export default function Search() {
     )
   }
 
+  const activeSeries = seriesList.find(s => s.id === selectedSeries)
+
   return (
     <div className="animate-in fade-in duration-500 pb-20 max-w-[1600px] mx-auto">
       <div className="mb-0 pt-4">
         <div className="flex flex-col lg:flex-row lg:items-center justify-between gap-4 md:gap-6 pb-6 mt-4">
           <div className="space-y-1 shrink-0">
             <h1 className="text-lg md:text-xl font-bold text-slate-800 flex flex-wrap items-center gap-x-1.5 md:gap-x-2">
-              {searchQuery || selectedSet !== 'ALL' ? (
+              {searchQuery ? (
                 <>
-                  <span className="text-slate-400 font-medium whitespace-nowrap">搜尋結果:</span>
+                  <span className="text-slate-400 font-medium whitespace-nowrap">關鍵字搜尋結果:</span>
                   <span className="text-red-600 font-black tracking-tight max-w-[200px] sm:max-w-xs md:max-w-sm truncate">
-                    {searchQuery || (availableSets.find(s => s.id === selectedSet)?.name)}
+                    {searchQuery}
+                  </span>
+                  <span className="text-slate-400 font-bold text-xs md:text-sm whitespace-nowrap">({cards.length} 筆)</span>
+                </>
+              ) : selectedSet ? (
+                <>
+                  <span className="text-slate-400 font-medium whitespace-nowrap">擴充包卡表:</span>
+                  <span className="text-red-600 font-black tracking-tight max-w-[200px] sm:max-w-xs md:max-w-sm truncate">
+                    {selectedSet.name}
                   </span>
                   <span className="text-slate-400 font-bold text-xs md:text-sm whitespace-nowrap">({cards.length} 筆)</span>
                 </>
               ) : (
-                <><Sparkles className="w-5 h-5 text-yellow-500" /> <span className="whitespace-nowrap">探索卡牌庫</span></>
+                <><Layers className="w-5 h-5 text-red-500" /> <span className="whitespace-nowrap">卡牌圖鑑大廳</span></>
               )}
             </h1>
           </div>
@@ -341,11 +316,11 @@ export default function Search() {
         </div>
       </div>
 
-      <div className="mb-8 px-2 overflow-x-auto no-scrollbar">
+      <div className="mb-6 px-2 overflow-x-auto no-scrollbar">
          <div className="flex items-center gap-2 pb-2">
            <div className="flex items-center gap-2 mr-4 shrink-0">
              <LayoutGrid className="w-4 h-4 text-blue-500" />
-             <span className="text-xs font-black text-slate-400 uppercase tracking-widest text-[10px]">Quick Filters</span>
+             <span className="text-xs font-black text-slate-400 uppercase tracking-widest text-[10px]">熱門搜尋</span>
            </div>
            {quickFilters.map(tag => (
              <button 
@@ -359,76 +334,104 @@ export default function Search() {
          </div>
       </div>
 
-      <div className="flex flex-col md:flex-row gap-8">
-        <aside className={`${showFilters ? 'block' : 'hidden'} md:block w-full md:w-64 shrink-0 space-y-6`}>
-           <div className="bg-white rounded-2xl border border-slate-200 p-5 shadow-sm">
-             <div className="flex items-center justify-between mb-5">
-               <h3 className="text-sm font-black text-slate-800 flex items-center tracking-wider">
-                 <Layers className="w-4 h-4 mr-2 text-red-500" />
-                 擴充包系列 (Expansion)
-               </h3>
-               {selectedSet !== 'ALL' && (
-                 <button onClick={() => setSelectedSet('ALL')} className="text-[10px] font-bold text-red-500 hover:underline">清除</button>
-               )}
-             </div>
-             <div className="space-y-1.5 max-h-[400px] overflow-y-auto no-scrollbar pr-1">
-               <button 
-                 onClick={() => setSelectedSet('ALL')}
-                 className={`w-full text-left px-3 py-2 rounded-lg text-xs font-bold transition-all flex items-center justify-between group ${selectedSet === 'ALL' ? 'bg-red-50 text-red-600' : 'text-slate-500 hover:bg-slate-50 hover:text-slate-800'}`}
-               >
-                 全部系列 (ALL)
-                 <ChevronRight className={`w-3 h-3 group-hover:translate-x-0.5 transition-transform ${selectedSet === 'ALL' ? 'opacity-100' : 'opacity-0'}`} />
-               </button>
-               {availableSets.map((set) => (
+      <div className="flex flex-col md:flex-row gap-6 md:gap-8">
+        
+        {/* 左側世代（Series）目錄 */}
+        <aside className={`${showFilters ? 'block' : 'hidden'} md:block w-full md:w-56 shrink-0 space-y-4`}>
+           <div className="bg-white rounded-2xl border border-slate-200 p-4 shadow-sm">
+             <h3 className="text-sm font-black text-slate-800 flex items-center tracking-wider mb-4">
+               <Layers className="w-4 h-4 mr-2 text-red-500" />
+               世代目錄 (Series)
+             </h3>
+             <div className="space-y-1.5 max-h-[500px] overflow-y-auto no-scrollbar pr-1">
+               {seriesList.map((serie) => (
                  <button 
-                   key={set.id}
-                   onClick={() => setSelectedSet(set.id)}
-                   className={`w-full text-left px-3 py-2 rounded-lg text-xs font-bold transition-all flex items-center justify-between group ${selectedSet === set.id ? 'bg-red-50 text-red-600' : 'text-slate-500 hover:bg-slate-50 hover:text-slate-800'}`}
+                   key={serie.id}
+                   onClick={() => {
+                     setSelectedSeries(serie.id)
+                     setSelectedSet(null) // 切換世代時清空選定的擴充包
+                     navigate('/search') // 清空關鍵字
+                   }}
+                   className={`w-full text-left px-3 py-2.5 rounded-xl text-xs font-bold transition-all flex items-center justify-between group ${selectedSeries === serie.id && !searchQuery ? 'bg-red-50 text-red-600 border-red-100 shadow-sm' : 'text-slate-500 hover:bg-slate-50 hover:text-slate-800 border-transparent'}`}
                  >
-                   <div className="flex flex-col min-w-0">
-                     <span className="text-[10px] text-slate-400 font-black uppercase tracking-tighter">[{set.id}]</span>
-                     <span className="truncate">{set.name}</span>
-                   </div>
-                   <ChevronRight className={`w-3 h-3 group-hover:translate-x-0.5 transition-transform ${selectedSet === set.id ? 'opacity-100' : 'opacity-0'}`} />
+                   <span className="truncate pr-2">{serie.name}</span>
+                   <ChevronRight className={`w-3 h-3 group-hover:translate-x-0.5 transition-transform shrink-0 ${selectedSeries === serie.id && !searchQuery ? 'opacity-100 text-red-500' : 'opacity-0'}`} />
                  </button>
                ))}
              </div>
            </div>
         </aside>
 
-        <main className="flex-1">
+        {/* 右側主內容區 */}
+        <main className="flex-1 min-w-0">
+          
           {loading ? (
             <div className="flex flex-col items-center justify-center py-24 bg-white rounded-2xl border border-slate-200 shadow-sm">
               <Loader2 className="h-10 w-10 text-red-600 animate-spin mb-4" />
-              <p className="text-slate-600 font-bold">正在從資料庫載入卡牌...</p>
+              <p className="text-slate-600 font-bold">正在讀取資料庫...</p>
             </div>
           ) : error ? (
             <div className="bg-rose-50 p-6 rounded-2xl border border-rose-200 text-center py-16">
               <p className="text-rose-600 font-bold">{error}</p>
             </div>
-          ) : (cards.length === 0 && !searchQuery && selectedSet === 'ALL' && popularCards.length > 0) ? (
-            <div className="grid grid-cols-[repeat(auto-fill,minmax(150px,1fr))] md:grid-cols-[repeat(auto-fill,minmax(200px,1fr))] xl:grid-cols-[repeat(auto-fill,minmax(240px,1fr))] gap-4 md:gap-6">
-              {popularCards.map(renderCard)}
-            </div>
-          ) : (cards.length === 0) ? (
-            <div className="bg-white p-10 rounded-2xl border border-slate-200 shadow-sm text-center py-24">
-              <SearchIcon className="h-12 w-12 text-slate-200 mx-auto mb-4" />
-              <p className="text-slate-500 text-lg font-bold">找不到符合條件的卡牌。</p>
-              <button 
-                onClick={() => {
-                   setSelectedSet('ALL')
-                   navigate('/search')
-                }}
-                className="mt-6 px-6 py-2 bg-red-600 text-white rounded-xl font-bold hover:bg-red-700 transition-colors"
-                >
-                清除所有過濾
-              </button>
-            </div>
           ) : (
-            <div className="grid grid-cols-[repeat(auto-fill,minmax(150px,1fr))] md:grid-cols-[repeat(auto-fill,minmax(200px,1fr))] xl:grid-cols-[repeat(auto-fill,minmax(240px,1fr))] gap-4 md:gap-6">
-              {cards.map(renderCard)}
-            </div>
+            <>
+               {/* 顯示擴充包列表 (如果還沒選定特定的擴充包，且沒有在搜尋) */}
+               {!searchQuery && !selectedSet && activeSeries && (
+                 <div className="bg-white rounded-2xl border border-slate-200 shadow-sm p-6">
+                    <h2 className="text-lg font-black text-slate-800 mb-6 flex items-center">
+                      {activeSeries.name} <span className="text-sm font-medium text-slate-400 ml-2">({activeSeries.sets.length} 個擴充包)</span>
+                    </h2>
+                    {activeSeries.sets.length === 0 ? (
+                       <p className="text-slate-400 py-10 text-center font-bold">這個世代目前沒有資料</p>
+                    ) : (
+                       <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3 md:gap-4">
+                         {activeSeries.sets.map(s => (
+                           <button 
+                             key={s.id}
+                             onClick={() => setSelectedSet({ id: s.id, name: s.name })}
+                             className="text-left bg-slate-50 hover:bg-red-50 p-3 rounded-xl border border-slate-100 hover:border-red-200 transition-all flex flex-col group relative overflow-hidden"
+                           >
+                             <div className="absolute top-0 right-0 w-8 h-8 md:w-12 md:h-12 bg-white/40 -mr-2 -mt-2 rounded-full group-hover:scale-150 transition-transform blur-md"></div>
+                             <span className="text-[10px] md:text-xs font-black text-slate-400 mb-1 group-hover:text-red-400 transition-colors uppercase">{s.id}</span>
+                             <span className="text-xs md:text-sm font-bold text-slate-700 leading-snug line-clamp-2" title={s.name}>{s.name}</span>
+                           </button>
+                         ))}
+                       </div>
+                    )}
+                 </div>
+               )}
+
+               {/* 顯示卡牌列表 */}
+               {(searchQuery || selectedSet) && (
+                 <>
+                   {!searchQuery && selectedSet && (
+                     <div className="mb-6">
+                       <button 
+                         onClick={() => setSelectedSet(null)}
+                         className="flex items-center text-sm font-bold text-slate-500 hover:text-red-600 transition-colors bg-white px-4 py-2 rounded-xl shadow-sm border border-slate-200 hover:border-red-200"
+                       >
+                         <ArrowLeft className="w-4 h-4 mr-2" />
+                         返回 {activeSeries?.name} 目錄
+                       </button>
+                     </div>
+                   )}
+                   
+                   {cards.length === 0 ? (
+                      <div className="bg-white p-10 rounded-2xl border border-slate-200 shadow-sm text-center py-24">
+                        <SearchIcon className="h-12 w-12 text-slate-200 mx-auto mb-4" />
+                        <p className="text-slate-500 text-lg font-bold">找不到對應的卡牌資訊。</p>
+                      </div>
+                   ) : (
+                      <div className="grid grid-cols-[repeat(auto-fill,minmax(140px,1fr))] md:grid-cols-[repeat(auto-fill,minmax(180px,1fr))] xl:grid-cols-[repeat(auto-fill,minmax(220px,1fr))] gap-4 md:gap-5">
+                        {cards.map(renderCard)}
+                      </div>
+                   )}
+                 </>
+               )}
+            </>
           )}
+
         </main>
       </div>
     </div>
