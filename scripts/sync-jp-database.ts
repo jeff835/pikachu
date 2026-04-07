@@ -113,6 +113,50 @@ async function syncJpDatabase() {
     allCards = [...allCards, ...setCards];
   }
 
+  // --- 注入官方高畫質資料櫃 (Override/Inject Official Data) ---
+  const officialDataPath = path.join(process.cwd(), 'src/data/cards-official.json');
+  if (fs.existsSync(officialDataPath)) {
+    console.log('\n💎 正在校對官方高畫質資料櫃...');
+    const officialCards = JSON.parse(fs.readFileSync(officialDataPath, 'utf-8'));
+    let injectCount = 0;
+    let updateCount = 0;
+
+    officialCards.forEach((offCard: any) => {
+      // 官方 JSON 格式與 TCGDex 不同，需要進行對齊映射
+      // 注意：官方圖片路徑需補齊網域
+      const officialImg = offCard.cardThumbFile.startsWith('http') 
+        ? offCard.cardThumbFile 
+        : `https://www.pokemon-card.com${offCard.cardThumbFile}`;
+
+      // 嘗試在現有清單中尋找匹配項 (依名稱匹配，因 ID 體系不同)
+      const existingIdx = allCards.findIndex(c => 
+        (c.name === offCard.cardNameViewText || c.name === offCard.cardNameAltText)
+      );
+
+      if (existingIdx !== -1) {
+        // 更新現有卡片的圖片為官方高畫質
+        allCards[existingIdx].image_url = officialImg;
+        updateCount++;
+      } else {
+        // 如果是全新卡片 (如 M2a 尚未被 TCGDex 收錄)，則新增
+        allCards.push({
+          id: `official-${offCard.cardID}`,
+          localId: offCard.cardID,
+          name: offCard.cardNameViewText,
+          image_url: officialImg,
+          rarity: 'Common',
+          set_id: offCard.cardThumbFile.split('/')[5] || 'UNKNOWN', // 從路徑提取 SetID (如 M2a)
+          set_name: offCard.cardThumbFile.split('/')[5] || 'Official Set',
+          serie_id: 'OFFICIAL',
+          serie_name: 'Official Collection',
+          region: 'JP'
+        });
+        injectCount++;
+      }
+    });
+    console.log(`✨ 校對完成：更新了 ${updateCount} 張圖片，注入了 ${injectCount} 張新卡片。`);
+  }
+
   console.log('\n✅ 抓取與清洗完成！');
   console.log(`📊 總共獲取 ${allCards.length} 張日文卡牌。`);
 
