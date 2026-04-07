@@ -6,6 +6,7 @@ import BottomNav from './components/layout/BottomNav'
 import Dashboard from './pages/Dashboard'
 import Search from './pages/Search'
 import Portfolio from './pages/Portfolio'
+import Catalog from './pages/Catalog'
 import Login from './pages/Login'
 import MarketAlerts from './pages/MarketAlerts'
 import CardDetail from './pages/CardDetail'
@@ -34,6 +35,7 @@ function App() {
           <Routes>
             <Route path="/" element={<Dashboard />} />
             <Route path="/search" element={<Search />} />
+            <Route path="/catalog" element={<Catalog />} />
             <Route path="/market-alerts/:type" element={<MarketAlerts />} />
             <Route path="/card/:id" element={<CardDetail />} />
             <Route path="/login" element={<Login />} />

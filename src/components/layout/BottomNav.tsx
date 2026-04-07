@@ -1,5 +1,5 @@
 import { Link, useLocation } from 'react-router-dom'
-import { LayoutDashboard, Search, Briefcase } from 'lucide-react'
+import { LayoutDashboard, Search, Briefcase, Layers } from 'lucide-react'
 import { cn } from '../../lib/utils'
 
 export default function BottomNav() {
@@ -8,6 +8,7 @@ export default function BottomNav() {
   const links = [
     { name: '總覽', href: '/', icon: LayoutDashboard },
     { name: '搜尋', href: '/search', icon: Search },
+    { name: '圖鑑', href: '/catalog', icon: Layers },
     { name: '收藏', href: '/portfolio', icon: Briefcase },
   ]
 

@@ -1,5 +1,5 @@
 import { Link, useLocation } from 'react-router-dom'
-import { LayoutDashboard, Search, Briefcase } from 'lucide-react'
+import { LayoutDashboard, Search, Briefcase, Layers } from 'lucide-react'
 import { cn } from '../../lib/utils'
 
 export default function Sidebar() {
@@ -8,6 +8,7 @@ export default function Sidebar() {
   const links = [
     { name: '市場總覽', href: '/', icon: LayoutDashboard },
     { name: '搜尋卡牌', href: '/search', icon: Search },
+    { name: '卡牌圖鑑', href: '/catalog', icon: Layers },
     { name: '個人收藏庫', href: '/portfolio', icon: Briefcase },
   ]
 

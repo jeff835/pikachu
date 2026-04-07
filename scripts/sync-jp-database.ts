@@ -75,8 +75,8 @@ async function syncJpDatabase() {
 
     const setCards = setDetail.cards.map((card: any) => {
       let finalName = card.name;
-      // 預設圖片路徑，優先使用 .webp
-      let imageUrl = `${ASSETS_BASE}/${serieId}/${setId}/${card.localId}/high.webp`;
+      // 使用 API 提供的基底路徑，若無則 fallback 到拼接網址
+      let imageUrl = card.image ? `${card.image}/high.webp` : `${ASSETS_BASE}/${serieId}/${setId}/${card.localId}/high.webp`;
 
       // 1. 譯名清洗: 如果不包含日文且有英文對應，則使用英文名 (避免保加利亞文侵入)
       if (!containsJapanese(finalName)) {
