@@ -23,19 +23,27 @@ async function migrateCards() {
   console.log(`📦 讀取到 ${cardsData.length} 張卡牌。`)
 
   // 映射資料格式
-  const mappedCards = cardsData.map((c: any) => ({
-    id: c.id,
-    local_id: c.localId,
-    name: c.name,
-    image_url: c.image_url || c.image || c.images?.large || c.images?.small,
-    rarity: c.rarity,
-    region: c.region || 'JP',
-    set_id: c.set_id || (typeof c.set === 'string' ? c.set : c.set?.id),
-    set_name: c.set_name || (typeof c.set === 'string' ? c.set : c.set?.name),
-    serie_id: c.serie_id || '',
-    serie_name: c.serie_name || '',
-    set_logo: c.set?.logo || ''
-  }))
+  const mappedCards = cardsData.map((c: any) => {
+    const regionSuffix = c.region || 'JP';
+    let safeId = c.id;
+    if (!safeId.endsWith(`-${regionSuffix}`)) {
+      safeId = `${safeId}-${regionSuffix}`;
+    }
+
+    return {
+      id: safeId,
+      local_id: c.localId || c.local_id,
+      name: c.name,
+      image_url: c.image_url || c.image || c.images?.large || c.images?.small,
+      rarity: c.rarity,
+      region: regionSuffix,
+      set_id: c.set_id || (typeof c.set === 'string' ? c.set : c.set?.id),
+      set_name: c.set_name || (typeof c.set === 'string' ? c.set : c.set?.name),
+      serie_id: c.serie_id || '',
+      serie_name: c.serie_name || '',
+      set_logo: c.set?.logo || ''
+    }
+  });
 
 
   // 分批上傳 (避免 Request 過大)
