@@ -25,15 +25,13 @@ interface OfficialCard {
 
 interface SetInfo {
   id: string; // 官方內部查詢 ID (pg)
-  symbol: string; // 產出的內部代號如 SV8
   name: string; // 前台名稱
 }
 
-// 我們將爬取清單設定在這裡 (未來可擴充其他舊彈如 PCG)
+// 由於前次已經抓過 SV7, SV8, 這裡只重新抓受害的 SV11B, SV11W
 const TARGET_SETS: SetInfo[] = [
-  { id: '942', symbol: 'SV9a', name: 'ブラックボルト' },
-  { id: '943', symbol: 'SV9b', name: 'ホワイトフレア' },
-  { id: '934', symbol: 'SV8a', name: 'テラスタルフェスex' }
+  { id: '942', name: 'ブラックボルト' },
+  { id: '943', name: 'ホワイトフレア' }
 ];
 
 async function uploadImageToSupabase(imageUrl: string, savePath: string): Promise<string | null> {
@@ -62,12 +60,13 @@ async function uploadImageToSupabase(imageUrl: string, savePath: string): Promis
   }
 }
 
-async function fetchCardsForSet(set: SetInfo): Promise<any[]> {
+async function fetchCardsForSet(set: SetInfo): Promise<{ cards: any[], symbol: string }> {
   let cards: any[] = [];
   let page = 1;
   let hasMore = true;
+  let firstSymbol = '';
 
-  console.log(`\n📦 開始處理擴充包: ${set.name} (${set.symbol})`);
+  console.log(`\n📦 開始處理擴充包: ${set.name}`);
 
   while (hasMore) {
     try {
@@ -88,9 +87,14 @@ async function fetchCardsForSet(set: SetInfo): Promise<any[]> {
 
       const list: OfficialCard[] = response.data.cardList;
       for (const c of list) {
+         // 動態從官方網址提取真正的擴充包代號 (例如 /large/SV11B/...)
+         const parts = c.cardThumbFile.split('/');
+         const setSymbol = (parts.length > 5) ? parts[5] : set.id;
+         if (!firstSymbol) firstSymbol = setSymbol;
+        
          // 生成官方圖片的真實解析度網址
          const officialImgUrl = `https://www.pokemon-card.com${c.cardThumbFile.replace('thumb', 'large')}`;
-         const storagePath = `${set.symbol}/${c.cardID}.jpg`;
+         const storagePath = `${setSymbol}/${c.cardID}.jpg`;
          
          process.stdout.write(`  -> 抓取 [${c.cardID}] ${c.cardNameViewText}... `);
          
@@ -100,14 +104,14 @@ async function fetchCardsForSet(set: SetInfo): Promise<any[]> {
          console.log(uploadedUrl ? 'OK' : 'Fallback');
 
          cards.push({
-           id: `${set.symbol}-${c.cardID}`,
+           id: `${setSymbol}-${c.cardID}`,
            local_id: c.cardID,
            name: c.cardNameViewText,
            image_url: finalUrl,
-           set_id: set.symbol,
+           set_id: setSymbol,
            set_name: set.name,
            region: 'JP',
-           serie_id: set.symbol.replace(/[0-9a-zA-Z]$/, '').replace(/[0-9]$/, '') // 例如 SV8a -> SV
+           serie_id: setSymbol.replace(/[0-9a-zA-Z]$/, '').replace(/[0-9]$/, '') // 例如 SV8a -> SV
          });
          
          await new Promise(resolve => setTimeout(resolve, 500)); // 避免被官方 rate limit
@@ -122,7 +126,7 @@ async function fetchCardsForSet(set: SetInfo): Promise<any[]> {
     }
   }
 
-  return cards;
+  return { cards, symbol: firstSymbol };
 }
 
 async function main() {
@@ -132,15 +136,15 @@ async function main() {
   let seriesMap: Record<string, { id: string, name: string, sets: any[] }> = {};
   
   for (const set of TARGET_SETS) {
-    const cards = await fetchCardsForSet(set);
+    const { cards, symbol } = await fetchCardsForSet(set);
     allCards = allCards.concat(cards);
     
     // 建立世代目錄結構
-    const serieId = set.symbol.match(/^[A-Za-z]+/)?.[0] || 'Unknown';
+    const serieId = symbol.match(/^[A-Za-z]+/)?.[0] || 'Unknown';
     if (!seriesMap[serieId]) {
        seriesMap[serieId] = { id: serieId, name: `${serieId} 系列`, sets: [] };
     }
-    seriesMap[serieId].sets.push({ id: set.symbol, name: set.name, logo: '' });
+    seriesMap[serieId].sets.push({ id: symbol, name: set.name, logo: '' });
   }
 
   // 1. 寫入本地端 cards.json
