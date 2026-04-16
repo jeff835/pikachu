@@ -2,6 +2,7 @@ import { getJapanesePokemonName, getEnglishPokemonName } from '../lib/pokemonMap
 
 // 世代名稱字典，將 TCGDex 抓回來的 serie.id 或 serie.name 轉譯成當地化名稱
 export const SERIES_MAP: Record<string, string> = {
+  'sv': '朱＆紫',
   'scarlet & violet': '朱紫 (Scarlet & Violet)',
   'sword & shield': '劍盾 (Sword & Shield)',
   'sun & moon': '太陽與月亮 (Sun & Moon)',
