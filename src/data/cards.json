@@ -7148,5 +7148,255 @@
     "set_name": "ホワイトフレア",
     "region": "JP",
     "serie_id": "SV1"
+  },
+  {
+    "id": "SVLN-46206",
+    "local_id": "46206",
+    "name": "マンタイン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVLN/46206.jpg",
+    "set_id": "SVLN",
+    "set_name": "スターターセット SVLN",
+    "region": "JP",
+    "serie_id": "SVL"
+  },
+  {
+    "id": "SVLN-46207",
+    "local_id": "46207",
+    "name": "サンダー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVLN/46207.jpg",
+    "set_id": "SVLN",
+    "set_name": "スターターセット SVLN",
+    "region": "JP",
+    "serie_id": "SVL"
+  },
+  {
+    "id": "SVLN-46208",
+    "local_id": "46208",
+    "name": "マリル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVLN/46208.jpg",
+    "set_id": "SVLN",
+    "set_name": "スターターセット SVLN",
+    "region": "JP",
+    "serie_id": "SVL"
+  },
+  {
+    "id": "SVLN-46209",
+    "local_id": "46209",
+    "name": "マリルリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVLN/46209.jpg",
+    "set_id": "SVLN",
+    "set_name": "スターターセット SVLN",
+    "region": "JP",
+    "serie_id": "SVL"
+  },
+  {
+    "id": "SVLN-46210",
+    "local_id": "46210",
+    "name": "ニンフィアex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVLN/46210.jpg",
+    "set_id": "SVLN",
+    "set_name": "スターターセット SVLN",
+    "region": "JP",
+    "serie_id": "SVL"
+  },
+  {
+    "id": "SVLN-46211",
+    "local_id": "46211",
+    "name": "ゼルネアス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVLN/46211.jpg",
+    "set_id": "SVLN",
+    "set_name": "スターターセット SVLN",
+    "region": "JP",
+    "serie_id": "SVL"
+  },
+  {
+    "id": "SVLN-46212",
+    "local_id": "46212",
+    "name": "オドリドリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVLN/46212.jpg",
+    "set_id": "SVLN",
+    "set_name": "スターターセット SVLN",
+    "region": "JP",
+    "serie_id": "SVL"
+  },
+  {
+    "id": "SVLN-46213",
+    "local_id": "46213",
+    "name": "ミミッキュ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVLN/46213.jpg",
+    "set_id": "SVLN",
+    "set_name": "スターターセット SVLN",
+    "region": "JP",
+    "serie_id": "SVL"
+  },
+  {
+    "id": "SVLN-46214",
+    "local_id": "46214",
+    "name": "イーブイ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVLN/46214.jpg",
+    "set_id": "SVLN",
+    "set_name": "スターターセット SVLN",
+    "region": "JP",
+    "serie_id": "SVL"
+  },
+  {
+    "id": "SVLN-46215",
+    "local_id": "46215",
+    "name": "カビゴン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVLN/46215.jpg",
+    "set_id": "SVLN",
+    "set_name": "スターターセット SVLN",
+    "region": "JP",
+    "serie_id": "SVL"
+  },
+  {
+    "id": "SVLN-46216",
+    "local_id": "46216",
+    "name": "すごいつりざお",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVLN/46216.jpg",
+    "set_id": "SVLN",
+    "set_name": "スターターセット SVLN",
+    "region": "JP",
+    "serie_id": "SVL"
+  },
+  {
+    "id": "SVLN-46217",
+    "local_id": "46217",
+    "name": "テラスタルオーブ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVLN/46217.jpg",
+    "set_id": "SVLN",
+    "set_name": "スターターセット SVLN",
+    "region": "JP",
+    "serie_id": "SVL"
+  },
+  {
+    "id": "SVLN-46218",
+    "local_id": "46218",
+    "name": "ネストボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVLN/46218.jpg",
+    "set_id": "SVLN",
+    "set_name": "スターターセット SVLN",
+    "region": "JP",
+    "serie_id": "SVL"
+  },
+  {
+    "id": "SVLN-46219",
+    "local_id": "46219",
+    "name": "ハイパーボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVLN/46219.jpg",
+    "set_id": "SVLN",
+    "set_name": "スターターセット SVLN",
+    "region": "JP",
+    "serie_id": "SVL"
+  },
+  {
+    "id": "SVLN-46220",
+    "local_id": "46220",
+    "name": "プレシャスキャリー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVLN/46220.jpg",
+    "set_id": "SVLN",
+    "set_name": "スターターセット SVLN",
+    "region": "JP",
+    "serie_id": "SVL"
+  },
+  {
+    "id": "SVLN-46221",
+    "local_id": "46221",
+    "name": "ポケギア3.0",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVLN/46221.jpg",
+    "set_id": "SVLN",
+    "set_name": "スターターセット SVLN",
+    "region": "JP",
+    "serie_id": "SVL"
+  },
+  {
+    "id": "SVLN-46222",
+    "local_id": "46222",
+    "name": "ポケモンいれかえ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVLN/46222.jpg",
+    "set_id": "SVLN",
+    "set_name": "スターターセット SVLN",
+    "region": "JP",
+    "serie_id": "SVL"
+  },
+  {
+    "id": "SVLN-46223",
+    "local_id": "46223",
+    "name": "アカマツ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVLN/46223.jpg",
+    "set_id": "SVLN",
+    "set_name": "スターターセット SVLN",
+    "region": "JP",
+    "serie_id": "SVL"
+  },
+  {
+    "id": "SVLN-46224",
+    "local_id": "46224",
+    "name": "ナンジャモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVLN/46224.jpg",
+    "set_id": "SVLN",
+    "set_name": "スターターセット SVLN",
+    "region": "JP",
+    "serie_id": "SVL"
+  },
+  {
+    "id": "SVLN-46225",
+    "local_id": "46225",
+    "name": "ネモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVLN/46225.jpg",
+    "set_id": "SVLN",
+    "set_name": "スターターセット SVLN",
+    "region": "JP",
+    "serie_id": "SVL"
+  },
+  {
+    "id": "SVLN-46226",
+    "local_id": "46226",
+    "name": "博士の研究",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVLN/46226.jpg",
+    "set_id": "SVLN",
+    "set_name": "スターターセット SVLN",
+    "region": "JP",
+    "serie_id": "SVL"
+  },
+  {
+    "id": "SVLN-46227",
+    "local_id": "46227",
+    "name": "ボスの指令",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVLN/46227.jpg",
+    "set_id": "SVLN",
+    "set_name": "スターターセット SVLN",
+    "region": "JP",
+    "serie_id": "SVL"
+  },
+  {
+    "id": "ENE-46118",
+    "local_id": "46118",
+    "name": "基本水エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/ENE/46118.jpg",
+    "set_id": "ENE",
+    "set_name": "スターターセット SVLN",
+    "region": "JP",
+    "serie_id": "EN"
+  },
+  {
+    "id": "ENE-46119",
+    "local_id": "46119",
+    "name": "基本雷エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/ENE/46119.jpg",
+    "set_id": "ENE",
+    "set_name": "スターターセット SVLN",
+    "region": "JP",
+    "serie_id": "EN"
+  },
+  {
+    "id": "ENE-46120",
+    "local_id": "46120",
+    "name": "基本超エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/ENE/46120.jpg",
+    "set_id": "ENE",
+    "set_name": "スターターセット SVLN",
+    "region": "JP",
+    "serie_id": "EN"
   }
 ]

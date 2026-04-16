@@ -1,4 +1,15 @@
 {
+  "SVLN": {
+    "id": "SVLN",
+    "name": "SVLN 系列",
+    "sets": [
+      {
+        "id": "SVLN",
+        "name": "スターターセット SVLN",
+        "logo": ""
+      }
+    ]
+  },
   "SV": {
     "id": "SV",
     "name": "SV 系列",

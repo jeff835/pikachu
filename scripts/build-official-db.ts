@@ -28,10 +28,9 @@ interface SetInfo {
   name: string; // 前台名稱
 }
 
-// 由於前次已經抓過 SV7, SV8, 這裡只重新抓受害的 SV11B, SV11W
+// 追加 SVLN 擴充包
 const TARGET_SETS: SetInfo[] = [
-  { id: '942', name: 'ブラックボルト' },
-  { id: '943', name: 'ホワイトフレア' }
+  { id: '921', name: 'スターターセット SVLN' }
 ];
 
 async function uploadImageToSupabase(imageUrl: string, savePath: string): Promise<string | null> {
@@ -152,7 +151,7 @@ async function main() {
   let existingCards: any[] = [];
   if (fs.existsSync(cardsOutputPath)) {
      existingCards = JSON.parse(fs.readFileSync(cardsOutputPath, 'utf8'));
-     existingCards = existingCards.filter(c => !['ブラックボルト', 'ホワイトフレア', 'テラスタルフェスex'].includes(c.set_name));
+     existingCards = existingCards.filter(c => !['スターターセット SVLN'].includes(c.set_name));
   }
   const finalCards = existingCards.concat(allCards);
   fs.writeFileSync(cardsOutputPath, JSON.stringify(finalCards, null, 2));
