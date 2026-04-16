@@ -5658,5 +5658,1745 @@
     "set_name": "スターターセット SVLN",
     "region": "JP",
     "serie_id": "EN"
+  },
+  {
+    "id": "SV11W-47623",
+    "local_id": "47623",
+    "name": "クルミル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47623.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47624",
+    "local_id": "47624",
+    "name": "クルマユ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47624.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47625",
+    "local_id": "47625",
+    "name": "ハハコモリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47625.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47626",
+    "local_id": "47626",
+    "name": "モンメン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47626.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47627",
+    "local_id": "47627",
+    "name": "エルフーンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47627.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47628",
+    "local_id": "47628",
+    "name": "シキジカ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47628.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47629",
+    "local_id": "47629",
+    "name": "メブキジカ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47629.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47630",
+    "local_id": "47630",
+    "name": "チョボマキ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47630.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47631",
+    "local_id": "47631",
+    "name": "アギルダー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47631.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47632",
+    "local_id": "47632",
+    "name": "ビリジオン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47632.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47633",
+    "local_id": "47633",
+    "name": "ポカブ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47633.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47634",
+    "local_id": "47634",
+    "name": "チャオブー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47634.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47635",
+    "local_id": "47635",
+    "name": "エンブオー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47635.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47636",
+    "local_id": "47636",
+    "name": "バオップ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47636.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47637",
+    "local_id": "47637",
+    "name": "バオッキー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47637.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47638",
+    "local_id": "47638",
+    "name": "クイタラン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47638.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47639",
+    "local_id": "47639",
+    "name": "レシラムex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47639.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47640",
+    "local_id": "47640",
+    "name": "ミジュマル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47640.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47641",
+    "local_id": "47641",
+    "name": "フタチマル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47641.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47642",
+    "local_id": "47642",
+    "name": "ダイケンキ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47642.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47643",
+    "local_id": "47643",
+    "name": "バスラオ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47643.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47644",
+    "local_id": "47644",
+    "name": "コアルヒー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47644.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47645",
+    "local_id": "47645",
+    "name": "スワンナ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47645.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47646",
+    "local_id": "47646",
+    "name": "バニプッチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47646.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47647",
+    "local_id": "47647",
+    "name": "バニリッチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47647.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47648",
+    "local_id": "47648",
+    "name": "バイバニラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47648.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47649",
+    "local_id": "47649",
+    "name": "ケルディオex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47649.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47650",
+    "local_id": "47650",
+    "name": "シママ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47650.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47651",
+    "local_id": "47651",
+    "name": "ゼブライカ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47651.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47652",
+    "local_id": "47652",
+    "name": "バチュル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47652.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47653",
+    "local_id": "47653",
+    "name": "デンチュラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47653.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47654",
+    "local_id": "47654",
+    "name": "マッギョ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47654.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47655",
+    "local_id": "47655",
+    "name": "コロモリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47655.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47656",
+    "local_id": "47656",
+    "name": "ココロモリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47656.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47657",
+    "local_id": "47657",
+    "name": "シンボラー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47657.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47658",
+    "local_id": "47658",
+    "name": "デスマス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47658.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47659",
+    "local_id": "47659",
+    "name": "デスカーン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47659.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47660",
+    "local_id": "47660",
+    "name": "ゴチム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47660.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47661",
+    "local_id": "47661",
+    "name": "ゴチミル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47661.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47662",
+    "local_id": "47662",
+    "name": "ゴチルゼル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47662.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47663",
+    "local_id": "47663",
+    "name": "プルリル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47663.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47664",
+    "local_id": "47664",
+    "name": "ブルンゲルex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47664.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47665",
+    "local_id": "47665",
+    "name": "ダンゴロ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47665.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47666",
+    "local_id": "47666",
+    "name": "ガントル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47666.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47667",
+    "local_id": "47667",
+    "name": "ギガイアス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47667.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47668",
+    "local_id": "47668",
+    "name": "ダゲキ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47668.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47669",
+    "local_id": "47669",
+    "name": "アーケン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47669.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47670",
+    "local_id": "47670",
+    "name": "アーケオス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47670.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47671",
+    "local_id": "47671",
+    "name": "コジョフー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47671.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47672",
+    "local_id": "47672",
+    "name": "コジョンド",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47672.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47673",
+    "local_id": "47673",
+    "name": "テラキオン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47673.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47674",
+    "local_id": "47674",
+    "name": "チョロネコ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47674.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47675",
+    "local_id": "47675",
+    "name": "レパルダス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47675.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47676",
+    "local_id": "47676",
+    "name": "ズルッグ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47676.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47677",
+    "local_id": "47677",
+    "name": "ズルズキン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47677.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47678",
+    "local_id": "47678",
+    "name": "ヤブクロン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47678.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47679",
+    "local_id": "47679",
+    "name": "ダストダス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47679.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47680",
+    "local_id": "47680",
+    "name": "ゾロア",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47680.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47681",
+    "local_id": "47681",
+    "name": "ゾロアーク",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47681.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47682",
+    "local_id": "47682",
+    "name": "モノズ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47682.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47683",
+    "local_id": "47683",
+    "name": "ジヘッド",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47683.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47684",
+    "local_id": "47684",
+    "name": "サザンドラex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47684.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47685",
+    "local_id": "47685",
+    "name": "テッシード",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47685.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47686",
+    "local_id": "47686",
+    "name": "ナットレイ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47686.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47687",
+    "local_id": "47687",
+    "name": "ギアル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47687.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47688",
+    "local_id": "47688",
+    "name": "ギギアル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47688.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47689",
+    "local_id": "47689",
+    "name": "ギギギアル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47689.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47690",
+    "local_id": "47690",
+    "name": "アイアント",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47690.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47691",
+    "local_id": "47691",
+    "name": "クリムガン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47691.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47692",
+    "local_id": "47692",
+    "name": "ミネズミ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47692.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47693",
+    "local_id": "47693",
+    "name": "ミルホッグ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47693.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47694",
+    "local_id": "47694",
+    "name": "ヨーテリー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47694.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47695",
+    "local_id": "47695",
+    "name": "ハーデリア",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47695.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47696",
+    "local_id": "47696",
+    "name": "ムーランド",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47696.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47697",
+    "local_id": "47697",
+    "name": "バッフロンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47697.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47698",
+    "local_id": "47698",
+    "name": "ワシボン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47698.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47699",
+    "local_id": "47699",
+    "name": "ウォーグル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47699.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47700",
+    "local_id": "47700",
+    "name": "トルネロス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47700.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47999",
+    "local_id": "47999",
+    "name": "クルミル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47999.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48000",
+    "local_id": "48000",
+    "name": "クルマユ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48000.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48001",
+    "local_id": "48001",
+    "name": "ハハコモリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48001.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48002",
+    "local_id": "48002",
+    "name": "モンメン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48002.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48003",
+    "local_id": "48003",
+    "name": "シキジカ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48003.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48004",
+    "local_id": "48004",
+    "name": "メブキジカ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48004.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48005",
+    "local_id": "48005",
+    "name": "チョボマキ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48005.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48006",
+    "local_id": "48006",
+    "name": "アギルダー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48006.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48007",
+    "local_id": "48007",
+    "name": "ビリジオン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48007.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48008",
+    "local_id": "48008",
+    "name": "ポカブ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48008.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48009",
+    "local_id": "48009",
+    "name": "チャオブー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48009.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48010",
+    "local_id": "48010",
+    "name": "エンブオー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48010.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48011",
+    "local_id": "48011",
+    "name": "バオップ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48011.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48012",
+    "local_id": "48012",
+    "name": "バオッキー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48012.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48013",
+    "local_id": "48013",
+    "name": "クイタラン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48013.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48014",
+    "local_id": "48014",
+    "name": "ミジュマル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48014.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48015",
+    "local_id": "48015",
+    "name": "フタチマル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48015.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48016",
+    "local_id": "48016",
+    "name": "ダイケンキ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48016.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48017",
+    "local_id": "48017",
+    "name": "バスラオ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48017.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48018",
+    "local_id": "48018",
+    "name": "コアルヒー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48018.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48019",
+    "local_id": "48019",
+    "name": "スワンナ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48019.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48020",
+    "local_id": "48020",
+    "name": "バニプッチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48020.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48021",
+    "local_id": "48021",
+    "name": "バニリッチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48021.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48022",
+    "local_id": "48022",
+    "name": "バイバニラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48022.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48023",
+    "local_id": "48023",
+    "name": "シママ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48023.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48024",
+    "local_id": "48024",
+    "name": "ゼブライカ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48024.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48025",
+    "local_id": "48025",
+    "name": "バチュル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48025.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48026",
+    "local_id": "48026",
+    "name": "デンチュラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48026.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48027",
+    "local_id": "48027",
+    "name": "マッギョ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48027.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48028",
+    "local_id": "48028",
+    "name": "コロモリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48028.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48029",
+    "local_id": "48029",
+    "name": "ココロモリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48029.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48030",
+    "local_id": "48030",
+    "name": "シンボラー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48030.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48031",
+    "local_id": "48031",
+    "name": "デスマス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48031.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48032",
+    "local_id": "48032",
+    "name": "デスカーン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48032.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48033",
+    "local_id": "48033",
+    "name": "ゴチム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48033.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48034",
+    "local_id": "48034",
+    "name": "ゴチミル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48034.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48035",
+    "local_id": "48035",
+    "name": "ゴチルゼル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48035.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48036",
+    "local_id": "48036",
+    "name": "プルリル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48036.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48037",
+    "local_id": "48037",
+    "name": "ダンゴロ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48037.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48038",
+    "local_id": "48038",
+    "name": "ガントル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48038.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48039",
+    "local_id": "48039",
+    "name": "ギガイアス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48039.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48040",
+    "local_id": "48040",
+    "name": "ダゲキ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48040.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48041",
+    "local_id": "48041",
+    "name": "アーケン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48041.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48042",
+    "local_id": "48042",
+    "name": "アーケオス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48042.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48043",
+    "local_id": "48043",
+    "name": "コジョフー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48043.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48044",
+    "local_id": "48044",
+    "name": "コジョンド",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48044.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48045",
+    "local_id": "48045",
+    "name": "テラキオン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48045.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48046",
+    "local_id": "48046",
+    "name": "チョロネコ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48046.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48047",
+    "local_id": "48047",
+    "name": "レパルダス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48047.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48048",
+    "local_id": "48048",
+    "name": "ズルッグ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48048.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48049",
+    "local_id": "48049",
+    "name": "ズルズキン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48049.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48050",
+    "local_id": "48050",
+    "name": "ヤブクロン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48050.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48051",
+    "local_id": "48051",
+    "name": "ダストダス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48051.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48052",
+    "local_id": "48052",
+    "name": "ゾロア",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48052.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48053",
+    "local_id": "48053",
+    "name": "ゾロアーク",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48053.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48054",
+    "local_id": "48054",
+    "name": "モノズ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48054.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48055",
+    "local_id": "48055",
+    "name": "ジヘッド",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48055.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48056",
+    "local_id": "48056",
+    "name": "テッシード",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48056.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48057",
+    "local_id": "48057",
+    "name": "ナットレイ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48057.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48058",
+    "local_id": "48058",
+    "name": "ギアル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48058.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48059",
+    "local_id": "48059",
+    "name": "ギギアル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48059.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48060",
+    "local_id": "48060",
+    "name": "ギギギアル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48060.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48061",
+    "local_id": "48061",
+    "name": "アイアント",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48061.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48062",
+    "local_id": "48062",
+    "name": "クリムガン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48062.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48063",
+    "local_id": "48063",
+    "name": "ミネズミ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48063.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48064",
+    "local_id": "48064",
+    "name": "ミルホッグ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48064.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48065",
+    "local_id": "48065",
+    "name": "ヨーテリー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48065.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48066",
+    "local_id": "48066",
+    "name": "ハーデリア",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48066.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48067",
+    "local_id": "48067",
+    "name": "ムーランド",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48067.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48068",
+    "local_id": "48068",
+    "name": "ワシボン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48068.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48069",
+    "local_id": "48069",
+    "name": "ウォーグル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48069.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48070",
+    "local_id": "48070",
+    "name": "トルネロス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48070.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48071",
+    "local_id": "48071",
+    "name": "エルフーンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48071.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48072",
+    "local_id": "48072",
+    "name": "レシラムex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48072.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48073",
+    "local_id": "48073",
+    "name": "ケルディオex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48073.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48074",
+    "local_id": "48074",
+    "name": "ブルンゲルex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48074.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48075",
+    "local_id": "48075",
+    "name": "サザンドラex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48075.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48076",
+    "local_id": "48076",
+    "name": "バッフロンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48076.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48079",
+    "local_id": "48079",
+    "name": "エルフーンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48079.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48080",
+    "local_id": "48080",
+    "name": "レシラムex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48080.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48081",
+    "local_id": "48081",
+    "name": "ケルディオex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48081.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48082",
+    "local_id": "48082",
+    "name": "ブルンゲルex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48082.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48083",
+    "local_id": "48083",
+    "name": "サザンドラex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48083.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48084",
+    "local_id": "48084",
+    "name": "バッフロンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48084.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48086",
+    "local_id": "48086",
+    "name": "レシラムex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48086.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47701",
+    "local_id": "47701",
+    "name": "エネルギー回収",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47701.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47702",
+    "local_id": "47702",
+    "name": "ツールスクラッパー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47702.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47703",
+    "local_id": "47703",
+    "name": "古びたはねの化石",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47703.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47704",
+    "local_id": "47704",
+    "name": "ブレイブバングル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47704.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47705",
+    "local_id": "47705",
+    "name": "クラウン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47705.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47706",
+    "local_id": "47706",
+    "name": "チェレン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47706.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47707",
+    "local_id": "47707",
+    "name": "トウコ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47707.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48077",
+    "local_id": "48077",
+    "name": "クラウン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48077.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48078",
+    "local_id": "48078",
+    "name": "トウコ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48078.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-48085",
+    "local_id": "48085",
+    "name": "トウコ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/48085.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
+  },
+  {
+    "id": "SV11W-47708",
+    "local_id": "47708",
+    "name": "イグニッションエネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV11W/47708.jpg",
+    "set_id": "SV11W",
+    "set_name": "ホワイトフレア",
+    "region": "JP",
+    "serie_id": "SV1"
   }
 ]

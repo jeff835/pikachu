@@ -1,19 +1,13 @@
 {
-  "SVLN": {
-    "id": "SVLN",
-    "name": "SVLN 系列",
-    "sets": [
-      {
-        "id": "SVLN",
-        "name": "スターターセット SVLN",
-        "logo": ""
-      }
-    ]
-  },
   "SV": {
     "id": "SV",
     "name": "SV 系列",
     "sets": [
+      {
+        "id": "SV11W",
+        "name": "ホワイトフレア",
+        "logo": ""
+      },
       {
         "id": "SV11B",
         "name": "ブラックボルト",
@@ -42,6 +36,17 @@
       {
         "id": "SV7",
         "name": "ステラミラクル",
+        "logo": ""
+      }
+    ]
+  },
+  "SVLN": {
+    "id": "SVLN",
+    "name": "SVLN 系列",
+    "sets": [
+      {
+        "id": "SVLN",
+        "name": "スターターセット SVLN",
         "logo": ""
       }
     ]

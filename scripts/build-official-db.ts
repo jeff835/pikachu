@@ -28,9 +28,9 @@ interface SetInfo {
   name: string; // 前台名稱
 }
 
-// 追加 SVLN 擴充包
+// 復原 SV11W
 const TARGET_SETS: SetInfo[] = [
-  { id: '921', name: 'スターターセット SVLN' }
+  { id: '943', name: 'ホワイトフレア' }
 ];
 
 async function uploadImageToSupabase(imageUrl: string, savePath: string): Promise<string | null> {
@@ -151,7 +151,7 @@ async function main() {
   let existingCards: any[] = [];
   if (fs.existsSync(cardsOutputPath)) {
      existingCards = JSON.parse(fs.readFileSync(cardsOutputPath, 'utf8'));
-     existingCards = existingCards.filter(c => !['スターターセット SVLN'].includes(c.set_name));
+     existingCards = existingCards.filter(c => !['ホワイトフレア'].includes(c.set_name));
   }
   const finalCards = existingCards.concat(allCards);
   fs.writeFileSync(cardsOutputPath, JSON.stringify(finalCards, null, 2));
