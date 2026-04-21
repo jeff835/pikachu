@@ -15448,5 +15448,425 @@
     "set_name": "ナイトワンダラー",
     "region": "JP",
     "serie_id": "SV"
+  },
+  {
+    "id": "SVJL-45801",
+    "local_id": "45801",
+    "name": "ヒトカゲ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVJL/45801.jpg",
+    "set_id": "SVJL",
+    "set_name": "バトルマスターデッキ テラスタル リザードンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVJL-45802",
+    "local_id": "45802",
+    "name": "リザード",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVJL/45802.jpg",
+    "set_id": "SVJL",
+    "set_name": "バトルマスターデッキ テラスタル リザードンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVJL-45803",
+    "local_id": "45803",
+    "name": "かがやくリザードン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVJL/45803.jpg",
+    "set_id": "SVJL",
+    "set_name": "バトルマスターデッキ テラスタル リザードンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVJL-45804",
+    "local_id": "45804",
+    "name": "ファイヤー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVJL/45804.jpg",
+    "set_id": "SVJL",
+    "set_name": "バトルマスターデッキ テラスタル リザードンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVJL-45805",
+    "local_id": "45805",
+    "name": "エンテイ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVJL/45805.jpg",
+    "set_id": "SVJL",
+    "set_name": "バトルマスターデッキ テラスタル リザードンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVJL-45806",
+    "local_id": "45806",
+    "name": "リザードンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVJL/45806.jpg",
+    "set_id": "SVJL",
+    "set_name": "バトルマスターデッキ テラスタル リザードンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVJL-45807",
+    "local_id": "45807",
+    "name": "ビッパ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVJL/45807.jpg",
+    "set_id": "SVJL",
+    "set_name": "バトルマスターデッキ テラスタル リザードンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVJL-45808",
+    "local_id": "45808",
+    "name": "ビーダル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVJL/45808.jpg",
+    "set_id": "SVJL",
+    "set_name": "バトルマスターデッキ テラスタル リザードンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVJL-45809",
+    "local_id": "45809",
+    "name": "アルセウスV",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVJL/45809.jpg",
+    "set_id": "SVJL",
+    "set_name": "バトルマスターデッキ テラスタル リザードンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVJL-45810",
+    "local_id": "45810",
+    "name": "アルセウスVSTAR",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVJL/45810.jpg",
+    "set_id": "SVJL",
+    "set_name": "バトルマスターデッキ テラスタル リザードンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVJL-45811",
+    "local_id": "45811",
+    "name": "すごいつりざお",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVJL/45811.jpg",
+    "set_id": "SVJL",
+    "set_name": "バトルマスターデッキ テラスタル リザードンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVJL-45812",
+    "local_id": "45812",
+    "name": "ネストボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVJL/45812.jpg",
+    "set_id": "SVJL",
+    "set_name": "バトルマスターデッキ テラスタル リザードンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVJL-45813",
+    "local_id": "45813",
+    "name": "ハイパーボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVJL/45813.jpg",
+    "set_id": "SVJL",
+    "set_name": "バトルマスターデッキ テラスタル リザードンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVJL-45814",
+    "local_id": "45814",
+    "name": "ふしぎなアメ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVJL/45814.jpg",
+    "set_id": "SVJL",
+    "set_name": "バトルマスターデッキ テラスタル リザードンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVJL-45815",
+    "local_id": "45815",
+    "name": "ポケモンいれかえ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVJL/45815.jpg",
+    "set_id": "SVJL",
+    "set_name": "バトルマスターデッキ テラスタル リザードンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVJL-45816",
+    "local_id": "45816",
+    "name": "シロナの覇気",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVJL/45816.jpg",
+    "set_id": "SVJL",
+    "set_name": "バトルマスターデッキ テラスタル リザードンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVJL-45817",
+    "local_id": "45817",
+    "name": "ナンジャモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVJL/45817.jpg",
+    "set_id": "SVJL",
+    "set_name": "バトルマスターデッキ テラスタル リザードンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVJL-45818",
+    "local_id": "45818",
+    "name": "博士の研究",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVJL/45818.jpg",
+    "set_id": "SVJL",
+    "set_name": "バトルマスターデッキ テラスタル リザードンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVJL-45819",
+    "local_id": "45819",
+    "name": "ボスの指令",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVJL/45819.jpg",
+    "set_id": "SVJL",
+    "set_name": "バトルマスターデッキ テラスタル リザードンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVJL-45820",
+    "local_id": "45820",
+    "name": "ボウルタウン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVJL/45820.jpg",
+    "set_id": "SVJL",
+    "set_name": "バトルマスターデッキ テラスタル リザードンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "ENE-42780",
+    "local_id": "42780",
+    "name": "基本炎エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/ENE/42780.jpg",
+    "set_id": "ENE",
+    "set_name": "バトルマスターデッキ テラスタル リザードンex",
+    "region": "JP",
+    "serie_id": "EN"
+  },
+  {
+    "id": "SVJL-45821",
+    "local_id": "45821",
+    "name": "ダブルターボエネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVJL/45821.jpg",
+    "set_id": "SVJL",
+    "set_name": "バトルマスターデッキ テラスタル リザードンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVJP-45822",
+    "local_id": "45822",
+    "name": "オリジンパルキアV",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVJP/45822.jpg",
+    "set_id": "SVJP",
+    "set_name": "バトルマスターデッキ パオジアンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVJP-45823",
+    "local_id": "45823",
+    "name": "オリジンパルキアVSTAR",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVJP/45823.jpg",
+    "set_id": "SVJP",
+    "set_name": "バトルマスターデッキ パオジアンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVJP-45824",
+    "local_id": "45824",
+    "name": "かがやくゲッコウガ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVJP/45824.jpg",
+    "set_id": "SVJP",
+    "set_name": "バトルマスターデッキ パオジアンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVJP-45825",
+    "local_id": "45825",
+    "name": "セビエ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVJP/45825.jpg",
+    "set_id": "SVJP",
+    "set_name": "バトルマスターデッキ パオジアンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVJP-45826",
+    "local_id": "45826",
+    "name": "セゴール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVJP/45826.jpg",
+    "set_id": "SVJP",
+    "set_name": "バトルマスターデッキ パオジアンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVJP-45827",
+    "local_id": "45827",
+    "name": "セグレイブ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVJP/45827.jpg",
+    "set_id": "SVJP",
+    "set_name": "バトルマスターデッキ パオジアンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVJP-45828",
+    "local_id": "45828",
+    "name": "パオジアンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVJP/45828.jpg",
+    "set_id": "SVJP",
+    "set_name": "バトルマスターデッキ パオジアンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVJP-45829",
+    "local_id": "45829",
+    "name": "ビッパ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVJP/45829.jpg",
+    "set_id": "SVJP",
+    "set_name": "バトルマスターデッキ パオジアンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVJP-45830",
+    "local_id": "45830",
+    "name": "ビーダル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVJP/45830.jpg",
+    "set_id": "SVJP",
+    "set_name": "バトルマスターデッキ パオジアンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVJP-45831",
+    "local_id": "45831",
+    "name": "スーパーエネルギー回収",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVJP/45831.jpg",
+    "set_id": "SVJP",
+    "set_name": "バトルマスターデッキ パオジアンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVJP-45832",
+    "local_id": "45832",
+    "name": "ネストボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVJP/45832.jpg",
+    "set_id": "SVJP",
+    "set_name": "バトルマスターデッキ パオジアンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVJP-45833",
+    "local_id": "45833",
+    "name": "ハイパーボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVJP/45833.jpg",
+    "set_id": "SVJP",
+    "set_name": "バトルマスターデッキ パオジアンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVJP-45834",
+    "local_id": "45834",
+    "name": "ふしぎなアメ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVJP/45834.jpg",
+    "set_id": "SVJP",
+    "set_name": "バトルマスターデッキ パオジアンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVJP-45835",
+    "local_id": "45835",
+    "name": "ポケモンいれかえ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVJP/45835.jpg",
+    "set_id": "SVJP",
+    "set_name": "バトルマスターデッキ パオジアンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVJP-45836",
+    "local_id": "45836",
+    "name": "カイ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVJP/45836.jpg",
+    "set_id": "SVJP",
+    "set_name": "バトルマスターデッキ パオジアンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVJP-45837",
+    "local_id": "45837",
+    "name": "ナンジャモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVJP/45837.jpg",
+    "set_id": "SVJP",
+    "set_name": "バトルマスターデッキ パオジアンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVJP-45838",
+    "local_id": "45838",
+    "name": "博士の研究",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVJP/45838.jpg",
+    "set_id": "SVJP",
+    "set_name": "バトルマスターデッキ パオジアンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVJP-45839",
+    "local_id": "45839",
+    "name": "ボスの指令",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVJP/45839.jpg",
+    "set_id": "SVJP",
+    "set_name": "バトルマスターデッキ パオジアンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVJP-45840",
+    "local_id": "45840",
+    "name": "ビーチコート",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVJP/45840.jpg",
+    "set_id": "SVJP",
+    "set_name": "バトルマスターデッキ パオジアンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "ENE-42781",
+    "local_id": "42781",
+    "name": "基本水エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/ENE/42781.jpg",
+    "set_id": "ENE",
+    "set_name": "バトルマスターデッキ パオジアンex",
+    "region": "JP",
+    "serie_id": "EN"
   }
 ]
