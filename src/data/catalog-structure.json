@@ -4,11 +4,6 @@
     "name": "SV 系列",
     "sets": [
       {
-        "id": "SVLS",
-        "name": "スターターセット テラスタイプ：ステラ ソウブレイズex",
-        "logo": ""
-      },
-      {
         "id": "SVM",
         "name": "スタートデッキGenerations",
         "logo": ""
