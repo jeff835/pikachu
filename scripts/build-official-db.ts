@@ -28,18 +28,9 @@ interface SetInfo {
   name: string; // 前台名稱
 }
 
-// 追加 SVM 擴充包 (Start Deck Generations)
+// 追加 SVLS 擴充包
 const TARGET_SETS: SetInfo[] = [
-  { id: '924', name: 'スタートデッキGenerations' },
-  { id: '925', name: 'スタートデッキGenerations' },
-  { id: '926', name: 'スタートデッキGenerations' },
-  { id: '927', name: 'スタートデッキGenerations' },
-  { id: '928', name: 'スタートデッキGenerations' },
-  { id: '929', name: 'スタートデッキGenerations' },
-  { id: '930', name: 'スタートデッキGenerations' },
-  { id: '931', name: 'スタートデッキGenerations' },
-  { id: '932', name: 'スタートデッキGenerations' },
-  { id: '933', name: 'スタートデッキGenerations' }
+  { id: '922', name: 'スターターセット テラスタイプ：ステラ ソウブレイズex' }
 ];
 
 async function uploadImageToSupabase(imageUrl: string, savePath: string): Promise<string | null> {
@@ -167,7 +158,7 @@ async function main() {
   let existingCards: any[] = [];
   if (fs.existsSync(cardsOutputPath)) {
      existingCards = JSON.parse(fs.readFileSync(cardsOutputPath, 'utf8'));
-     existingCards = existingCards.filter(c => !['スタートデッキGenerations'].includes(c.set_name));
+     existingCards = existingCards.filter(c => !['スターターセット テラスタイプ：ステラ ソウブレイズex'].includes(c.set_name));
   }
   const finalCards = existingCards.concat(allCards);
   fs.writeFileSync(cardsOutputPath, JSON.stringify(finalCards, null, 2));
