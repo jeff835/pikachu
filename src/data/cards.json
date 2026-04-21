@@ -20318,5 +20318,985 @@
     "set_name": "バイオレットex",
     "region": "JP",
     "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45417",
+    "local_id": "45417",
+    "name": "セレビィ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45417.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45418",
+    "local_id": "45418",
+    "name": "ニャオハex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45418.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45419",
+    "local_id": "45419",
+    "name": "マメバッタ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45419.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45420",
+    "local_id": "45420",
+    "name": "エクスレッグ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45420.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45421",
+    "local_id": "45421",
+    "name": "ノノクラゲ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45421.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45422",
+    "local_id": "45422",
+    "name": "リククラゲ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45422.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45423",
+    "local_id": "45423",
+    "name": "ポニータ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45423.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45424",
+    "local_id": "45424",
+    "name": "ギャロップ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45424.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45425",
+    "local_id": "45425",
+    "name": "レシラム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45425.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45426",
+    "local_id": "45426",
+    "name": "カルボウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45426.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45427",
+    "local_id": "45427",
+    "name": "グレンアルマex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45427.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45466",
+    "local_id": "45466",
+    "name": "ラプラス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45466.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45467",
+    "local_id": "45467",
+    "name": "マリル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45467.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45468",
+    "local_id": "45468",
+    "name": "マリルリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45468.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45469",
+    "local_id": "45469",
+    "name": "ケロマツ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45469.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45470",
+    "local_id": "45470",
+    "name": "ゲコガシラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45470.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45471",
+    "local_id": "45471",
+    "name": "ゲッコウガex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45471.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45442",
+    "local_id": "45442",
+    "name": "ピカチュウex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45442.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45443",
+    "local_id": "45443",
+    "name": "メリープ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45443.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45444",
+    "local_id": "45444",
+    "name": "モココ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45444.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45445",
+    "local_id": "45445",
+    "name": "デンリュウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45445.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45446",
+    "local_id": "45446",
+    "name": "パモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45446.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45447",
+    "local_id": "45447",
+    "name": "ミライドン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45447.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45448",
+    "local_id": "45448",
+    "name": "ミュウツー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45448.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45449",
+    "local_id": "45449",
+    "name": "ヒラヒナ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45449.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45450",
+    "local_id": "45450",
+    "name": "クエスパトラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45450.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45451",
+    "local_id": "45451",
+    "name": "ボチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45451.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45452",
+    "local_id": "45452",
+    "name": "ハカドッグex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45452.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45491",
+    "local_id": "45491",
+    "name": "アサナン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45491.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45492",
+    "local_id": "45492",
+    "name": "チャーレム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45492.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45493",
+    "local_id": "45493",
+    "name": "リオル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45493.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45494",
+    "local_id": "45494",
+    "name": "ルカリオex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45494.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45495",
+    "local_id": "45495",
+    "name": "コライドン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45495.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45472",
+    "local_id": "45472",
+    "name": "ダークライex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45472.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45473",
+    "local_id": "45473",
+    "name": "コマタナ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45473.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45474",
+    "local_id": "45474",
+    "name": "キリキザン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45474.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45475",
+    "local_id": "45475",
+    "name": "ドドゲザン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45475.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45476",
+    "local_id": "45476",
+    "name": "オトシドリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45476.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45496",
+    "local_id": "45496",
+    "name": "ジラーチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45496.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45497",
+    "local_id": "45497",
+    "name": "メルタン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45497.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45498",
+    "local_id": "45498",
+    "name": "メルメタルex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45498.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45499",
+    "local_id": "45499",
+    "name": "ブロロン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45499.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45500",
+    "local_id": "45500",
+    "name": "ブロロローム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45500.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45453",
+    "local_id": "45453",
+    "name": "ケンタロス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45453.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45477",
+    "local_id": "45477",
+    "name": "イーブイ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45477.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45501",
+    "local_id": "45501",
+    "name": "カビゴン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45501.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45502",
+    "local_id": "45502",
+    "name": "グルトン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45502.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45428",
+    "local_id": "45428",
+    "name": "モトトカゲ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45428.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45429",
+    "local_id": "45429",
+    "name": "エネルギー回収",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45429.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45430",
+    "local_id": "45430",
+    "name": "きずぐすり",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45430.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45454",
+    "local_id": "45454",
+    "name": "きずぐすり",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45454.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45478",
+    "local_id": "45478",
+    "name": "クラッシュハンマー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45478.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45431",
+    "local_id": "45431",
+    "name": "スーパーボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45431.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45455",
+    "local_id": "45455",
+    "name": "スーパーボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45455.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45479",
+    "local_id": "45479",
+    "name": "スーパーボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45479.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45503",
+    "local_id": "45503",
+    "name": "スーパーボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45503.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45480",
+    "local_id": "45480",
+    "name": "ふしぎなアメ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45480.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45432",
+    "local_id": "45432",
+    "name": "ポケモンいれかえ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45432.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45456",
+    "local_id": "45456",
+    "name": "ポケモンいれかえ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45456.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45481",
+    "local_id": "45481",
+    "name": "ポケモンいれかえ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45481.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45504",
+    "local_id": "45504",
+    "name": "ポケモンいれかえ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45504.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45433",
+    "local_id": "45433",
+    "name": "ポケモンキャッチャー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45433.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45457",
+    "local_id": "45457",
+    "name": "ポケモンキャッチャー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45457.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45505",
+    "local_id": "45505",
+    "name": "ポケモンキャッチャー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45505.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45434",
+    "local_id": "45434",
+    "name": "モンスターボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45434.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45458",
+    "local_id": "45458",
+    "name": "モンスターボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45458.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45482",
+    "local_id": "45482",
+    "name": "モンスターボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45482.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45506",
+    "local_id": "45506",
+    "name": "モンスターボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45506.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45507",
+    "local_id": "45507",
+    "name": "げんきのハチマキ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45507.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45508",
+    "local_id": "45508",
+    "name": "コック",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45508.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45435",
+    "local_id": "45435",
+    "name": "ジャッジマン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45435.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45459",
+    "local_id": "45459",
+    "name": "ジャッジマン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45459.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45483",
+    "local_id": "45483",
+    "name": "ジャッジマン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45483.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45436",
+    "local_id": "45436",
+    "name": "たんぱんこぞう",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45436.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45460",
+    "local_id": "45460",
+    "name": "たんぱんこぞう",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45460.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45484",
+    "local_id": "45484",
+    "name": "たんぱんこぞう",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45484.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45509",
+    "local_id": "45509",
+    "name": "たんぱんこぞう",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45509.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45437",
+    "local_id": "45437",
+    "name": "ネモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45437.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45510",
+    "local_id": "45510",
+    "name": "ネモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45510.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45461",
+    "local_id": "45461",
+    "name": "ネモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45461.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45485",
+    "local_id": "45485",
+    "name": "ネモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45485.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45438",
+    "local_id": "45438",
+    "name": "博士の研究",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45438.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45511",
+    "local_id": "45511",
+    "name": "博士の研究",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45511.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45462",
+    "local_id": "45462",
+    "name": "博士の研究",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45462.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45486",
+    "local_id": "45486",
+    "name": "博士の研究",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45486.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45439",
+    "local_id": "45439",
+    "name": "ピクニックガール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45439.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45463",
+    "local_id": "45463",
+    "name": "ピクニックガール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45463.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45487",
+    "local_id": "45487",
+    "name": "ピクニックガール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45487.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45512",
+    "local_id": "45512",
+    "name": "ピクニックガール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45512.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45488",
+    "local_id": "45488",
+    "name": "ボスの指令",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45488.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45440",
+    "local_id": "45440",
+    "name": "基本草エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45440.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45441",
+    "local_id": "45441",
+    "name": "基本炎エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45441.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45489",
+    "local_id": "45489",
+    "name": "基本水エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45489.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45464",
+    "local_id": "45464",
+    "name": "基本雷エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45464.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45465",
+    "local_id": "45465",
+    "name": "基本超エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45465.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45513",
+    "local_id": "45513",
+    "name": "基本闘エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45513.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45490",
+    "local_id": "45490",
+    "name": "基本悪エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45490.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVI-45514",
+    "local_id": "45514",
+    "name": "基本鋼エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVI/45514.jpg",
+    "set_id": "SVI",
+    "set_name": "SVI バトルアカデミー",
+    "region": "JP",
+    "serie_id": "SV"
   }
 ]
