@@ -10588,5 +10588,1325 @@
     "set_name": "デッキビルドBOX バトルパートナーズ",
     "region": "JP",
     "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47009",
+    "local_id": "47009",
+    "name": "キャタピー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47009.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47010",
+    "local_id": "47010",
+    "name": "トランセル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47010.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47011",
+    "local_id": "47011",
+    "name": "バタフリー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47011.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47012",
+    "local_id": "47012",
+    "name": "パラス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47012.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47013",
+    "local_id": "47013",
+    "name": "パラセクト",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47013.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47014",
+    "local_id": "47014",
+    "name": "マラカッチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47014.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47015",
+    "local_id": "47015",
+    "name": "カブルモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47015.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47016",
+    "local_id": "47016",
+    "name": "チョボマキ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47016.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47017",
+    "local_id": "47017",
+    "name": "アギルダー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47017.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47018",
+    "local_id": "47018",
+    "name": "ニャオハ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47018.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47019",
+    "local_id": "47019",
+    "name": "ニャローテ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47019.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47020",
+    "local_id": "47020",
+    "name": "マスカーニャ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47020.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47021",
+    "local_id": "47021",
+    "name": "ブーバー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47021.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47022",
+    "local_id": "47022",
+    "name": "ブーバーン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47022.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47023",
+    "local_id": "47023",
+    "name": "Nのダルマッカ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47023.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47024",
+    "local_id": "47024",
+    "name": "Nのヒヒダルマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47024.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47025",
+    "local_id": "47025",
+    "name": "ボルケニオンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47025.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47026",
+    "local_id": "47026",
+    "name": "フリーザー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47026.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47027",
+    "local_id": "47027",
+    "name": "テッポウオ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47027.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47028",
+    "local_id": "47028",
+    "name": "オクタン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47028.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47029",
+    "local_id": "47029",
+    "name": "ハスボー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47029.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47030",
+    "local_id": "47030",
+    "name": "ハスブレロ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47030.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47031",
+    "local_id": "47031",
+    "name": "ルンパッパ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47031.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47032",
+    "local_id": "47032",
+    "name": "ホエルコ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47032.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47033",
+    "local_id": "47033",
+    "name": "ホエルオー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47033.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47034",
+    "local_id": "47034",
+    "name": "ナンジャモのビリリダマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47034.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47035",
+    "local_id": "47035",
+    "name": "ナンジャモのマルマイン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47035.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47036",
+    "local_id": "47036",
+    "name": "Nのバチュル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47036.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47037",
+    "local_id": "47037",
+    "name": "ナンジャモのズピカ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47037.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47038",
+    "local_id": "47038",
+    "name": "ナンジャモのハラバリーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47038.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47039",
+    "local_id": "47039",
+    "name": "ナンジャモのカイデン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47039.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47040",
+    "local_id": "47040",
+    "name": "ナンジャモのタイカイデン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47040.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47041",
+    "local_id": "47041",
+    "name": "リーリエのピッピex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47041.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47042",
+    "local_id": "47042",
+    "name": "バリヤード",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47042.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47043",
+    "local_id": "47043",
+    "name": "カゲボウズ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47043.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47044",
+    "local_id": "47044",
+    "name": "ジュペッタ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47044.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47045",
+    "local_id": "47045",
+    "name": "ダンバル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47045.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47046",
+    "local_id": "47046",
+    "name": "メタング",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47046.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47047",
+    "local_id": "47047",
+    "name": "メタグロス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47047.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47048",
+    "local_id": "47048",
+    "name": "Nのシンボラー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47048.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47049",
+    "local_id": "47049",
+    "name": "リーリエのアブリー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47049.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47050",
+    "local_id": "47050",
+    "name": "リーリエのアブリボン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47050.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47051",
+    "local_id": "47051",
+    "name": "リーリエのキュワワー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47051.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47052",
+    "local_id": "47052",
+    "name": "ウリムー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47052.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47053",
+    "local_id": "47053",
+    "name": "イノムー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47053.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47054",
+    "local_id": "47054",
+    "name": "マンムーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47054.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47055",
+    "local_id": "47055",
+    "name": "ヨーギラス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47055.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47056",
+    "local_id": "47056",
+    "name": "サナギラス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47056.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47057",
+    "local_id": "47057",
+    "name": "レジロック",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47057.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47058",
+    "local_id": "47058",
+    "name": "ヤンチャム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47058.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47059",
+    "local_id": "47059",
+    "name": "イワンコ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47059.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47060",
+    "local_id": "47060",
+    "name": "ルガルガン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47060.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47061",
+    "local_id": "47061",
+    "name": "ホップのスナヘビ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47061.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47062",
+    "local_id": "47062",
+    "name": "ホップのサダイジャ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47062.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47063",
+    "local_id": "47063",
+    "name": "ガケガニ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47063.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47064",
+    "local_id": "47064",
+    "name": "ドガース",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47064.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47065",
+    "local_id": "47065",
+    "name": "マタドガス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47065.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47066",
+    "local_id": "47066",
+    "name": "バンギラス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47066.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47067",
+    "local_id": "47067",
+    "name": "Nのチョロネコ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47067.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47068",
+    "local_id": "47068",
+    "name": "Nのゾロア",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47068.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47069",
+    "local_id": "47069",
+    "name": "Nのゾロアークex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47069.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47070",
+    "local_id": "47070",
+    "name": "ゴロンダ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47070.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47071",
+    "local_id": "47071",
+    "name": "シュバルゴ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47071.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47072",
+    "local_id": "47072",
+    "name": "Nのギアル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47072.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47073",
+    "local_id": "47073",
+    "name": "Nのギギアル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47073.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47074",
+    "local_id": "47074",
+    "name": "Nのギギギアル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47074.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47075",
+    "local_id": "47075",
+    "name": "マギアナ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47075.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47076",
+    "local_id": "47076",
+    "name": "ホップのアーマーガア",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47076.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47077",
+    "local_id": "47077",
+    "name": "ホップのザシアンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47077.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47078",
+    "local_id": "47078",
+    "name": "タツベイ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47078.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47079",
+    "local_id": "47079",
+    "name": "コモルー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47079.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47080",
+    "local_id": "47080",
+    "name": "ボーマンダex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47080.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47081",
+    "local_id": "47081",
+    "name": "クリムガン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47081.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47082",
+    "local_id": "47082",
+    "name": "Nのレシラム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47082.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47083",
+    "local_id": "47083",
+    "name": "ホップのカビゴン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47083.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47084",
+    "local_id": "47084",
+    "name": "オタチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47084.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47085",
+    "local_id": "47085",
+    "name": "オオタチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47085.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47086",
+    "local_id": "47086",
+    "name": "ノコッチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47086.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47087",
+    "local_id": "47087",
+    "name": "ノココッチex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47087.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47088",
+    "local_id": "47088",
+    "name": "オンバット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47088.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47089",
+    "local_id": "47089",
+    "name": "オンバーン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47089.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47090",
+    "local_id": "47090",
+    "name": "ネッコアラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47090.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47091",
+    "local_id": "47091",
+    "name": "ホップのココガラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47091.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47092",
+    "local_id": "47092",
+    "name": "ホップのアオガラス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47092.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47093",
+    "local_id": "47093",
+    "name": "ホップのウールー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47093.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47094",
+    "local_id": "47094",
+    "name": "ホップのバイウールー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47094.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47095",
+    "local_id": "47095",
+    "name": "ホップのウッウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47095.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47221",
+    "local_id": "47221",
+    "name": "マラカッチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47221.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47222",
+    "local_id": "47222",
+    "name": "フリーザー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47222.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47223",
+    "local_id": "47223",
+    "name": "ホエルオー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47223.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47224",
+    "local_id": "47224",
+    "name": "ナンジャモのタイカイデン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47224.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47225",
+    "local_id": "47225",
+    "name": "リーリエのアブリボン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47225.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47226",
+    "local_id": "47226",
+    "name": "ウリムー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47226.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47227",
+    "local_id": "47227",
+    "name": "ルガルガン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47227.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47228",
+    "local_id": "47228",
+    "name": "Nのゾロア",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47228.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47229",
+    "local_id": "47229",
+    "name": "Nのレシラム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47229.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47230",
+    "local_id": "47230",
+    "name": "オオタチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47230.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47231",
+    "local_id": "47231",
+    "name": "オンバット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47231.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47232",
+    "local_id": "47232",
+    "name": "ホップのウールー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47232.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47233",
+    "local_id": "47233",
+    "name": "ボルケニオンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47233.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47234",
+    "local_id": "47234",
+    "name": "ナンジャモのハラバリーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47234.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47235",
+    "local_id": "47235",
+    "name": "リーリエのピッピex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47235.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47236",
+    "local_id": "47236",
+    "name": "マンムーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47236.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47237",
+    "local_id": "47237",
+    "name": "Nのゾロアークex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47237.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47238",
+    "local_id": "47238",
+    "name": "ホップのザシアンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47238.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47239",
+    "local_id": "47239",
+    "name": "ボーマンダex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47239.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47240",
+    "local_id": "47240",
+    "name": "ノココッチex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47240.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47244",
+    "local_id": "47244",
+    "name": "ボルケニオンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47244.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47245",
+    "local_id": "47245",
+    "name": "ナンジャモのハラバリーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47245.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47246",
+    "local_id": "47246",
+    "name": "リーリエのピッピex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47246.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47247",
+    "local_id": "47247",
+    "name": "Nのゾロアークex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47247.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47248",
+    "local_id": "47248",
+    "name": "ホップのザシアンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47248.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47249",
+    "local_id": "47249",
+    "name": "ボーマンダex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47249.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47250",
+    "local_id": "47250",
+    "name": "ナンジャモのハラバリーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47250.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47251",
+    "local_id": "47251",
+    "name": "Nのゾロアークex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47251.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47096",
+    "local_id": "47096",
+    "name": "いいきずぐすり",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47096.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47097",
+    "local_id": "47097",
+    "name": "Nのポイントアップ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47097.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47098",
+    "local_id": "47098",
+    "name": "とりかえチケット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47098.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47099",
+    "local_id": "47099",
+    "name": "ホップのバッグ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47099.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47100",
+    "local_id": "47100",
+    "name": "ホップのこだわりハチマキ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47100.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47101",
+    "local_id": "47101",
+    "name": "リーリエのしんじゅ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47101.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47102",
+    "local_id": "47102",
+    "name": "アイリスの闘志",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47102.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47103",
+    "local_id": "47103",
+    "name": "怖いお兄さん",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47103.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47104",
+    "local_id": "47104",
+    "name": "タケシのスカウト",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47104.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47105",
+    "local_id": "47105",
+    "name": "Nの城",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47105.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47106",
+    "local_id": "47106",
+    "name": "ハッコウシティ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47106.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47107",
+    "local_id": "47107",
+    "name": "ハロンタウン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47107.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47241",
+    "local_id": "47241",
+    "name": "アイリスの闘志",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47241.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47242",
+    "local_id": "47242",
+    "name": "怖いお兄さん",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47242.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47243",
+    "local_id": "47243",
+    "name": "タケシのスカウト",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47243.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47108",
+    "local_id": "47108",
+    "name": "スパイクエネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47108.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9-47252",
+    "local_id": "47252",
+    "name": "スパイクエネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9/47252.jpg",
+    "set_id": "SV9",
+    "set_name": "バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
   }
 ]
