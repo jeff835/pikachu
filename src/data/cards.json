@@ -17198,5 +17198,965 @@
     "set_name": "変幻の仮面",
     "region": "JP",
     "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45577",
+    "local_id": "45577",
+    "name": "モンジャラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45577.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45578",
+    "local_id": "45578",
+    "name": "モジャンボ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45578.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45579",
+    "local_id": "45579",
+    "name": "カイロス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45579.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45580",
+    "local_id": "45580",
+    "name": "イトマル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45580.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45581",
+    "local_id": "45581",
+    "name": "アリアドス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45581.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45582",
+    "local_id": "45582",
+    "name": "リーフィア",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45582.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45583",
+    "local_id": "45583",
+    "name": "テツノイサハ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45583.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45584",
+    "local_id": "45584",
+    "name": "チャデス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45584.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45585",
+    "local_id": "45585",
+    "name": "ヤバソチャex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45585.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45586",
+    "local_id": "45586",
+    "name": "ロコン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45586.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45587",
+    "local_id": "45587",
+    "name": "キュウコン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45587.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45588",
+    "local_id": "45588",
+    "name": "マグマッグ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45588.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45589",
+    "local_id": "45589",
+    "name": "マグカルゴex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45589.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45590",
+    "local_id": "45590",
+    "name": "コータス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45590.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45591",
+    "local_id": "45591",
+    "name": "ヒコザル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45591.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45592",
+    "local_id": "45592",
+    "name": "モウカザル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45592.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45593",
+    "local_id": "45593",
+    "name": "ゴウカザル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45593.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45594",
+    "local_id": "45594",
+    "name": "イーユイ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45594.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45595",
+    "local_id": "45595",
+    "name": "ヘイガニ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45595.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45596",
+    "local_id": "45596",
+    "name": "シザリガー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45596.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45597",
+    "local_id": "45597",
+    "name": "グレイシア",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45597.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45598",
+    "local_id": "45598",
+    "name": "フィオネ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45598.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45599",
+    "local_id": "45599",
+    "name": "ケロマツ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45599.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45600",
+    "local_id": "45600",
+    "name": "ゲコガシラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45600.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45601",
+    "local_id": "45601",
+    "name": "ウッウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45601.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45602",
+    "local_id": "45602",
+    "name": "ウネルミナモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45602.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45603",
+    "local_id": "45603",
+    "name": "サンダー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45603.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45604",
+    "local_id": "45604",
+    "name": "エリキテル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45604.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45605",
+    "local_id": "45605",
+    "name": "エレザード",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45605.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45606",
+    "local_id": "45606",
+    "name": "モルペコ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45606.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45607",
+    "local_id": "45607",
+    "name": "ズピカ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45607.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45608",
+    "local_id": "45608",
+    "name": "ハラバリー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45608.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45609",
+    "local_id": "45609",
+    "name": "テツノイバラex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45609.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45610",
+    "local_id": "45610",
+    "name": "キリンリキ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45610.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45611",
+    "local_id": "45611",
+    "name": "リキキリン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45611.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45612",
+    "local_id": "45612",
+    "name": "フラベベ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45612.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45613",
+    "local_id": "45613",
+    "name": "フラエッテ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45613.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45614",
+    "local_id": "45614",
+    "name": "フラージェス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45614.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45615",
+    "local_id": "45615",
+    "name": "ラブトロス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45615.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45616",
+    "local_id": "45616",
+    "name": "サケブシッポex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45616.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45617",
+    "local_id": "45617",
+    "name": "ヒスイ ガーディ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45617.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45618",
+    "local_id": "45618",
+    "name": "ヒスイ ウインディ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45618.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45619",
+    "local_id": "45619",
+    "name": "ノズパス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45619.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45620",
+    "local_id": "45620",
+    "name": "ダイノーズ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45620.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45621",
+    "local_id": "45621",
+    "name": "ゲッコウガex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45621.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45622",
+    "local_id": "45622",
+    "name": "ルチャブル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45622.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45623",
+    "local_id": "45623",
+    "name": "ディンルー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45623.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45624",
+    "local_id": "45624",
+    "name": "カジッチュ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45624.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45625",
+    "local_id": "45625",
+    "name": "カミッチュ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45625.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45626",
+    "local_id": "45626",
+    "name": "イーブイ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45626.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45627",
+    "local_id": "45627",
+    "name": "カビゴン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45627.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45628",
+    "local_id": "45628",
+    "name": "ガチグマ アカツキex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45628.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45662",
+    "local_id": "45662",
+    "name": "カイロス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45662.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45663",
+    "local_id": "45663",
+    "name": "チャデス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45663.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45664",
+    "local_id": "45664",
+    "name": "コータス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45664.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45665",
+    "local_id": "45665",
+    "name": "ゴウカザル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45665.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45666",
+    "local_id": "45666",
+    "name": "フィオネ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45666.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45667",
+    "local_id": "45667",
+    "name": "ウッウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45667.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45668",
+    "local_id": "45668",
+    "name": "エレザード",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45668.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45669",
+    "local_id": "45669",
+    "name": "ラブトロス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45669.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45670",
+    "local_id": "45670",
+    "name": "ヒスイ ガーディ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45670.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45671",
+    "local_id": "45671",
+    "name": "ダイノーズ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45671.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45672",
+    "local_id": "45672",
+    "name": "カジッチュ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45672.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45673",
+    "local_id": "45673",
+    "name": "イーブイ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45673.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45674",
+    "local_id": "45674",
+    "name": "ヤバソチャex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45674.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45675",
+    "local_id": "45675",
+    "name": "マグカルゴex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45675.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45676",
+    "local_id": "45676",
+    "name": "テツノイバラex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45676.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45677",
+    "local_id": "45677",
+    "name": "サケブシッポex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45677.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45678",
+    "local_id": "45678",
+    "name": "ゲッコウガex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45678.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45679",
+    "local_id": "45679",
+    "name": "ガチグマ アカツキex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45679.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45684",
+    "local_id": "45684",
+    "name": "ヤバソチャex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45684.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45685",
+    "local_id": "45685",
+    "name": "ゲッコウガex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45685.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45686",
+    "local_id": "45686",
+    "name": "ガチグマ アカツキex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45686.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45689",
+    "local_id": "45689",
+    "name": "ガチグマ アカツキex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45689.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45640",
+    "local_id": "45640",
+    "name": "アンフェアスタンプ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45640.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45629",
+    "local_id": "45629",
+    "name": "改造ハンマー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45629.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45641",
+    "local_id": "45641",
+    "name": "ハイパーアロマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45641.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45630",
+    "local_id": "45630",
+    "name": "ポケモンいれかえ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45630.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45631",
+    "local_id": "45631",
+    "name": "ポケモンキャッチャー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45631.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45632",
+    "local_id": "45632",
+    "name": "ラブラブボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45632.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45642",
+    "local_id": "45642",
+    "name": "サバイブギプス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45642.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45633",
+    "local_id": "45633",
+    "name": "ラッキーメット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45633.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45634",
+    "local_id": "45634",
+    "name": "管理人",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45634.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45635",
+    "local_id": "45635",
+    "name": "ゴヨウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45635.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45636",
+    "local_id": "45636",
+    "name": "サザレ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45636.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45637",
+    "local_id": "45637",
+    "name": "スイレンのお世話",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45637.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45638",
+    "local_id": "45638",
+    "name": "公民館",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45638.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45680",
+    "local_id": "45680",
+    "name": "管理人",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45680.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45681",
+    "local_id": "45681",
+    "name": "ゴヨウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45681.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45682",
+    "local_id": "45682",
+    "name": "サザレ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45682.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45683",
+    "local_id": "45683",
+    "name": "スイレンのお世話",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45683.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45687",
+    "local_id": "45687",
+    "name": "サザレ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45687.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45688",
+    "local_id": "45688",
+    "name": "スイレンのお世話",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45688.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45690",
+    "local_id": "45690",
+    "name": "緊急ボード",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45690.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45639",
+    "local_id": "45639",
+    "name": "ブーメランエネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45639.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5a-45691",
+    "local_id": "45691",
+    "name": "ルミナスエネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5a/45691.jpg",
+    "set_id": "SV5a",
+    "set_name": "クリムゾンヘイズ",
+    "region": "JP",
+    "serie_id": "SV"
   }
 ]
