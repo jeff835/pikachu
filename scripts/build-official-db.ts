@@ -28,10 +28,9 @@ interface SetInfo {
   name: string; // 前台名稱
 }
 
-// 追加 SVJL 及 SVJP 擴充包
+// 追加 SV6 擴充包
 const TARGET_SETS: SetInfo[] = [
-  { id: '915', name: 'バトルマスターデッキ テラスタル リザードンex' },
-  { id: '916', name: 'バトルマスターデッキ パオジアンex' }
+  { id: '914', name: '変幻の仮面' }
 ];
 
 async function uploadImageToSupabase(imageUrl: string, savePath: string): Promise<string | null> {
@@ -160,7 +159,7 @@ async function main() {
   let existingCards: any[] = [];
   if (fs.existsSync(cardsOutputPath)) {
      existingCards = JSON.parse(fs.readFileSync(cardsOutputPath, 'utf8'));
-     existingCards = existingCards.filter(c => !['バトルマスターデッキ テラスタル リザードンex', 'バトルマスターデッキ パオジアンex'].includes(c.set_name));
+     existingCards = existingCards.filter(c => !['変幻の仮面'].includes(c.set_name));
   }
   const finalCards = existingCards.concat(allCards);
   fs.writeFileSync(cardsOutputPath, JSON.stringify(finalCards, null, 2));

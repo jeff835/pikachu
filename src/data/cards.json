@@ -15868,5 +15868,1335 @@
     "set_name": "バトルマスターデッキ パオジアンex",
     "region": "JP",
     "serie_id": "EN"
+  },
+  {
+    "id": "SV6-45692",
+    "local_id": "45692",
+    "name": "ヒマナッツ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45692.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45693",
+    "local_id": "45693",
+    "name": "キマワリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45693.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45694",
+    "local_id": "45694",
+    "name": "ヘラクロス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45694.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45695",
+    "local_id": "45695",
+    "name": "バルビート",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45695.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45696",
+    "local_id": "45696",
+    "name": "イルミーゼ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45696.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45697",
+    "local_id": "45697",
+    "name": "ボクレー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45697.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45698",
+    "local_id": "45698",
+    "name": "オーロット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45698.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45699",
+    "local_id": "45699",
+    "name": "サルノリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45699.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45700",
+    "local_id": "45700",
+    "name": "バチンキー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45700.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45701",
+    "local_id": "45701",
+    "name": "ゴリランダー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45701.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45702",
+    "local_id": "45702",
+    "name": "カジッチュ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45702.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45703",
+    "local_id": "45703",
+    "name": "カミッチュ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45703.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45704",
+    "local_id": "45704",
+    "name": "チャデス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45704.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45705",
+    "local_id": "45705",
+    "name": "ヤバソチャ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45705.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45706",
+    "local_id": "45706",
+    "name": "オーガポン みどりのめん",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45706.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45707",
+    "local_id": "45707",
+    "name": "オーガポン みどりのめんex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45707.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45708",
+    "local_id": "45708",
+    "name": "ダルマッカ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45708.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45709",
+    "local_id": "45709",
+    "name": "ヒヒダルマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45709.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45710",
+    "local_id": "45710",
+    "name": "ヒトモシ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45710.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45711",
+    "local_id": "45711",
+    "name": "ランプラー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45711.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45712",
+    "local_id": "45712",
+    "name": "シャンデラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45712.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45713",
+    "local_id": "45713",
+    "name": "オーガポン かまどのめんex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45713.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45714",
+    "local_id": "45714",
+    "name": "ニョロモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45714.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45715",
+    "local_id": "45715",
+    "name": "ニョロゾ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45715.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45716",
+    "local_id": "45716",
+    "name": "ニョロボン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45716.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45717",
+    "local_id": "45717",
+    "name": "トサキント",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45717.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45718",
+    "local_id": "45718",
+    "name": "アズマオウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45718.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45719",
+    "local_id": "45719",
+    "name": "ルージュラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45719.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45720",
+    "local_id": "45720",
+    "name": "ヒンバス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45720.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45721",
+    "local_id": "45721",
+    "name": "ミロカロス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45721.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45722",
+    "local_id": "45722",
+    "name": "ユキワラシ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45722.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45723",
+    "local_id": "45723",
+    "name": "オニゴーリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45723.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45724",
+    "local_id": "45724",
+    "name": "ユキメノコ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45724.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45725",
+    "local_id": "45725",
+    "name": "ナミイルカ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45725.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45726",
+    "local_id": "45726",
+    "name": "イルカマン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45726.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45727",
+    "local_id": "45727",
+    "name": "イルカマンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45727.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45728",
+    "local_id": "45728",
+    "name": "テツノツツミ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45728.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45729",
+    "local_id": "45729",
+    "name": "オーガポン いどのめんex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45729.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45730",
+    "local_id": "45730",
+    "name": "コリンク",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45730.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45731",
+    "local_id": "45731",
+    "name": "ルクシオ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45731.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45732",
+    "local_id": "45732",
+    "name": "レントラーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45732.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45733",
+    "local_id": "45733",
+    "name": "エモンガ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45733.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45734",
+    "local_id": "45734",
+    "name": "カイデン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45734.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45735",
+    "local_id": "45735",
+    "name": "タイカイデン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45735.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45736",
+    "local_id": "45736",
+    "name": "ピッピ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45736.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45737",
+    "local_id": "45737",
+    "name": "ピクシー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45737.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45738",
+    "local_id": "45738",
+    "name": "ケーシィ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45738.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45739",
+    "local_id": "45739",
+    "name": "ユンゲラー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45739.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45740",
+    "local_id": "45740",
+    "name": "フーディン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45740.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45741",
+    "local_id": "45741",
+    "name": "チリーン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45741.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45742",
+    "local_id": "45742",
+    "name": "ペロッパフ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45742.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45743",
+    "local_id": "45743",
+    "name": "ペロリーム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45743.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45744",
+    "local_id": "45744",
+    "name": "スナバァ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45744.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45745",
+    "local_id": "45745",
+    "name": "シロデスナ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45745.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45746",
+    "local_id": "45746",
+    "name": "マシマシラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45746.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45747",
+    "local_id": "45747",
+    "name": "キチキギス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45747.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45748",
+    "local_id": "45748",
+    "name": "サンド",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45748.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45749",
+    "local_id": "45749",
+    "name": "サンドパン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45749.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45750",
+    "local_id": "45750",
+    "name": "ドッコラー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45750.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45751",
+    "local_id": "45751",
+    "name": "ドテッコツ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45751.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45752",
+    "local_id": "45752",
+    "name": "ローブシン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45752.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45753",
+    "local_id": "45753",
+    "name": "キラーメ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45753.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45754",
+    "local_id": "45754",
+    "name": "キラフロル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45754.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45755",
+    "local_id": "45755",
+    "name": "イイネイヌ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45755.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45756",
+    "local_id": "45756",
+    "name": "オーガポン いしずえのめんex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45756.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45757",
+    "local_id": "45757",
+    "name": "ポチエナ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45757.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45758",
+    "local_id": "45758",
+    "name": "グラエナ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45758.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45759",
+    "local_id": "45759",
+    "name": "フシデ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45759.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45760",
+    "local_id": "45760",
+    "name": "ホイーガ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45760.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45761",
+    "local_id": "45761",
+    "name": "ペンドラー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45761.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45762",
+    "local_id": "45762",
+    "name": "アラブルタケ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45762.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45763",
+    "local_id": "45763",
+    "name": "エアームド",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45763.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45764",
+    "local_id": "45764",
+    "name": "ココドラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45764.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45765",
+    "local_id": "45765",
+    "name": "コドラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45765.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45766",
+    "local_id": "45766",
+    "name": "ボスゴドラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45766.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45767",
+    "local_id": "45767",
+    "name": "ヒードラン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45767.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45768",
+    "local_id": "45768",
+    "name": "ブロロン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45768.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45769",
+    "local_id": "45769",
+    "name": "ブロロローム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45769.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45770",
+    "local_id": "45770",
+    "name": "ドラメシヤ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45770.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45771",
+    "local_id": "45771",
+    "name": "ドロンチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45771.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45772",
+    "local_id": "45772",
+    "name": "ドラパルトex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45772.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45773",
+    "local_id": "45773",
+    "name": "シャリタツ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45773.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45774",
+    "local_id": "45774",
+    "name": "カモネギ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45774.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45775",
+    "local_id": "45775",
+    "name": "ラッキー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45775.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45776",
+    "local_id": "45776",
+    "name": "ハピナスex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45776.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45777",
+    "local_id": "45777",
+    "name": "エイパム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45777.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45778",
+    "local_id": "45778",
+    "name": "エテボース",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45778.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45779",
+    "local_id": "45779",
+    "name": "コアルヒー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45779.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45780",
+    "local_id": "45780",
+    "name": "スワンナ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45780.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45844",
+    "local_id": "45844",
+    "name": "キマワリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45844.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45845",
+    "local_id": "45845",
+    "name": "カミッチュ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45845.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45846",
+    "local_id": "45846",
+    "name": "ユキメノコ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45846.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45847",
+    "local_id": "45847",
+    "name": "カイデン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45847.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45848",
+    "local_id": "45848",
+    "name": "チリーン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45848.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45849",
+    "local_id": "45849",
+    "name": "マシマシラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45849.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45850",
+    "local_id": "45850",
+    "name": "キチキギス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45850.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45851",
+    "local_id": "45851",
+    "name": "ドッコラー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45851.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45852",
+    "local_id": "45852",
+    "name": "イイネイヌ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45852.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45853",
+    "local_id": "45853",
+    "name": "コドラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45853.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45854",
+    "local_id": "45854",
+    "name": "シャリタツ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45854.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45855",
+    "local_id": "45855",
+    "name": "ラッキー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45855.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45856",
+    "local_id": "45856",
+    "name": "オーガポン みどりのめんex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45856.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45857",
+    "local_id": "45857",
+    "name": "オーガポン かまどのめんex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45857.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45858",
+    "local_id": "45858",
+    "name": "イルカマンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45858.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45859",
+    "local_id": "45859",
+    "name": "オーガポン いどのめんex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45859.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45860",
+    "local_id": "45860",
+    "name": "レントラーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45860.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45861",
+    "local_id": "45861",
+    "name": "オーガポン いしずえのめんex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45861.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45862",
+    "local_id": "45862",
+    "name": "ドラパルトex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45862.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45863",
+    "local_id": "45863",
+    "name": "ハピナスex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45863.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45867",
+    "local_id": "45867",
+    "name": "オーガポン みどりのめんex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45867.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45868",
+    "local_id": "45868",
+    "name": "オーガポン かまどのめんex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45868.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45869",
+    "local_id": "45869",
+    "name": "オーガポン いどのめんex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45869.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45870",
+    "local_id": "45870",
+    "name": "オーガポン いしずえのめんex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45870.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45873",
+    "local_id": "45873",
+    "name": "オーガポン みどりのめんex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45873.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45781",
+    "local_id": "45781",
+    "name": "鬼の仮面",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45781.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45782",
+    "local_id": "45782",
+    "name": "おはやし笛",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45782.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45783",
+    "local_id": "45783",
+    "name": "シークレットボックス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45783.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45784",
+    "local_id": "45784",
+    "name": "ポケモン回収サイクロン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45784.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45785",
+    "local_id": "45785",
+    "name": "むしとりセット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45785.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45786",
+    "local_id": "45786",
+    "name": "ハンディサーキュレーター",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45786.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45787",
+    "local_id": "45787",
+    "name": "スグリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45787.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45788",
+    "local_id": "45788",
+    "name": "ゼイユ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45788.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45789",
+    "local_id": "45789",
+    "name": "ハッサク",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45789.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45790",
+    "local_id": "45790",
+    "name": "お祭り会場",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45790.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45791",
+    "local_id": "45791",
+    "name": "ジャミングタワー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45791.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45864",
+    "local_id": "45864",
+    "name": "スグリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45864.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45865",
+    "local_id": "45865",
+    "name": "ゼイユ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45865.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45866",
+    "local_id": "45866",
+    "name": "ハッサク",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45866.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45871",
+    "local_id": "45871",
+    "name": "スグリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45871.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45872",
+    "local_id": "45872",
+    "name": "ゼイユ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45872.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45874",
+    "local_id": "45874",
+    "name": "改造ハンマー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45874.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45875",
+    "local_id": "45875",
+    "name": "なかよしポフィン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45875.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV6-45792",
+    "local_id": "45792",
+    "name": "レガシーエネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV6/45792.jpg",
+    "set_id": "SV6",
+    "set_name": "変幻の仮面",
+    "region": "JP",
+    "serie_id": "SV"
   }
 ]
