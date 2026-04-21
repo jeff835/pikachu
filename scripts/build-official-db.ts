@@ -28,10 +28,9 @@ interface SetInfo {
   name: string; // 前台名稱
 }
 
-// 追加 SVOM 及 SVOD 擴充包
+// 追加 SVN 擴充包
 const TARGET_SETS: SetInfo[] = [
-  { id: '938', name: 'スターターセットex マリィのモルペコ＆オーロンゲex' },
-  { id: '939', name: 'スターターセットex ダイゴのダンバル＆メタグロスex' }
+  { id: '936', name: 'デッキビルドBOX バトルパートナーズ' }
 ];
 
 async function uploadImageToSupabase(imageUrl: string, savePath: string): Promise<string | null> {
@@ -111,7 +110,7 @@ async function fetchCardsForSet(set: SetInfo): Promise<{ cards: any[], symbol: s
            set_id: setSymbol,
            set_name: set.name,
            region: 'JP',
-           serie_id: setSymbol.replace(/[0-9a-zA-Z]$/, '').replace(/[0-9]$/, '') // 例如 SV8a -> SV
+           serie_id: setSymbol.startsWith('SV') ? 'SV' : setSymbol.replace(/[0-9a-zA-Z]$/, '').replace(/[0-9]$/, '')
          });
          
          await new Promise(resolve => setTimeout(resolve, 500)); // 避免被官方 rate limit
@@ -140,7 +139,7 @@ async function main() {
     allCards = allCards.concat(cards);
     
     // 建立世代目錄結構
-    const serieId = symbol.match(/^[A-Za-z]+/)?.[0] || 'Unknown';
+    const serieId = symbol.startsWith('SV') ? 'SV' : (symbol.match(/^[A-Za-z]+/)?.[0] || 'Unknown');
     if (!seriesMap[serieId]) {
        seriesMap[serieId] = { id: serieId, name: `${serieId} 系列`, sets: [] };
     }
@@ -152,7 +151,7 @@ async function main() {
   let existingCards: any[] = [];
   if (fs.existsSync(cardsOutputPath)) {
      existingCards = JSON.parse(fs.readFileSync(cardsOutputPath, 'utf8'));
-     existingCards = existingCards.filter(c => !['スターターセットex マリィのモルペコ＆オーロンゲex', 'スターターセットex ダイゴのダンバル＆メタグロスex'].includes(c.set_name));
+     existingCards = existingCards.filter(c => !['デッキビルドBOX バトルパートナーズ'].includes(c.set_name));
   }
   const finalCards = existingCards.concat(allCards);
   fs.writeFileSync(cardsOutputPath, JSON.stringify(finalCards, null, 2));

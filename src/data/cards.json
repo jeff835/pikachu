@@ -10058,5 +10058,535 @@
     "set_name": "スターターセットex ダイゴのダンバル＆メタグロスex",
     "region": "JP",
     "serie_id": "EN"
+  },
+  {
+    "id": "SVN-47176",
+    "local_id": "47176",
+    "name": "ミュウex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47176.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVN-47177",
+    "local_id": "47177",
+    "name": "キチキギスex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47177.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVN-47178",
+    "local_id": "47178",
+    "name": "シャリタツ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47178.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVN-47179",
+    "local_id": "47179",
+    "name": "ポッポ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47179.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVN-47180",
+    "local_id": "47180",
+    "name": "ピジョン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47180.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVN-47181",
+    "local_id": "47181",
+    "name": "ピジョットex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47181.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVN-47182",
+    "local_id": "47182",
+    "name": "ホーホー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47182.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVN-47183",
+    "local_id": "47183",
+    "name": "ヨルノズク",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47183.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVN-47184",
+    "local_id": "47184",
+    "name": "イキリンコex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47184.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVN-47185",
+    "local_id": "47185",
+    "name": "エレキジェネレーター",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47185.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVN-47186",
+    "local_id": "47186",
+    "name": "カウンターキャッチャー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47186.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVN-47187",
+    "local_id": "47187",
+    "name": "スーパーエネルギー回収",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47187.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVN-47188",
+    "local_id": "47188",
+    "name": "すごいつりざお",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47188.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVN-47189",
+    "local_id": "47189",
+    "name": "大地の器",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47189.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVN-47190",
+    "local_id": "47190",
+    "name": "テラスタルオーブ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47190.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVN-47191",
+    "local_id": "47191",
+    "name": "なかよしポフィン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47191.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVN-47192",
+    "local_id": "47192",
+    "name": "ネストボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47192.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVN-47193",
+    "local_id": "47193",
+    "name": "ハイパーボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47193.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVN-47194",
+    "local_id": "47194",
+    "name": "ふしぎなアメ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47194.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVN-47195",
+    "local_id": "47195",
+    "name": "プライムキャッチャー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47195.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVN-47196",
+    "local_id": "47196",
+    "name": "ポケモンいれかえ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47196.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVN-47197",
+    "local_id": "47197",
+    "name": "むしとりセット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47197.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVN-47198",
+    "local_id": "47198",
+    "name": "夜のタンカ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47198.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVN-47199",
+    "local_id": "47199",
+    "name": "カウンターゲイン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47199.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVN-47200",
+    "local_id": "47200",
+    "name": "ガチガチバンド",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47200.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVN-47201",
+    "local_id": "47201",
+    "name": "緊急ボード",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47201.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVN-47202",
+    "local_id": "47202",
+    "name": "マキシマムベルト",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47202.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVN-47203",
+    "local_id": "47203",
+    "name": "勇気のおまもり",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47203.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVN-47204",
+    "local_id": "47204",
+    "name": "ワザマシン エヴォリューション",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47204.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVN-47205",
+    "local_id": "47205",
+    "name": "ワザマシン デヴォリューション",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47205.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVN-47206",
+    "local_id": "47206",
+    "name": "暗号マニアの解読",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47206.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVN-47207",
+    "local_id": "47207",
+    "name": "スグリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47207.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVN-47208",
+    "local_id": "47208",
+    "name": "ゼイユ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47208.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVN-47209",
+    "local_id": "47209",
+    "name": "ナンジャモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47209.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVN-47210",
+    "local_id": "47210",
+    "name": "博士の研究",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47210.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVN-47211",
+    "local_id": "47211",
+    "name": "フトゥー博士のシナリオ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47211.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVN-47212",
+    "local_id": "47212",
+    "name": "ペパー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47212.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVN-47213",
+    "local_id": "47213",
+    "name": "ボスの指令",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47213.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVN-47214",
+    "local_id": "47214",
+    "name": "ジャミングタワー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47214.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVN-47215",
+    "local_id": "47215",
+    "name": "タウンデパート",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47215.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVN-47216",
+    "local_id": "47216",
+    "name": "ボウルタウン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47216.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "ENE-46116",
+    "local_id": "46116",
+    "name": "基本草エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/ENE/46116.jpg",
+    "set_id": "ENE",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "EN"
+  },
+  {
+    "id": "ENE-46117",
+    "local_id": "46117",
+    "name": "基本炎エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/ENE/46117.jpg",
+    "set_id": "ENE",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "EN"
+  },
+  {
+    "id": "ENE-46118",
+    "local_id": "46118",
+    "name": "基本水エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/ENE/46118.jpg",
+    "set_id": "ENE",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "EN"
+  },
+  {
+    "id": "ENE-46119",
+    "local_id": "46119",
+    "name": "基本雷エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/ENE/46119.jpg",
+    "set_id": "ENE",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "EN"
+  },
+  {
+    "id": "ENE-46120",
+    "local_id": "46120",
+    "name": "基本超エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/ENE/46120.jpg",
+    "set_id": "ENE",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "EN"
+  },
+  {
+    "id": "ENE-46121",
+    "local_id": "46121",
+    "name": "基本闘エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/ENE/46121.jpg",
+    "set_id": "ENE",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "EN"
+  },
+  {
+    "id": "ENE-46122",
+    "local_id": "46122",
+    "name": "基本悪エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/ENE/46122.jpg",
+    "set_id": "ENE",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "EN"
+  },
+  {
+    "id": "ENE-46123",
+    "local_id": "46123",
+    "name": "基本鋼エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/ENE/46123.jpg",
+    "set_id": "ENE",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "EN"
+  },
+  {
+    "id": "SVN-47217",
+    "local_id": "47217",
+    "name": "ジェットエネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47217.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVN-47218",
+    "local_id": "47218",
+    "name": "ミストエネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47218.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVN-47219",
+    "local_id": "47219",
+    "name": "ルミナスエネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47219.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVN-47220",
+    "local_id": "47220",
+    "name": "レガシーエネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVN/47220.jpg",
+    "set_id": "SVN",
+    "set_name": "デッキビルドBOX バトルパートナーズ",
+    "region": "JP",
+    "serie_id": "SV"
   }
 ]
