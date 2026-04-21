@@ -8718,5 +8718,925 @@
     "set_name": "ロケット団の栄光",
     "region": "JP",
     "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47296",
+    "local_id": "47296",
+    "name": "ヒビキのカイロス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47296.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47297",
+    "local_id": "47297",
+    "name": "ヤンヤンマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47297.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47298",
+    "local_id": "47298",
+    "name": "メガヤンマex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47298.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47299",
+    "local_id": "47299",
+    "name": "シロナのロゼリア",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47299.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47300",
+    "local_id": "47300",
+    "name": "シロナのロズレイド",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47300.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47301",
+    "local_id": "47301",
+    "name": "シェイミ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47301.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47302",
+    "local_id": "47302",
+    "name": "イシズマイ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47302.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47303",
+    "local_id": "47303",
+    "name": "イワパレス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47303.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47304",
+    "local_id": "47304",
+    "name": "カジッチュ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47304.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47305",
+    "local_id": "47305",
+    "name": "カミッチュ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47305.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47306",
+    "local_id": "47306",
+    "name": "カミツオロチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47306.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47307",
+    "local_id": "47307",
+    "name": "オーガポン みどりのめん",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47307.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47308",
+    "local_id": "47308",
+    "name": "ポニータ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47308.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47309",
+    "local_id": "47309",
+    "name": "ギャロップ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47309.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47310",
+    "local_id": "47310",
+    "name": "ヒビキのヒノアラシ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47310.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47311",
+    "local_id": "47311",
+    "name": "ヒビキのマグマラシ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47311.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47312",
+    "local_id": "47312",
+    "name": "ヒビキのバクフーン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47312.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47313",
+    "local_id": "47313",
+    "name": "ヒビキのマグマッグ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47313.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47314",
+    "local_id": "47314",
+    "name": "ヒビキのマグカルゴ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47314.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47315",
+    "local_id": "47315",
+    "name": "ヒビキのホウオウex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47315.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47316",
+    "local_id": "47316",
+    "name": "オーガポン かまどのめん",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47316.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47317",
+    "local_id": "47317",
+    "name": "カスミのコダック",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47317.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47318",
+    "local_id": "47318",
+    "name": "カスミのヒトデマン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47318.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47319",
+    "local_id": "47319",
+    "name": "カスミのスターミー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47319.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47320",
+    "local_id": "47320",
+    "name": "カスミのコイキング",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47320.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47321",
+    "local_id": "47321",
+    "name": "カスミのギャラドス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47321.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47322",
+    "local_id": "47322",
+    "name": "カスミのラプラス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47322.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47323",
+    "local_id": "47323",
+    "name": "シロナのヒンバス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47323.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47324",
+    "local_id": "47324",
+    "name": "シロナのミロカロス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47324.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47325",
+    "local_id": "47325",
+    "name": "ブイゼル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47325.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47326",
+    "local_id": "47326",
+    "name": "フローゼル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47326.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47327",
+    "local_id": "47327",
+    "name": "ヘイラッシャex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47327.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47328",
+    "local_id": "47328",
+    "name": "オーガポン いどのめん",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47328.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47329",
+    "local_id": "47329",
+    "name": "エレブー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47329.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47330",
+    "local_id": "47330",
+    "name": "エレキブルex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47330.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47331",
+    "local_id": "47331",
+    "name": "ヒビキのピチュー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47331.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47332",
+    "local_id": "47332",
+    "name": "ラクライ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47332.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47333",
+    "local_id": "47333",
+    "name": "ライボルト",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47333.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47334",
+    "local_id": "47334",
+    "name": "ロトム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47334.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47335",
+    "local_id": "47335",
+    "name": "ゼラオラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47335.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47336",
+    "local_id": "47336",
+    "name": "ヒビキのウソッキー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47336.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47337",
+    "local_id": "47337",
+    "name": "シロナのフカマル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47337.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47338",
+    "local_id": "47338",
+    "name": "シロナのガバイト",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47338.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47339",
+    "local_id": "47339",
+    "name": "シロナのガブリアスex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47339.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47340",
+    "local_id": "47340",
+    "name": "ドロバンコ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47340.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47341",
+    "local_id": "47341",
+    "name": "バンバドロ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47341.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47342",
+    "local_id": "47342",
+    "name": "ペパーのノノクラゲ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47342.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47343",
+    "local_id": "47343",
+    "name": "ペパーのリククラゲ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47343.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47344",
+    "local_id": "47344",
+    "name": "オーガポン いしずえのめん",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47344.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47345",
+    "local_id": "47345",
+    "name": "シロナのミカルゲ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47345.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47346",
+    "local_id": "47346",
+    "name": "ペパーのオラチフ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47346.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47347",
+    "local_id": "47347",
+    "name": "ペパーのマフィティフex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47347.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47348",
+    "local_id": "47348",
+    "name": "ケンタロス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47348.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47349",
+    "local_id": "47349",
+    "name": "ペパーのホシガリス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47349.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47350",
+    "local_id": "47350",
+    "name": "ペパーのヨクバリス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47350.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47365",
+    "local_id": "47365",
+    "name": "ヤンヤンマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47365.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47366",
+    "local_id": "47366",
+    "name": "シロナのロズレイド",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47366.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47367",
+    "local_id": "47367",
+    "name": "シェイミ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47367.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47368",
+    "local_id": "47368",
+    "name": "イワパレス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47368.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47369",
+    "local_id": "47369",
+    "name": "カミツオロチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47369.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47370",
+    "local_id": "47370",
+    "name": "ギャロップ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47370.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47371",
+    "local_id": "47371",
+    "name": "ヒビキのバクフーン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47371.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47372",
+    "local_id": "47372",
+    "name": "カスミのコダック",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47372.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47373",
+    "local_id": "47373",
+    "name": "カスミのラプラス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47373.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47374",
+    "local_id": "47374",
+    "name": "ラクライ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47374.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47375",
+    "local_id": "47375",
+    "name": "ロトム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47375.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47376",
+    "local_id": "47376",
+    "name": "ペパーのヨクバリス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47376.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47377",
+    "local_id": "47377",
+    "name": "メガヤンマex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47377.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47378",
+    "local_id": "47378",
+    "name": "ヒビキのホウオウex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47378.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47379",
+    "local_id": "47379",
+    "name": "ヘイラッシャex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47379.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47380",
+    "local_id": "47380",
+    "name": "エレキブルex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47380.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47381",
+    "local_id": "47381",
+    "name": "シロナのガブリアスex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47381.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47382",
+    "local_id": "47382",
+    "name": "ペパーのマフィティフex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47382.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47386",
+    "local_id": "47386",
+    "name": "メガヤンマex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47386.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47387",
+    "local_id": "47387",
+    "name": "ヒビキのホウオウex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47387.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47388",
+    "local_id": "47388",
+    "name": "シロナのガブリアスex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47388.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47389",
+    "local_id": "47389",
+    "name": "ペパーのマフィティフex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47389.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47391",
+    "local_id": "47391",
+    "name": "ヒビキのホウオウex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47391.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47392",
+    "local_id": "47392",
+    "name": "シロナのガブリアスex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47392.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47351",
+    "local_id": "47351",
+    "name": "せいなるはい",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47351.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47352",
+    "local_id": "47352",
+    "name": "ペパーのサンドウィッチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47352.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47353",
+    "local_id": "47353",
+    "name": "ポケモンいれかえ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47353.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47354",
+    "local_id": "47354",
+    "name": "ポケモンキャッチャー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47354.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47355",
+    "local_id": "47355",
+    "name": "シロナのパワーウエイト",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47355.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47356",
+    "local_id": "47356",
+    "name": "MCの盛り上げ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47356.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47357",
+    "local_id": "47357",
+    "name": "ジャッジマン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47357.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47358",
+    "local_id": "47358",
+    "name": "ヒビキの冒険",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47358.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47383",
+    "local_id": "47383",
+    "name": "MCの盛り上げ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47383.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47384",
+    "local_id": "47384",
+    "name": "ジャッジマン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47384.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47385",
+    "local_id": "47385",
+    "name": "ヒビキの冒険",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47385.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47390",
+    "local_id": "47390",
+    "name": "ヒビキの冒険",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47390.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV9a-47393",
+    "local_id": "47393",
+    "name": "ハッコウシティ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV9a/47393.jpg",
+    "set_id": "SV9a",
+    "set_name": "熱風のアリーナ",
+    "region": "JP",
+    "serie_id": "SV"
   }
 ]

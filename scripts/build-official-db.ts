@@ -28,9 +28,9 @@ interface SetInfo {
   name: string; // 前台名稱
 }
 
-// 追加 SV10 擴充包
+// 追加 SV9a 擴充包
 const TARGET_SETS: SetInfo[] = [
-  { id: '941', name: 'ロケット団の栄光' }
+  { id: '940', name: '熱風のアリーナ' }
 ];
 
 async function uploadImageToSupabase(imageUrl: string, savePath: string): Promise<string | null> {
@@ -151,7 +151,7 @@ async function main() {
   let existingCards: any[] = [];
   if (fs.existsSync(cardsOutputPath)) {
      existingCards = JSON.parse(fs.readFileSync(cardsOutputPath, 'utf8'));
-     existingCards = existingCards.filter(c => !['ロケット団の栄光'].includes(c.set_name));
+     existingCards = existingCards.filter(c => !['熱風のアリーナ'].includes(c.set_name));
   }
   const finalCards = existingCards.concat(allCards);
   fs.writeFileSync(cardsOutputPath, JSON.stringify(finalCards, null, 2));
