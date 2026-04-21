@@ -30,7 +30,7 @@ interface SetInfo {
 
 // 追加 SVLS 擴充包
 const TARGET_SETS: SetInfo[] = [
-  { id: '922', name: 'スターターセット テラスタイプ：ステラ ソウブレイズex' }
+  { id: '922', name: 'スターターセット テラスタイプ：ステラ ソウブレイズex', manualSymbol: 'SVLS' }
 ];
 
 async function uploadImageToSupabase(imageUrl: string, savePath: string): Promise<string | null> {
@@ -63,7 +63,7 @@ async function fetchCardsForSet(set: SetInfo): Promise<{ cards: any[], symbol: s
   let cards: any[] = [];
   let page = 1;
   let hasMore = true;
-  let firstSymbol = '';
+  let firstSymbol = set.manualSymbol || '';
 
   console.log(`\n📦 開始處理擴充包: ${set.name}`);
 
@@ -88,7 +88,8 @@ async function fetchCardsForSet(set: SetInfo): Promise<{ cards: any[], symbol: s
       for (const c of list) {
          // 動態從官方網址提取真正的擴充包代號 (例如 /large/SV11B/...)
          const parts = c.cardThumbFile.split('/');
-         const setSymbol = (parts.length > 5) ? parts[5] : set.id;
+         const extractedSymbol = (parts.length > 5) ? parts[5] : set.id;
+         const setSymbol = set.manualSymbol || extractedSymbol;
          if (!firstSymbol) firstSymbol = setSymbol;
         
          // 生成官方圖片的真實解析度網址
