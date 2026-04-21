@@ -4,6 +4,16 @@
     "name": "SV 系列",
     "sets": [
       {
+        "id": "SV1S",
+        "name": "スカーレットex",
+        "logo": ""
+      },
+      {
+        "id": "SV1V",
+        "name": "バイオレットex",
+        "logo": ""
+      },
+      {
         "id": "SV5a",
         "name": "クリムゾンヘイズ",
         "logo": ""

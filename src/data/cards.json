@@ -18158,5 +18158,2165 @@
     "set_name": "クリムゾンヘイズ",
     "region": "JP",
     "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42547",
+    "local_id": "42547",
+    "name": "サボネア",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42547.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42548",
+    "local_id": "42548",
+    "name": "ノクタス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42548.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42549",
+    "local_id": "42549",
+    "name": "メェークル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42549.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42550",
+    "local_id": "42550",
+    "name": "ゴーゴート",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42550.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42551",
+    "local_id": "42551",
+    "name": "ミニーブ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42551.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42552",
+    "local_id": "42552",
+    "name": "ミニーブ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42552.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42553",
+    "local_id": "42553",
+    "name": "オリーニョ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42553.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42554",
+    "local_id": "42554",
+    "name": "オリーヴァ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42554.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42555",
+    "local_id": "42555",
+    "name": "コータス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42555.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42556",
+    "local_id": "42556",
+    "name": "カルボウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42556.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42557",
+    "local_id": "42557",
+    "name": "カルボウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42557.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42558",
+    "local_id": "42558",
+    "name": "グレンアルマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42558.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42559",
+    "local_id": "42559",
+    "name": "コイキング",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42559.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42560",
+    "local_id": "42560",
+    "name": "ギャラドスex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42560.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42561",
+    "local_id": "42561",
+    "name": "ブイゼル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42561.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42562",
+    "local_id": "42562",
+    "name": "フローゼル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42562.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42563",
+    "local_id": "42563",
+    "name": "ハギギシリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42563.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42564",
+    "local_id": "42564",
+    "name": "ウミディグダ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42564.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42565",
+    "local_id": "42565",
+    "name": "ウミディグダ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42565.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42566",
+    "local_id": "42566",
+    "name": "ウミトリオ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42566.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42567",
+    "local_id": "42567",
+    "name": "ヘイラッシャ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42567.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42568",
+    "local_id": "42568",
+    "name": "シャリタツ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42568.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42569",
+    "local_id": "42569",
+    "name": "カイデン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42569.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42570",
+    "local_id": "42570",
+    "name": "カイデン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42570.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42571",
+    "local_id": "42571",
+    "name": "タイカイデン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42571.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42572",
+    "local_id": "42572",
+    "name": "ラルトス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42572.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42573",
+    "local_id": "42573",
+    "name": "キルリア",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42573.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42574",
+    "local_id": "42574",
+    "name": "サーナイトex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42574.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42575",
+    "local_id": "42575",
+    "name": "フワンテ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42575.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42576",
+    "local_id": "42576",
+    "name": "フワライド",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42576.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42577",
+    "local_id": "42577",
+    "name": "デデンネ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42577.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42578",
+    "local_id": "42578",
+    "name": "パピモッチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42578.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42579",
+    "local_id": "42579",
+    "name": "パピモッチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42579.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42580",
+    "local_id": "42580",
+    "name": "バウッツェル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42580.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42581",
+    "local_id": "42581",
+    "name": "ヒラヒナ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42581.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42582",
+    "local_id": "42582",
+    "name": "ヒラヒナ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42582.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42583",
+    "local_id": "42583",
+    "name": "クエスパトラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42583.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42584",
+    "local_id": "42584",
+    "name": "アサナン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42584.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42585",
+    "local_id": "42585",
+    "name": "チャーレム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42585.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42586",
+    "local_id": "42586",
+    "name": "リオル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42586.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42587",
+    "local_id": "42587",
+    "name": "ルカリオ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42587.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42588",
+    "local_id": "42588",
+    "name": "メグロコ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42588.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42589",
+    "local_id": "42589",
+    "name": "ワルビル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42589.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42590",
+    "local_id": "42590",
+    "name": "ワルビアル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42590.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42591",
+    "local_id": "42591",
+    "name": "ルチャブル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42591.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42592",
+    "local_id": "42592",
+    "name": "スナヘビ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42592.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42593",
+    "local_id": "42593",
+    "name": "サダイジャ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42593.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42594",
+    "local_id": "42594",
+    "name": "ガケガニ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42594.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42595",
+    "local_id": "42595",
+    "name": "イダイナキバex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42595.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42596",
+    "local_id": "42596",
+    "name": "コライドンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42596.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42597",
+    "local_id": "42597",
+    "name": "ベトベター",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42597.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42598",
+    "local_id": "42598",
+    "name": "ベトベトン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42598.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42599",
+    "local_id": "42599",
+    "name": "ハブネーク",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42599.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42600",
+    "local_id": "42600",
+    "name": "グレッグル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42600.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42601",
+    "local_id": "42601",
+    "name": "ドクロッグex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42601.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42602",
+    "local_id": "42602",
+    "name": "コマタナ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42602.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42603",
+    "local_id": "42603",
+    "name": "キリキザン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42603.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42604",
+    "local_id": "42604",
+    "name": "ドドゲザン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42604.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42605",
+    "local_id": "42605",
+    "name": "ブロロン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42605.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42606",
+    "local_id": "42606",
+    "name": "ブロロン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42606.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42607",
+    "local_id": "42607",
+    "name": "ブロロローム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42607.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42608",
+    "local_id": "42608",
+    "name": "ザングース",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42608.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42609",
+    "local_id": "42609",
+    "name": "ムックル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42609.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42610",
+    "local_id": "42610",
+    "name": "ムクバード",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42610.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42611",
+    "local_id": "42611",
+    "name": "ムクホーク",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42611.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42612",
+    "local_id": "42612",
+    "name": "グルトン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42612.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42613",
+    "local_id": "42613",
+    "name": "グルトン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42613.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42614",
+    "local_id": "42614",
+    "name": "パフュートンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42614.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-43039",
+    "local_id": "43039",
+    "name": "オリーニョ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/43039.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-43040",
+    "local_id": "43040",
+    "name": "グレンアルマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/43040.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-43041",
+    "local_id": "43041",
+    "name": "ウミディグダ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/43041.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-43042",
+    "local_id": "43042",
+    "name": "ヘイラッシャ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/43042.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-43043",
+    "local_id": "43043",
+    "name": "ラルトス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/43043.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-43044",
+    "local_id": "43044",
+    "name": "キルリア",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/43044.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-43045",
+    "local_id": "43045",
+    "name": "パピモッチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/43045.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-43046",
+    "local_id": "43046",
+    "name": "リオル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/43046.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-43047",
+    "local_id": "43047",
+    "name": "メグロコ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/43047.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-43048",
+    "local_id": "43048",
+    "name": "ガケガニ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/43048.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-43049",
+    "local_id": "43049",
+    "name": "ドドゲザン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/43049.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-43050",
+    "local_id": "43050",
+    "name": "ムックル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/43050.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-43051",
+    "local_id": "43051",
+    "name": "ギャラドスex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/43051.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-43052",
+    "local_id": "43052",
+    "name": "サーナイトex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/43052.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-43053",
+    "local_id": "43053",
+    "name": "イダイナキバex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/43053.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-43054",
+    "local_id": "43054",
+    "name": "コライドンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/43054.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-43055",
+    "local_id": "43055",
+    "name": "ドクロッグex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/43055.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-43056",
+    "local_id": "43056",
+    "name": "パフュートンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/43056.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-43061",
+    "local_id": "43061",
+    "name": "サーナイトex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/43061.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-43062",
+    "local_id": "43062",
+    "name": "イダイナキバex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/43062.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-43063",
+    "local_id": "43063",
+    "name": "コライドンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/43063.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-44945",
+    "local_id": "44945",
+    "name": "コライドンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/44945.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42615",
+    "local_id": "42615",
+    "name": "ともだちてちょう",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42615.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42616",
+    "local_id": "42616",
+    "name": "ネストボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42616.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42617",
+    "local_id": "42617",
+    "name": "岩のむねあて",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42617.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42618",
+    "local_id": "42618",
+    "name": "学習装置",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42618.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42619",
+    "local_id": "42619",
+    "name": "まけんきハチマキ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42619.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42620",
+    "local_id": "42620",
+    "name": "ジニア",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42620.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42621",
+    "local_id": "42621",
+    "name": "スター団のしたっぱ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42621.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42622",
+    "local_id": "42622",
+    "name": "博士の研究",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42622.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42623",
+    "local_id": "42623",
+    "name": "ボタン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42623.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-42624",
+    "local_id": "42624",
+    "name": "ビーチコート",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/42624.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-43057",
+    "local_id": "43057",
+    "name": "ジニア",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/43057.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-43058",
+    "local_id": "43058",
+    "name": "スター団のしたっぱ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/43058.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-43059",
+    "local_id": "43059",
+    "name": "博士の研究",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/43059.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-43060",
+    "local_id": "43060",
+    "name": "ボタン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/43060.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-43064",
+    "local_id": "43064",
+    "name": "ジニア",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/43064.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-43065",
+    "local_id": "43065",
+    "name": "ボタン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/43065.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-44946",
+    "local_id": "44946",
+    "name": "ネストボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/44946.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1S-44947",
+    "local_id": "44947",
+    "name": "基本闘エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1S/44947.jpg",
+    "set_id": "SV1S",
+    "set_name": "スカーレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42625",
+    "local_id": "42625",
+    "name": "クヌギダマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42625.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42626",
+    "local_id": "42626",
+    "name": "ヘラクロス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42626.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42627",
+    "local_id": "42627",
+    "name": "コフキムシ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42627.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42628",
+    "local_id": "42628",
+    "name": "コフーライ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42628.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42629",
+    "local_id": "42629",
+    "name": "ビビヨン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42629.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42630",
+    "local_id": "42630",
+    "name": "タマンチュラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42630.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42631",
+    "local_id": "42631",
+    "name": "タマンチュラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42631.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42632",
+    "local_id": "42632",
+    "name": "ワナイダーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42632.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42633",
+    "local_id": "42633",
+    "name": "ノノクラゲ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42633.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42634",
+    "local_id": "42634",
+    "name": "ノノクラゲ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42634.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42635",
+    "local_id": "42635",
+    "name": "リククラゲ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42635.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42636",
+    "local_id": "42636",
+    "name": "カプサイジ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42636.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42637",
+    "local_id": "42637",
+    "name": "カプサイジ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42637.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42638",
+    "local_id": "42638",
+    "name": "スコヴィラン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42638.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42639",
+    "local_id": "42639",
+    "name": "ガーディ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42639.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42640",
+    "local_id": "42640",
+    "name": "ウインディex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42640.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42641",
+    "local_id": "42641",
+    "name": "デルビル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42641.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42642",
+    "local_id": "42642",
+    "name": "ヘルガー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42642.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42643",
+    "local_id": "42643",
+    "name": "ヤドン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42643.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42644",
+    "local_id": "42644",
+    "name": "ヤドラン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42644.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42645",
+    "local_id": "42645",
+    "name": "ウデッポウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42645.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42646",
+    "local_id": "42646",
+    "name": "ブロスター",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42646.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42647",
+    "local_id": "42647",
+    "name": "アルクジラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42647.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42648",
+    "local_id": "42648",
+    "name": "アルクジラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42648.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42649",
+    "local_id": "42649",
+    "name": "ハルクジラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42649.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42650",
+    "local_id": "42650",
+    "name": "コイル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42650.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42651",
+    "local_id": "42651",
+    "name": "レアコイル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42651.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42652",
+    "local_id": "42652",
+    "name": "ジバコイルex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42652.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42653",
+    "local_id": "42653",
+    "name": "パチリス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42653.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42654",
+    "local_id": "42654",
+    "name": "ロトム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42654.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42655",
+    "local_id": "42655",
+    "name": "エレズン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42655.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42656",
+    "local_id": "42656",
+    "name": "ストリンダー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42656.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42657",
+    "local_id": "42657",
+    "name": "パモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42657.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42658",
+    "local_id": "42658",
+    "name": "パモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42658.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42659",
+    "local_id": "42659",
+    "name": "パモット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42659.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42660",
+    "local_id": "42660",
+    "name": "パーモット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42660.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42661",
+    "local_id": "42661",
+    "name": "ミライドンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42661.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42662",
+    "local_id": "42662",
+    "name": "スリープ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42662.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42663",
+    "local_id": "42663",
+    "name": "スリーパー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42663.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42664",
+    "local_id": "42664",
+    "name": "カゲボウズ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42664.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42665",
+    "local_id": "42665",
+    "name": "ジュペッタex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42665.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42666",
+    "local_id": "42666",
+    "name": "フラベベ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42666.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42667",
+    "local_id": "42667",
+    "name": "フラエッテ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42667.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42668",
+    "local_id": "42668",
+    "name": "フラージェス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42668.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42669",
+    "local_id": "42669",
+    "name": "クレッフィ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42669.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42670",
+    "local_id": "42670",
+    "name": "ボチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42670.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42671",
+    "local_id": "42671",
+    "name": "ボチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42671.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42672",
+    "local_id": "42672",
+    "name": "ハカドッグ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42672.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42673",
+    "local_id": "42673",
+    "name": "マンキー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42673.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42674",
+    "local_id": "42674",
+    "name": "オコリザル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42674.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42675",
+    "local_id": "42675",
+    "name": "コノヨザル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42675.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42676",
+    "local_id": "42676",
+    "name": "ミカルゲ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42676.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42677",
+    "local_id": "42677",
+    "name": "オラチフ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42677.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42678",
+    "local_id": "42678",
+    "name": "オラチフ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42678.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42679",
+    "local_id": "42679",
+    "name": "マフィティフ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42679.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42680",
+    "local_id": "42680",
+    "name": "オトシドリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42680.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42681",
+    "local_id": "42681",
+    "name": "フォレトス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42681.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42682",
+    "local_id": "42682",
+    "name": "テツノワダチex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42682.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42683",
+    "local_id": "42683",
+    "name": "ラッキー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42683.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42684",
+    "local_id": "42684",
+    "name": "ハピナス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42684.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42685",
+    "local_id": "42685",
+    "name": "ホシガリス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42685.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42686",
+    "local_id": "42686",
+    "name": "ヨクバリス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42686.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42687",
+    "local_id": "42687",
+    "name": "イエッサン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42687.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42688",
+    "local_id": "42688",
+    "name": "ワッカネズミ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42688.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42689",
+    "local_id": "42689",
+    "name": "ワッカネズミ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42689.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42690",
+    "local_id": "42690",
+    "name": "イッカネズミ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42690.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42691",
+    "local_id": "42691",
+    "name": "イキリンコ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42691.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42692",
+    "local_id": "42692",
+    "name": "モトトカゲ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42692.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-43066",
+    "local_id": "43066",
+    "name": "タマンチュラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/43066.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-43067",
+    "local_id": "43067",
+    "name": "ノノクラゲ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/43067.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-43068",
+    "local_id": "43068",
+    "name": "スコヴィラン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/43068.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-43069",
+    "local_id": "43069",
+    "name": "ヤドン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/43069.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-43070",
+    "local_id": "43070",
+    "name": "ウデッポウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/43070.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-43071",
+    "local_id": "43071",
+    "name": "パチリス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/43071.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-43072",
+    "local_id": "43072",
+    "name": "パーモット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/43072.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-43073",
+    "local_id": "43073",
+    "name": "スリープ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/43073.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-43074",
+    "local_id": "43074",
+    "name": "ボチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/43074.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-43075",
+    "local_id": "43075",
+    "name": "マフィティフ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/43075.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-43076",
+    "local_id": "43076",
+    "name": "オトシドリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/43076.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-43077",
+    "local_id": "43077",
+    "name": "ホシガリス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/43077.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-43078",
+    "local_id": "43078",
+    "name": "ワナイダーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/43078.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-43079",
+    "local_id": "43079",
+    "name": "ウインディex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/43079.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-43080",
+    "local_id": "43080",
+    "name": "ジバコイルex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/43080.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-43081",
+    "local_id": "43081",
+    "name": "ミライドンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/43081.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-43082",
+    "local_id": "43082",
+    "name": "ジュペッタex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/43082.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-43083",
+    "local_id": "43083",
+    "name": "テツノワダチex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/43083.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-43088",
+    "local_id": "43088",
+    "name": "ワナイダーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/43088.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-43089",
+    "local_id": "43089",
+    "name": "ミライドンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/43089.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-43090",
+    "local_id": "43090",
+    "name": "テツノワダチex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/43090.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-44948",
+    "local_id": "44948",
+    "name": "ミライドンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/44948.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42693",
+    "local_id": "42693",
+    "name": "エレキジェネレーター",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42693.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42694",
+    "local_id": "42694",
+    "name": "ハイパーボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42694.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42695",
+    "local_id": "42695",
+    "name": "ピクニックバスケット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42695.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42696",
+    "local_id": "42696",
+    "name": "ふしぎなアメ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42696.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42697",
+    "local_id": "42697",
+    "name": "ゴツゴツメット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42697.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42698",
+    "local_id": "42698",
+    "name": "カエデ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42698.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42699",
+    "local_id": "42699",
+    "name": "博士の研究",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42699.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42700",
+    "local_id": "42700",
+    "name": "ペパー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42700.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42701",
+    "local_id": "42701",
+    "name": "ミモザ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42701.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-42702",
+    "local_id": "42702",
+    "name": "テーブルシティ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/42702.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-43084",
+    "local_id": "43084",
+    "name": "カエデ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/43084.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-43085",
+    "local_id": "43085",
+    "name": "博士の研究",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/43085.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-43086",
+    "local_id": "43086",
+    "name": "ペパー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/43086.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-43087",
+    "local_id": "43087",
+    "name": "ミモザ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/43087.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-43091",
+    "local_id": "43091",
+    "name": "ペパー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/43091.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-43092",
+    "local_id": "43092",
+    "name": "ミモザ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/43092.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-44949",
+    "local_id": "44949",
+    "name": "ふしぎなアメ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/44949.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV1V-44950",
+    "local_id": "44950",
+    "name": "基本雷エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV1V/44950.jpg",
+    "set_id": "SV1V",
+    "set_name": "バイオレットex",
+    "region": "JP",
+    "serie_id": "SV"
   }
 ]

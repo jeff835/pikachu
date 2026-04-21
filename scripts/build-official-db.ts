@@ -30,7 +30,8 @@ interface SetInfo {
 
 // 追加 SV6 擴充包
 const TARGET_SETS: SetInfo[] = [
-  { id: '913', name: 'クリムゾンヘイズ' }
+  { id: '870', name: 'スカーレットex' },
+  { id: '871', name: 'バイオレットex' }
 ];
 
 async function uploadImageToSupabase(imageUrl: string, savePath: string): Promise<string | null> {
