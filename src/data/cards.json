@@ -13988,5 +13988,525 @@
     "set_name": "スターターセット テラスタイプ：ステラ ソウブレイズex",
     "region": "JP",
     "serie_id": "EN"
+  },
+  {
+    "id": "SVK-46072",
+    "local_id": "46072",
+    "name": "かがやくリザードン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVK/46072.jpg",
+    "set_id": "SVK",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVK-46073",
+    "local_id": "46073",
+    "name": "ネオラントV",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVK/46073.jpg",
+    "set_id": "SVK",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVK-46074",
+    "local_id": "46074",
+    "name": "マナフィ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVK/46074.jpg",
+    "set_id": "SVK",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVK-46075",
+    "local_id": "46075",
+    "name": "かがやくゲッコウガ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVK/46075.jpg",
+    "set_id": "SVK",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVK-46076",
+    "local_id": "46076",
+    "name": "かがやくフーディン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVK/46076.jpg",
+    "set_id": "SVK",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVK-46077",
+    "local_id": "46077",
+    "name": "ミュウex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVK/46077.jpg",
+    "set_id": "SVK",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVK-46078",
+    "local_id": "46078",
+    "name": "ポッポ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVK/46078.jpg",
+    "set_id": "SVK",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVK-46079",
+    "local_id": "46079",
+    "name": "ピジョン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVK/46079.jpg",
+    "set_id": "SVK",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVK-46080",
+    "local_id": "46080",
+    "name": "ピジョットex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVK/46080.jpg",
+    "set_id": "SVK",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVK-46081",
+    "local_id": "46081",
+    "name": "ビッパ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVK/46081.jpg",
+    "set_id": "SVK",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVK-46082",
+    "local_id": "46082",
+    "name": "ビーダル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVK/46082.jpg",
+    "set_id": "SVK",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVK-46083",
+    "local_id": "46083",
+    "name": "イキリンコex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVK/46083.jpg",
+    "set_id": "SVK",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVK-46084",
+    "local_id": "46084",
+    "name": "カウンターキャッチャー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVK/46084.jpg",
+    "set_id": "SVK",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVK-46085",
+    "local_id": "46085",
+    "name": "キャプチャーアロマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVK/46085.jpg",
+    "set_id": "SVK",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVK-46086",
+    "local_id": "46086",
+    "name": "すごいつりざお",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVK/46086.jpg",
+    "set_id": "SVK",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVK-46087",
+    "local_id": "46087",
+    "name": "ダークパッチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVK/46087.jpg",
+    "set_id": "SVK",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVK-46088",
+    "local_id": "46088",
+    "name": "大地の器",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVK/46088.jpg",
+    "set_id": "SVK",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVK-46089",
+    "local_id": "46089",
+    "name": "なかよしポフィン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVK/46089.jpg",
+    "set_id": "SVK",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVK-46090",
+    "local_id": "46090",
+    "name": "ネストボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVK/46090.jpg",
+    "set_id": "SVK",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVK-46091",
+    "local_id": "46091",
+    "name": "ハイパーボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVK/46091.jpg",
+    "set_id": "SVK",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVK-46092",
+    "local_id": "46092",
+    "name": "ふしぎなアメ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVK/46092.jpg",
+    "set_id": "SVK",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVK-46093",
+    "local_id": "46093",
+    "name": "ポケモンいれかえ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVK/46093.jpg",
+    "set_id": "SVK",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVK-46094",
+    "local_id": "46094",
+    "name": "むしとりセット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVK/46094.jpg",
+    "set_id": "SVK",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVK-46095",
+    "local_id": "46095",
+    "name": "ロストスイーパー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVK/46095.jpg",
+    "set_id": "SVK",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVK-46096",
+    "local_id": "46096",
+    "name": "緊急ボード",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVK/46096.jpg",
+    "set_id": "SVK",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVK-46097",
+    "local_id": "46097",
+    "name": "森の封印石",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVK/46097.jpg",
+    "set_id": "SVK",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVK-46098",
+    "local_id": "46098",
+    "name": "勇気のおまもり",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVK/46098.jpg",
+    "set_id": "SVK",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVK-46099",
+    "local_id": "46099",
+    "name": "ワザマシン エヴォリューション",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVK/46099.jpg",
+    "set_id": "SVK",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVK-46100",
+    "local_id": "46100",
+    "name": "ワザマシン デヴォリューション",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVK/46100.jpg",
+    "set_id": "SVK",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVK-46101",
+    "local_id": "46101",
+    "name": "アカマツ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVK/46101.jpg",
+    "set_id": "SVK",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVK-46102",
+    "local_id": "46102",
+    "name": "アクロマの実験",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVK/46102.jpg",
+    "set_id": "SVK",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVK-46103",
+    "local_id": "46103",
+    "name": "スイレンのお世話",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVK/46103.jpg",
+    "set_id": "SVK",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVK-46104",
+    "local_id": "46104",
+    "name": "スグリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVK/46104.jpg",
+    "set_id": "SVK",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVK-46105",
+    "local_id": "46105",
+    "name": "ナンジャモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVK/46105.jpg",
+    "set_id": "SVK",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVK-46106",
+    "local_id": "46106",
+    "name": "博士の研究",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVK/46106.jpg",
+    "set_id": "SVK",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVK-46107",
+    "local_id": "46107",
+    "name": "博士の研究",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVK/46107.jpg",
+    "set_id": "SVK",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVK-46108",
+    "local_id": "46108",
+    "name": "フトゥー博士のシナリオ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVK/46108.jpg",
+    "set_id": "SVK",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVK-46109",
+    "local_id": "46109",
+    "name": "ペパー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVK/46109.jpg",
+    "set_id": "SVK",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVK-46110",
+    "local_id": "46110",
+    "name": "ボスの指令",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVK/46110.jpg",
+    "set_id": "SVK",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVK-46111",
+    "local_id": "46111",
+    "name": "タウンデパート",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVK/46111.jpg",
+    "set_id": "SVK",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVK-46112",
+    "local_id": "46112",
+    "name": "ボウルタウン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVK/46112.jpg",
+    "set_id": "SVK",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "ENE-46116",
+    "local_id": "46116",
+    "name": "基本草エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/ENE/46116.jpg",
+    "set_id": "ENE",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "EN"
+  },
+  {
+    "id": "ENE-46117",
+    "local_id": "46117",
+    "name": "基本炎エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/ENE/46117.jpg",
+    "set_id": "ENE",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "EN"
+  },
+  {
+    "id": "ENE-46118",
+    "local_id": "46118",
+    "name": "基本水エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/ENE/46118.jpg",
+    "set_id": "ENE",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "EN"
+  },
+  {
+    "id": "ENE-46119",
+    "local_id": "46119",
+    "name": "基本雷エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/ENE/46119.jpg",
+    "set_id": "ENE",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "EN"
+  },
+  {
+    "id": "ENE-46120",
+    "local_id": "46120",
+    "name": "基本超エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/ENE/46120.jpg",
+    "set_id": "ENE",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "EN"
+  },
+  {
+    "id": "ENE-46121",
+    "local_id": "46121",
+    "name": "基本闘エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/ENE/46121.jpg",
+    "set_id": "ENE",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "EN"
+  },
+  {
+    "id": "ENE-46122",
+    "local_id": "46122",
+    "name": "基本悪エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/ENE/46122.jpg",
+    "set_id": "ENE",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "EN"
+  },
+  {
+    "id": "ENE-46123",
+    "local_id": "46123",
+    "name": "基本鋼エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/ENE/46123.jpg",
+    "set_id": "ENE",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "EN"
+  },
+  {
+    "id": "SVK-46113",
+    "local_id": "46113",
+    "name": "ジェットエネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVK/46113.jpg",
+    "set_id": "SVK",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVK-46114",
+    "local_id": "46114",
+    "name": "ダブルターボエネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVK/46114.jpg",
+    "set_id": "SVK",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVK-46115",
+    "local_id": "46115",
+    "name": "ルミナスエネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVK/46115.jpg",
+    "set_id": "SVK",
+    "set_name": "デッキビルドBOX ステラミラクル",
+    "region": "JP",
+    "serie_id": "SV"
   }
 ]

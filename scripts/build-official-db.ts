@@ -28,10 +28,9 @@ interface SetInfo {
   name: string; // 前台名稱
 }
 
-// 追加 SV7a 及 SVLS 擴充包
+// 追加 SVK 擴充包
 const TARGET_SETS: SetInfo[] = [
-  { id: '922', name: '楽園ドラゴーナ' },
-  { id: '920', name: 'スターターセット テラスタイプ：ステラ ソウブレイズex' }
+  { id: '919', name: 'デッキビルドBOX ステラミラクル' }
 ];
 
 async function uploadImageToSupabase(imageUrl: string, savePath: string): Promise<string | null> {
@@ -160,7 +159,7 @@ async function main() {
   let existingCards: any[] = [];
   if (fs.existsSync(cardsOutputPath)) {
      existingCards = JSON.parse(fs.readFileSync(cardsOutputPath, 'utf8'));
-     existingCards = existingCards.filter(c => !['楽園ドラゴーナ', 'スターターセット テラスタイプ：ステラ ソウブレイズex'].includes(c.set_name));
+     existingCards = existingCards.filter(c => !['デッキビルドBOX ステラミラクル'].includes(c.set_name));
   }
   const finalCards = existingCards.concat(allCards);
   fs.writeFileSync(cardsOutputPath, JSON.stringify(finalCards, null, 2));
