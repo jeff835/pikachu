@@ -4,6 +4,11 @@
     "name": "SV 系列",
     "sets": [
       {
+        "id": "SVM",
+        "name": "スタートデッキGenerations",
+        "logo": ""
+      },
+      {
         "id": "SV9",
         "name": "バトルパートナーズ",
         "logo": ""

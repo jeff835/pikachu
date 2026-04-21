@@ -11908,5 +11908,1835 @@
     "set_name": "バトルパートナーズ",
     "region": "JP",
     "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46455",
+    "local_id": "46455",
+    "name": "ナゾノクサ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46455.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46456",
+    "local_id": "46456",
+    "name": "クサイハナ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46456.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46457",
+    "local_id": "46457",
+    "name": "ラフレシア",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46457.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46458",
+    "local_id": "46458",
+    "name": "タマタマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46458.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46459",
+    "local_id": "46459",
+    "name": "ナッシー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46459.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46460",
+    "local_id": "46460",
+    "name": "カイロス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46460.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46461",
+    "local_id": "46461",
+    "name": "チュリネ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46461.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46462",
+    "local_id": "46462",
+    "name": "ドレディア",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46462.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46463",
+    "local_id": "46463",
+    "name": "タマゲタケ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46463.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46464",
+    "local_id": "46464",
+    "name": "モロバレルex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46464.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46465",
+    "local_id": "46465",
+    "name": "アイアント",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46465.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46466",
+    "local_id": "46466",
+    "name": "ビリジオン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46466.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46467",
+    "local_id": "46467",
+    "name": "マメバッタ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46467.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46468",
+    "local_id": "46468",
+    "name": "アチャモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46468.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46469",
+    "local_id": "46469",
+    "name": "ワカシャモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46469.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46470",
+    "local_id": "46470",
+    "name": "バシャーモex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46470.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46471",
+    "local_id": "46471",
+    "name": "コータス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46471.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46472",
+    "local_id": "46472",
+    "name": "ビクティニ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46472.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46473",
+    "local_id": "46473",
+    "name": "クイタラン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46473.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46474",
+    "local_id": "46474",
+    "name": "メラルバ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46474.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46475",
+    "local_id": "46475",
+    "name": "ウルガモス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46475.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46476",
+    "local_id": "46476",
+    "name": "レシラムex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46476.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46477",
+    "local_id": "46477",
+    "name": "ヒノヤコマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46477.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46478",
+    "local_id": "46478",
+    "name": "ファイアロー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46478.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46479",
+    "local_id": "46479",
+    "name": "シシコ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46479.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46480",
+    "local_id": "46480",
+    "name": "カエンジシ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46480.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46481",
+    "local_id": "46481",
+    "name": "ヤドン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46481.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46482",
+    "local_id": "46482",
+    "name": "ヤドキング",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46482.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46483",
+    "local_id": "46483",
+    "name": "マリル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46483.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46484",
+    "local_id": "46484",
+    "name": "マリルリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46484.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46485",
+    "local_id": "46485",
+    "name": "スイクン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46485.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46486",
+    "local_id": "46486",
+    "name": "キャモメ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46486.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46487",
+    "local_id": "46487",
+    "name": "ペリッパー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46487.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46488",
+    "local_id": "46488",
+    "name": "ユキワラシ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46488.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46489",
+    "local_id": "46489",
+    "name": "オニゴーリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46489.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46490",
+    "local_id": "46490",
+    "name": "レジアイス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46490.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46491",
+    "local_id": "46491",
+    "name": "カイオーガex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46491.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46492",
+    "local_id": "46492",
+    "name": "ピカチュウex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46492.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46493",
+    "local_id": "46493",
+    "name": "アローラ イシツブテ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46493.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46494",
+    "local_id": "46494",
+    "name": "アローラ ゴローン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46494.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46495",
+    "local_id": "46495",
+    "name": "アローラ ゴローニャ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46495.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46496",
+    "local_id": "46496",
+    "name": "ビリリダマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46496.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46497",
+    "local_id": "46497",
+    "name": "マルマイン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46497.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46498",
+    "local_id": "46498",
+    "name": "サンダー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46498.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46499",
+    "local_id": "46499",
+    "name": "トゲデマル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46499.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46500",
+    "local_id": "46500",
+    "name": "カプ・コケコex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46500.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46501",
+    "local_id": "46501",
+    "name": "アローラ ガラガラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46501.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46502",
+    "local_id": "46502",
+    "name": "シュシュプ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46502.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46503",
+    "local_id": "46503",
+    "name": "フレフワン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46503.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46504",
+    "local_id": "46504",
+    "name": "ニンフィア",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46504.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46505",
+    "local_id": "46505",
+    "name": "デデンネ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46505.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46506",
+    "local_id": "46506",
+    "name": "ゼルネアスex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46506.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46507",
+    "local_id": "46507",
+    "name": "オドリドリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46507.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46508",
+    "local_id": "46508",
+    "name": "ミミッキュex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46508.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46509",
+    "local_id": "46509",
+    "name": "ダダリン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46509.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46510",
+    "local_id": "46510",
+    "name": "ベロバー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46510.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46511",
+    "local_id": "46511",
+    "name": "ギモー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46511.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46512",
+    "local_id": "46512",
+    "name": "オーロンゲ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46512.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46513",
+    "local_id": "46513",
+    "name": "マホミル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46513.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46514",
+    "local_id": "46514",
+    "name": "マホイップex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46514.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46515",
+    "local_id": "46515",
+    "name": "カラカラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46515.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46516",
+    "local_id": "46516",
+    "name": "ヨーギラス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46516.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46517",
+    "local_id": "46517",
+    "name": "サナギラス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46517.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46518",
+    "local_id": "46518",
+    "name": "リオル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46518.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46519",
+    "local_id": "46519",
+    "name": "ルカリオex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46519.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46520",
+    "local_id": "46520",
+    "name": "ヒポポタス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46520.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46521",
+    "local_id": "46521",
+    "name": "カバルドン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46521.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46522",
+    "local_id": "46522",
+    "name": "グレッグル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46522.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46523",
+    "local_id": "46523",
+    "name": "ドクロッグ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46523.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46524",
+    "local_id": "46524",
+    "name": "ノノクラゲ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46524.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46525",
+    "local_id": "46525",
+    "name": "リククラゲ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46525.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46526",
+    "local_id": "46526",
+    "name": "コライドンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46526.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46527",
+    "local_id": "46527",
+    "name": "パルデア ウパー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46527.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46528",
+    "local_id": "46528",
+    "name": "パルデア ドオーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46528.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46529",
+    "local_id": "46529",
+    "name": "ニューラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46529.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46530",
+    "local_id": "46530",
+    "name": "デルビル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46530.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46531",
+    "local_id": "46531",
+    "name": "ヘルガー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46531.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46532",
+    "local_id": "46532",
+    "name": "バンギラスex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46532.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46533",
+    "local_id": "46533",
+    "name": "エクスレッグ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46533.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46534",
+    "local_id": "46534",
+    "name": "オトシドリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46534.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46535",
+    "local_id": "46535",
+    "name": "ドーミラー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46535.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46536",
+    "local_id": "46536",
+    "name": "ドータクン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46536.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46537",
+    "local_id": "46537",
+    "name": "ディアルガex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46537.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46538",
+    "local_id": "46538",
+    "name": "ヒードラン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46538.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46539",
+    "local_id": "46539",
+    "name": "ガラル マッギョ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46539.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46540",
+    "local_id": "46540",
+    "name": "ゾウドウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46540.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46541",
+    "local_id": "46541",
+    "name": "ダイオウドウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46541.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46542",
+    "local_id": "46542",
+    "name": "ジュラルドン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46542.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46543",
+    "local_id": "46543",
+    "name": "ザシアンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46543.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46544",
+    "local_id": "46544",
+    "name": "コラッタ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46544.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46545",
+    "local_id": "46545",
+    "name": "ニャース",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46545.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46546",
+    "local_id": "46546",
+    "name": "ペルシアン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46546.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46547",
+    "local_id": "46547",
+    "name": "イーブイ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46547.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46548",
+    "local_id": "46548",
+    "name": "カビゴンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46548.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46549",
+    "local_id": "46549",
+    "name": "ノコッチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46549.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46550",
+    "local_id": "46550",
+    "name": "ミルタンク",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46550.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46551",
+    "local_id": "46551",
+    "name": "ルギアex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46551.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46552",
+    "local_id": "46552",
+    "name": "ジグザグマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46552.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46553",
+    "local_id": "46553",
+    "name": "マッスグマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46553.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46554",
+    "local_id": "46554",
+    "name": "カクレオン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46554.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46555",
+    "local_id": "46555",
+    "name": "トロピウス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46555.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46556",
+    "local_id": "46556",
+    "name": "ミミロル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46556.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46557",
+    "local_id": "46557",
+    "name": "ミミロップ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46557.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46558",
+    "local_id": "46558",
+    "name": "ペラップ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46558.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46559",
+    "local_id": "46559",
+    "name": "シェイミ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46559.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46560",
+    "local_id": "46560",
+    "name": "タブンネ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46560.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46561",
+    "local_id": "46561",
+    "name": "チラーミィ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46561.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46562",
+    "local_id": "46562",
+    "name": "チラチーノ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46562.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46563",
+    "local_id": "46563",
+    "name": "ヤヤコマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46563.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46564",
+    "local_id": "46564",
+    "name": "トリミアン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46564.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46565",
+    "local_id": "46565",
+    "name": "ルチャブル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46565.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46566",
+    "local_id": "46566",
+    "name": "オンバット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46566.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46567",
+    "local_id": "46567",
+    "name": "オンバーンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46567.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46568",
+    "local_id": "46568",
+    "name": "ヌイコグマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46568.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46569",
+    "local_id": "46569",
+    "name": "キテルグマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46569.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46570",
+    "local_id": "46570",
+    "name": "ジジーロン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46570.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46571",
+    "local_id": "46571",
+    "name": "ホシガリス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46571.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46572",
+    "local_id": "46572",
+    "name": "ヨクバリス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46572.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46573",
+    "local_id": "46573",
+    "name": "ウッウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46573.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46574",
+    "local_id": "46574",
+    "name": "イエッサン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46574.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46575",
+    "local_id": "46575",
+    "name": "グルトン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46575.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46576",
+    "local_id": "46576",
+    "name": "パフュートン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46576.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46577",
+    "local_id": "46577",
+    "name": "イキリンコ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46577.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46578",
+    "local_id": "46578",
+    "name": "モトトカゲ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46578.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46579",
+    "local_id": "46579",
+    "name": "エネルギー回収",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46579.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46580",
+    "local_id": "46580",
+    "name": "エネルギーシール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46580.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46581",
+    "local_id": "46581",
+    "name": "エネルギーつけかえ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46581.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46582",
+    "local_id": "46582",
+    "name": "エネルギー転送",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46582.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46583",
+    "local_id": "46583",
+    "name": "おとどけドローン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46583.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46584",
+    "local_id": "46584",
+    "name": "きずぐすり",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46584.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46585",
+    "local_id": "46585",
+    "name": "クラッシュハンマー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46585.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46586",
+    "local_id": "46586",
+    "name": "スーパーボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46586.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46587",
+    "local_id": "46587",
+    "name": "ネストボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46587.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46588",
+    "local_id": "46588",
+    "name": "ハイパーボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46588.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46589",
+    "local_id": "46589",
+    "name": "ふしぎなアメ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46589.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46590",
+    "local_id": "46590",
+    "name": "ポケモンいれかえ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46590.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46591",
+    "local_id": "46591",
+    "name": "ポケモンキャッチャー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46591.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46592",
+    "local_id": "46592",
+    "name": "モンスターボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46592.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46593",
+    "local_id": "46593",
+    "name": "ガチガチバンド",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46593.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46594",
+    "local_id": "46594",
+    "name": "げんきのハチマキ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46594.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46595",
+    "local_id": "46595",
+    "name": "ゴツゴツメット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46595.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46596",
+    "local_id": "46596",
+    "name": "勇気のおまもり",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46596.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46597",
+    "local_id": "46597",
+    "name": "からておうの稽古",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46597.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46598",
+    "local_id": "46598",
+    "name": "からておうの稽古",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46598.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46599",
+    "local_id": "46599",
+    "name": "からておうの稽古",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46599.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46600",
+    "local_id": "46600",
+    "name": "からておうの稽古",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46600.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46601",
+    "local_id": "46601",
+    "name": "からておうの稽古",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46601.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46602",
+    "local_id": "46602",
+    "name": "からておうの稽古",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46602.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46603",
+    "local_id": "46603",
+    "name": "からておうの稽古",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46603.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46604",
+    "local_id": "46604",
+    "name": "からておうの稽古",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46604.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46605",
+    "local_id": "46605",
+    "name": "からておうの稽古",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46605.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46606",
+    "local_id": "46606",
+    "name": "コック",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46606.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46607",
+    "local_id": "46607",
+    "name": "ゴヨウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46607.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46608",
+    "local_id": "46608",
+    "name": "ジャッジマン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46608.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46609",
+    "local_id": "46609",
+    "name": "スター団のしたっぱ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46609.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46610",
+    "local_id": "46610",
+    "name": "センリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46610.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46611",
+    "local_id": "46611",
+    "name": "たんぱんこぞう",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46611.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46612",
+    "local_id": "46612",
+    "name": "チリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46612.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46613",
+    "local_id": "46613",
+    "name": "ドラセナ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46613.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46614",
+    "local_id": "46614",
+    "name": "ナンジャモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46614.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46615",
+    "local_id": "46615",
+    "name": "ネモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46615.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46616",
+    "local_id": "46616",
+    "name": "博士の研究",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46616.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46617",
+    "local_id": "46617",
+    "name": "博士の研究",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46617.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46618",
+    "local_id": "46618",
+    "name": "博士の研究",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46618.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46619",
+    "local_id": "46619",
+    "name": "博士の研究",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46619.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46620",
+    "local_id": "46620",
+    "name": "博士の研究",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46620.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46621",
+    "local_id": "46621",
+    "name": "博士の研究",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46621.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46622",
+    "local_id": "46622",
+    "name": "博士の研究",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46622.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46623",
+    "local_id": "46623",
+    "name": "博士の研究",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46623.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46624",
+    "local_id": "46624",
+    "name": "博士の研究",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46624.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46625",
+    "local_id": "46625",
+    "name": "ヒョウタ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46625.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46626",
+    "local_id": "46626",
+    "name": "ボスの指令",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46626.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46627",
+    "local_id": "46627",
+    "name": "マサキの転送",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46627.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVM-46628",
+    "local_id": "46628",
+    "name": "マツバの確信",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46628.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "ENE-46116",
+    "local_id": "46116",
+    "name": "基本草エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/ENE/46116.jpg",
+    "set_id": "ENE",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "EN"
+  },
+  {
+    "id": "ENE-46117",
+    "local_id": "46117",
+    "name": "基本炎エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/ENE/46117.jpg",
+    "set_id": "ENE",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "EN"
+  },
+  {
+    "id": "ENE-46118",
+    "local_id": "46118",
+    "name": "基本水エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/ENE/46118.jpg",
+    "set_id": "ENE",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "EN"
+  },
+  {
+    "id": "ENE-46119",
+    "local_id": "46119",
+    "name": "基本雷エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/ENE/46119.jpg",
+    "set_id": "ENE",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "EN"
+  },
+  {
+    "id": "ENE-46120",
+    "local_id": "46120",
+    "name": "基本超エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/ENE/46120.jpg",
+    "set_id": "ENE",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "EN"
+  },
+  {
+    "id": "ENE-46121",
+    "local_id": "46121",
+    "name": "基本闘エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/ENE/46121.jpg",
+    "set_id": "ENE",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "EN"
+  },
+  {
+    "id": "ENE-46122",
+    "local_id": "46122",
+    "name": "基本悪エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/ENE/46122.jpg",
+    "set_id": "ENE",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "EN"
+  },
+  {
+    "id": "ENE-46123",
+    "local_id": "46123",
+    "name": "基本鋼エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/ENE/46123.jpg",
+    "set_id": "ENE",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "EN"
+  },
+  {
+    "id": "SVM-46629",
+    "local_id": "46629",
+    "name": "セラピーエネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVM/46629.jpg",
+    "set_id": "SVM",
+    "set_name": "スタートデッキGenerations",
+    "region": "JP",
+    "serie_id": "SV"
   }
 ]
