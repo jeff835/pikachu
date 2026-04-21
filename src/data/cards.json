@@ -7398,5 +7398,1325 @@
     "set_name": "ホワイトフレア",
     "region": "JP",
     "serie_id": "SV1"
+  },
+  {
+    "id": "SV10-47394",
+    "local_id": "47394",
+    "name": "クヌギダマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47394.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47395",
+    "local_id": "47395",
+    "name": "キノココ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47395.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47396",
+    "local_id": "47396",
+    "name": "キノガッサ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47396.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47397",
+    "local_id": "47397",
+    "name": "カットロトム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47397.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47398",
+    "local_id": "47398",
+    "name": "カリキリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47398.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47399",
+    "local_id": "47399",
+    "name": "ラランテス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47399.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47400",
+    "local_id": "47400",
+    "name": "ロケット団のサッチムシ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47400.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47401",
+    "local_id": "47401",
+    "name": "ロケット団のタマンチュラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47401.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47402",
+    "local_id": "47402",
+    "name": "ロケット団のワナイダー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47402.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47403",
+    "local_id": "47403",
+    "name": "ミニーブ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47403.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47404",
+    "local_id": "47404",
+    "name": "オリーニョ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47404.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47405",
+    "local_id": "47405",
+    "name": "オリーヴァex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47405.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47406",
+    "local_id": "47406",
+    "name": "ガーディ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47406.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47407",
+    "local_id": "47407",
+    "name": "ウインディ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47407.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47408",
+    "local_id": "47408",
+    "name": "ロケット団のファイヤーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47408.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47409",
+    "local_id": "47409",
+    "name": "ロケット団のデルビル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47409.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47410",
+    "local_id": "47410",
+    "name": "ロケット団のヘルガー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47410.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47411",
+    "local_id": "47411",
+    "name": "アチャモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47411.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47412",
+    "local_id": "47412",
+    "name": "ワカシャモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47412.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47413",
+    "local_id": "47413",
+    "name": "バシャーモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47413.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47414",
+    "local_id": "47414",
+    "name": "ヒートロトム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47414.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47415",
+    "local_id": "47415",
+    "name": "ロケット団のフリーザー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47415.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47416",
+    "local_id": "47416",
+    "name": "パールル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47416.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47417",
+    "local_id": "47417",
+    "name": "ハンテール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47417.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47418",
+    "local_id": "47418",
+    "name": "サクラビス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47418.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47419",
+    "local_id": "47419",
+    "name": "ユキカブリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47419.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47420",
+    "local_id": "47420",
+    "name": "ユキノオー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47420.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47421",
+    "local_id": "47421",
+    "name": "ウォッシュロトム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47421.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47422",
+    "local_id": "47422",
+    "name": "サシカマス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47422.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47423",
+    "local_id": "47423",
+    "name": "カマスジョー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47423.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47424",
+    "local_id": "47424",
+    "name": "アルクジラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47424.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47425",
+    "local_id": "47425",
+    "name": "ハルクジラex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47425.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47426",
+    "local_id": "47426",
+    "name": "ロケット団のサンダー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47426.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47427",
+    "local_id": "47427",
+    "name": "ロケット団のメリープ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47427.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47428",
+    "local_id": "47428",
+    "name": "ロケット団のモココ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47428.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47429",
+    "local_id": "47429",
+    "name": "ロケット団のデンリュウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47429.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47430",
+    "local_id": "47430",
+    "name": "ロケット団のスリープ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47430.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47431",
+    "local_id": "47431",
+    "name": "ロケット団のスリーパー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47431.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47432",
+    "local_id": "47432",
+    "name": "ロケット団のミュウツーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47432.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47433",
+    "local_id": "47433",
+    "name": "ロケット団のソーナンス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47433.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47434",
+    "local_id": "47434",
+    "name": "ロケット団のリーシャン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47434.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47435",
+    "local_id": "47435",
+    "name": "ロケット団のミミッキュ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47435.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47436",
+    "local_id": "47436",
+    "name": "ロケット団のレドームシ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47436.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47437",
+    "local_id": "47437",
+    "name": "ロケット団のイオルブ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47437.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47438",
+    "local_id": "47438",
+    "name": "マンキー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47438.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47439",
+    "local_id": "47439",
+    "name": "オコリザル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47439.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47440",
+    "local_id": "47440",
+    "name": "コノヨザル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47440.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47441",
+    "local_id": "47441",
+    "name": "ロケット団のヨーギラス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47441.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47442",
+    "local_id": "47442",
+    "name": "ロケット団のサナギラス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47442.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47443",
+    "local_id": "47443",
+    "name": "ロケット団のバンギラス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47443.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47444",
+    "local_id": "47444",
+    "name": "ノズパス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47444.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47445",
+    "local_id": "47445",
+    "name": "ダイノーズ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47445.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47446",
+    "local_id": "47446",
+    "name": "アサナン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47446.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47447",
+    "local_id": "47447",
+    "name": "チャーレム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47447.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47448",
+    "local_id": "47448",
+    "name": "レジロックex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47448.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47449",
+    "local_id": "47449",
+    "name": "ロケット団のアーボ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47449.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47450",
+    "local_id": "47450",
+    "name": "ロケット団のアーボック",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47450.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47451",
+    "local_id": "47451",
+    "name": "ロケット団のニドラン♀",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47451.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47452",
+    "local_id": "47452",
+    "name": "ロケット団のニドリーナ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47452.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47453",
+    "local_id": "47453",
+    "name": "ロケット団のニドクイン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47453.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47454",
+    "local_id": "47454",
+    "name": "ロケット団のニドラン♂",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47454.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47455",
+    "local_id": "47455",
+    "name": "ロケット団のニドリーノ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47455.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47456",
+    "local_id": "47456",
+    "name": "ロケット団のニドキングex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47456.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47457",
+    "local_id": "47457",
+    "name": "ロケット団のズバット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47457.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47458",
+    "local_id": "47458",
+    "name": "ロケット団のゴルバット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47458.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47459",
+    "local_id": "47459",
+    "name": "ロケット団のクロバットex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47459.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47460",
+    "local_id": "47460",
+    "name": "ロケット団のベトベター",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47460.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47461",
+    "local_id": "47461",
+    "name": "ロケット団のベトベトン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47461.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47462",
+    "local_id": "47462",
+    "name": "ロケット団のドガース",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47462.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47463",
+    "local_id": "47463",
+    "name": "ロケット団のマタドガス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47463.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47464",
+    "local_id": "47464",
+    "name": "ロケット団のヤミカラス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47464.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47465",
+    "local_id": "47465",
+    "name": "ロケット団のニューラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47465.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47466",
+    "local_id": "47466",
+    "name": "フォレトス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47466.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47467",
+    "local_id": "47467",
+    "name": "エアームド",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47467.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47468",
+    "local_id": "47468",
+    "name": "ザマゼンタ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47468.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47469",
+    "local_id": "47469",
+    "name": "ロケット団のコラッタ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47469.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47470",
+    "local_id": "47470",
+    "name": "ロケット団のラッタ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47470.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47471",
+    "local_id": "47471",
+    "name": "ロケット団のニャース",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47471.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47472",
+    "local_id": "47472",
+    "name": "ロケット団のペルシアンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47472.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47473",
+    "local_id": "47473",
+    "name": "ガルーラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47473.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47474",
+    "local_id": "47474",
+    "name": "ロケット団のポリゴン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47474.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47475",
+    "local_id": "47475",
+    "name": "ロケット団のポリゴン2",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47475.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47476",
+    "local_id": "47476",
+    "name": "ロケット団のポリゴンZ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47476.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47477",
+    "local_id": "47477",
+    "name": "スバメ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47477.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47478",
+    "local_id": "47478",
+    "name": "オオスバメ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47478.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47479",
+    "local_id": "47479",
+    "name": "イキリンコ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47479.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47503",
+    "local_id": "47503",
+    "name": "ロケット団のワナイダー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47503.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47504",
+    "local_id": "47504",
+    "name": "ロケット団のヘルガー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47504.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47505",
+    "local_id": "47505",
+    "name": "バシャーモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47505.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47506",
+    "local_id": "47506",
+    "name": "パールル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47506.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47507",
+    "local_id": "47507",
+    "name": "ロケット団のソーナンス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47507.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47508",
+    "local_id": "47508",
+    "name": "ロケット団のイオルブ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47508.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47509",
+    "local_id": "47509",
+    "name": "ロケット団のマタドガス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47509.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47510",
+    "local_id": "47510",
+    "name": "ロケット団のヤミカラス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47510.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47511",
+    "local_id": "47511",
+    "name": "ザマゼンタ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47511.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47512",
+    "local_id": "47512",
+    "name": "ロケット団のラッタ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47512.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47513",
+    "local_id": "47513",
+    "name": "ロケット団のニャース",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47513.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47514",
+    "local_id": "47514",
+    "name": "ガルーラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47514.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47515",
+    "local_id": "47515",
+    "name": "オリーヴァex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47515.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47516",
+    "local_id": "47516",
+    "name": "ロケット団のファイヤーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47516.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47517",
+    "local_id": "47517",
+    "name": "ハルクジラex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47517.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47518",
+    "local_id": "47518",
+    "name": "ロケット団のミュウツーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47518.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47519",
+    "local_id": "47519",
+    "name": "レジロックex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47519.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47520",
+    "local_id": "47520",
+    "name": "ロケット団のニドキングex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47520.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47521",
+    "local_id": "47521",
+    "name": "ロケット団のクロバットex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47521.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47522",
+    "local_id": "47522",
+    "name": "ロケット団のペルシアンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47522.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47528",
+    "local_id": "47528",
+    "name": "ロケット団のファイヤーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47528.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47529",
+    "local_id": "47529",
+    "name": "ロケット団のミュウツーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47529.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47530",
+    "local_id": "47530",
+    "name": "ロケット団のニドキングex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47530.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47531",
+    "local_id": "47531",
+    "name": "ロケット団のクロバットex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47531.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47534",
+    "local_id": "47534",
+    "name": "ロケット団のミュウツーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47534.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47535",
+    "local_id": "47535",
+    "name": "ロケット団のクロバットex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47535.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47480",
+    "local_id": "47480",
+    "name": "ロケット団のおじゃまロボ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47480.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47481",
+    "local_id": "47481",
+    "name": "ロケット団のスーパーボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47481.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47482",
+    "local_id": "47482",
+    "name": "ロケット団のびっくりボム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47482.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47483",
+    "local_id": "47483",
+    "name": "ロケット団のレシーバー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47483.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47484",
+    "local_id": "47484",
+    "name": "ロケット団のアテナ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47484.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47485",
+    "local_id": "47485",
+    "name": "ロケット団のアポロ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47485.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47486",
+    "local_id": "47486",
+    "name": "ロケット団のサカキ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47486.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47487",
+    "local_id": "47487",
+    "name": "ロケット団のラムダ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47487.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47488",
+    "local_id": "47488",
+    "name": "ロケット団のランス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47488.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47489",
+    "local_id": "47489",
+    "name": "ロケット団の監視塔",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47489.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47490",
+    "local_id": "47490",
+    "name": "ロケット団のファクトリー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47490.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47523",
+    "local_id": "47523",
+    "name": "ロケット団のアテナ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47523.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47524",
+    "local_id": "47524",
+    "name": "ロケット団のアポロ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47524.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47525",
+    "local_id": "47525",
+    "name": "ロケット団のサカキ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47525.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47526",
+    "local_id": "47526",
+    "name": "ロケット団のラムダ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47526.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47527",
+    "local_id": "47527",
+    "name": "ロケット団のランス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47527.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47532",
+    "local_id": "47532",
+    "name": "ロケット団のアテナ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47532.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47533",
+    "local_id": "47533",
+    "name": "ロケット団のサカキ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47533.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47536",
+    "local_id": "47536",
+    "name": "ジャミングタワー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47536.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV10-47491",
+    "local_id": "47491",
+    "name": "ロケット団エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV10/47491.jpg",
+    "set_id": "SV10",
+    "set_name": "ロケット団の栄光",
+    "region": "JP",
+    "serie_id": "SV"
   }
 ]
