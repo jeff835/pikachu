@@ -9638,5 +9638,425 @@
     "set_name": "熱風のアリーナ",
     "region": "JP",
     "serie_id": "SV"
+  },
+  {
+    "id": "SVOM-47253",
+    "local_id": "47253",
+    "name": "マリィのチョロネコ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVOM/47253.jpg",
+    "set_id": "SVOM",
+    "set_name": "スターターセットex マリィのモルペコ＆オーロンゲex",
+    "region": "JP",
+    "serie_id": "SVO"
+  },
+  {
+    "id": "SVOM-47254",
+    "local_id": "47254",
+    "name": "マリィのレパルダス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVOM/47254.jpg",
+    "set_id": "SVOM",
+    "set_name": "スターターセットex マリィのモルペコ＆オーロンゲex",
+    "region": "JP",
+    "serie_id": "SVO"
+  },
+  {
+    "id": "SVOM-47255",
+    "local_id": "47255",
+    "name": "マリィのズルッグ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVOM/47255.jpg",
+    "set_id": "SVOM",
+    "set_name": "スターターセットex マリィのモルペコ＆オーロンゲex",
+    "region": "JP",
+    "serie_id": "SVO"
+  },
+  {
+    "id": "SVOM-47256",
+    "local_id": "47256",
+    "name": "マリィのズルズキン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVOM/47256.jpg",
+    "set_id": "SVOM",
+    "set_name": "スターターセットex マリィのモルペコ＆オーロンゲex",
+    "region": "JP",
+    "serie_id": "SVO"
+  },
+  {
+    "id": "SVOM-47257",
+    "local_id": "47257",
+    "name": "マリィのベロバー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVOM/47257.jpg",
+    "set_id": "SVOM",
+    "set_name": "スターターセットex マリィのモルペコ＆オーロンゲex",
+    "region": "JP",
+    "serie_id": "SVO"
+  },
+  {
+    "id": "SVOM-47258",
+    "local_id": "47258",
+    "name": "マリィのギモー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVOM/47258.jpg",
+    "set_id": "SVOM",
+    "set_name": "スターターセットex マリィのモルペコ＆オーロンゲex",
+    "region": "JP",
+    "serie_id": "SVO"
+  },
+  {
+    "id": "SVOM-47259",
+    "local_id": "47259",
+    "name": "マリィのオーロンゲex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVOM/47259.jpg",
+    "set_id": "SVOM",
+    "set_name": "スターターセットex マリィのモルペコ＆オーロンゲex",
+    "region": "JP",
+    "serie_id": "SVO"
+  },
+  {
+    "id": "SVOM-47260",
+    "local_id": "47260",
+    "name": "マリィのモルペコ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVOM/47260.jpg",
+    "set_id": "SVOM",
+    "set_name": "スターターセットex マリィのモルペコ＆オーロンゲex",
+    "region": "JP",
+    "serie_id": "SVO"
+  },
+  {
+    "id": "SVOM-47290",
+    "local_id": "47290",
+    "name": "マリィのモルペコ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVOM/47290.jpg",
+    "set_id": "SVOM",
+    "set_name": "スターターセットex マリィのモルペコ＆オーロンゲex",
+    "region": "JP",
+    "serie_id": "SVO"
+  },
+  {
+    "id": "SVOM-47261",
+    "local_id": "47261",
+    "name": "エネルギーリサイクル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVOM/47261.jpg",
+    "set_id": "SVOM",
+    "set_name": "スターターセットex マリィのモルペコ＆オーロンゲex",
+    "region": "JP",
+    "serie_id": "SVO"
+  },
+  {
+    "id": "SVOM-47262",
+    "local_id": "47262",
+    "name": "すごいつりざお",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVOM/47262.jpg",
+    "set_id": "SVOM",
+    "set_name": "スターターセットex マリィのモルペコ＆オーロンゲex",
+    "region": "JP",
+    "serie_id": "SVO"
+  },
+  {
+    "id": "SVOM-47263",
+    "local_id": "47263",
+    "name": "なかよしポフィン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVOM/47263.jpg",
+    "set_id": "SVOM",
+    "set_name": "スターターセットex マリィのモルペコ＆オーロンゲex",
+    "region": "JP",
+    "serie_id": "SVO"
+  },
+  {
+    "id": "SVOM-47264",
+    "local_id": "47264",
+    "name": "ハイパーボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVOM/47264.jpg",
+    "set_id": "SVOM",
+    "set_name": "スターターセットex マリィのモルペコ＆オーロンゲex",
+    "region": "JP",
+    "serie_id": "SVO"
+  },
+  {
+    "id": "SVOM-47265",
+    "local_id": "47265",
+    "name": "ふしぎなアメ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVOM/47265.jpg",
+    "set_id": "SVOM",
+    "set_name": "スターターセットex マリィのモルペコ＆オーロンゲex",
+    "region": "JP",
+    "serie_id": "SVO"
+  },
+  {
+    "id": "SVOM-47266",
+    "local_id": "47266",
+    "name": "ポケモンいれかえ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVOM/47266.jpg",
+    "set_id": "SVOM",
+    "set_name": "スターターセットex マリィのモルペコ＆オーロンゲex",
+    "region": "JP",
+    "serie_id": "SVO"
+  },
+  {
+    "id": "SVOM-47267",
+    "local_id": "47267",
+    "name": "ナンジャモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVOM/47267.jpg",
+    "set_id": "SVOM",
+    "set_name": "スターターセットex マリィのモルペコ＆オーロンゲex",
+    "region": "JP",
+    "serie_id": "SVO"
+  },
+  {
+    "id": "SVOM-47268",
+    "local_id": "47268",
+    "name": "ネモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVOM/47268.jpg",
+    "set_id": "SVOM",
+    "set_name": "スターターセットex マリィのモルペコ＆オーロンゲex",
+    "region": "JP",
+    "serie_id": "SVO"
+  },
+  {
+    "id": "SVOM-47269",
+    "local_id": "47269",
+    "name": "博士の研究",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVOM/47269.jpg",
+    "set_id": "SVOM",
+    "set_name": "スターターセットex マリィのモルペコ＆オーロンゲex",
+    "region": "JP",
+    "serie_id": "SVO"
+  },
+  {
+    "id": "SVOM-47270",
+    "local_id": "47270",
+    "name": "ボスの指令",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVOM/47270.jpg",
+    "set_id": "SVOM",
+    "set_name": "スターターセットex マリィのモルペコ＆オーロンゲex",
+    "region": "JP",
+    "serie_id": "SVO"
+  },
+  {
+    "id": "SVOM-47271",
+    "local_id": "47271",
+    "name": "スパイクタウンジム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVOM/47271.jpg",
+    "set_id": "SVOM",
+    "set_name": "スターターセットex マリィのモルペコ＆オーロンゲex",
+    "region": "JP",
+    "serie_id": "SVO"
+  },
+  {
+    "id": "ENE-46122",
+    "local_id": "46122",
+    "name": "基本悪エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/ENE/46122.jpg",
+    "set_id": "ENE",
+    "set_name": "スターターセットex マリィのモルペコ＆オーロンゲex",
+    "region": "JP",
+    "serie_id": "EN"
+  },
+  {
+    "id": "SVOD-47272",
+    "local_id": "47272",
+    "name": "ダイゴのヤジロン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVOD/47272.jpg",
+    "set_id": "SVOD",
+    "set_name": "スターターセットex ダイゴのダンバル＆メタグロスex",
+    "region": "JP",
+    "serie_id": "SVO"
+  },
+  {
+    "id": "SVOD-47273",
+    "local_id": "47273",
+    "name": "ダイゴのネンドール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVOD/47273.jpg",
+    "set_id": "SVOD",
+    "set_name": "スターターセットex ダイゴのダンバル＆メタグロスex",
+    "region": "JP",
+    "serie_id": "SVO"
+  },
+  {
+    "id": "SVOD-47274",
+    "local_id": "47274",
+    "name": "ダイゴのメレシー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVOD/47274.jpg",
+    "set_id": "SVOD",
+    "set_name": "スターターセットex ダイゴのダンバル＆メタグロスex",
+    "region": "JP",
+    "serie_id": "SVO"
+  },
+  {
+    "id": "SVOD-47275",
+    "local_id": "47275",
+    "name": "ダイゴのエアームド",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVOD/47275.jpg",
+    "set_id": "SVOD",
+    "set_name": "スターターセットex ダイゴのダンバル＆メタグロスex",
+    "region": "JP",
+    "serie_id": "SVO"
+  },
+  {
+    "id": "SVOD-47276",
+    "local_id": "47276",
+    "name": "ダイゴのダンバル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVOD/47276.jpg",
+    "set_id": "SVOD",
+    "set_name": "スターターセットex ダイゴのダンバル＆メタグロスex",
+    "region": "JP",
+    "serie_id": "SVO"
+  },
+  {
+    "id": "SVOD-47277",
+    "local_id": "47277",
+    "name": "ダイゴのメタング",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVOD/47277.jpg",
+    "set_id": "SVOD",
+    "set_name": "スターターセットex ダイゴのダンバル＆メタグロスex",
+    "region": "JP",
+    "serie_id": "SVO"
+  },
+  {
+    "id": "SVOD-47278",
+    "local_id": "47278",
+    "name": "ダイゴのメタグロスex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVOD/47278.jpg",
+    "set_id": "SVOD",
+    "set_name": "スターターセットex ダイゴのダンバル＆メタグロスex",
+    "region": "JP",
+    "serie_id": "SVO"
+  },
+  {
+    "id": "SVOD-47291",
+    "local_id": "47291",
+    "name": "ダイゴのダンバル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVOD/47291.jpg",
+    "set_id": "SVOD",
+    "set_name": "スターターセットex ダイゴのダンバル＆メタグロスex",
+    "region": "JP",
+    "serie_id": "SVO"
+  },
+  {
+    "id": "SVOD-47279",
+    "local_id": "47279",
+    "name": "エネルギーリサイクル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVOD/47279.jpg",
+    "set_id": "SVOD",
+    "set_name": "スターターセットex ダイゴのダンバル＆メタグロスex",
+    "region": "JP",
+    "serie_id": "SVO"
+  },
+  {
+    "id": "SVOD-47280",
+    "local_id": "47280",
+    "name": "すごいつりざお",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVOD/47280.jpg",
+    "set_id": "SVOD",
+    "set_name": "スターターセットex ダイゴのダンバル＆メタグロスex",
+    "region": "JP",
+    "serie_id": "SVO"
+  },
+  {
+    "id": "SVOD-47281",
+    "local_id": "47281",
+    "name": "なかよしポフィン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVOD/47281.jpg",
+    "set_id": "SVOD",
+    "set_name": "スターターセットex ダイゴのダンバル＆メタグロスex",
+    "region": "JP",
+    "serie_id": "SVO"
+  },
+  {
+    "id": "SVOD-47282",
+    "local_id": "47282",
+    "name": "ハイパーボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVOD/47282.jpg",
+    "set_id": "SVOD",
+    "set_name": "スターターセットex ダイゴのダンバル＆メタグロスex",
+    "region": "JP",
+    "serie_id": "SVO"
+  },
+  {
+    "id": "SVOD-47283",
+    "local_id": "47283",
+    "name": "ふしぎなアメ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVOD/47283.jpg",
+    "set_id": "SVOD",
+    "set_name": "スターターセットex ダイゴのダンバル＆メタグロスex",
+    "region": "JP",
+    "serie_id": "SVO"
+  },
+  {
+    "id": "SVOD-47284",
+    "local_id": "47284",
+    "name": "ポケモンいれかえ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVOD/47284.jpg",
+    "set_id": "SVOD",
+    "set_name": "スターターセットex ダイゴのダンバル＆メタグロスex",
+    "region": "JP",
+    "serie_id": "SVO"
+  },
+  {
+    "id": "SVOD-47285",
+    "local_id": "47285",
+    "name": "ナンジャモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVOD/47285.jpg",
+    "set_id": "SVOD",
+    "set_name": "スターターセットex ダイゴのダンバル＆メタグロスex",
+    "region": "JP",
+    "serie_id": "SVO"
+  },
+  {
+    "id": "SVOD-47286",
+    "local_id": "47286",
+    "name": "ネモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVOD/47286.jpg",
+    "set_id": "SVOD",
+    "set_name": "スターターセットex ダイゴのダンバル＆メタグロスex",
+    "region": "JP",
+    "serie_id": "SVO"
+  },
+  {
+    "id": "SVOD-47287",
+    "local_id": "47287",
+    "name": "博士の研究",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVOD/47287.jpg",
+    "set_id": "SVOD",
+    "set_name": "スターターセットex ダイゴのダンバル＆メタグロスex",
+    "region": "JP",
+    "serie_id": "SVO"
+  },
+  {
+    "id": "SVOD-47288",
+    "local_id": "47288",
+    "name": "ボスの指令",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVOD/47288.jpg",
+    "set_id": "SVOD",
+    "set_name": "スターターセットex ダイゴのダンバル＆メタグロスex",
+    "region": "JP",
+    "serie_id": "SVO"
+  },
+  {
+    "id": "SVOD-47289",
+    "local_id": "47289",
+    "name": "いしのどうくつ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVOD/47289.jpg",
+    "set_id": "SVOD",
+    "set_name": "スターターセットex ダイゴのダンバル＆メタグロスex",
+    "region": "JP",
+    "serie_id": "SVO"
+  },
+  {
+    "id": "ENE-46120",
+    "local_id": "46120",
+    "name": "基本超エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/ENE/46120.jpg",
+    "set_id": "ENE",
+    "set_name": "スターターセットex ダイゴのダンバル＆メタグロスex",
+    "region": "JP",
+    "serie_id": "EN"
+  },
+  {
+    "id": "ENE-46123",
+    "local_id": "46123",
+    "name": "基本鋼エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/ENE/46123.jpg",
+    "set_id": "ENE",
+    "set_name": "スターターセットex ダイゴのダンバル＆メタグロスex",
+    "region": "JP",
+    "serie_id": "EN"
   }
 ]

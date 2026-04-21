@@ -28,9 +28,10 @@ interface SetInfo {
   name: string; // 前台名稱
 }
 
-// 追加 SV9a 擴充包
+// 追加 SVOM 及 SVOD 擴充包
 const TARGET_SETS: SetInfo[] = [
-  { id: '940', name: '熱風のアリーナ' }
+  { id: '938', name: 'スターターセットex マリィのモルペコ＆オーロンゲex' },
+  { id: '939', name: 'スターターセットex ダイゴのダンバル＆メタグロスex' }
 ];
 
 async function uploadImageToSupabase(imageUrl: string, savePath: string): Promise<string | null> {
@@ -151,7 +152,7 @@ async function main() {
   let existingCards: any[] = [];
   if (fs.existsSync(cardsOutputPath)) {
      existingCards = JSON.parse(fs.readFileSync(cardsOutputPath, 'utf8'));
-     existingCards = existingCards.filter(c => !['熱風のアリーナ'].includes(c.set_name));
+     existingCards = existingCards.filter(c => !['スターターセットex マリィのモルペコ＆オーロンゲex', 'スターターセットex ダイゴのダンバル＆メタグロスex'].includes(c.set_name));
   }
   const finalCards = existingCards.concat(allCards);
   fs.writeFileSync(cardsOutputPath, JSON.stringify(finalCards, null, 2));
