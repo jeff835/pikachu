@@ -1,26 +1,4 @@
 {
-  "SVOM": {
-    "id": "SVOM",
-    "name": "SVOM 系列",
-    "sets": [
-      {
-        "id": "SVOM",
-        "name": "スターターセットex マリィのモルペコ＆オーロンゲex",
-        "logo": ""
-      }
-    ]
-  },
-  "SVOD": {
-    "id": "SVOD",
-    "name": "SVOD 系列",
-    "sets": [
-      {
-        "id": "SVOD",
-        "name": "スターターセットex ダイゴのダンバル＆メタグロスex",
-        "logo": ""
-      }
-    ]
-  },
   "SV": {
     "id": "SV",
     "name": "SV 系列",
@@ -68,6 +46,16 @@
       {
         "id": "SVLN",
         "name": "スターターセット SVLN",
+        "logo": ""
+      },
+      {
+        "id": "SVOM",
+        "name": "スターターセットex マリィのモルペコ＆オーロンゲex",
+        "logo": ""
+      },
+      {
+        "id": "SVOD",
+        "name": "スターターセットex ダイゴのダンバル＆メタグロスex",
         "logo": ""
       }
     ]
