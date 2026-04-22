@@ -24438,5 +24438,3605 @@
     "set_name": "サイバージャッジ",
     "region": "JP",
     "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44524",
+    "local_id": "44524",
+    "name": "ナゾノクサ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44524.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44525",
+    "local_id": "44525",
+    "name": "クサイハナ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44525.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44526",
+    "local_id": "44526",
+    "name": "ラフレシア",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44526.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44527",
+    "local_id": "44527",
+    "name": "ストライク",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44527.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44528",
+    "local_id": "44528",
+    "name": "ハネッコ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44528.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44529",
+    "local_id": "44529",
+    "name": "ポポッコ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44529.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44530",
+    "local_id": "44530",
+    "name": "ワタッコ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44530.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44531",
+    "local_id": "44531",
+    "name": "クヌギダマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44531.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44532",
+    "local_id": "44532",
+    "name": "フォレトスex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44532.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44533",
+    "local_id": "44533",
+    "name": "ユキカブリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44533.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44534",
+    "local_id": "44534",
+    "name": "ユキノオー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44534.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44535",
+    "local_id": "44535",
+    "name": "ニャオハ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44535.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44536",
+    "local_id": "44536",
+    "name": "ニャローテ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44536.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44537",
+    "local_id": "44537",
+    "name": "マスカーニャex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44537.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44538",
+    "local_id": "44538",
+    "name": "ミニーブ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44538.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44539",
+    "local_id": "44539",
+    "name": "オリーニョ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44539.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44540",
+    "local_id": "44540",
+    "name": "オリーヴァ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44540.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44541",
+    "local_id": "44541",
+    "name": "ノノクラゲ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44541.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44542",
+    "local_id": "44542",
+    "name": "リククラゲex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44542.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44543",
+    "local_id": "44543",
+    "name": "カプサイジ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44543.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44544",
+    "local_id": "44544",
+    "name": "スコヴィラン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44544.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44545",
+    "local_id": "44545",
+    "name": "シガロコ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44545.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44546",
+    "local_id": "44546",
+    "name": "クエスパトラex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44546.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44547",
+    "local_id": "44547",
+    "name": "チオンジェンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44547.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44548",
+    "local_id": "44548",
+    "name": "ヒトカゲ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44548.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44549",
+    "local_id": "44549",
+    "name": "リザード",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44549.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44550",
+    "local_id": "44550",
+    "name": "パルデア ケンタロス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44550.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44551",
+    "local_id": "44551",
+    "name": "エンテイ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44551.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44552",
+    "local_id": "44552",
+    "name": "オドリドリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44552.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44553",
+    "local_id": "44553",
+    "name": "ホゲータ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44553.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44554",
+    "local_id": "44554",
+    "name": "アチゲータ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44554.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44555",
+    "local_id": "44555",
+    "name": "ラウドボーンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44555.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44556",
+    "local_id": "44556",
+    "name": "カルボウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44556.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44557",
+    "local_id": "44557",
+    "name": "グレンアルマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44557.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44558",
+    "local_id": "44558",
+    "name": "イーユイex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44558.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44559",
+    "local_id": "44559",
+    "name": "ヤドン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44559.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44560",
+    "local_id": "44560",
+    "name": "ヤドラン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44560.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44561",
+    "local_id": "44561",
+    "name": "ヒトデマン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44561.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44562",
+    "local_id": "44562",
+    "name": "スターミー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44562.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44563",
+    "local_id": "44563",
+    "name": "パルデア ケンタロス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44563.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44564",
+    "local_id": "44564",
+    "name": "クワッス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44564.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44565",
+    "local_id": "44565",
+    "name": "ウェルカモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44565.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44566",
+    "local_id": "44566",
+    "name": "ウェーニバルex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44566.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44567",
+    "local_id": "44567",
+    "name": "ウミディグダ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44567.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44568",
+    "local_id": "44568",
+    "name": "ウミトリオ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44568.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44569",
+    "local_id": "44569",
+    "name": "ナミイルカ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44569.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44570",
+    "local_id": "44570",
+    "name": "イルカマン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44570.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44571",
+    "local_id": "44571",
+    "name": "ミガルーサ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44571.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44572",
+    "local_id": "44572",
+    "name": "ヘイラッシャ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44572.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44573",
+    "local_id": "44573",
+    "name": "シャリタツ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44573.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44574",
+    "local_id": "44574",
+    "name": "セビエ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44574.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44575",
+    "local_id": "44575",
+    "name": "セゴール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44575.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44576",
+    "local_id": "44576",
+    "name": "セグレイブ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44576.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44577",
+    "local_id": "44577",
+    "name": "パオジアンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44577.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44578",
+    "local_id": "44578",
+    "name": "ピカチュウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44578.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44579",
+    "local_id": "44579",
+    "name": "ライチュウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44579.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44580",
+    "local_id": "44580",
+    "name": "ビリリダマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44580.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44581",
+    "local_id": "44581",
+    "name": "マルマイン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44581.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44582",
+    "local_id": "44582",
+    "name": "コリンク",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44582.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44583",
+    "local_id": "44583",
+    "name": "ルクシオ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44583.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44584",
+    "local_id": "44584",
+    "name": "レントラー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44584.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44585",
+    "local_id": "44585",
+    "name": "パチリス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44585.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44586",
+    "local_id": "44586",
+    "name": "ボルトロス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44586.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44587",
+    "local_id": "44587",
+    "name": "エレズン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44587.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44588",
+    "local_id": "44588",
+    "name": "ストリンダー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44588.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44589",
+    "local_id": "44589",
+    "name": "パモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44589.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44590",
+    "local_id": "44590",
+    "name": "パモット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44590.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44591",
+    "local_id": "44591",
+    "name": "パーモット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44591.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44592",
+    "local_id": "44592",
+    "name": "カイデン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44592.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44593",
+    "local_id": "44593",
+    "name": "タイカイデン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44593.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44594",
+    "local_id": "44594",
+    "name": "ミライドンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44594.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44595",
+    "local_id": "44595",
+    "name": "プクリン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44595.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44596",
+    "local_id": "44596",
+    "name": "ケーシィ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44596.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44597",
+    "local_id": "44597",
+    "name": "ユンゲラー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44597.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44598",
+    "local_id": "44598",
+    "name": "フーディンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44598.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44599",
+    "local_id": "44599",
+    "name": "ミュウex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44599.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44600",
+    "local_id": "44600",
+    "name": "ピィ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44600.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44601",
+    "local_id": "44601",
+    "name": "ネイティ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44601.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44602",
+    "local_id": "44602",
+    "name": "ネイティオ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44602.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44603",
+    "local_id": "44603",
+    "name": "ラルトス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44603.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44604",
+    "local_id": "44604",
+    "name": "キルリア",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44604.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44605",
+    "local_id": "44605",
+    "name": "サーナイトex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44605.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44606",
+    "local_id": "44606",
+    "name": "フワンテ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44606.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44607",
+    "local_id": "44607",
+    "name": "フワライド",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44607.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44608",
+    "local_id": "44608",
+    "name": "マネネ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44608.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44609",
+    "local_id": "44609",
+    "name": "ミカルゲ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44609.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44610",
+    "local_id": "44610",
+    "name": "クレッフィ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44610.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44611",
+    "local_id": "44611",
+    "name": "ミミッキュ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44611.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44612",
+    "local_id": "44612",
+    "name": "パピモッチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44612.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44613",
+    "local_id": "44613",
+    "name": "バウッツェル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44613.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44614",
+    "local_id": "44614",
+    "name": "ソウブレイズ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44614.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44615",
+    "local_id": "44615",
+    "name": "ベラカス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44615.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44616",
+    "local_id": "44616",
+    "name": "ヒラヒナ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44616.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44617",
+    "local_id": "44617",
+    "name": "カヌチャン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44617.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44618",
+    "local_id": "44618",
+    "name": "ナカヌチャン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44618.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44619",
+    "local_id": "44619",
+    "name": "デカヌチャン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44619.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44620",
+    "local_id": "44620",
+    "name": "ボチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44620.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44621",
+    "local_id": "44621",
+    "name": "ハカドッグ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44621.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44622",
+    "local_id": "44622",
+    "name": "コレクレー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44622.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44623",
+    "local_id": "44623",
+    "name": "マンキー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44623.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44624",
+    "local_id": "44624",
+    "name": "オコリザル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44624.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44625",
+    "local_id": "44625",
+    "name": "コノヨザル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44625.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44626",
+    "local_id": "44626",
+    "name": "パルデア ケンタロス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44626.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44627",
+    "local_id": "44627",
+    "name": "リオル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44627.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44628",
+    "local_id": "44628",
+    "name": "ルカリオ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44628.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44629",
+    "local_id": "44629",
+    "name": "ルチャブル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44629.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44630",
+    "local_id": "44630",
+    "name": "コジオ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44630.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44631",
+    "local_id": "44631",
+    "name": "ジオヅム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44631.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44632",
+    "local_id": "44632",
+    "name": "キョジオーン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44632.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44633",
+    "local_id": "44633",
+    "name": "キラーメ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44633.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44634",
+    "local_id": "44634",
+    "name": "キラフロルex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44634.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44635",
+    "local_id": "44635",
+    "name": "イダイナキバex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44635.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44636",
+    "local_id": "44636",
+    "name": "ディンルーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44636.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44637",
+    "local_id": "44637",
+    "name": "コライドンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44637.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44638",
+    "local_id": "44638",
+    "name": "リザードンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44638.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44639",
+    "local_id": "44639",
+    "name": "パルデア ウパー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44639.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44640",
+    "local_id": "44640",
+    "name": "パルデア ドオーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44640.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44641",
+    "local_id": "44641",
+    "name": "ヤミカラス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44641.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44642",
+    "local_id": "44642",
+    "name": "ニューラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44642.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44643",
+    "local_id": "44643",
+    "name": "マニューラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44643.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44644",
+    "local_id": "44644",
+    "name": "ヤミラミ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44644.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44645",
+    "local_id": "44645",
+    "name": "コマタナ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44645.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44646",
+    "local_id": "44646",
+    "name": "キリキザン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44646.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44647",
+    "local_id": "44647",
+    "name": "ドドゲザン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44647.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44648",
+    "local_id": "44648",
+    "name": "オラチフ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44648.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44649",
+    "local_id": "44649",
+    "name": "マフィティフ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44649.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44650",
+    "local_id": "44650",
+    "name": "シルシュルー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44650.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44651",
+    "local_id": "44651",
+    "name": "タギングル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44651.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44652",
+    "local_id": "44652",
+    "name": "ハッサム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44652.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44653",
+    "local_id": "44653",
+    "name": "ブロロン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44653.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44654",
+    "local_id": "44654",
+    "name": "ブロロローム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44654.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44655",
+    "local_id": "44655",
+    "name": "テツノワダチex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44655.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44656",
+    "local_id": "44656",
+    "name": "サーフゴー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44656.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44657",
+    "local_id": "44657",
+    "name": "オンバット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44657.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44658",
+    "local_id": "44658",
+    "name": "オンバーンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44658.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44659",
+    "local_id": "44659",
+    "name": "モトトカゲ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44659.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44660",
+    "local_id": "44660",
+    "name": "ポッポ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44660.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44661",
+    "local_id": "44661",
+    "name": "ピジョン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44661.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44662",
+    "local_id": "44662",
+    "name": "ピジョットex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44662.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44663",
+    "local_id": "44663",
+    "name": "プリン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44663.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44664",
+    "local_id": "44664",
+    "name": "プクリンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44664.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44665",
+    "local_id": "44665",
+    "name": "ドードー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44665.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44666",
+    "local_id": "44666",
+    "name": "ドードリオ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44666.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44667",
+    "local_id": "44667",
+    "name": "メタモン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44667.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44668",
+    "local_id": "44668",
+    "name": "カビゴン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44668.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44669",
+    "local_id": "44669",
+    "name": "キャモメ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44669.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44670",
+    "local_id": "44670",
+    "name": "ペリッパー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44670.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44671",
+    "local_id": "44671",
+    "name": "ホシガリス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44671.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44672",
+    "local_id": "44672",
+    "name": "ヨクバリス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44672.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44673",
+    "local_id": "44673",
+    "name": "グルトン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44673.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44674",
+    "local_id": "44674",
+    "name": "パフュートン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44674.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44675",
+    "local_id": "44675",
+    "name": "ワッカネズミ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44675.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44676",
+    "local_id": "44676",
+    "name": "イッカネズミ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44676.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44677",
+    "local_id": "44677",
+    "name": "イキリンコex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44677.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44678",
+    "local_id": "44678",
+    "name": "カラミンゴ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44678.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44977",
+    "local_id": "44977",
+    "name": "ナゾノクサ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44977.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44978",
+    "local_id": "44978",
+    "name": "クサイハナ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44978.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44979",
+    "local_id": "44979",
+    "name": "ラフレシア",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44979.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44980",
+    "local_id": "44980",
+    "name": "ストライク",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44980.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44981",
+    "local_id": "44981",
+    "name": "ハネッコ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44981.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44982",
+    "local_id": "44982",
+    "name": "ポポッコ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44982.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44983",
+    "local_id": "44983",
+    "name": "ワタッコ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44983.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44984",
+    "local_id": "44984",
+    "name": "クヌギダマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44984.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44985",
+    "local_id": "44985",
+    "name": "ユキカブリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44985.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44986",
+    "local_id": "44986",
+    "name": "ユキノオー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44986.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44987",
+    "local_id": "44987",
+    "name": "ニャオハ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44987.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44988",
+    "local_id": "44988",
+    "name": "ニャローテ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44988.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44989",
+    "local_id": "44989",
+    "name": "ミニーブ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44989.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44990",
+    "local_id": "44990",
+    "name": "オリーニョ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44990.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44991",
+    "local_id": "44991",
+    "name": "オリーヴァ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44991.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44992",
+    "local_id": "44992",
+    "name": "ノノクラゲ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44992.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44993",
+    "local_id": "44993",
+    "name": "カプサイジ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44993.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44994",
+    "local_id": "44994",
+    "name": "スコヴィラン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44994.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44995",
+    "local_id": "44995",
+    "name": "シガロコ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44995.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44996",
+    "local_id": "44996",
+    "name": "ヒトカゲ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44996.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44997",
+    "local_id": "44997",
+    "name": "リザード",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44997.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44998",
+    "local_id": "44998",
+    "name": "パルデア ケンタロス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44998.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44999",
+    "local_id": "44999",
+    "name": "エンテイ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44999.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45000",
+    "local_id": "45000",
+    "name": "オドリドリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45000.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45001",
+    "local_id": "45001",
+    "name": "ホゲータ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45001.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45002",
+    "local_id": "45002",
+    "name": "アチゲータ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45002.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45003",
+    "local_id": "45003",
+    "name": "カルボウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45003.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45004",
+    "local_id": "45004",
+    "name": "グレンアルマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45004.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45005",
+    "local_id": "45005",
+    "name": "ヤドン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45005.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45006",
+    "local_id": "45006",
+    "name": "ヤドラン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45006.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45007",
+    "local_id": "45007",
+    "name": "ヒトデマン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45007.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45008",
+    "local_id": "45008",
+    "name": "スターミー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45008.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45009",
+    "local_id": "45009",
+    "name": "パルデア ケンタロス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45009.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45010",
+    "local_id": "45010",
+    "name": "クワッス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45010.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45011",
+    "local_id": "45011",
+    "name": "ウェルカモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45011.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45012",
+    "local_id": "45012",
+    "name": "ウミディグダ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45012.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45013",
+    "local_id": "45013",
+    "name": "ウミトリオ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45013.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45014",
+    "local_id": "45014",
+    "name": "ナミイルカ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45014.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45015",
+    "local_id": "45015",
+    "name": "イルカマン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45015.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45016",
+    "local_id": "45016",
+    "name": "ミガルーサ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45016.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45017",
+    "local_id": "45017",
+    "name": "ヘイラッシャ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45017.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45018",
+    "local_id": "45018",
+    "name": "シャリタツ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45018.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45019",
+    "local_id": "45019",
+    "name": "セビエ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45019.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45020",
+    "local_id": "45020",
+    "name": "セゴール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45020.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45021",
+    "local_id": "45021",
+    "name": "セグレイブ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45021.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45022",
+    "local_id": "45022",
+    "name": "ピカチュウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45022.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45023",
+    "local_id": "45023",
+    "name": "ライチュウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45023.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45024",
+    "local_id": "45024",
+    "name": "ビリリダマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45024.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45025",
+    "local_id": "45025",
+    "name": "マルマイン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45025.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45026",
+    "local_id": "45026",
+    "name": "コリンク",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45026.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45027",
+    "local_id": "45027",
+    "name": "ルクシオ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45027.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45028",
+    "local_id": "45028",
+    "name": "レントラー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45028.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45029",
+    "local_id": "45029",
+    "name": "パチリス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45029.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45030",
+    "local_id": "45030",
+    "name": "ボルトロス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45030.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45031",
+    "local_id": "45031",
+    "name": "エレズン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45031.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45032",
+    "local_id": "45032",
+    "name": "ストリンダー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45032.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45033",
+    "local_id": "45033",
+    "name": "パモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45033.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45034",
+    "local_id": "45034",
+    "name": "パモット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45034.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45035",
+    "local_id": "45035",
+    "name": "パーモット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45035.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45036",
+    "local_id": "45036",
+    "name": "カイデン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45036.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45037",
+    "local_id": "45037",
+    "name": "タイカイデン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45037.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45038",
+    "local_id": "45038",
+    "name": "プクリン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45038.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45039",
+    "local_id": "45039",
+    "name": "ケーシィ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45039.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45040",
+    "local_id": "45040",
+    "name": "ユンゲラー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45040.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45041",
+    "local_id": "45041",
+    "name": "ピィ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45041.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45042",
+    "local_id": "45042",
+    "name": "ネイティ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45042.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45043",
+    "local_id": "45043",
+    "name": "ネイティオ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45043.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45044",
+    "local_id": "45044",
+    "name": "ラルトス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45044.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45045",
+    "local_id": "45045",
+    "name": "キルリア",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45045.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45046",
+    "local_id": "45046",
+    "name": "フワンテ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45046.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45047",
+    "local_id": "45047",
+    "name": "フワライド",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45047.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45048",
+    "local_id": "45048",
+    "name": "マネネ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45048.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45049",
+    "local_id": "45049",
+    "name": "ミカルゲ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45049.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45050",
+    "local_id": "45050",
+    "name": "クレッフィ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45050.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45051",
+    "local_id": "45051",
+    "name": "ミミッキュ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45051.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45052",
+    "local_id": "45052",
+    "name": "パピモッチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45052.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45053",
+    "local_id": "45053",
+    "name": "バウッツェル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45053.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45054",
+    "local_id": "45054",
+    "name": "ソウブレイズ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45054.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45055",
+    "local_id": "45055",
+    "name": "ベラカス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45055.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45056",
+    "local_id": "45056",
+    "name": "ヒラヒナ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45056.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45057",
+    "local_id": "45057",
+    "name": "カヌチャン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45057.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45058",
+    "local_id": "45058",
+    "name": "ナカヌチャン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45058.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45059",
+    "local_id": "45059",
+    "name": "デカヌチャン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45059.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45060",
+    "local_id": "45060",
+    "name": "ボチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45060.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45061",
+    "local_id": "45061",
+    "name": "ハカドッグ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45061.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45062",
+    "local_id": "45062",
+    "name": "マンキー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45062.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45063",
+    "local_id": "45063",
+    "name": "オコリザル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45063.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45064",
+    "local_id": "45064",
+    "name": "コノヨザル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45064.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45065",
+    "local_id": "45065",
+    "name": "パルデア ケンタロス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45065.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45066",
+    "local_id": "45066",
+    "name": "リオル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45066.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45067",
+    "local_id": "45067",
+    "name": "ルカリオ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45067.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45068",
+    "local_id": "45068",
+    "name": "ルチャブル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45068.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45069",
+    "local_id": "45069",
+    "name": "コジオ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45069.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45070",
+    "local_id": "45070",
+    "name": "ジオヅム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45070.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45071",
+    "local_id": "45071",
+    "name": "キョジオーン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45071.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45072",
+    "local_id": "45072",
+    "name": "キラーメ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45072.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45073",
+    "local_id": "45073",
+    "name": "パルデア ウパー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45073.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45074",
+    "local_id": "45074",
+    "name": "ヤミカラス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45074.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45075",
+    "local_id": "45075",
+    "name": "ニューラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45075.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45076",
+    "local_id": "45076",
+    "name": "マニューラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45076.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45077",
+    "local_id": "45077",
+    "name": "ヤミラミ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45077.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45078",
+    "local_id": "45078",
+    "name": "コマタナ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45078.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45079",
+    "local_id": "45079",
+    "name": "キリキザン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45079.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45080",
+    "local_id": "45080",
+    "name": "ドドゲザン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45080.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45081",
+    "local_id": "45081",
+    "name": "オラチフ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45081.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45082",
+    "local_id": "45082",
+    "name": "マフィティフ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45082.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45083",
+    "local_id": "45083",
+    "name": "シルシュルー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45083.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45084",
+    "local_id": "45084",
+    "name": "タギングル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45084.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45085",
+    "local_id": "45085",
+    "name": "ハッサム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45085.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45086",
+    "local_id": "45086",
+    "name": "ブロロン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45086.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45087",
+    "local_id": "45087",
+    "name": "ブロロローム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45087.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45088",
+    "local_id": "45088",
+    "name": "オンバット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45088.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45089",
+    "local_id": "45089",
+    "name": "モトトカゲ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45089.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45090",
+    "local_id": "45090",
+    "name": "ポッポ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45090.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45091",
+    "local_id": "45091",
+    "name": "ピジョン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45091.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45092",
+    "local_id": "45092",
+    "name": "プリン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45092.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45093",
+    "local_id": "45093",
+    "name": "ドードー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45093.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45094",
+    "local_id": "45094",
+    "name": "ドードリオ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45094.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45095",
+    "local_id": "45095",
+    "name": "メタモン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45095.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45096",
+    "local_id": "45096",
+    "name": "カビゴン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45096.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45097",
+    "local_id": "45097",
+    "name": "キャモメ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45097.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45098",
+    "local_id": "45098",
+    "name": "ペリッパー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45098.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45099",
+    "local_id": "45099",
+    "name": "ホシガリス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45099.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45100",
+    "local_id": "45100",
+    "name": "ヨクバリス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45100.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45101",
+    "local_id": "45101",
+    "name": "グルトン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45101.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45102",
+    "local_id": "45102",
+    "name": "パフュートン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45102.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45103",
+    "local_id": "45103",
+    "name": "ワッカネズミ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45103.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45104",
+    "local_id": "45104",
+    "name": "イッカネズミ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45104.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45105",
+    "local_id": "45105",
+    "name": "カラミンゴ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45105.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45106",
+    "local_id": "45106",
+    "name": "フォレトスex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45106.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45107",
+    "local_id": "45107",
+    "name": "マスカーニャex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45107.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45108",
+    "local_id": "45108",
+    "name": "リククラゲex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45108.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45109",
+    "local_id": "45109",
+    "name": "クエスパトラex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45109.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45110",
+    "local_id": "45110",
+    "name": "ラウドボーンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45110.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45111",
+    "local_id": "45111",
+    "name": "ウェーニバルex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45111.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45112",
+    "local_id": "45112",
+    "name": "フーディンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45112.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45113",
+    "local_id": "45113",
+    "name": "ミュウex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45113.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45114",
+    "local_id": "45114",
+    "name": "サーナイトex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45114.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45115",
+    "local_id": "45115",
+    "name": "キラフロルex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45115.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45116",
+    "local_id": "45116",
+    "name": "イダイナキバex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45116.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45117",
+    "local_id": "45117",
+    "name": "リザードンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45117.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45118",
+    "local_id": "45118",
+    "name": "パルデア ドオーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45118.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45119",
+    "local_id": "45119",
+    "name": "テツノワダチex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45119.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45120",
+    "local_id": "45120",
+    "name": "オンバーンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45120.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45121",
+    "local_id": "45121",
+    "name": "ピジョットex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45121.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45122",
+    "local_id": "45122",
+    "name": "プクリンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45122.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45123",
+    "local_id": "45123",
+    "name": "イキリンコex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45123.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45124",
+    "local_id": "45124",
+    "name": "ウミトリオ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45124.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45125",
+    "local_id": "45125",
+    "name": "イルカマン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45125.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45126",
+    "local_id": "45126",
+    "name": "パモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45126.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45127",
+    "local_id": "45127",
+    "name": "ミミッキュ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45127.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45133",
+    "local_id": "45133",
+    "name": "ミュウex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45133.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45134",
+    "local_id": "45134",
+    "name": "サーナイトex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45134.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45135",
+    "local_id": "45135",
+    "name": "リザードンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45135.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45141",
+    "local_id": "45141",
+    "name": "チオンジェンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45141.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45142",
+    "local_id": "45142",
+    "name": "イーユイex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45142.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45143",
+    "local_id": "45143",
+    "name": "パオジアンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45143.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45144",
+    "local_id": "45144",
+    "name": "ミライドンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45144.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45145",
+    "local_id": "45145",
+    "name": "ディンルーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45145.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45146",
+    "local_id": "45146",
+    "name": "コライドンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45146.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44679",
+    "local_id": "44679",
+    "name": "エレキジェネレーター",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44679.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44680",
+    "local_id": "44680",
+    "name": "スーパーエネルギー回収",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44680.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44681",
+    "local_id": "44681",
+    "name": "すごいつりざお",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44681.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44682",
+    "local_id": "44682",
+    "name": "ネストボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44682.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44683",
+    "local_id": "44683",
+    "name": "ネモのリュック",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44683.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44684",
+    "local_id": "44684",
+    "name": "ハイパーボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44684.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44685",
+    "local_id": "44685",
+    "name": "はげましのてがみ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44685.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44686",
+    "local_id": "44686",
+    "name": "ふしぎなアメ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44686.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44687",
+    "local_id": "44687",
+    "name": "岩のむねあて",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44687.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44688",
+    "local_id": "44688",
+    "name": "大きなふうせん",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44688.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44689",
+    "local_id": "44689",
+    "name": "ガチガチバンド",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44689.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44690",
+    "local_id": "44690",
+    "name": "たべのこし",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44690.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44691",
+    "local_id": "44691",
+    "name": "まけんきハチマキ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44691.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44692",
+    "local_id": "44692",
+    "name": "勇気のおまもり",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44692.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44693",
+    "local_id": "44693",
+    "name": "ワザマシン かじばのいっぱつ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44693.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44694",
+    "local_id": "44694",
+    "name": "オモダカ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44694.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44695",
+    "local_id": "44695",
+    "name": "クラベル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44695.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44696",
+    "local_id": "44696",
+    "name": "サカキのカリスマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44696.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44697",
+    "local_id": "44697",
+    "name": "ナンジャモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44697.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44698",
+    "local_id": "44698",
+    "name": "ネルケ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44698.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44699",
+    "local_id": "44699",
+    "name": "博士の研究",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44699.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44700",
+    "local_id": "44700",
+    "name": "博士の研究",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44700.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44701",
+    "local_id": "44701",
+    "name": "パルデアの学生",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44701.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44702",
+    "local_id": "44702",
+    "name": "パルデアの学生",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44702.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44703",
+    "local_id": "44703",
+    "name": "ペパー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44703.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44704",
+    "local_id": "44704",
+    "name": "ボスの指令",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44704.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44705",
+    "local_id": "44705",
+    "name": "ボタン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44705.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44706",
+    "local_id": "44706",
+    "name": "タウンデパート",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44706.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44707",
+    "local_id": "44707",
+    "name": "ビーチコート",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44707.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44708",
+    "local_id": "44708",
+    "name": "ボウルタウン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44708.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44709",
+    "local_id": "44709",
+    "name": "ポケモンリーグ本部",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44709.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44710",
+    "local_id": "44710",
+    "name": "レッスンスタジオ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44710.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45128",
+    "local_id": "45128",
+    "name": "ジャッジマン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45128.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45129",
+    "local_id": "45129",
+    "name": "ネモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45129.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45130",
+    "local_id": "45130",
+    "name": "ネルケ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45130.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45131",
+    "local_id": "45131",
+    "name": "パルデアの学生",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45131.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45132",
+    "local_id": "45132",
+    "name": "パルデアの学生",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45132.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45136",
+    "local_id": "45136",
+    "name": "ナンジャモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45136.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45137",
+    "local_id": "45137",
+    "name": "ネモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45137.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45138",
+    "local_id": "45138",
+    "name": "ネルケ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45138.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45139",
+    "local_id": "45139",
+    "name": "ペパー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45139.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-45140",
+    "local_id": "45140",
+    "name": "ボタン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/45140.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44711",
+    "local_id": "44711",
+    "name": "セラピーエネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44711.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44712",
+    "local_id": "44712",
+    "name": "リバーサルエネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44712.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV4a-44713",
+    "local_id": "44713",
+    "name": "ルミナスエネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV4a/44713.jpg",
+    "set_id": "SV4a",
+    "set_name": "シャイニートレジャーex",
+    "region": "JP",
+    "serie_id": "SV"
   }
 ]
