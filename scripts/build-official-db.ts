@@ -29,9 +29,9 @@ interface SetInfo {
   manualSymbol?: string;
 }
 
-// 專注於 WCS23 紀念牌組（橫濱世界錦標賽 2023）
+// 專注於 SVF 構築套牌
 const TARGET_SETS: SetInfo[] = [
-  { id: '896', name: 'ポケモンワールドチャンピオンシップス2023横浜記念デッキ「ピカチュウ」 (WCS23)', manualSymbol: 'WCS23' }
+  { id: '895', name: 'デッキ構築BOX 黒炎の支配者 (SVF)', manualSymbol: 'SVF' }
 ];
 
 async function uploadImageToSupabase(imageUrl: string, savePath: string): Promise<string | null> {

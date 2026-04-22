@@ -37108,5 +37108,465 @@
     "set_name": "ポケモンワールドチャンピオンシップス2023横浜記念デッキ「ピカチュウ」 (WCS23)",
     "region": "JP",
     "serie_id": "SV"
+  },
+  {
+    "id": "SVF-44035",
+    "local_id": "44035",
+    "name": "かがやくリザードン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/44035.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-44036",
+    "local_id": "44036",
+    "name": "ネオラントV",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/44036.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-44037",
+    "local_id": "44037",
+    "name": "マナフィ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/44037.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-44038",
+    "local_id": "44038",
+    "name": "かがやくゲッコウガ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/44038.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-44039",
+    "local_id": "44039",
+    "name": "ミュウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/44039.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-44040",
+    "local_id": "44040",
+    "name": "ラルトス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/44040.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-44041",
+    "local_id": "44041",
+    "name": "キルリア",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/44041.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-44042",
+    "local_id": "44042",
+    "name": "ビッパ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/44042.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-44043",
+    "local_id": "44043",
+    "name": "ビーダル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/44043.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-44044",
+    "local_id": "44044",
+    "name": "あなぬけのヒモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/44044.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-44045",
+    "local_id": "44045",
+    "name": "キャンセルコロン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/44045.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-44046",
+    "local_id": "44046",
+    "name": "霧の水晶",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/44046.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-44047",
+    "local_id": "44047",
+    "name": "すごいつりざお",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/44047.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-44048",
+    "local_id": "44048",
+    "name": "ダークパッチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/44048.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-44049",
+    "local_id": "44049",
+    "name": "トレッキングシューズ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/44049.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-44050",
+    "local_id": "44050",
+    "name": "ネストボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/44050.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-44051",
+    "local_id": "44051",
+    "name": "ハイパーボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/44051.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-44052",
+    "local_id": "44052",
+    "name": "バトルVIPパス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/44052.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-44053",
+    "local_id": "44053",
+    "name": "ヒスイのヘビーボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/44053.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-44054",
+    "local_id": "44054",
+    "name": "ふしぎなアメ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/44054.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-44055",
+    "local_id": "44055",
+    "name": "ポケモンいれかえ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/44055.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-44056",
+    "local_id": "44056",
+    "name": "レベルボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/44056.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-44057",
+    "local_id": "44057",
+    "name": "ロストスイーパー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/44057.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-44058",
+    "local_id": "44058",
+    "name": "森の封印石",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/44058.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-44059",
+    "local_id": "44059",
+    "name": "カイ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/44059.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-44060",
+    "local_id": "44060",
+    "name": "キバナ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/44060.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-44061",
+    "local_id": "44061",
+    "name": "セイボリー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/44061.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-44062",
+    "local_id": "44062",
+    "name": "セレナ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/44062.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-44063",
+    "local_id": "44063",
+    "name": "ナンジャモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/44063.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-44064",
+    "local_id": "44064",
+    "name": "博士の研究",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/44064.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-44065",
+    "local_id": "44065",
+    "name": "博士の研究",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/44065.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-44066",
+    "local_id": "44066",
+    "name": "ボスの指令",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/44066.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-44067",
+    "local_id": "44067",
+    "name": "モミ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/44067.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-44068",
+    "local_id": "44068",
+    "name": "頂への雪道",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/44068.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-44069",
+    "local_id": "44069",
+    "name": "ビーチコート",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/44069.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-44070",
+    "local_id": "44070",
+    "name": "ボウルタウン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/44070.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-44071",
+    "local_id": "44071",
+    "name": "マグマの滝壺",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/44071.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-42779",
+    "local_id": "42779",
+    "name": "基本草エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/42779.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-42780",
+    "local_id": "42780",
+    "name": "基本炎エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/42780.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-42781",
+    "local_id": "42781",
+    "name": "基本水エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/42781.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-42782",
+    "local_id": "42782",
+    "name": "基本雷エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/42782.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-42783",
+    "local_id": "42783",
+    "name": "基本超エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/42783.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-42784",
+    "local_id": "42784",
+    "name": "基本闘エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/42784.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-42785",
+    "local_id": "42785",
+    "name": "基本悪エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/42785.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-42786",
+    "local_id": "42786",
+    "name": "基本鋼エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/42786.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVF-44072",
+    "local_id": "44072",
+    "name": "ダブルターボエネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVF/44072.jpg",
+    "set_id": "SVF",
+    "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
+    "region": "JP",
+    "serie_id": "SV"
   }
 ]
