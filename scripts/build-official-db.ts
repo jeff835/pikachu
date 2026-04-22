@@ -29,9 +29,9 @@ interface SetInfo {
   manualSymbol?: string;
 }
 
-// 專注於 SVF 構築套牌
+// 專注於 SV2a 強化擴充包 (Pokemon 151)
 const TARGET_SETS: SetInfo[] = [
-  { id: '895', name: 'デッキ構築BOX 黒炎の支配者 (SVF)', manualSymbol: 'SVF' }
+  { id: '882', name: '強化拡張パック「ポケモンカード151」 (SV2a)', manualSymbol: 'SV2a' }
 ];
 
 async function uploadImageToSupabase(imageUrl: string, savePath: string): Promise<string | null> {

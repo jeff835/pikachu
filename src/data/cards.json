@@ -37568,5 +37568,2105 @@
     "set_name": "デッキ構築BOX 黒炎の支配者 (SVF)",
     "region": "JP",
     "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43322",
+    "local_id": "43322",
+    "name": "フシギダネ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43322.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43323",
+    "local_id": "43323",
+    "name": "フシギソウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43323.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43324",
+    "local_id": "43324",
+    "name": "フシギバナex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43324.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43325",
+    "local_id": "43325",
+    "name": "ヒトカゲ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43325.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43326",
+    "local_id": "43326",
+    "name": "リザード",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43326.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43327",
+    "local_id": "43327",
+    "name": "リザードンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43327.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43328",
+    "local_id": "43328",
+    "name": "ゼニガメ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43328.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43329",
+    "local_id": "43329",
+    "name": "カメール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43329.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43330",
+    "local_id": "43330",
+    "name": "カメックスex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43330.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43331",
+    "local_id": "43331",
+    "name": "キャタピー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43331.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43332",
+    "local_id": "43332",
+    "name": "トランセル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43332.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43333",
+    "local_id": "43333",
+    "name": "バタフリー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43333.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43334",
+    "local_id": "43334",
+    "name": "ビードル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43334.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43335",
+    "local_id": "43335",
+    "name": "コクーン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43335.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43336",
+    "local_id": "43336",
+    "name": "スピアー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43336.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43337",
+    "local_id": "43337",
+    "name": "ポッポ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43337.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43338",
+    "local_id": "43338",
+    "name": "ピジョン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43338.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43339",
+    "local_id": "43339",
+    "name": "ピジョット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43339.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43340",
+    "local_id": "43340",
+    "name": "コラッタ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43340.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43341",
+    "local_id": "43341",
+    "name": "ラッタ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43341.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43342",
+    "local_id": "43342",
+    "name": "オニスズメ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43342.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43343",
+    "local_id": "43343",
+    "name": "オニドリル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43343.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43344",
+    "local_id": "43344",
+    "name": "アーボ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43344.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43345",
+    "local_id": "43345",
+    "name": "アーボックex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43345.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43346",
+    "local_id": "43346",
+    "name": "ピカチュウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43346.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43347",
+    "local_id": "43347",
+    "name": "ライチュウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43347.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43348",
+    "local_id": "43348",
+    "name": "サンド",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43348.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43349",
+    "local_id": "43349",
+    "name": "サンドパン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43349.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43350",
+    "local_id": "43350",
+    "name": "ニドラン♀",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43350.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43351",
+    "local_id": "43351",
+    "name": "ニドリーナ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43351.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43352",
+    "local_id": "43352",
+    "name": "ニドクイン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43352.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43353",
+    "local_id": "43353",
+    "name": "ニドラン♂",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43353.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43354",
+    "local_id": "43354",
+    "name": "ニドリーノ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43354.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43355",
+    "local_id": "43355",
+    "name": "ニドキング",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43355.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43356",
+    "local_id": "43356",
+    "name": "ピッピ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43356.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43357",
+    "local_id": "43357",
+    "name": "ピクシー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43357.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43358",
+    "local_id": "43358",
+    "name": "ロコン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43358.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43359",
+    "local_id": "43359",
+    "name": "キュウコンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43359.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43360",
+    "local_id": "43360",
+    "name": "プリン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43360.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43361",
+    "local_id": "43361",
+    "name": "プクリンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43361.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43362",
+    "local_id": "43362",
+    "name": "ズバット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43362.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43363",
+    "local_id": "43363",
+    "name": "ゴルバット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43363.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43364",
+    "local_id": "43364",
+    "name": "ナゾノクサ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43364.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43365",
+    "local_id": "43365",
+    "name": "クサイハナ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43365.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43366",
+    "local_id": "43366",
+    "name": "ラフレシア",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43366.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43367",
+    "local_id": "43367",
+    "name": "パラス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43367.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43368",
+    "local_id": "43368",
+    "name": "パラセクト",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43368.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43369",
+    "local_id": "43369",
+    "name": "コンパン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43369.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43370",
+    "local_id": "43370",
+    "name": "モルフォン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43370.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43371",
+    "local_id": "43371",
+    "name": "ディグダ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43371.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43372",
+    "local_id": "43372",
+    "name": "ダグトリオ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43372.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43373",
+    "local_id": "43373",
+    "name": "ニャース",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43373.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43374",
+    "local_id": "43374",
+    "name": "ペルシアン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43374.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43375",
+    "local_id": "43375",
+    "name": "コダック",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43375.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43376",
+    "local_id": "43376",
+    "name": "ゴルダック",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43376.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43377",
+    "local_id": "43377",
+    "name": "マンキー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43377.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43378",
+    "local_id": "43378",
+    "name": "オコリザル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43378.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43379",
+    "local_id": "43379",
+    "name": "ガーディ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43379.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43380",
+    "local_id": "43380",
+    "name": "ウインディ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43380.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43381",
+    "local_id": "43381",
+    "name": "ニョロモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43381.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43382",
+    "local_id": "43382",
+    "name": "ニョロゾ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43382.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43383",
+    "local_id": "43383",
+    "name": "ニョロボン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43383.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43384",
+    "local_id": "43384",
+    "name": "ケーシィ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43384.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43385",
+    "local_id": "43385",
+    "name": "ユンゲラー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43385.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43386",
+    "local_id": "43386",
+    "name": "フーディンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43386.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43387",
+    "local_id": "43387",
+    "name": "ワンリキー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43387.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43388",
+    "local_id": "43388",
+    "name": "ゴーリキー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43388.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43389",
+    "local_id": "43389",
+    "name": "カイリキー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43389.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43390",
+    "local_id": "43390",
+    "name": "マダツボミ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43390.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43391",
+    "local_id": "43391",
+    "name": "ウツドン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43391.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43392",
+    "local_id": "43392",
+    "name": "ウツボット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43392.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43393",
+    "local_id": "43393",
+    "name": "メノクラゲ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43393.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43394",
+    "local_id": "43394",
+    "name": "ドククラゲ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43394.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43395",
+    "local_id": "43395",
+    "name": "イシツブテ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43395.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43396",
+    "local_id": "43396",
+    "name": "ゴローン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43396.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43397",
+    "local_id": "43397",
+    "name": "ゴローニャex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43397.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43398",
+    "local_id": "43398",
+    "name": "ポニータ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43398.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43399",
+    "local_id": "43399",
+    "name": "ギャロップ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43399.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43400",
+    "local_id": "43400",
+    "name": "ヤドン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43400.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43401",
+    "local_id": "43401",
+    "name": "ヤドラン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43401.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43402",
+    "local_id": "43402",
+    "name": "コイル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43402.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43403",
+    "local_id": "43403",
+    "name": "レアコイル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43403.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43404",
+    "local_id": "43404",
+    "name": "カモネギ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43404.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43405",
+    "local_id": "43405",
+    "name": "ドードー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43405.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43406",
+    "local_id": "43406",
+    "name": "ドードリオ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43406.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43407",
+    "local_id": "43407",
+    "name": "パウワウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43407.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43408",
+    "local_id": "43408",
+    "name": "ジュゴン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43408.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43409",
+    "local_id": "43409",
+    "name": "ベトベター",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43409.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43410",
+    "local_id": "43410",
+    "name": "ベトベトン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43410.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43411",
+    "local_id": "43411",
+    "name": "シェルダー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43411.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43412",
+    "local_id": "43412",
+    "name": "パルシェン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43412.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43413",
+    "local_id": "43413",
+    "name": "ゴース",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43413.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43414",
+    "local_id": "43414",
+    "name": "ゴースト",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43414.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43415",
+    "local_id": "43415",
+    "name": "ゲンガー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43415.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43416",
+    "local_id": "43416",
+    "name": "イワーク",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43416.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43417",
+    "local_id": "43417",
+    "name": "スリープ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43417.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43418",
+    "local_id": "43418",
+    "name": "スリーパー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43418.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43419",
+    "local_id": "43419",
+    "name": "クラブ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43419.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43420",
+    "local_id": "43420",
+    "name": "キングラー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43420.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43421",
+    "local_id": "43421",
+    "name": "ビリリダマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43421.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43422",
+    "local_id": "43422",
+    "name": "マルマイン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43422.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43423",
+    "local_id": "43423",
+    "name": "タマタマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43423.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43424",
+    "local_id": "43424",
+    "name": "ナッシー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43424.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43425",
+    "local_id": "43425",
+    "name": "カラカラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43425.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43426",
+    "local_id": "43426",
+    "name": "ガラガラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43426.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43427",
+    "local_id": "43427",
+    "name": "サワムラー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43427.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43428",
+    "local_id": "43428",
+    "name": "エビワラー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43428.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43429",
+    "local_id": "43429",
+    "name": "ベロリンガ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43429.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43430",
+    "local_id": "43430",
+    "name": "ドガース",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43430.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43431",
+    "local_id": "43431",
+    "name": "マタドガス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43431.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43432",
+    "local_id": "43432",
+    "name": "サイホーン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43432.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43433",
+    "local_id": "43433",
+    "name": "サイドン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43433.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43434",
+    "local_id": "43434",
+    "name": "ラッキー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43434.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43435",
+    "local_id": "43435",
+    "name": "モンジャラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43435.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43436",
+    "local_id": "43436",
+    "name": "ガルーラex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43436.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43437",
+    "local_id": "43437",
+    "name": "タッツー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43437.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43438",
+    "local_id": "43438",
+    "name": "シードラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43438.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43439",
+    "local_id": "43439",
+    "name": "トサキント",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43439.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43440",
+    "local_id": "43440",
+    "name": "アズマオウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43440.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43441",
+    "local_id": "43441",
+    "name": "ヒトデマン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43441.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43442",
+    "local_id": "43442",
+    "name": "スターミー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43442.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43443",
+    "local_id": "43443",
+    "name": "バリヤード",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43443.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43444",
+    "local_id": "43444",
+    "name": "ストライク",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43444.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43445",
+    "local_id": "43445",
+    "name": "ルージュラex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43445.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43446",
+    "local_id": "43446",
+    "name": "エレブー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43446.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43447",
+    "local_id": "43447",
+    "name": "ブーバー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43447.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43448",
+    "local_id": "43448",
+    "name": "カイロス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43448.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43449",
+    "local_id": "43449",
+    "name": "ケンタロス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43449.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43450",
+    "local_id": "43450",
+    "name": "コイキング",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43450.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43451",
+    "local_id": "43451",
+    "name": "ギャラドス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43451.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43452",
+    "local_id": "43452",
+    "name": "ラプラス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43452.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43453",
+    "local_id": "43453",
+    "name": "メタモン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43453.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43454",
+    "local_id": "43454",
+    "name": "イーブイ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43454.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43455",
+    "local_id": "43455",
+    "name": "シャワーズ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43455.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43456",
+    "local_id": "43456",
+    "name": "サンダース",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43456.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43457",
+    "local_id": "43457",
+    "name": "ブースター",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43457.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43458",
+    "local_id": "43458",
+    "name": "ポリゴン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43458.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43459",
+    "local_id": "43459",
+    "name": "オムナイト",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43459.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43460",
+    "local_id": "43460",
+    "name": "オムスター",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43460.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43461",
+    "local_id": "43461",
+    "name": "カブト",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43461.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43462",
+    "local_id": "43462",
+    "name": "カブトプス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43462.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43463",
+    "local_id": "43463",
+    "name": "プテラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43463.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43464",
+    "local_id": "43464",
+    "name": "カビゴン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43464.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43465",
+    "local_id": "43465",
+    "name": "フリーザー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43465.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43466",
+    "local_id": "43466",
+    "name": "サンダーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43466.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43467",
+    "local_id": "43467",
+    "name": "ファイヤー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43467.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43468",
+    "local_id": "43468",
+    "name": "ミニリュウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43468.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43469",
+    "local_id": "43469",
+    "name": "ハクリュー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43469.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43470",
+    "local_id": "43470",
+    "name": "カイリュー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43470.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43471",
+    "local_id": "43471",
+    "name": "ミュウツー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43471.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43472",
+    "local_id": "43472",
+    "name": "ミュウex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43472.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43951",
+    "local_id": "43951",
+    "name": "フシギダネ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43951.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43952",
+    "local_id": "43952",
+    "name": "フシギソウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43952.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43953",
+    "local_id": "43953",
+    "name": "ヒトカゲ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43953.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43954",
+    "local_id": "43954",
+    "name": "リザード",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43954.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43955",
+    "local_id": "43955",
+    "name": "ゼニガメ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43955.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43956",
+    "local_id": "43956",
+    "name": "カメール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43956.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43957",
+    "local_id": "43957",
+    "name": "キャタピー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43957.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43958",
+    "local_id": "43958",
+    "name": "ピカチュウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43958.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43959",
+    "local_id": "43959",
+    "name": "ニドキング",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43959.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43960",
+    "local_id": "43960",
+    "name": "コダック",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43960.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43961",
+    "local_id": "43961",
+    "name": "ニョロゾ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43961.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43962",
+    "local_id": "43962",
+    "name": "ゴーリキー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43962.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43963",
+    "local_id": "43963",
+    "name": "モンジャラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43963.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43964",
+    "local_id": "43964",
+    "name": "バリヤード",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43964.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43965",
+    "local_id": "43965",
+    "name": "オムナイト",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43965.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43966",
+    "local_id": "43966",
+    "name": "カビゴン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43966.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43967",
+    "local_id": "43967",
+    "name": "ハクリュー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43967.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43968",
+    "local_id": "43968",
+    "name": "ミュウツー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43968.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43969",
+    "local_id": "43969",
+    "name": "フシギバナex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43969.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43970",
+    "local_id": "43970",
+    "name": "リザードンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43970.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43971",
+    "local_id": "43971",
+    "name": "カメックスex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43971.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43972",
+    "local_id": "43972",
+    "name": "アーボックex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43972.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43973",
+    "local_id": "43973",
+    "name": "キュウコンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43973.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43974",
+    "local_id": "43974",
+    "name": "プクリンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43974.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43975",
+    "local_id": "43975",
+    "name": "フーディンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43975.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43976",
+    "local_id": "43976",
+    "name": "ゴローニャex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43976.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43977",
+    "local_id": "43977",
+    "name": "ガルーラex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43977.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43978",
+    "local_id": "43978",
+    "name": "ルージュラex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43978.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43979",
+    "local_id": "43979",
+    "name": "サンダーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43979.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43980",
+    "local_id": "43980",
+    "name": "ミュウex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43980.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43985",
+    "local_id": "43985",
+    "name": "フシギバナex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43985.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43986",
+    "local_id": "43986",
+    "name": "リザードンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43986.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43987",
+    "local_id": "43987",
+    "name": "カメックスex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43987.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43988",
+    "local_id": "43988",
+    "name": "フーディンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43988.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43989",
+    "local_id": "43989",
+    "name": "サンダーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43989.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43990",
+    "local_id": "43990",
+    "name": "ミュウex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43990.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-44960",
+    "local_id": "44960",
+    "name": "ミュウex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/44960.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43473",
+    "local_id": "43473",
+    "name": "エネルギーシール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43473.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43474",
+    "local_id": "43474",
+    "name": "スナッチアーム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43474.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43475",
+    "local_id": "43475",
+    "name": "古びたかいの化石",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43475.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43476",
+    "local_id": "43476",
+    "name": "古びたこうらの化石",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43476.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43477",
+    "local_id": "43477",
+    "name": "古びたひみつのコハク",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43477.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43478",
+    "local_id": "43478",
+    "name": "安全ゴーグル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43478.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43479",
+    "local_id": "43479",
+    "name": "大きなふうせん",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43479.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43480",
+    "local_id": "43480",
+    "name": "ガチガチバンド",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43480.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43481",
+    "local_id": "43481",
+    "name": "たべのこし",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43481.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43482",
+    "local_id": "43482",
+    "name": "エリカの招待",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43482.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43483",
+    "local_id": "43483",
+    "name": "サカキのカリスマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43483.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43484",
+    "local_id": "43484",
+    "name": "ナナミの手助け",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43484.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43485",
+    "local_id": "43485",
+    "name": "マサキの転送",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43485.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43486",
+    "local_id": "43486",
+    "name": "サイクリングロード",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43486.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43981",
+    "local_id": "43981",
+    "name": "エリカの招待",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43981.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43982",
+    "local_id": "43982",
+    "name": "サカキのカリスマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43982.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43983",
+    "local_id": "43983",
+    "name": "ナナミの手助け",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43983.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43984",
+    "local_id": "43984",
+    "name": "マサキの転送",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43984.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43991",
+    "local_id": "43991",
+    "name": "エリカの招待",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43991.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-43992",
+    "local_id": "43992",
+    "name": "サカキのカリスマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/43992.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-44961",
+    "local_id": "44961",
+    "name": "ポケモンいれかえ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/44961.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV2a-44962",
+    "local_id": "44962",
+    "name": "基本超エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV2a/44962.jpg",
+    "set_id": "SV2a",
+    "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
+    "region": "JP",
+    "serie_id": "SV"
   }
 ]
