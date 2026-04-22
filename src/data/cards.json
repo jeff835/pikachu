@@ -22438,5 +22438,2005 @@
     "set_name": "未来のミライドンex",
     "region": "JP",
     "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45147",
+    "local_id": "45147",
+    "name": "ロゼリア",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45147.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45148",
+    "local_id": "45148",
+    "name": "ロズレイド",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45148.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45149",
+    "local_id": "45149",
+    "name": "ナエトル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45149.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45150",
+    "local_id": "45150",
+    "name": "ハヤシガメ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45150.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45151",
+    "local_id": "45151",
+    "name": "ドダイトスex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45151.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45152",
+    "local_id": "45152",
+    "name": "シェイミ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45152.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45153",
+    "local_id": "45153",
+    "name": "モンメン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45153.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45154",
+    "local_id": "45154",
+    "name": "エルフーン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45154.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45155",
+    "local_id": "45155",
+    "name": "クイタラン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45155.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45156",
+    "local_id": "45156",
+    "name": "ヤクデ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45156.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45157",
+    "local_id": "45157",
+    "name": "マルヤクデ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45157.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45158",
+    "local_id": "45158",
+    "name": "ウガツホムラex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45158.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45159",
+    "local_id": "45159",
+    "name": "ワニノコ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45159.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45160",
+    "local_id": "45160",
+    "name": "アリゲイツ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45160.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45161",
+    "local_id": "45161",
+    "name": "オーダイル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45161.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45162",
+    "local_id": "45162",
+    "name": "キバニア",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45162.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45163",
+    "local_id": "45163",
+    "name": "サメハダー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45163.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45164",
+    "local_id": "45164",
+    "name": "ケルディオ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45164.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45165",
+    "local_id": "45165",
+    "name": "ユキハミ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45165.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45166",
+    "local_id": "45166",
+    "name": "モスノウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45166.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45167",
+    "local_id": "45167",
+    "name": "ウミディグダ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45167.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45168",
+    "local_id": "45168",
+    "name": "ナミイルカ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45168.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45169",
+    "local_id": "45169",
+    "name": "イルカマン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45169.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45170",
+    "local_id": "45170",
+    "name": "ウネルミナモex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45170.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45171",
+    "local_id": "45171",
+    "name": "ウミトリオex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45171.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45172",
+    "local_id": "45172",
+    "name": "マリル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45172.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45173",
+    "local_id": "45173",
+    "name": "マリルリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45173.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45174",
+    "local_id": "45174",
+    "name": "ドーミラー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45174.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45175",
+    "local_id": "45175",
+    "name": "ドータクン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45175.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45176",
+    "local_id": "45176",
+    "name": "ユニラン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45176.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45177",
+    "local_id": "45177",
+    "name": "ダブラン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45177.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45178",
+    "local_id": "45178",
+    "name": "ランクルス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45178.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45179",
+    "local_id": "45179",
+    "name": "ハバタクカミ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45179.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45180",
+    "local_id": "45180",
+    "name": "ジーランス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45180.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45181",
+    "local_id": "45181",
+    "name": "ゴビット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45181.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45182",
+    "local_id": "45182",
+    "name": "ゴルーグ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45182.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45183",
+    "local_id": "45183",
+    "name": "ドロバンコ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45183.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45184",
+    "local_id": "45184",
+    "name": "バンバドロ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45184.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45185",
+    "local_id": "45185",
+    "name": "タンドン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45185.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45186",
+    "local_id": "45186",
+    "name": "トロッゴン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45186.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45187",
+    "local_id": "45187",
+    "name": "セキタンザン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45187.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45188",
+    "local_id": "45188",
+    "name": "イダイナキバ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45188.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45189",
+    "local_id": "45189",
+    "name": "アーボ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45189.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45190",
+    "local_id": "45190",
+    "name": "アーボック",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45190.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45191",
+    "local_id": "45191",
+    "name": "ゴース",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45191.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45192",
+    "local_id": "45192",
+    "name": "ゴースト",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45192.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45193",
+    "local_id": "45193",
+    "name": "ゲンガーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45193.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45194",
+    "local_id": "45194",
+    "name": "ポチエナ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45194.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45195",
+    "local_id": "45195",
+    "name": "グラエナ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45195.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45196",
+    "local_id": "45196",
+    "name": "ヤミラミ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45196.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45197",
+    "local_id": "45197",
+    "name": "トドロクツキ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45197.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45198",
+    "local_id": "45198",
+    "name": "コライドン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45198.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45199",
+    "local_id": "45199",
+    "name": "タケルライコex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45199.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45200",
+    "local_id": "45200",
+    "name": "ホーホー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45200.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45201",
+    "local_id": "45201",
+    "name": "ヨルノズク",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45201.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45202",
+    "local_id": "45202",
+    "name": "ノコッチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45202.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45203",
+    "local_id": "45203",
+    "name": "ノココッチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45203.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45204",
+    "local_id": "45204",
+    "name": "ペラップ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45204.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45205",
+    "local_id": "45205",
+    "name": "チラーミィ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45205.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45206",
+    "local_id": "45206",
+    "name": "チラチーノ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45206.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45515",
+    "local_id": "45515",
+    "name": "ハヤシガメ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45515.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45516",
+    "local_id": "45516",
+    "name": "ユキハミ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45516.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45517",
+    "local_id": "45517",
+    "name": "ドーミラー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45517.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45518",
+    "local_id": "45518",
+    "name": "ランクルス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45518.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45519",
+    "local_id": "45519",
+    "name": "ハバタクカミ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45519.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45520",
+    "local_id": "45520",
+    "name": "ジーランス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45520.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45521",
+    "local_id": "45521",
+    "name": "バンバドロ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45521.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45522",
+    "local_id": "45522",
+    "name": "アーボック",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45522.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45523",
+    "local_id": "45523",
+    "name": "ゴース",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45523.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45524",
+    "local_id": "45524",
+    "name": "ペラップ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45524.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45525",
+    "local_id": "45525",
+    "name": "チラーミィ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45525.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45526",
+    "local_id": "45526",
+    "name": "チラチーノ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45526.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45527",
+    "local_id": "45527",
+    "name": "ドダイトスex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45527.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45528",
+    "local_id": "45528",
+    "name": "ウガツホムラex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45528.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45529",
+    "local_id": "45529",
+    "name": "ウネルミナモex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45529.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45530",
+    "local_id": "45530",
+    "name": "ウミトリオex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45530.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45531",
+    "local_id": "45531",
+    "name": "ゲンガーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45531.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45532",
+    "local_id": "45532",
+    "name": "タケルライコex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45532.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45536",
+    "local_id": "45536",
+    "name": "ウガツホムラex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45536.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45537",
+    "local_id": "45537",
+    "name": "ウネルミナモex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45537.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45538",
+    "local_id": "45538",
+    "name": "タケルライコex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45538.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45541",
+    "local_id": "45541",
+    "name": "ウガツホムラex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45541.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45542",
+    "local_id": "45542",
+    "name": "ウネルミナモex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45542.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45543",
+    "local_id": "45543",
+    "name": "タケルライコex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45543.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45207",
+    "local_id": "45207",
+    "name": "おとりよせボックス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45207.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45208",
+    "local_id": "45208",
+    "name": "覚醒のドラム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45208.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45209",
+    "local_id": "45209",
+    "name": "なかよしポフィン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45209.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45210",
+    "local_id": "45210",
+    "name": "緊急ボード",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45210.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45211",
+    "local_id": "45211",
+    "name": "ブーストエナジー 古代",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45211.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45212",
+    "local_id": "45212",
+    "name": "マキシマムベルト",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45212.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45213",
+    "local_id": "45213",
+    "name": "探検家の先導",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45213.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45214",
+    "local_id": "45214",
+    "name": "ビワ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45214.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45215",
+    "local_id": "45215",
+    "name": "マツバの確信",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45215.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45216",
+    "local_id": "45216",
+    "name": "危険な密林",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45216.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45533",
+    "local_id": "45533",
+    "name": "探検家の先導",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45533.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45534",
+    "local_id": "45534",
+    "name": "ビワ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45534.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45535",
+    "local_id": "45535",
+    "name": "マツバの確信",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45535.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45539",
+    "local_id": "45539",
+    "name": "ビワ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45539.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45540",
+    "local_id": "45540",
+    "name": "マツバの確信",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45540.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5K-45217",
+    "local_id": "45217",
+    "name": "ネオアッパーエネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5K/45217.jpg",
+    "set_id": "SV5K",
+    "set_name": "ワイルドフォース",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45218",
+    "local_id": "45218",
+    "name": "ストライク",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45218.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45219",
+    "local_id": "45219",
+    "name": "クヌギダマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45219.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45220",
+    "local_id": "45220",
+    "name": "タネボー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45220.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45221",
+    "local_id": "45221",
+    "name": "コノハナ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45221.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45222",
+    "local_id": "45222",
+    "name": "ダーテング",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45222.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45223",
+    "local_id": "45223",
+    "name": "キノココ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45223.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45224",
+    "local_id": "45224",
+    "name": "キノガッサ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45224.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45225",
+    "local_id": "45225",
+    "name": "シキジカ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45225.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45226",
+    "local_id": "45226",
+    "name": "メブキジカ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45226.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45227",
+    "local_id": "45227",
+    "name": "アゴジムシ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45227.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45228",
+    "local_id": "45228",
+    "name": "ダダリン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45228.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45229",
+    "local_id": "45229",
+    "name": "アノクサ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45229.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45230",
+    "local_id": "45230",
+    "name": "アノホラグサ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45230.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45231",
+    "local_id": "45231",
+    "name": "シガロコ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45231.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45232",
+    "local_id": "45232",
+    "name": "ベラカス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45232.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45233",
+    "local_id": "45233",
+    "name": "テツノイサハex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45233.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45234",
+    "local_id": "45234",
+    "name": "マグマッグ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45234.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45235",
+    "local_id": "45235",
+    "name": "マグカルゴ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45235.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45236",
+    "local_id": "45236",
+    "name": "ビクティニ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45236.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45237",
+    "local_id": "45237",
+    "name": "ニャビー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45237.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45238",
+    "local_id": "45238",
+    "name": "ニャヒート",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45238.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45239",
+    "local_id": "45239",
+    "name": "ガオガエンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45239.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45240",
+    "local_id": "45240",
+    "name": "ピカチュウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45240.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45241",
+    "local_id": "45241",
+    "name": "ライチュウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45241.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45242",
+    "local_id": "45242",
+    "name": "エレブー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45242.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45243",
+    "local_id": "45243",
+    "name": "エレキブル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45243.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45244",
+    "local_id": "45244",
+    "name": "デンヂムシ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45244.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45245",
+    "local_id": "45245",
+    "name": "クワガノン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45245.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45246",
+    "local_id": "45246",
+    "name": "ゼラオラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45246.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45247",
+    "local_id": "45247",
+    "name": "テツノイバラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45247.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45248",
+    "local_id": "45248",
+    "name": "バリヤード",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45248.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45249",
+    "local_id": "45249",
+    "name": "キリンリキ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45249.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45250",
+    "local_id": "45250",
+    "name": "アブリー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45250.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45251",
+    "local_id": "45251",
+    "name": "アブリボン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45251.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45252",
+    "local_id": "45252",
+    "name": "テツノブジン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45252.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45253",
+    "local_id": "45253",
+    "name": "テツノカシラex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45253.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45254",
+    "local_id": "45254",
+    "name": "アサナン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45254.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45255",
+    "local_id": "45255",
+    "name": "チャーレム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45255.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45256",
+    "local_id": "45256",
+    "name": "モグリュー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45256.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45257",
+    "local_id": "45257",
+    "name": "ドリュウズ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45257.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45258",
+    "local_id": "45258",
+    "name": "テツノイワオex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45258.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45259",
+    "local_id": "45259",
+    "name": "リキキリンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45259.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45260",
+    "local_id": "45260",
+    "name": "フォレトス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45260.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45261",
+    "local_id": "45261",
+    "name": "ハッサムex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45261.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45262",
+    "local_id": "45262",
+    "name": "クチート",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45262.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45263",
+    "local_id": "45263",
+    "name": "ダンバル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45263.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45264",
+    "local_id": "45264",
+    "name": "メタング",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45264.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45265",
+    "local_id": "45265",
+    "name": "メタグロス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45265.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45266",
+    "local_id": "45266",
+    "name": "メルタン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45266.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45267",
+    "local_id": "45267",
+    "name": "メルメタル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45267.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45268",
+    "local_id": "45268",
+    "name": "テツノワダチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45268.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45269",
+    "local_id": "45269",
+    "name": "ミライドン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45269.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45270",
+    "local_id": "45270",
+    "name": "ベロリンガ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45270.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45271",
+    "local_id": "45271",
+    "name": "ベロベルト",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45271.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45272",
+    "local_id": "45272",
+    "name": "エネコ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45272.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45273",
+    "local_id": "45273",
+    "name": "エネコロロ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45273.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45274",
+    "local_id": "45274",
+    "name": "マメパト",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45274.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45275",
+    "local_id": "45275",
+    "name": "ハトーボー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45275.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45276",
+    "local_id": "45276",
+    "name": "ケンホロウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45276.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45277",
+    "local_id": "45277",
+    "name": "ジジーロン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45277.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45544",
+    "local_id": "45544",
+    "name": "ダーテング",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45544.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45545",
+    "local_id": "45545",
+    "name": "シキジカ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45545.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45546",
+    "local_id": "45546",
+    "name": "メブキジカ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45546.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45547",
+    "local_id": "45547",
+    "name": "ニャビー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45547.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45548",
+    "local_id": "45548",
+    "name": "デンヂムシ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45548.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45549",
+    "local_id": "45549",
+    "name": "テツノイバラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45549.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45550",
+    "local_id": "45550",
+    "name": "アブリー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45550.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45551",
+    "local_id": "45551",
+    "name": "ドリュウズ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45551.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45552",
+    "local_id": "45552",
+    "name": "メタグロス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45552.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45553",
+    "local_id": "45553",
+    "name": "メルタン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45553.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45554",
+    "local_id": "45554",
+    "name": "ベロリンガ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45554.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45555",
+    "local_id": "45555",
+    "name": "ジジーロン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45555.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45556",
+    "local_id": "45556",
+    "name": "テツノイサハex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45556.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45557",
+    "local_id": "45557",
+    "name": "ガオガエンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45557.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45558",
+    "local_id": "45558",
+    "name": "テツノカシラex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45558.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45559",
+    "local_id": "45559",
+    "name": "テツノイワオex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45559.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45560",
+    "local_id": "45560",
+    "name": "リキキリンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45560.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45561",
+    "local_id": "45561",
+    "name": "ハッサムex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45561.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45565",
+    "local_id": "45565",
+    "name": "テツノイサハex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45565.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45566",
+    "local_id": "45566",
+    "name": "テツノカシラex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45566.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45567",
+    "local_id": "45567",
+    "name": "テツノイワオex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45567.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45570",
+    "local_id": "45570",
+    "name": "テツノイサハex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45570.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45571",
+    "local_id": "45571",
+    "name": "テツノカシラex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45571.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45572",
+    "local_id": "45572",
+    "name": "テツノイワオex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45572.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45278",
+    "local_id": "45278",
+    "name": "ハンドトリマー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45278.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45279",
+    "local_id": "45279",
+    "name": "プライムキャッチャー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45279.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45280",
+    "local_id": "45280",
+    "name": "リブートポッド",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45280.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45281",
+    "local_id": "45281",
+    "name": "ヒーローマント",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45281.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45282",
+    "local_id": "45282",
+    "name": "ブーストエナジー 未来",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45282.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45283",
+    "local_id": "45283",
+    "name": "ヘビーバトン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45283.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45284",
+    "local_id": "45284",
+    "name": "暗号マニアの解読",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45284.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45285",
+    "local_id": "45285",
+    "name": "セイジ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45285.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45286",
+    "local_id": "45286",
+    "name": "ベルのまごころ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45286.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45287",
+    "local_id": "45287",
+    "name": "フルメタルラボ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45287.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45562",
+    "local_id": "45562",
+    "name": "暗号マニアの解読",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45562.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45563",
+    "local_id": "45563",
+    "name": "セイジ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45563.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45564",
+    "local_id": "45564",
+    "name": "ベルのまごころ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45564.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45568",
+    "local_id": "45568",
+    "name": "セイジ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45568.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45569",
+    "local_id": "45569",
+    "name": "ベルのまごころ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45569.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SV5M-45288",
+    "local_id": "45288",
+    "name": "ミストエネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SV5M/45288.jpg",
+    "set_id": "SV5M",
+    "set_name": "サイバージャッジ",
+    "region": "JP",
+    "serie_id": "SV"
   }
 ]

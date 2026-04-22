@@ -4,6 +4,16 @@
     "name": "SV 系列",
     "sets": [
       {
+        "id": "SV5K",
+        "name": "ワイルドフォース",
+        "logo": ""
+      },
+      {
+        "id": "SV5M",
+        "name": "サイバージャッジ",
+        "logo": ""
+      },
+      {
         "id": "SVHK",
         "name": "古代のコライドンex",
         "logo": ""
