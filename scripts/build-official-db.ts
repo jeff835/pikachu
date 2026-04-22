@@ -31,9 +31,9 @@ interface SetInfo {
 
 // 追加 SV6 擴充包
 // 專注於 SVEM 與 SVEL (太晶化起始組合)
+// 專注於 WCS23 紀念牌組
 const TARGET_SETS: SetInfo[] = [
-  { id: '898', name: 'スターターセット テラスタル ミュウツーex (SVEM)', manualSymbol: 'SVEM' },
-  { id: '899', name: 'スターターセット テラスタル ラウドボーンex (SVEL)', manualSymbol: 'SVEL' }
+  { id: '893', name: 'ポケモンワールドチャンピオンシップス2023横浜記念デッキ「ピカチュウ」 (WCS23)', manualSymbol: 'WCS23' }
 ];
 
 async function uploadImageToSupabase(imageUrl: string, savePath: string): Promise<string | null> {
@@ -126,7 +126,8 @@ async function fetchCardsForSet(set: SetInfo): Promise<{ cards: any[], symbol: s
            set_id: setSymbol,
            set_name: set.name,
            region: 'JP',
-           serie_id: setSymbol.startsWith('SV') ? 'SV' : setSymbol.replace(/[0-9a-zA-Z]$/, '').replace(/[0-9]$/, '')
+           // 強制將 WCS23 歸類在 SV 系列
+           serie_id: (setSymbol.startsWith('SV') || setSymbol === 'WCS23') ? 'SV' : setSymbol.replace(/[0-9a-zA-Z]$/, '').replace(/[0-9]$/, '')
          });
          
          await new Promise(resolve => setTimeout(resolve, 500)); // 避免被官方 rate limit
@@ -155,7 +156,7 @@ async function main() {
     allCards = allCards.concat(cards);
     
     // 建立世代目錄結構
-    const serieId = symbol.startsWith('SV') ? 'SV' : (symbol.match(/^[A-Za-z]+/)?.[0] || 'Unknown');
+    const serieId = (symbol.startsWith('SV') || symbol === 'WCS23') ? 'SV' : (symbol.match(/^[A-Za-z]+/)?.[0] || 'Unknown');
     if (!seriesMap[serieId]) {
        seriesMap[serieId] = { id: serieId, name: `${serieId} 系列`, sets: [] };
     }
