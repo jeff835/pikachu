@@ -30,7 +30,8 @@ interface SetInfo {
 
 // 追加 SV6 擴充包
 const TARGET_SETS: SetInfo[] = [
-  { id: '911', name: 'SVI バトルアカデミー' }
+  { id: '908', name: '古代のコライドンex' },
+  { id: '909', name: '未来のミライドンex' }
 ];
 
 async function uploadImageToSupabase(imageUrl: string, savePath: string): Promise<string | null> {

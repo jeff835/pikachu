@@ -4,6 +4,16 @@
     "name": "SV 系列",
     "sets": [
       {
+        "id": "SVHK",
+        "name": "古代のコライドンex",
+        "logo": ""
+      },
+      {
+        "id": "SVHM",
+        "name": "未来のミライドンex",
+        "logo": ""
+      },
+      {
         "id": "SVI",
         "name": "SVI バトルアカデミー",
         "logo": ""

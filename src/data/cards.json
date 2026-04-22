@@ -21298,5 +21298,1145 @@
     "set_name": "SVI バトルアカデミー",
     "region": "JP",
     "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45289",
+    "local_id": "45289",
+    "name": "ポニータ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45289.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45290",
+    "local_id": "45290",
+    "name": "ギャロップ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45290.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45291",
+    "local_id": "45291",
+    "name": "バクガメス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45291.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45292",
+    "local_id": "45292",
+    "name": "ネオラントV",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45292.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45293",
+    "local_id": "45293",
+    "name": "マナフィ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45293.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45294",
+    "local_id": "45294",
+    "name": "かがやくゲッコウガ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45294.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45295",
+    "local_id": "45295",
+    "name": "サケブシッポ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45295.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45296",
+    "local_id": "45296",
+    "name": "イワンコ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45296.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45297",
+    "local_id": "45297",
+    "name": "ルガルガン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45297.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45298",
+    "local_id": "45298",
+    "name": "イダイナキバ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45298.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45299",
+    "local_id": "45299",
+    "name": "スナノケガワ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45299.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45300",
+    "local_id": "45300",
+    "name": "コライドンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45300.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45301",
+    "local_id": "45301",
+    "name": "ポッポ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45301.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45302",
+    "local_id": "45302",
+    "name": "ピジョン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45302.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45303",
+    "local_id": "45303",
+    "name": "ピジョットex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45303.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45304",
+    "local_id": "45304",
+    "name": "ビッパ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45304.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45305",
+    "local_id": "45305",
+    "name": "ビーダル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45305.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45306",
+    "local_id": "45306",
+    "name": "いれかえカート",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45306.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45307",
+    "local_id": "45307",
+    "name": "エネルギーつけかえ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45307.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45308",
+    "local_id": "45308",
+    "name": "エレキジェネレーター",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45308.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45309",
+    "local_id": "45309",
+    "name": "カウンターキャッチャー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45309.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45310",
+    "local_id": "45310",
+    "name": "ガッツのつるはし",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45310.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45311",
+    "local_id": "45311",
+    "name": "すごいつりざお",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45311.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45312",
+    "local_id": "45312",
+    "name": "ダークパッチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45312.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45313",
+    "local_id": "45313",
+    "name": "大地の器",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45313.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45314",
+    "local_id": "45314",
+    "name": "トレッキングシューズ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45314.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45315",
+    "local_id": "45315",
+    "name": "ネストボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45315.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45316",
+    "local_id": "45316",
+    "name": "ハイパーボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45316.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45317",
+    "local_id": "45317",
+    "name": "ヒスイのヘビーボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45317.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45318",
+    "local_id": "45318",
+    "name": "ふしぎなアメ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45318.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45319",
+    "local_id": "45319",
+    "name": "ポケモンいれかえ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45319.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45320",
+    "local_id": "45320",
+    "name": "マスターボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45320.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45321",
+    "local_id": "45321",
+    "name": "ロストスイーパー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45321.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45322",
+    "local_id": "45322",
+    "name": "ガチガチバンド",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45322.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45323",
+    "local_id": "45323",
+    "name": "ブーストエナジー 古代",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45323.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45324",
+    "local_id": "45324",
+    "name": "森の封印石",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45324.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45325",
+    "local_id": "45325",
+    "name": "勇気のおまもり",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45325.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45326",
+    "local_id": "45326",
+    "name": "オーリム博士の気迫",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45326.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45327",
+    "local_id": "45327",
+    "name": "カイ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45327.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45328",
+    "local_id": "45328",
+    "name": "シロナの覇気",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45328.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45329",
+    "local_id": "45329",
+    "name": "ナタネの活気",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45329.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45330",
+    "local_id": "45330",
+    "name": "ナンジャモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45330.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45331",
+    "local_id": "45331",
+    "name": "ネモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45331.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45332",
+    "local_id": "45332",
+    "name": "博士の研究",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45332.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45333",
+    "local_id": "45333",
+    "name": "ペパー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45333.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45334",
+    "local_id": "45334",
+    "name": "ボスの指令",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45334.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45335",
+    "local_id": "45335",
+    "name": "シンオウ神殿",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45335.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45336",
+    "local_id": "45336",
+    "name": "ビーチコート",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45336.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45337",
+    "local_id": "45337",
+    "name": "ボウルタウン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45337.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45338",
+    "local_id": "45338",
+    "name": "マグマの滝壺",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45338.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "ENE-42779",
+    "local_id": "42779",
+    "name": "基本草エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/ENE/42779.jpg",
+    "set_id": "ENE",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "EN"
+  },
+  {
+    "id": "ENE-42780",
+    "local_id": "42780",
+    "name": "基本炎エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/ENE/42780.jpg",
+    "set_id": "ENE",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "EN"
+  },
+  {
+    "id": "ENE-42781",
+    "local_id": "42781",
+    "name": "基本水エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/ENE/42781.jpg",
+    "set_id": "ENE",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "EN"
+  },
+  {
+    "id": "ENE-42782",
+    "local_id": "42782",
+    "name": "基本雷エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/ENE/42782.jpg",
+    "set_id": "ENE",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "EN"
+  },
+  {
+    "id": "ENE-42783",
+    "local_id": "42783",
+    "name": "基本超エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/ENE/42783.jpg",
+    "set_id": "ENE",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "EN"
+  },
+  {
+    "id": "ENE-42784",
+    "local_id": "42784",
+    "name": "基本闘エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/ENE/42784.jpg",
+    "set_id": "ENE",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "EN"
+  },
+  {
+    "id": "ENE-42785",
+    "local_id": "42785",
+    "name": "基本悪エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/ENE/42785.jpg",
+    "set_id": "ENE",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "EN"
+  },
+  {
+    "id": "ENE-42786",
+    "local_id": "42786",
+    "name": "基本鋼エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/ENE/42786.jpg",
+    "set_id": "ENE",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "EN"
+  },
+  {
+    "id": "SVHK-45339",
+    "local_id": "45339",
+    "name": "ダブルターボエネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45339.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45340",
+    "local_id": "45340",
+    "name": "リバーサルエネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45340.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHK-45341",
+    "local_id": "45341",
+    "name": "ルミナスエネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHK/45341.jpg",
+    "set_id": "SVHK",
+    "set_name": "古代のコライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45342",
+    "local_id": "45342",
+    "name": "ネオラントV",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45342.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45343",
+    "local_id": "45343",
+    "name": "マナフィ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45343.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45344",
+    "local_id": "45344",
+    "name": "かがやくゲッコウガ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45344.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45345",
+    "local_id": "45345",
+    "name": "ワンパチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45345.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45346",
+    "local_id": "45346",
+    "name": "パルスワン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45346.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45347",
+    "local_id": "45347",
+    "name": "テツノカイナ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45347.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45348",
+    "local_id": "45348",
+    "name": "ラティアス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45348.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45349",
+    "local_id": "45349",
+    "name": "リグレー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45349.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45350",
+    "local_id": "45350",
+    "name": "オーベム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45350.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45351",
+    "local_id": "45351",
+    "name": "テツノブジン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45351.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45352",
+    "local_id": "45352",
+    "name": "ミライドンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45352.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45353",
+    "local_id": "45353",
+    "name": "ポッポ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45353.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45354",
+    "local_id": "45354",
+    "name": "ピジョン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45354.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45355",
+    "local_id": "45355",
+    "name": "ピジョットex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45355.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45356",
+    "local_id": "45356",
+    "name": "ビッパ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45356.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45357",
+    "local_id": "45357",
+    "name": "ビーダル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45357.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45358",
+    "local_id": "45358",
+    "name": "テツノコウベ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45358.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45359",
+    "local_id": "45359",
+    "name": "いれかえカート",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45359.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45360",
+    "local_id": "45360",
+    "name": "エネルギーつけかえ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45360.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45361",
+    "local_id": "45361",
+    "name": "エレキジェネレーター",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45361.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45362",
+    "local_id": "45362",
+    "name": "カウンターキャッチャー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45362.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45363",
+    "local_id": "45363",
+    "name": "ガッツのつるはし",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45363.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45364",
+    "local_id": "45364",
+    "name": "すごいつりざお",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45364.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45365",
+    "local_id": "45365",
+    "name": "ダークパッチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45365.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45366",
+    "local_id": "45366",
+    "name": "テクノレーダー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45366.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45367",
+    "local_id": "45367",
+    "name": "トレッキングシューズ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45367.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45368",
+    "local_id": "45368",
+    "name": "ネストボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45368.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45369",
+    "local_id": "45369",
+    "name": "ハイパーボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45369.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45370",
+    "local_id": "45370",
+    "name": "ヒスイのヘビーボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45370.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45371",
+    "local_id": "45371",
+    "name": "ふしぎなアメ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45371.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45372",
+    "local_id": "45372",
+    "name": "ポケモンいれかえ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45372.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45373",
+    "local_id": "45373",
+    "name": "マスターボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45373.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45374",
+    "local_id": "45374",
+    "name": "ロストスイーパー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45374.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45375",
+    "local_id": "45375",
+    "name": "ガチガチバンド",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45375.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45376",
+    "local_id": "45376",
+    "name": "ブーストエナジー 未来",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45376.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45377",
+    "local_id": "45377",
+    "name": "森の封印石",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45377.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45378",
+    "local_id": "45378",
+    "name": "勇気のおまもり",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45378.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45379",
+    "local_id": "45379",
+    "name": "カイ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45379.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45380",
+    "local_id": "45380",
+    "name": "シロナの覇気",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45380.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45381",
+    "local_id": "45381",
+    "name": "ナタネの活気",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45381.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45382",
+    "local_id": "45382",
+    "name": "ナンジャモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45382.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45383",
+    "local_id": "45383",
+    "name": "ネモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45383.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45384",
+    "local_id": "45384",
+    "name": "博士の研究",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45384.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45385",
+    "local_id": "45385",
+    "name": "フトゥー博士のシナリオ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45385.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45386",
+    "local_id": "45386",
+    "name": "ペパー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45386.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45387",
+    "local_id": "45387",
+    "name": "ボスの指令",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45387.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45388",
+    "local_id": "45388",
+    "name": "シンオウ神殿",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45388.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45389",
+    "local_id": "45389",
+    "name": "ビーチコート",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45389.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45390",
+    "local_id": "45390",
+    "name": "ボウルタウン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45390.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45391",
+    "local_id": "45391",
+    "name": "マグマの滝壺",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45391.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45392",
+    "local_id": "45392",
+    "name": "ダブルターボエネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45392.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45393",
+    "local_id": "45393",
+    "name": "リバーサルエネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45393.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVHM-45394",
+    "local_id": "45394",
+    "name": "ルミナスエネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVHM/45394.jpg",
+    "set_id": "SVHM",
+    "set_name": "未来のミライドンex",
+    "region": "JP",
+    "serie_id": "SV"
   }
 ]
