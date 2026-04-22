@@ -64,7 +64,7 @@ export default function Search() {
         queryBuilder = queryBuilder.eq('region', version).order('local_id', { ascending: true })
         
         // 限制顯示筆數避免瀏覽器過載
-        const { data: dbResults, error: dbError } = await queryBuilder.limit(300)
+        const { data: dbResults, error: dbError } = await queryBuilder.limit(1000)
 
         if (dbError) throw dbError
 

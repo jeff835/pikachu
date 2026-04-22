@@ -67,7 +67,7 @@ export default function Catalog() {
            .select('*')
            .eq('set_id', selectedSet.id)
            .order('local_id', { ascending: true })
-           .limit(300)
+           .limit(1000)
 
         if (dbError) throw dbError
 
