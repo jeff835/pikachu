@@ -26,21 +26,29 @@ interface OfficialCard {
 interface SetInfo {
   id: string; // 官方內部查詢 ID (pg)
   name: string; // 前台名稱
+  manualSymbol?: string;
 }
 
 // 追加 SV6 擴充包
+// 專注於 SVG 擴充包
 const TARGET_SETS: SetInfo[] = [
-  { id: '877', name: 'トリプレットビート' },
-  { id: '879', name: 'スノーハザード' },
-  { id: '880', name: 'クレイバースト' },
-  { id: '894', name: '黒炎の支配者' },
-  { id: '897', name: 'レイジングサーフ' },
-  { id: '901', name: '古代の咆哮' },
-  { id: '902', name: '未来の一閃' }
+  { id: '904', name: 'スペシャルデッキセットex フシギバナ・リザードン・カメックス (SVG)' }
 ];
 
 async function uploadImageToSupabase(imageUrl: string, savePath: string): Promise<string | null> {
   try {
+    // 檢查檔案是否已存在，避免重複下載上傳
+    const { data: existingFile } = await supabase.storage
+      .from('card-images')
+      .list(path.dirname(savePath), {
+        search: path.basename(savePath)
+      });
+
+    if (existingFile && existingFile.length > 0) {
+      const { data: pubData } = supabase.storage.from('card-images').getPublicUrl(savePath);
+      return pubData.publicUrl;
+    }
+
     const res = await axios.get(imageUrl, { responseType: 'arraybuffer' });
     const buffer = Buffer.from(res.data, 'binary');
     
