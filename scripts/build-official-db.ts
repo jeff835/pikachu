@@ -30,9 +30,10 @@ interface SetInfo {
 }
 
 // 追加 SV6 擴充包
-// 專注於 SVG 擴充包
+// 專注於 SVEM 與 SVEL 擴充包
 const TARGET_SETS: SetInfo[] = [
-  { id: '904', name: 'スペシャルデッキセットex フシギバナ・リザードン・カメックス (SVG)' }
+  { id: '891', name: 'スターターセットex ホゲータ＆デンリュウex (SVEM)' },
+  { id: '892', name: 'スターターセットex クワッス＆ミミッキュex (SVEL)' }
 ];
 
 async function uploadImageToSupabase(imageUrl: string, savePath: string): Promise<string | null> {
