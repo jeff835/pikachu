@@ -4,8 +4,13 @@
     "name": "SV 系列",
     "sets": [
       {
-        "id": "SVD",
-        "name": "スターターセットex ホゲータ＆デンリュウex (SVEM)",
+        "id": "SVEM",
+        "name": "exスターターセット ホゲータ＆デンリュウex",
+        "logo": ""
+      },
+      {
+        "id": "SVEL",
+        "name": "exスターターセット クワッス＆ミミッキュex",
         "logo": ""
       },
       {
