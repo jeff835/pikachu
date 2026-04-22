@@ -36328,5 +36328,465 @@
     "set_name": "スターターセットex クワッス＆ミミッキュex (SVEL)",
     "region": "JP",
     "serie_id": "SV"
+  },
+  {
+    "id": "SVEM-44165",
+    "local_id": "44165",
+    "name": "ミュウツーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEM/44165.jpg",
+    "set_id": "SVEM",
+    "set_name": "スターターセット テラスタル ミュウツーex (SVEM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEM-44166",
+    "local_id": "44166",
+    "name": "タマタマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEM/44166.jpg",
+    "set_id": "SVEM",
+    "set_name": "スターターセット テラスタル ミュウツーex (SVEM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEM-44167",
+    "local_id": "44167",
+    "name": "ナッシー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEM/44167.jpg",
+    "set_id": "SVEM",
+    "set_name": "スターターセット テラスタル ミュウツーex (SVEM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEM-44168",
+    "local_id": "44168",
+    "name": "ネイティ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEM/44168.jpg",
+    "set_id": "SVEM",
+    "set_name": "スターターセット テラスタル ミュウツーex (SVEM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEM-44205",
+    "local_id": "44205",
+    "name": "ネイティ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEM/44205.jpg",
+    "set_id": "SVEM",
+    "set_name": "スターターセット テラスタル ミュウツーex (SVEM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEM-44169",
+    "local_id": "44169",
+    "name": "ネイティオ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEM/44169.jpg",
+    "set_id": "SVEM",
+    "set_name": "スターターセット テラスタル ミュウツーex (SVEM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEM-44206",
+    "local_id": "44206",
+    "name": "ネイティオ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEM/44206.jpg",
+    "set_id": "SVEM",
+    "set_name": "スターターセット テラスタル ミュウツーex (SVEM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEM-44170",
+    "local_id": "44170",
+    "name": "デオキシス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEM/44170.jpg",
+    "set_id": "SVEM",
+    "set_name": "スターターセット テラスタル ミュウツーex (SVEM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEM-44171",
+    "local_id": "44171",
+    "name": "モンメン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEM/44171.jpg",
+    "set_id": "SVEM",
+    "set_name": "スターターセット テラスタル ミュウツーex (SVEM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEM-44172",
+    "local_id": "44172",
+    "name": "エルフーン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEM/44172.jpg",
+    "set_id": "SVEM",
+    "set_name": "スターターセット テラスタル ミュウツーex (SVEM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEM-44173",
+    "local_id": "44173",
+    "name": "デデンネ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEM/44173.jpg",
+    "set_id": "SVEM",
+    "set_name": "スターターセット テラスタル ミュウツーex (SVEM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEM-44174",
+    "local_id": "44174",
+    "name": "霧の水晶",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEM/44174.jpg",
+    "set_id": "SVEM",
+    "set_name": "スターターセット テラスタル ミュウツーex (SVEM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEM-44175",
+    "local_id": "44175",
+    "name": "すごいつりざお",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEM/44175.jpg",
+    "set_id": "SVEM",
+    "set_name": "スターターセット テラスタル ミュウツーex (SVEM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEM-44176",
+    "local_id": "44176",
+    "name": "ネストボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEM/44176.jpg",
+    "set_id": "SVEM",
+    "set_name": "スターターセット テラスタル ミュウツーex (SVEM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEM-44177",
+    "local_id": "44177",
+    "name": "ハイパーボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEM/44177.jpg",
+    "set_id": "SVEM",
+    "set_name": "スターターセット テラスタル ミュウツーex (SVEM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEM-44178",
+    "local_id": "44178",
+    "name": "ポケギア3.0",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEM/44178.jpg",
+    "set_id": "SVEM",
+    "set_name": "スターターセット テラスタル ミュウツーex (SVEM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEM-44179",
+    "local_id": "44179",
+    "name": "ポケモンいれかえ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEM/44179.jpg",
+    "set_id": "SVEM",
+    "set_name": "スターターセット テラスタル ミュウツーex (SVEM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEM-44180",
+    "local_id": "44180",
+    "name": "勇気のおまもり",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEM/44180.jpg",
+    "set_id": "SVEM",
+    "set_name": "スターターセット テラスタル ミュウツーex (SVEM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEM-44181",
+    "local_id": "44181",
+    "name": "ナンジャモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEM/44181.jpg",
+    "set_id": "SVEM",
+    "set_name": "スターターセット テラスタル ミュウツーex (SVEM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEM-44182",
+    "local_id": "44182",
+    "name": "ネモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEM/44182.jpg",
+    "set_id": "SVEM",
+    "set_name": "スターターセット テラスタル ミュウツーex (SVEM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEM-44183",
+    "local_id": "44183",
+    "name": "博士の研究",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEM/44183.jpg",
+    "set_id": "SVEM",
+    "set_name": "スターターセット テラスタル ミュウツーex (SVEM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEM-44184",
+    "local_id": "44184",
+    "name": "ボスの指令",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEM/44184.jpg",
+    "set_id": "SVEM",
+    "set_name": "スターターセット テラスタル ミュウツーex (SVEM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEM-42783",
+    "local_id": "42783",
+    "name": "基本超エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEM/42783.jpg",
+    "set_id": "SVEM",
+    "set_name": "スターターセット テラスタル ミュウツーex (SVEM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEL-44185",
+    "local_id": "44185",
+    "name": "ブーバー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEL/44185.jpg",
+    "set_id": "SVEL",
+    "set_name": "スターターセット テラスタル ラウドボーンex (SVEL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEL-44186",
+    "local_id": "44186",
+    "name": "ブーバーン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEL/44186.jpg",
+    "set_id": "SVEL",
+    "set_name": "スターターセット テラスタル ラウドボーンex (SVEL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEL-44187",
+    "local_id": "44187",
+    "name": "ヒートロトム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEL/44187.jpg",
+    "set_id": "SVEL",
+    "set_name": "スターターセット テラスタル ラウドボーンex (SVEL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEL-44188",
+    "local_id": "44188",
+    "name": "ボルケニオン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEL/44188.jpg",
+    "set_id": "SVEL",
+    "set_name": "スターターセット テラスタル ラウドボーンex (SVEL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEL-44189",
+    "local_id": "44189",
+    "name": "ホゲータ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEL/44189.jpg",
+    "set_id": "SVEL",
+    "set_name": "スターターセット テラスタル ラウドボーンex (SVEL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEL-44207",
+    "local_id": "44207",
+    "name": "ホゲータ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEL/44207.jpg",
+    "set_id": "SVEL",
+    "set_name": "スターターセット テラスタル ラウドボーンex (SVEL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEL-44190",
+    "local_id": "44190",
+    "name": "アチゲータ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEL/44190.jpg",
+    "set_id": "SVEL",
+    "set_name": "スターターセット テラスタル ラウドボーンex (SVEL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEL-44208",
+    "local_id": "44208",
+    "name": "アチゲータ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEL/44208.jpg",
+    "set_id": "SVEL",
+    "set_name": "スターターセット テラスタル ラウドボーンex (SVEL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEL-44191",
+    "local_id": "44191",
+    "name": "ミュウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEL/44191.jpg",
+    "set_id": "SVEL",
+    "set_name": "スターターセット テラスタル ラウドボーンex (SVEL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEL-44192",
+    "local_id": "44192",
+    "name": "ラウドボーンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEL/44192.jpg",
+    "set_id": "SVEL",
+    "set_name": "スターターセット テラスタル ラウドボーンex (SVEL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEL-44193",
+    "local_id": "44193",
+    "name": "スーパーエネルギー回収",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEL/44193.jpg",
+    "set_id": "SVEL",
+    "set_name": "スターターセット テラスタル ラウドボーンex (SVEL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEL-44194",
+    "local_id": "44194",
+    "name": "すごいつりざお",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEL/44194.jpg",
+    "set_id": "SVEL",
+    "set_name": "スターターセット テラスタル ラウドボーンex (SVEL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEL-44195",
+    "local_id": "44195",
+    "name": "ネストボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEL/44195.jpg",
+    "set_id": "SVEL",
+    "set_name": "スターターセット テラスタル ラウドボーンex (SVEL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEL-44196",
+    "local_id": "44196",
+    "name": "ハイパーボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEL/44196.jpg",
+    "set_id": "SVEL",
+    "set_name": "スターターセット テラスタル ラウドボーンex (SVEL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEL-44197",
+    "local_id": "44197",
+    "name": "ふしぎなアメ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEL/44197.jpg",
+    "set_id": "SVEL",
+    "set_name": "スターターセット テラスタル ラウドボーンex (SVEL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEL-44198",
+    "local_id": "44198",
+    "name": "ポケギア3.0",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEL/44198.jpg",
+    "set_id": "SVEL",
+    "set_name": "スターターセット テラスタル ラウドボーンex (SVEL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEL-44199",
+    "local_id": "44199",
+    "name": "ポケモンいれかえ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEL/44199.jpg",
+    "set_id": "SVEL",
+    "set_name": "スターターセット テラスタル ラウドボーンex (SVEL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEL-44200",
+    "local_id": "44200",
+    "name": "ナンジャモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEL/44200.jpg",
+    "set_id": "SVEL",
+    "set_name": "スターターセット テラスタル ラウドボーンex (SVEL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEL-44201",
+    "local_id": "44201",
+    "name": "ネモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEL/44201.jpg",
+    "set_id": "SVEL",
+    "set_name": "スターターセット テラスタル ラウドボーンex (SVEL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEL-44202",
+    "local_id": "44202",
+    "name": "博士の研究",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEL/44202.jpg",
+    "set_id": "SVEL",
+    "set_name": "スターターセット テラスタル ラウドボーンex (SVEL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEL-44203",
+    "local_id": "44203",
+    "name": "ボスの指令",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEL/44203.jpg",
+    "set_id": "SVEL",
+    "set_name": "スターターセット テラスタル ラウドボーンex (SVEL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEL-44204",
+    "local_id": "44204",
+    "name": "マグマの滝壺",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEL/44204.jpg",
+    "set_id": "SVEL",
+    "set_name": "スターターセット テラスタル ラウドボーンex (SVEL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVEL-42780",
+    "local_id": "42780",
+    "name": "基本炎エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVEL/42780.jpg",
+    "set_id": "SVEL",
+    "set_name": "スターターセット テラスタル ラウドボーンex (SVEL)",
+    "region": "JP",
+    "serie_id": "SV"
   }
 ]

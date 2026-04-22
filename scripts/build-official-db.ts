@@ -30,10 +30,10 @@ interface SetInfo {
 }
 
 // 追加 SV6 擴充包
-// 專注於 SVEM 與 SVEL 擴充包
+// 專注於 SVEM 與 SVEL (太晶化起始組合)
 const TARGET_SETS: SetInfo[] = [
-  { id: '891', name: 'スターターセットex ホゲータ＆デンリュウex (SVEM)', manualSymbol: 'SVEM' },
-  { id: '892', name: 'スターターセットex クワッス＆ミミッキュex (SVEL)', manualSymbol: 'SVEL' }
+  { id: '898', name: 'スターターセット テラスタル ミュウツーex (SVEM)', manualSymbol: 'SVEM' },
+  { id: '899', name: 'スターターセット テラスタル ラウドボーンex (SVEL)', manualSymbol: 'SVEL' }
 ];
 
 async function uploadImageToSupabase(imageUrl: string, savePath: string): Promise<string | null> {
