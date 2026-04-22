@@ -30,7 +30,13 @@ interface SetInfo {
 
 // 追加 SV6 擴充包
 const TARGET_SETS: SetInfo[] = [
-  { id: '905', name: 'シャイニートレジャーex' }
+  { id: '877', name: 'トリプレットビート' },
+  { id: '879', name: 'スノーハザード' },
+  { id: '880', name: 'クレイバースト' },
+  { id: '894', name: '黒炎の支配者' },
+  { id: '897', name: 'レイジングサーフ' },
+  { id: '901', name: '古代の咆哮' },
+  { id: '902', name: '未来の一閃' }
 ];
 
 async function uploadImageToSupabase(imageUrl: string, savePath: string): Promise<string | null> {
