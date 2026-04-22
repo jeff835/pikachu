@@ -29,11 +29,9 @@ interface SetInfo {
   manualSymbol?: string;
 }
 
-// 追加 SV6 擴充包
-// 專注於 SVEM 與 SVEL (太晶化起始組合)
-// 專注於 WCS23 紀念牌組
+// 專注於 WCS23 紀念牌組（橫濱世界錦標賽 2023）
 const TARGET_SETS: SetInfo[] = [
-  { id: '893', name: 'ポケモンワールドチャンピオンシップス2023横浜記念デッキ「ピカチュウ」 (WCS23)', manualSymbol: 'WCS23' }
+  { id: '896', name: 'ポケモンワールドチャンピオンシップス2023横浜記念デッキ「ピカチュウ」 (WCS23)', manualSymbol: 'WCS23' }
 ];
 
 async function uploadImageToSupabase(imageUrl: string, savePath: string): Promise<string | null> {
