@@ -29,11 +29,9 @@ interface SetInfo {
   manualSymbol?: string;
 }
 
-// 專注於 SVAM, SVAL, SVAW 起始組合
+// 專注於 SV-P 特典卡 (Promo Cards)
 const TARGET_SETS: SetInfo[] = [
-  { id: '872', name: 'スターターセットex ニャオハ＆ルカリオex (SVAM)', manualSymbol: 'SVAM' },
-  { id: '873', name: 'スターターセットex ホゲータ＆デンリュウex (SVAL)', manualSymbol: 'SVAL' },
-  { id: '874', name: 'スターターセットex クワッス＆ミミッキュex (SVAW)', manualSymbol: 'SVAW' }
+  { id: 'SV-P', name: 'SV-P プロモカード', manualSymbol: 'SV-P' }
 ];
 
 async function uploadImageToSupabase(imageUrl: string, savePath: string): Promise<string | null> {
