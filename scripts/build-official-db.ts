@@ -29,9 +29,11 @@ interface SetInfo {
   manualSymbol?: string;
 }
 
-// 專注於 SVB 頂級訓練家收藏箱
+// 專注於 SVAM, SVAL, SVAW 起始組合
 const TARGET_SETS: SetInfo[] = [
-  { id: '875', name: 'プレミアムトレーナーボックスex (SVB)', manualSymbol: 'SVB' }
+  { id: '872', name: 'スターターセットex ニャオハ＆ルカリオex (SVAM)', manualSymbol: 'SVAM' },
+  { id: '873', name: 'スターターセットex ホゲータ＆デンリュウex (SVAL)', manualSymbol: 'SVAL' },
+  { id: '874', name: 'スターターセットex クワッス＆ミミッキュex (SVAW)', manualSymbol: 'SVAW' }
 ];
 
 async function uploadImageToSupabase(imageUrl: string, savePath: string): Promise<string | null> {

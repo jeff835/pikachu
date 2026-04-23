@@ -4,6 +4,21 @@
     "name": "SV 系列",
     "sets": [
       {
+        "id": "SVAM",
+        "name": "スターターセットex ニャオハ＆ルカリオex (SVAM)",
+        "logo": ""
+      },
+      {
+        "id": "SVAL",
+        "name": "スターターセットex ホゲータ＆デンリュウex (SVAL)",
+        "logo": ""
+      },
+      {
+        "id": "SVAW",
+        "name": "スターターセットex クワッス＆ミミッキュex (SVAW)",
+        "logo": ""
+      },
+      {
         "id": "SVB",
         "name": "プレミアムトレーナーボックスex (SVB)",
         "logo": ""

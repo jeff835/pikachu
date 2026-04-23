@@ -40268,5 +40268,825 @@
     "set_name": "プレミアムトレーナーボックスex (SVB)",
     "region": "JP",
     "serie_id": "SV"
+  },
+  {
+    "id": "SVAM-42703",
+    "local_id": "42703",
+    "name": "キノココ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAM/42703.jpg",
+    "set_id": "SVAM",
+    "set_name": "スターターセットex ニャオハ＆ルカリオex (SVAM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAM-42704",
+    "local_id": "42704",
+    "name": "キノガッサ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAM/42704.jpg",
+    "set_id": "SVAM",
+    "set_name": "スターターセットex ニャオハ＆ルカリオex (SVAM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAM-42705",
+    "local_id": "42705",
+    "name": "トロピウス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAM/42705.jpg",
+    "set_id": "SVAM",
+    "set_name": "スターターセットex ニャオハ＆ルカリオex (SVAM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAM-42706",
+    "local_id": "42706",
+    "name": "ニャオハ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAM/42706.jpg",
+    "set_id": "SVAM",
+    "set_name": "スターターセットex ニャオハ＆ルカリオex (SVAM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAM-42726",
+    "local_id": "42726",
+    "name": "ニャオハ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAM/42726.jpg",
+    "set_id": "SVAM",
+    "set_name": "スターターセットex ニャオハ＆ルカリオex (SVAM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAM-42707",
+    "local_id": "42707",
+    "name": "ニャローテ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAM/42707.jpg",
+    "set_id": "SVAM",
+    "set_name": "スターターセットex ニャオハ＆ルカリオex (SVAM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAM-42727",
+    "local_id": "42727",
+    "name": "ニャローテ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAM/42727.jpg",
+    "set_id": "SVAM",
+    "set_name": "スターターセットex ニャオハ＆ルカリオex (SVAM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAM-42708",
+    "local_id": "42708",
+    "name": "マスカーニャ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAM/42708.jpg",
+    "set_id": "SVAM",
+    "set_name": "スターターセットex ニャオハ＆ルカリオex (SVAM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAM-42728",
+    "local_id": "42728",
+    "name": "マスカーニャ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAM/42728.jpg",
+    "set_id": "SVAM",
+    "set_name": "スターターセットex ニャオハ＆ルカリオex (SVAM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAM-42709",
+    "local_id": "42709",
+    "name": "タマンチュラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAM/42709.jpg",
+    "set_id": "SVAM",
+    "set_name": "スターターセットex ニャオハ＆ルカリオex (SVAM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAM-42710",
+    "local_id": "42710",
+    "name": "リオル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAM/42710.jpg",
+    "set_id": "SVAM",
+    "set_name": "スターターセットex ニャオハ＆ルカリオex (SVAM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAM-42711",
+    "local_id": "42711",
+    "name": "ルカリオex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAM/42711.jpg",
+    "set_id": "SVAM",
+    "set_name": "スターターセットex ニャオハ＆ルカリオex (SVAM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAM-42712",
+    "local_id": "42712",
+    "name": "イシヘンジン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAM/42712.jpg",
+    "set_id": "SVAM",
+    "set_name": "スターターセットex ニャオハ＆ルカリオex (SVAM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAM-42713",
+    "local_id": "42713",
+    "name": "グルトン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAM/42713.jpg",
+    "set_id": "SVAM",
+    "set_name": "スターターセットex ニャオハ＆ルカリオex (SVAM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAM-42714",
+    "local_id": "42714",
+    "name": "エネルギーつけかえ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAM/42714.jpg",
+    "set_id": "SVAM",
+    "set_name": "スターターセットex ニャオハ＆ルカリオex (SVAM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAM-42715",
+    "local_id": "42715",
+    "name": "エネルギー転送",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAM/42715.jpg",
+    "set_id": "SVAM",
+    "set_name": "スターターセットex ニャオハ＆ルカリオex (SVAM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAM-42716",
+    "local_id": "42716",
+    "name": "きずぐすり",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAM/42716.jpg",
+    "set_id": "SVAM",
+    "set_name": "スターターセットex ニャオハ＆ルカリオex (SVAM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAM-42717",
+    "local_id": "42717",
+    "name": "ネストボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAM/42717.jpg",
+    "set_id": "SVAM",
+    "set_name": "スターターセットex ニャオハ＆ルカリオex (SVAM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAM-42718",
+    "local_id": "42718",
+    "name": "ハイパーボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAM/42718.jpg",
+    "set_id": "SVAM",
+    "set_name": "スターターセットex ニャオハ＆ルカリオex (SVAM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAM-42719",
+    "local_id": "42719",
+    "name": "ポケギア3.0",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAM/42719.jpg",
+    "set_id": "SVAM",
+    "set_name": "スターターセットex ニャオハ＆ルカリオex (SVAM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAM-42720",
+    "local_id": "42720",
+    "name": "ポケモンいれかえ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAM/42720.jpg",
+    "set_id": "SVAM",
+    "set_name": "スターターセットex ニャオハ＆ルカリオex (SVAM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAM-42721",
+    "local_id": "42721",
+    "name": "ポケモンキャッチャー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAM/42721.jpg",
+    "set_id": "SVAM",
+    "set_name": "スターターセットex ニャオハ＆ルカリオex (SVAM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAM-42722",
+    "local_id": "42722",
+    "name": "ジャッジマン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAM/42722.jpg",
+    "set_id": "SVAM",
+    "set_name": "スターターセットex ニャオハ＆ルカリオex (SVAM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAM-42723",
+    "local_id": "42723",
+    "name": "たんぱんこぞう",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAM/42723.jpg",
+    "set_id": "SVAM",
+    "set_name": "スターターセットex ニャオハ＆ルカリオex (SVAM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAM-42724",
+    "local_id": "42724",
+    "name": "ネモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAM/42724.jpg",
+    "set_id": "SVAM",
+    "set_name": "スターターセットex ニャオハ＆ルカリオex (SVAM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAM-42725",
+    "local_id": "42725",
+    "name": "博士の研究",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAM/42725.jpg",
+    "set_id": "SVAM",
+    "set_name": "スターターセットex ニャオハ＆ルカリオex (SVAM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAM-42779",
+    "local_id": "42779",
+    "name": "基本草エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAM/42779.jpg",
+    "set_id": "SVAM",
+    "set_name": "スターターセットex ニャオハ＆ルカリオex (SVAM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAM-42784",
+    "local_id": "42784",
+    "name": "基本闘エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAM/42784.jpg",
+    "set_id": "SVAM",
+    "set_name": "スターターセットex ニャオハ＆ルカリオex (SVAM)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAL-42729",
+    "local_id": "42729",
+    "name": "ガーディ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAL/42729.jpg",
+    "set_id": "SVAL",
+    "set_name": "スターターセットex ホゲータ＆デンリュウex (SVAL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAL-42730",
+    "local_id": "42730",
+    "name": "ホゲータ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAL/42730.jpg",
+    "set_id": "SVAL",
+    "set_name": "スターターセットex ホゲータ＆デンリュウex (SVAL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAL-42750",
+    "local_id": "42750",
+    "name": "ホゲータ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAL/42750.jpg",
+    "set_id": "SVAL",
+    "set_name": "スターターセットex ホゲータ＆デンリュウex (SVAL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAL-42731",
+    "local_id": "42731",
+    "name": "アチゲータ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAL/42731.jpg",
+    "set_id": "SVAL",
+    "set_name": "スターターセットex ホゲータ＆デンリュウex (SVAL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAL-42751",
+    "local_id": "42751",
+    "name": "アチゲータ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAL/42751.jpg",
+    "set_id": "SVAL",
+    "set_name": "スターターセットex ホゲータ＆デンリュウex (SVAL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAL-42732",
+    "local_id": "42732",
+    "name": "ラウドボーン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAL/42732.jpg",
+    "set_id": "SVAL",
+    "set_name": "スターターセットex ホゲータ＆デンリュウex (SVAL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAL-42752",
+    "local_id": "42752",
+    "name": "ラウドボーン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAL/42752.jpg",
+    "set_id": "SVAL",
+    "set_name": "スターターセットex ホゲータ＆デンリュウex (SVAL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAL-42733",
+    "local_id": "42733",
+    "name": "メリープ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAL/42733.jpg",
+    "set_id": "SVAL",
+    "set_name": "スターターセットex ホゲータ＆デンリュウex (SVAL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAL-42734",
+    "local_id": "42734",
+    "name": "モココ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAL/42734.jpg",
+    "set_id": "SVAL",
+    "set_name": "スターターセットex ホゲータ＆デンリュウex (SVAL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAL-42735",
+    "local_id": "42735",
+    "name": "デンリュウex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAL/42735.jpg",
+    "set_id": "SVAL",
+    "set_name": "スターターセットex ホゲータ＆デンリュウex (SVAL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAL-42736",
+    "local_id": "42736",
+    "name": "ロトム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAL/42736.jpg",
+    "set_id": "SVAL",
+    "set_name": "スターターセットex ホゲータ＆デンリュウex (SVAL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAL-42737",
+    "local_id": "42737",
+    "name": "グルトン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAL/42737.jpg",
+    "set_id": "SVAL",
+    "set_name": "スターターセットex ホゲータ＆デンリュウex (SVAL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAL-42738",
+    "local_id": "42738",
+    "name": "カラミンゴ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAL/42738.jpg",
+    "set_id": "SVAL",
+    "set_name": "スターターセットex ホゲータ＆デンリュウex (SVAL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAL-42739",
+    "local_id": "42739",
+    "name": "エネルギー転送",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAL/42739.jpg",
+    "set_id": "SVAL",
+    "set_name": "スターターセットex ホゲータ＆デンリュウex (SVAL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAL-42740",
+    "local_id": "42740",
+    "name": "ネストボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAL/42740.jpg",
+    "set_id": "SVAL",
+    "set_name": "スターターセットex ホゲータ＆デンリュウex (SVAL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAL-42741",
+    "local_id": "42741",
+    "name": "ハイパーボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAL/42741.jpg",
+    "set_id": "SVAL",
+    "set_name": "スターターセットex ホゲータ＆デンリュウex (SVAL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAL-42742",
+    "local_id": "42742",
+    "name": "ふしぎなアメ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAL/42742.jpg",
+    "set_id": "SVAL",
+    "set_name": "スターターセットex ホゲータ＆デンリュウex (SVAL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAL-42743",
+    "local_id": "42743",
+    "name": "ポケギア3.0",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAL/42743.jpg",
+    "set_id": "SVAL",
+    "set_name": "スターターセットex ホゲータ＆デンリュウex (SVAL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAL-42744",
+    "local_id": "42744",
+    "name": "ポケモンいれかえ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAL/42744.jpg",
+    "set_id": "SVAL",
+    "set_name": "スターターセットex ホゲータ＆デンリュウex (SVAL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAL-42745",
+    "local_id": "42745",
+    "name": "ジニア",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAL/42745.jpg",
+    "set_id": "SVAL",
+    "set_name": "スターターセットex ホゲータ＆デンリュウex (SVAL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAL-42746",
+    "local_id": "42746",
+    "name": "ジャッジマン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAL/42746.jpg",
+    "set_id": "SVAL",
+    "set_name": "スターターセットex ホゲータ＆デンリュウex (SVAL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAL-42747",
+    "local_id": "42747",
+    "name": "たんぱんこぞう",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAL/42747.jpg",
+    "set_id": "SVAL",
+    "set_name": "スターターセットex ホゲータ＆デンリュウex (SVAL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAL-42748",
+    "local_id": "42748",
+    "name": "ネモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAL/42748.jpg",
+    "set_id": "SVAL",
+    "set_name": "スターターセットex ホゲータ＆デンリュウex (SVAL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAL-42749",
+    "local_id": "42749",
+    "name": "博士の研究",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAL/42749.jpg",
+    "set_id": "SVAL",
+    "set_name": "スターターセットex ホゲータ＆デンリュウex (SVAL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAL-42780",
+    "local_id": "42780",
+    "name": "基本炎エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAL/42780.jpg",
+    "set_id": "SVAL",
+    "set_name": "スターターセットex ホゲータ＆デンリュウex (SVAL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAL-42782",
+    "local_id": "42782",
+    "name": "基本雷エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAL/42782.jpg",
+    "set_id": "SVAL",
+    "set_name": "スターターセットex ホゲータ＆デンリュウex (SVAL)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAW-42753",
+    "local_id": "42753",
+    "name": "ママンボウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAW/42753.jpg",
+    "set_id": "SVAW",
+    "set_name": "スターターセットex クワッス＆ミミッキュex (SVAW)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAW-42754",
+    "local_id": "42754",
+    "name": "クワッス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAW/42754.jpg",
+    "set_id": "SVAW",
+    "set_name": "スターターセットex クワッス＆ミミッキュex (SVAW)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAW-42776",
+    "local_id": "42776",
+    "name": "クワッス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAW/42776.jpg",
+    "set_id": "SVAW",
+    "set_name": "スターターセットex クワッス＆ミミッキュex (SVAW)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAW-42755",
+    "local_id": "42755",
+    "name": "ウェルカモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAW/42755.jpg",
+    "set_id": "SVAW",
+    "set_name": "スターターセットex クワッス＆ミミッキュex (SVAW)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAW-42777",
+    "local_id": "42777",
+    "name": "ウェルカモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAW/42777.jpg",
+    "set_id": "SVAW",
+    "set_name": "スターターセットex クワッス＆ミミッキュex (SVAW)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAW-42756",
+    "local_id": "42756",
+    "name": "ウェーニバル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAW/42756.jpg",
+    "set_id": "SVAW",
+    "set_name": "スターターセットex クワッス＆ミミッキュex (SVAW)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAW-42778",
+    "local_id": "42778",
+    "name": "ウェーニバル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAW/42778.jpg",
+    "set_id": "SVAW",
+    "set_name": "スターターセットex クワッス＆ミミッキュex (SVAW)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAW-42757",
+    "local_id": "42757",
+    "name": "デデンネ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAW/42757.jpg",
+    "set_id": "SVAW",
+    "set_name": "スターターセットex クワッス＆ミミッキュex (SVAW)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAW-42758",
+    "local_id": "42758",
+    "name": "ミミッキュex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAW/42758.jpg",
+    "set_id": "SVAW",
+    "set_name": "スターターセットex クワッス＆ミミッキュex (SVAW)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAW-42759",
+    "local_id": "42759",
+    "name": "ヒラヒナ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAW/42759.jpg",
+    "set_id": "SVAW",
+    "set_name": "スターターセットex クワッス＆ミミッキュex (SVAW)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAW-42760",
+    "local_id": "42760",
+    "name": "ザングース",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAW/42760.jpg",
+    "set_id": "SVAW",
+    "set_name": "スターターセットex クワッス＆ミミッキュex (SVAW)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAW-42761",
+    "local_id": "42761",
+    "name": "グルトン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAW/42761.jpg",
+    "set_id": "SVAW",
+    "set_name": "スターターセットex クワッス＆ミミッキュex (SVAW)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAW-42762",
+    "local_id": "42762",
+    "name": "モトトカゲ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAW/42762.jpg",
+    "set_id": "SVAW",
+    "set_name": "スターターセットex クワッス＆ミミッキュex (SVAW)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAW-42763",
+    "local_id": "42763",
+    "name": "エネルギー回収",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAW/42763.jpg",
+    "set_id": "SVAW",
+    "set_name": "スターターセットex クワッス＆ミミッキュex (SVAW)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAW-42764",
+    "local_id": "42764",
+    "name": "エネルギー転送",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAW/42764.jpg",
+    "set_id": "SVAW",
+    "set_name": "スターターセットex クワッス＆ミミッキュex (SVAW)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAW-42765",
+    "local_id": "42765",
+    "name": "クラッシュハンマー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAW/42765.jpg",
+    "set_id": "SVAW",
+    "set_name": "スターターセットex クワッス＆ミミッキュex (SVAW)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAW-42766",
+    "local_id": "42766",
+    "name": "ネストボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAW/42766.jpg",
+    "set_id": "SVAW",
+    "set_name": "スターターセットex クワッス＆ミミッキュex (SVAW)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAW-42767",
+    "local_id": "42767",
+    "name": "ハイパーボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAW/42767.jpg",
+    "set_id": "SVAW",
+    "set_name": "スターターセットex クワッス＆ミミッキュex (SVAW)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAW-42768",
+    "local_id": "42768",
+    "name": "ポケギア3.0",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAW/42768.jpg",
+    "set_id": "SVAW",
+    "set_name": "スターターセットex クワッス＆ミミッキュex (SVAW)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAW-42769",
+    "local_id": "42769",
+    "name": "ポケモンいれかえ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAW/42769.jpg",
+    "set_id": "SVAW",
+    "set_name": "スターターセットex クワッス＆ミミッキュex (SVAW)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAW-42770",
+    "local_id": "42770",
+    "name": "ポケモンキャッチャー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAW/42770.jpg",
+    "set_id": "SVAW",
+    "set_name": "スターターセットex クワッス＆ミミッキュex (SVAW)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAW-42771",
+    "local_id": "42771",
+    "name": "げんきのハチマキ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAW/42771.jpg",
+    "set_id": "SVAW",
+    "set_name": "スターターセットex クワッス＆ミミッキュex (SVAW)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAW-42772",
+    "local_id": "42772",
+    "name": "ジャッジマン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAW/42772.jpg",
+    "set_id": "SVAW",
+    "set_name": "スターターセットex クワッス＆ミミッキュex (SVAW)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAW-42773",
+    "local_id": "42773",
+    "name": "たんぱんこぞう",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAW/42773.jpg",
+    "set_id": "SVAW",
+    "set_name": "スターターセットex クワッス＆ミミッキュex (SVAW)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAW-42774",
+    "local_id": "42774",
+    "name": "ネモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAW/42774.jpg",
+    "set_id": "SVAW",
+    "set_name": "スターターセットex クワッス＆ミミッキュex (SVAW)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAW-42775",
+    "local_id": "42775",
+    "name": "博士の研究",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAW/42775.jpg",
+    "set_id": "SVAW",
+    "set_name": "スターターセットex クワッス＆ミミッキュex (SVAW)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAW-42781",
+    "local_id": "42781",
+    "name": "基本水エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAW/42781.jpg",
+    "set_id": "SVAW",
+    "set_name": "スターターセットex クワッス＆ミミッキュex (SVAW)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVAW-42783",
+    "local_id": "42783",
+    "name": "基本超エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVAW/42783.jpg",
+    "set_id": "SVAW",
+    "set_name": "スターターセットex クワッス＆ミミッキュex (SVAW)",
+    "region": "JP",
+    "serie_id": "SV"
   }
 ]
