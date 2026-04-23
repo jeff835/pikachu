@@ -47098,5 +47098,435 @@
     "set_name": "M1S",
     "region": "JP",
     "serie_id": "M"
+  },
+  {
+    "id": "MA-47860",
+    "local_id": "47860",
+    "name": "シェイミ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MA/47860.jpg",
+    "set_id": "MA",
+    "set_name": "プレミアムトレーナーボックス MEGA (MA)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MA-47861",
+    "local_id": "47861",
+    "name": "ミュウex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MA/47861.jpg",
+    "set_id": "MA",
+    "set_name": "プレミアムトレーナーボックス MEGA (MA)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MA-47862",
+    "local_id": "47862",
+    "name": "キチキギスex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MA/47862.jpg",
+    "set_id": "MA",
+    "set_name": "プレミアムトレーナーボックス MEGA (MA)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MA-47863",
+    "local_id": "47863",
+    "name": "シャリタツ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MA/47863.jpg",
+    "set_id": "MA",
+    "set_name": "プレミアムトレーナーボックス MEGA (MA)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MA-47864",
+    "local_id": "47864",
+    "name": "ポッポ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MA/47864.jpg",
+    "set_id": "MA",
+    "set_name": "プレミアムトレーナーボックス MEGA (MA)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MA-47865",
+    "local_id": "47865",
+    "name": "ピジョン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MA/47865.jpg",
+    "set_id": "MA",
+    "set_name": "プレミアムトレーナーボックス MEGA (MA)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MA-47866",
+    "local_id": "47866",
+    "name": "ピジョットex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MA/47866.jpg",
+    "set_id": "MA",
+    "set_name": "プレミアムトレーナーボックス MEGA (MA)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MA-47867",
+    "local_id": "47867",
+    "name": "ホーホー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MA/47867.jpg",
+    "set_id": "MA",
+    "set_name": "プレミアムトレーナーボックス MEGA (MA)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MA-47868",
+    "local_id": "47868",
+    "name": "ヨルノズク",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MA/47868.jpg",
+    "set_id": "MA",
+    "set_name": "プレミアムトレーナーボックス MEGA (MA)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MA-47869",
+    "local_id": "47869",
+    "name": "イキリンコex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MA/47869.jpg",
+    "set_id": "MA",
+    "set_name": "プレミアムトレーナーボックス MEGA (MA)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MA-47870",
+    "local_id": "47870",
+    "name": "アンフェアスタンプ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MA/47870.jpg",
+    "set_id": "MA",
+    "set_name": "プレミアムトレーナーボックス MEGA (MA)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MA-47871",
+    "local_id": "47871",
+    "name": "エネルギーつけかえ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MA/47871.jpg",
+    "set_id": "MA",
+    "set_name": "プレミアムトレーナーボックス MEGA (MA)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MA-47872",
+    "local_id": "47872",
+    "name": "エレキジェネレーター",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MA/47872.jpg",
+    "set_id": "MA",
+    "set_name": "プレミアムトレーナーボックス MEGA (MA)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MA-47873",
+    "local_id": "47873",
+    "name": "カウンターキャッチャー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MA/47873.jpg",
+    "set_id": "MA",
+    "set_name": "プレミアムトレーナーボックス MEGA (MA)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MA-47874",
+    "local_id": "47874",
+    "name": "すごいつりざお",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MA/47874.jpg",
+    "set_id": "MA",
+    "set_name": "プレミアムトレーナーボックス MEGA (MA)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MA-47875",
+    "local_id": "47875",
+    "name": "大地の器",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MA/47875.jpg",
+    "set_id": "MA",
+    "set_name": "プレミアムトレーナーボックス MEGA (MA)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MA-47876",
+    "local_id": "47876",
+    "name": "ツールスクラッパー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MA/47876.jpg",
+    "set_id": "MA",
+    "set_name": "プレミアムトレーナーボックス MEGA (MA)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MA-47877",
+    "local_id": "47877",
+    "name": "なかよしポフィン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MA/47877.jpg",
+    "set_id": "MA",
+    "set_name": "プレミアムトレーナーボックス MEGA (MA)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MA-47878",
+    "local_id": "47878",
+    "name": "ネストボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MA/47878.jpg",
+    "set_id": "MA",
+    "set_name": "プレミアムトレーナーボックス MEGA (MA)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MA-47879",
+    "local_id": "47879",
+    "name": "ハイパーボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MA/47879.jpg",
+    "set_id": "MA",
+    "set_name": "プレミアムトレーナーボックス MEGA (MA)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MA-47880",
+    "local_id": "47880",
+    "name": "ふしぎなアメ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MA/47880.jpg",
+    "set_id": "MA",
+    "set_name": "プレミアムトレーナーボックス MEGA (MA)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MA-47881",
+    "local_id": "47881",
+    "name": "プライムキャッチャー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MA/47881.jpg",
+    "set_id": "MA",
+    "set_name": "プレミアムトレーナーボックス MEGA (MA)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MA-47882",
+    "local_id": "47882",
+    "name": "ポケモンいれかえ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MA/47882.jpg",
+    "set_id": "MA",
+    "set_name": "プレミアムトレーナーボックス MEGA (MA)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MA-47883",
+    "local_id": "47883",
+    "name": "むしとりセット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MA/47883.jpg",
+    "set_id": "MA",
+    "set_name": "プレミアムトレーナーボックス MEGA (MA)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MA-47884",
+    "local_id": "47884",
+    "name": "メガシグナル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MA/47884.jpg",
+    "set_id": "MA",
+    "set_name": "プレミアムトレーナーボックス MEGA (MA)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MA-47885",
+    "local_id": "47885",
+    "name": "夜のタンカ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MA/47885.jpg",
+    "set_id": "MA",
+    "set_name": "プレミアムトレーナーボックス MEGA (MA)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MA-47886",
+    "local_id": "47886",
+    "name": "カウンターゲイン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MA/47886.jpg",
+    "set_id": "MA",
+    "set_name": "プレミアムトレーナーボックス MEGA (MA)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MA-47887",
+    "local_id": "47887",
+    "name": "ガチガチバンド",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MA/47887.jpg",
+    "set_id": "MA",
+    "set_name": "プレミアムトレーナーボックス MEGA (MA)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MA-47888",
+    "local_id": "47888",
+    "name": "ヒーローマント",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MA/47888.jpg",
+    "set_id": "MA",
+    "set_name": "プレミアムトレーナーボックス MEGA (MA)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MA-47889",
+    "local_id": "47889",
+    "name": "ふうせん",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MA/47889.jpg",
+    "set_id": "MA",
+    "set_name": "プレミアムトレーナーボックス MEGA (MA)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MA-47890",
+    "local_id": "47890",
+    "name": "マキシマムベルト",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MA/47890.jpg",
+    "set_id": "MA",
+    "set_name": "プレミアムトレーナーボックス MEGA (MA)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MA-47891",
+    "local_id": "47891",
+    "name": "勇気のおまもり",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MA/47891.jpg",
+    "set_id": "MA",
+    "set_name": "プレミアムトレーナーボックス MEGA (MA)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MA-47892",
+    "local_id": "47892",
+    "name": "ワザマシン エヴォリューション",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MA/47892.jpg",
+    "set_id": "MA",
+    "set_name": "プレミアムトレーナーボックス MEGA (MA)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MA-47893",
+    "local_id": "47893",
+    "name": "ワザマシン デヴォリューション",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MA/47893.jpg",
+    "set_id": "MA",
+    "set_name": "プレミアムトレーナーボックス MEGA (MA)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MA-47894",
+    "local_id": "47894",
+    "name": "スグリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MA/47894.jpg",
+    "set_id": "MA",
+    "set_name": "プレミアムトレーナーボックス MEGA (MA)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MA-47895",
+    "local_id": "47895",
+    "name": "ナンジャモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MA/47895.jpg",
+    "set_id": "MA",
+    "set_name": "プレミアムトレーナーボックス MEGA (MA)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MA-47896",
+    "local_id": "47896",
+    "name": "博士の研究",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MA/47896.jpg",
+    "set_id": "MA",
+    "set_name": "プレミアムトレーナーボックス MEGA (MA)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MA-47897",
+    "local_id": "47897",
+    "name": "ペパー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MA/47897.jpg",
+    "set_id": "MA",
+    "set_name": "プレミアムトレーナーボックス MEGA (MA)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MA-47898",
+    "local_id": "47898",
+    "name": "ボスの指令",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MA/47898.jpg",
+    "set_id": "MA",
+    "set_name": "プレミアムトレーナーボックス MEGA (MA)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MA-47899",
+    "local_id": "47899",
+    "name": "ミツルの思いやり",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MA/47899.jpg",
+    "set_id": "MA",
+    "set_name": "プレミアムトレーナーボックス MEGA (MA)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MA-47900",
+    "local_id": "47900",
+    "name": "リーリエの決心",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MA/47900.jpg",
+    "set_id": "MA",
+    "set_name": "プレミアムトレーナーボックス MEGA (MA)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MA-47901",
+    "local_id": "47901",
+    "name": "イグニッションエネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MA/47901.jpg",
+    "set_id": "MA",
+    "set_name": "プレミアムトレーナーボックス MEGA (MA)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MA-47902",
+    "local_id": "47902",
+    "name": "プリズムエネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MA/47902.jpg",
+    "set_id": "MA",
+    "set_name": "プレミアムトレーナーボックス MEGA (MA)",
+    "region": "JP",
+    "serie_id": "M"
   }
 ]

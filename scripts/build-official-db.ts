@@ -31,8 +31,7 @@ interface SetInfo {
 
 // 專注於 SV-P 特典卡 (Promo Cards)
 const TARGET_SETS: SetInfo[] = [
-  { id: 'M1L', name: 'M1L', manualSymbol: 'M1L' },
-  { id: 'M1S', name: 'M1S', manualSymbol: 'M1S' }
+  { id: 'MA', name: 'プレミアムトレーナーボックス MEGA (MA)', manualSymbol: 'MA' }
 ];
 
 async function uploadImageToSupabase(imageUrl: string, savePath: string): Promise<string | null> {
@@ -125,8 +124,8 @@ async function fetchCardsForSet(set: SetInfo): Promise<{ cards: any[], symbol: s
            set_id: setSymbol,
            set_name: set.name,
            region: 'JP',
-           // 強制將 WCS23 歸類在 SV 系列
-           serie_id: (setSymbol.startsWith('SV') || setSymbol === 'WCS23') ? 'SV' : setSymbol.replace(/[0-9a-zA-Z]$/, '').replace(/[0-9]$/, '')
+           // 強制將 WCS23 歸類在 SV 系列，M 開頭的歸類在 M 系列
+           serie_id: (setSymbol.startsWith('SV') || setSymbol === 'WCS23') ? 'SV' : (setSymbol.startsWith('M') ? 'M' : setSymbol.replace(/[0-9a-zA-Z]$/, '').replace(/[0-9]$/, ''))
          });
          
          await new Promise(resolve => setTimeout(resolve, 500)); // 避免被官方 rate limit
@@ -155,7 +154,7 @@ async function main() {
     allCards = allCards.concat(cards);
     
     // 建立世代目錄結構
-    const serieId = (symbol.startsWith('SV') || symbol === 'WCS23') ? 'SV' : (symbol.match(/^[A-Za-z]+/)?.[0] || 'Unknown');
+    const serieId = (symbol.startsWith('SV') || symbol === 'WCS23') ? 'SV' : (symbol.startsWith('M') ? 'M' : (symbol.match(/^[A-Za-z]+/)?.[0] || 'Unknown'));
     if (!seriesMap[serieId]) {
        seriesMap[serieId] = { id: serieId, name: `${serieId} 系列`, sets: [] };
     }
