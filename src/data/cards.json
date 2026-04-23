@@ -44408,5 +44408,855 @@
     "set_name": "SV-P プロモカード",
     "region": "JP",
     "serie_id": "SV"
+  },
+  {
+    "id": "M-P-50178",
+    "local_id": "50178",
+    "name": "ヒカリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/50178.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-50177",
+    "local_id": "50177",
+    "name": "グリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/50177.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-50176",
+    "local_id": "50176",
+    "name": "シュシュプ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/50176.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-50175",
+    "local_id": "50175",
+    "name": "パウワウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/50175.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-50174",
+    "local_id": "50174",
+    "name": "メガマフォクシーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/50174.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-50173",
+    "local_id": "50173",
+    "name": "シェイミ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/50173.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-50172",
+    "local_id": "50172",
+    "name": "メガガルーラex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/50172.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-50171",
+    "local_id": "50171",
+    "name": "ポケパッド",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/50171.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-50170",
+    "local_id": "50170",
+    "name": "勝利のしるし",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/50170.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-50169",
+    "local_id": "50169",
+    "name": "勝利のしるし",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/50169.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-50168",
+    "local_id": "50168",
+    "name": "勝利のしるし",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/50168.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-50047",
+    "local_id": "50047",
+    "name": "勝利のしるし",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/50047.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-50046",
+    "local_id": "50046",
+    "name": "勝利のしるし",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/50046.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-50045",
+    "local_id": "50045",
+    "name": "勝利のしるし",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/50045.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-50044",
+    "local_id": "50044",
+    "name": "勝利のしるし",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/50044.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-50043",
+    "local_id": "50043",
+    "name": "勝利のしるし",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/50043.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-50042",
+    "local_id": "50042",
+    "name": "勝利のしるし",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/50042.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-50041",
+    "local_id": "50041",
+    "name": "ミツルの思いやり",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/50041.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-50040",
+    "local_id": "50040",
+    "name": "ジェット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/50040.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-50039",
+    "local_id": "50039",
+    "name": "ブレイブバングル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/50039.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-50038",
+    "local_id": "50038",
+    "name": "カメテテ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/50038.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-50037",
+    "local_id": "50037",
+    "name": "ジーランス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/50037.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-50036",
+    "local_id": "50036",
+    "name": "メガヤドランex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/50036.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-50035",
+    "local_id": "50035",
+    "name": "ヤドン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/50035.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-49717",
+    "local_id": "49717",
+    "name": "パワープロテイン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/49717.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-49716",
+    "local_id": "49716",
+    "name": "メガエルレイドex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/49716.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-49715",
+    "local_id": "49715",
+    "name": "キルリア",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/49715.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-49714",
+    "local_id": "49714",
+    "name": "ラルトス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/49714.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-49630",
+    "local_id": "49630",
+    "name": "プルメリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/49630.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-49628",
+    "local_id": "49628",
+    "name": "フィールドブロアー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/49628.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-49621",
+    "local_id": "49621",
+    "name": "デデンネGX",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/49621.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48486",
+    "local_id": "48486",
+    "name": "トウコ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48486.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48485",
+    "local_id": "48485",
+    "name": "ふうせん",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48485.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48484",
+    "local_id": "48484",
+    "name": "逆境ほけん",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48484.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48483",
+    "local_id": "48483",
+    "name": "ノココッチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48483.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48482",
+    "local_id": "48482",
+    "name": "エレズン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48482.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48481",
+    "local_id": "48481",
+    "name": "ワルビアルex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48481.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48480",
+    "local_id": "48480",
+    "name": "リザード",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48480.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48479",
+    "local_id": "48479",
+    "name": "おいわいファンファーレ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48479.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48340",
+    "local_id": "48340",
+    "name": "メガシグナル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48340.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48339",
+    "local_id": "48339",
+    "name": "基本鋼エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48339.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48338",
+    "local_id": "48338",
+    "name": "基本悪エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48338.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48337",
+    "local_id": "48337",
+    "name": "基本闘エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48337.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48336",
+    "local_id": "48336",
+    "name": "基本超エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48336.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48335",
+    "local_id": "48335",
+    "name": "基本雷エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48335.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48334",
+    "local_id": "48334",
+    "name": "基本水エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48334.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48333",
+    "local_id": "48333",
+    "name": "基本炎エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48333.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48332",
+    "local_id": "48332",
+    "name": "基本草エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48332.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48331",
+    "local_id": "48331",
+    "name": "ブレイブバングル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48331.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48330",
+    "local_id": "48330",
+    "name": "ロケット団のミュウツーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48330.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48329",
+    "local_id": "48329",
+    "name": "基本鋼エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48329.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48328",
+    "local_id": "48328",
+    "name": "基本悪エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48328.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48327",
+    "local_id": "48327",
+    "name": "基本闘エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48327.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48326",
+    "local_id": "48326",
+    "name": "基本超エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48326.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48325",
+    "local_id": "48325",
+    "name": "基本雷エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48325.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48324",
+    "local_id": "48324",
+    "name": "基本水エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48324.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48323",
+    "local_id": "48323",
+    "name": "基本炎エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48323.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48322",
+    "local_id": "48322",
+    "name": "基本草エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48322.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48321",
+    "local_id": "48321",
+    "name": "シェイミ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48321.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48320",
+    "local_id": "48320",
+    "name": "勝利のしるし",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48320.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48319",
+    "local_id": "48319",
+    "name": "勝利のしるし",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48319.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48318",
+    "local_id": "48318",
+    "name": "勝利のしるし",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48318.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48317",
+    "local_id": "48317",
+    "name": "ラティアスex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48317.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48316",
+    "local_id": "48316",
+    "name": "夜のタンカ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48316.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48315",
+    "local_id": "48315",
+    "name": "基本鋼エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48315.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48314",
+    "local_id": "48314",
+    "name": "基本悪エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48314.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48313",
+    "local_id": "48313",
+    "name": "基本闘エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48313.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48312",
+    "local_id": "48312",
+    "name": "基本超エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48312.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48311",
+    "local_id": "48311",
+    "name": "基本雷エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48311.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48310",
+    "local_id": "48310",
+    "name": "基本水エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48310.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48309",
+    "local_id": "48309",
+    "name": "基本炎エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48309.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48308",
+    "local_id": "48308",
+    "name": "基本草エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48308.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48260",
+    "local_id": "48260",
+    "name": "リオル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48260.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48259",
+    "local_id": "48259",
+    "name": "ラルトス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48259.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48258",
+    "local_id": "48258",
+    "name": "ピカチュウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48258.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48257",
+    "local_id": "48257",
+    "name": "クワッス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48257.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48256",
+    "local_id": "48256",
+    "name": "ホゲータ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48256.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48255",
+    "local_id": "48255",
+    "name": "ニャオハ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48255.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48253",
+    "local_id": "48253",
+    "name": "リーリエの決心",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48253.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48252",
+    "local_id": "48252",
+    "name": "カウンターゲイン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48252.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48251",
+    "local_id": "48251",
+    "name": "あなあけスコップ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48251.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48250",
+    "local_id": "48250",
+    "name": "マクノシタ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48250.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48249",
+    "local_id": "48249",
+    "name": "マシマシラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48249.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48248",
+    "local_id": "48248",
+    "name": "ラプラスex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48248.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
+  },
+  {
+    "id": "M-P-48247",
+    "local_id": "48247",
+    "name": "チコリータ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M-P/48247.jpg",
+    "set_id": "M-P",
+    "set_name": "M-P プロモカード",
+    "region": "JP",
+    "serie_id": "M-"
   }
 ]
