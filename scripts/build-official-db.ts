@@ -29,9 +29,9 @@ interface SetInfo {
   manualSymbol?: string;
 }
 
-// 專注於 SVC 起始組合
+// 專注於 SVB 頂級訓練家收藏箱
 const TARGET_SETS: SetInfo[] = [
-  { id: '878', name: 'スターターセットex ピカチュウex&パーモット (SVC)', manualSymbol: 'SVC' }
+  { id: '875', name: 'プレミアムトレーナーボックスex (SVB)', manualSymbol: 'SVB' }
 ];
 
 async function uploadImageToSupabase(imageUrl: string, savePath: string): Promise<string | null> {

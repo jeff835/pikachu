@@ -39988,5 +39988,285 @@
     "set_name": "スターターセットex ピカチュウex&パーモット (SVC)",
     "region": "JP",
     "serie_id": "SV"
+  },
+  {
+    "id": "SVB-42794",
+    "local_id": "42794",
+    "name": "ネオラントV",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVB/42794.jpg",
+    "set_id": "SVB",
+    "set_name": "プレミアムトレーナーボックスex (SVB)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVB-42795",
+    "local_id": "42795",
+    "name": "メリープ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVB/42795.jpg",
+    "set_id": "SVB",
+    "set_name": "プレミアムトレーナーボックスex (SVB)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVB-42796",
+    "local_id": "42796",
+    "name": "モココ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVB/42796.jpg",
+    "set_id": "SVB",
+    "set_name": "プレミアムトレーナーボックスex (SVB)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVB-42797",
+    "local_id": "42797",
+    "name": "ミュウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVB/42797.jpg",
+    "set_id": "SVB",
+    "set_name": "プレミアムトレーナーボックスex (SVB)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVB-42787",
+    "local_id": "42787",
+    "name": "ネストボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVB/42787.jpg",
+    "set_id": "SVB",
+    "set_name": "プレミアムトレーナーボックスex (SVB)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVB-42788",
+    "local_id": "42788",
+    "name": "ハイパーボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVB/42788.jpg",
+    "set_id": "SVB",
+    "set_name": "プレミアムトレーナーボックスex (SVB)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVB-42789",
+    "local_id": "42789",
+    "name": "ふしぎなアメ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVB/42789.jpg",
+    "set_id": "SVB",
+    "set_name": "プレミアムトレーナーボックスex (SVB)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVB-42790",
+    "local_id": "42790",
+    "name": "ポケギア3.0",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVB/42790.jpg",
+    "set_id": "SVB",
+    "set_name": "プレミアムトレーナーボックスex (SVB)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVB-42791",
+    "local_id": "42791",
+    "name": "ポケモンいれかえ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVB/42791.jpg",
+    "set_id": "SVB",
+    "set_name": "プレミアムトレーナーボックスex (SVB)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVB-42792",
+    "local_id": "42792",
+    "name": "こだわりベルト",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVB/42792.jpg",
+    "set_id": "SVB",
+    "set_name": "プレミアムトレーナーボックスex (SVB)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVB-42793",
+    "local_id": "42793",
+    "name": "博士の研究",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVB/42793.jpg",
+    "set_id": "SVB",
+    "set_name": "プレミアムトレーナーボックスex (SVB)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVB-42798",
+    "local_id": "42798",
+    "name": "ガッツのつるはし",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVB/42798.jpg",
+    "set_id": "SVB",
+    "set_name": "プレミアムトレーナーボックスex (SVB)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVB-42799",
+    "local_id": "42799",
+    "name": "霧の水晶",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVB/42799.jpg",
+    "set_id": "SVB",
+    "set_name": "プレミアムトレーナーボックスex (SVB)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVB-42800",
+    "local_id": "42800",
+    "name": "ヒスイのヘビーボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVB/42800.jpg",
+    "set_id": "SVB",
+    "set_name": "プレミアムトレーナーボックスex (SVB)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVB-42801",
+    "local_id": "42801",
+    "name": "レベルボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVB/42801.jpg",
+    "set_id": "SVB",
+    "set_name": "プレミアムトレーナーボックスex (SVB)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVB-42802",
+    "local_id": "42802",
+    "name": "ロストスイーパー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVB/42802.jpg",
+    "set_id": "SVB",
+    "set_name": "プレミアムトレーナーボックスex (SVB)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVB-42803",
+    "local_id": "42803",
+    "name": "カイ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVB/42803.jpg",
+    "set_id": "SVB",
+    "set_name": "プレミアムトレーナーボックスex (SVB)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVB-42804",
+    "local_id": "42804",
+    "name": "キバナ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVB/42804.jpg",
+    "set_id": "SVB",
+    "set_name": "プレミアムトレーナーボックスex (SVB)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVB-42805",
+    "local_id": "42805",
+    "name": "クララ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVB/42805.jpg",
+    "set_id": "SVB",
+    "set_name": "プレミアムトレーナーボックスex (SVB)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVB-42806",
+    "local_id": "42806",
+    "name": "セレナ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVB/42806.jpg",
+    "set_id": "SVB",
+    "set_name": "プレミアムトレーナーボックスex (SVB)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVB-42807",
+    "local_id": "42807",
+    "name": "ツツジ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVB/42807.jpg",
+    "set_id": "SVB",
+    "set_name": "プレミアムトレーナーボックスex (SVB)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVB-42808",
+    "local_id": "42808",
+    "name": "ナタネの活気",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVB/42808.jpg",
+    "set_id": "SVB",
+    "set_name": "プレミアムトレーナーボックスex (SVB)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVB-42809",
+    "local_id": "42809",
+    "name": "ヒガナの決意",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVB/42809.jpg",
+    "set_id": "SVB",
+    "set_name": "プレミアムトレーナーボックスex (SVB)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVB-42810",
+    "local_id": "42810",
+    "name": "ボスの指令",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVB/42810.jpg",
+    "set_id": "SVB",
+    "set_name": "プレミアムトレーナーボックスex (SVB)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVB-42811",
+    "local_id": "42811",
+    "name": "モミ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVB/42811.jpg",
+    "set_id": "SVB",
+    "set_name": "プレミアムトレーナーボックスex (SVB)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVB-42812",
+    "local_id": "42812",
+    "name": "頂への雪道",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVB/42812.jpg",
+    "set_id": "SVB",
+    "set_name": "プレミアムトレーナーボックスex (SVB)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVB-42813",
+    "local_id": "42813",
+    "name": "マグマの滝壺",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVB/42813.jpg",
+    "set_id": "SVB",
+    "set_name": "プレミアムトレーナーボックスex (SVB)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVB-42814",
+    "local_id": "42814",
+    "name": "ダブルターボエネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVB/42814.jpg",
+    "set_id": "SVB",
+    "set_name": "プレミアムトレーナーボックスex (SVB)",
+    "region": "JP",
+    "serie_id": "SV"
   }
 ]
