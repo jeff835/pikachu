@@ -29,9 +29,9 @@ interface SetInfo {
   manualSymbol?: string;
 }
 
-// 專注於 SVP1 促銷包
+// 專注於 SVC 起始組合
 const TARGET_SETS: SetInfo[] = [
-  { id: '881', name: 'SVP1 プロモカード', manualSymbol: 'SVP1' }
+  { id: '878', name: 'スターターセットex ピカチュウex&パーモット (SVC)', manualSymbol: 'SVC' }
 ];
 
 async function uploadImageToSupabase(imageUrl: string, savePath: string): Promise<string | null> {

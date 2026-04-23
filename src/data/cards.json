@@ -39738,5 +39738,255 @@
     "set_name": "SVP1 プロモカード",
     "region": "JP",
     "serie_id": "SV"
+  },
+  {
+    "id": "SVC-43093",
+    "local_id": "43093",
+    "name": "ピカチュウex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVC/43093.jpg",
+    "set_id": "SVC",
+    "set_name": "スターターセットex ピカチュウex&パーモット (SVC)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVC-43094",
+    "local_id": "43094",
+    "name": "コイル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVC/43094.jpg",
+    "set_id": "SVC",
+    "set_name": "スターターセットex ピカチュウex&パーモット (SVC)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVC-43095",
+    "local_id": "43095",
+    "name": "ビリリダマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVC/43095.jpg",
+    "set_id": "SVC",
+    "set_name": "スターターセットex ピカチュウex&パーモット (SVC)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVC-43096",
+    "local_id": "43096",
+    "name": "マルマイン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVC/43096.jpg",
+    "set_id": "SVC",
+    "set_name": "スターターセットex ピカチュウex&パーモット (SVC)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVC-43097",
+    "local_id": "43097",
+    "name": "コリンク",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVC/43097.jpg",
+    "set_id": "SVC",
+    "set_name": "スターターセットex ピカチュウex&パーモット (SVC)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVC-43098",
+    "local_id": "43098",
+    "name": "バチンウニ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVC/43098.jpg",
+    "set_id": "SVC",
+    "set_name": "スターターセットex ピカチュウex&パーモット (SVC)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVC-43099",
+    "local_id": "43099",
+    "name": "パモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVC/43099.jpg",
+    "set_id": "SVC",
+    "set_name": "スターターセットex ピカチュウex&パーモット (SVC)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVC-43114",
+    "local_id": "43114",
+    "name": "パモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVC/43114.jpg",
+    "set_id": "SVC",
+    "set_name": "スターターセットex ピカチュウex&パーモット (SVC)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVC-43100",
+    "local_id": "43100",
+    "name": "パモット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVC/43100.jpg",
+    "set_id": "SVC",
+    "set_name": "スターターセットex ピカチュウex&パーモット (SVC)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVC-43115",
+    "local_id": "43115",
+    "name": "パモット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVC/43115.jpg",
+    "set_id": "SVC",
+    "set_name": "スターターセットex ピカチュウex&パーモット (SVC)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVC-43101",
+    "local_id": "43101",
+    "name": "パーモット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVC/43101.jpg",
+    "set_id": "SVC",
+    "set_name": "スターターセットex ピカチュウex&パーモット (SVC)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVC-43116",
+    "local_id": "43116",
+    "name": "パーモット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVC/43116.jpg",
+    "set_id": "SVC",
+    "set_name": "スターターセットex ピカチュウex&パーモット (SVC)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVC-43102",
+    "local_id": "43102",
+    "name": "グルトン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVC/43102.jpg",
+    "set_id": "SVC",
+    "set_name": "スターターセットex ピカチュウex&パーモット (SVC)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVC-43103",
+    "local_id": "43103",
+    "name": "エネルギーつけかえ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVC/43103.jpg",
+    "set_id": "SVC",
+    "set_name": "スターターセットex ピカチュウex&パーモット (SVC)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVC-43104",
+    "local_id": "43104",
+    "name": "エレキジェネレーター",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVC/43104.jpg",
+    "set_id": "SVC",
+    "set_name": "スターターセットex ピカチュウex&パーモット (SVC)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVC-43105",
+    "local_id": "43105",
+    "name": "ネストボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVC/43105.jpg",
+    "set_id": "SVC",
+    "set_name": "スターターセットex ピカチュウex&パーモット (SVC)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVC-43106",
+    "local_id": "43106",
+    "name": "ハイパーボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVC/43106.jpg",
+    "set_id": "SVC",
+    "set_name": "スターターセットex ピカチュウex&パーモット (SVC)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVC-43107",
+    "local_id": "43107",
+    "name": "ポケギア3.0",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVC/43107.jpg",
+    "set_id": "SVC",
+    "set_name": "スターターセットex ピカチュウex&パーモット (SVC)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVC-43108",
+    "local_id": "43108",
+    "name": "ポケモンいれかえ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVC/43108.jpg",
+    "set_id": "SVC",
+    "set_name": "スターターセットex ピカチュウex&パーモット (SVC)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVC-43109",
+    "local_id": "43109",
+    "name": "ポケモンキャッチャー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVC/43109.jpg",
+    "set_id": "SVC",
+    "set_name": "スターターセットex ピカチュウex&パーモット (SVC)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVC-43110",
+    "local_id": "43110",
+    "name": "ジャッジマン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVC/43110.jpg",
+    "set_id": "SVC",
+    "set_name": "スターターセットex ピカチュウex&パーモット (SVC)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVC-43111",
+    "local_id": "43111",
+    "name": "たんぱんこぞう",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVC/43111.jpg",
+    "set_id": "SVC",
+    "set_name": "スターターセットex ピカチュウex&パーモット (SVC)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVC-43112",
+    "local_id": "43112",
+    "name": "ネモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVC/43112.jpg",
+    "set_id": "SVC",
+    "set_name": "スターターセットex ピカチュウex&パーモット (SVC)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVC-43113",
+    "local_id": "43113",
+    "name": "博士の研究",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVC/43113.jpg",
+    "set_id": "SVC",
+    "set_name": "スターターセットex ピカチュウex&パーモット (SVC)",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVC-42782",
+    "local_id": "42782",
+    "name": "基本雷エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVC/42782.jpg",
+    "set_id": "SVC",
+    "set_name": "スターターセットex ピカチュウex&パーモット (SVC)",
+    "region": "JP",
+    "serie_id": "SV"
   }
 ]
