@@ -31,7 +31,8 @@ interface SetInfo {
 
 // 專注於 SV-P 特典卡 (Promo Cards)
 const TARGET_SETS: SetInfo[] = [
-  { id: 'MA', name: 'プレミアムトレーナーボックス MEGA (MA)', manualSymbol: 'MA' }
+  { id: 'MBD', name: 'スターターセットMEGA メガディアンシーex (MBD)', manualSymbol: 'MBD' },
+  { id: 'MBG', name: 'スターターセットMEGA メガゲンガーex (MBG)', manualSymbol: 'MBG' }
 ];
 
 async function uploadImageToSupabase(imageUrl: string, savePath: string): Promise<string | null> {

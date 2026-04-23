@@ -1,8 +1,18 @@
 {
   "M": {
     "id": "M",
-    "name": "超級進化",
+    "name": "M 系列",
     "sets": [
+      {
+        "id": "MBD",
+        "name": "スターターセットMEGA メガディアンシーex (MBD)",
+        "logo": ""
+      },
+      {
+        "id": "MBG",
+        "name": "スターターセットMEGA メガゲンガーex (MBG)",
+        "logo": ""
+      },
       {
         "id": "M1L",
         "name": "拡張パック「メガブレイブ」 (M1L)",

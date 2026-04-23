@@ -47528,5 +47528,445 @@
     "set_name": "プレミアムトレーナーボックス MEGA (MA)",
     "region": "JP",
     "serie_id": "M"
+  },
+  {
+    "id": "MBD-48285",
+    "local_id": "48285",
+    "name": "ブルー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MBD/48285.jpg",
+    "set_id": "MBD",
+    "set_name": "スターターセットMEGA メガディアンシーex (MBD)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MBD-48286",
+    "local_id": "48286",
+    "name": "グランブル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MBD/48286.jpg",
+    "set_id": "MBD",
+    "set_name": "スターターセットMEGA メガディアンシーex (MBD)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MBD-48287",
+    "local_id": "48287",
+    "name": "クレセリア",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MBD/48287.jpg",
+    "set_id": "MBD",
+    "set_name": "スターターセットMEGA メガディアンシーex (MBD)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MBD-48288",
+    "local_id": "48288",
+    "name": "メロエッタ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MBD/48288.jpg",
+    "set_id": "MBD",
+    "set_name": "スターターセットMEGA メガディアンシーex (MBD)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MBD-48289",
+    "local_id": "48289",
+    "name": "メガディアンシーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MBD/48289.jpg",
+    "set_id": "MBD",
+    "set_name": "スターターセットMEGA メガディアンシーex (MBD)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MBD-48290",
+    "local_id": "48290",
+    "name": "ミミッキュ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MBD/48290.jpg",
+    "set_id": "MBD",
+    "set_name": "スターターセットMEGA メガディアンシーex (MBD)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MBD-48291",
+    "local_id": "48291",
+    "name": "マホミル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MBD/48291.jpg",
+    "set_id": "MBD",
+    "set_name": "スターターセットMEGA メガディアンシーex (MBD)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MBD-48292",
+    "local_id": "48292",
+    "name": "マホイップ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MBD/48292.jpg",
+    "set_id": "MBD",
+    "set_name": "スターターセットMEGA メガディアンシーex (MBD)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MBD-48293",
+    "local_id": "48293",
+    "name": "シャリタツ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MBD/48293.jpg",
+    "set_id": "MBD",
+    "set_name": "スターターセットMEGA メガディアンシーex (MBD)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MBD-48306",
+    "local_id": "48306",
+    "name": "メロエッタ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MBD/48306.jpg",
+    "set_id": "MBD",
+    "set_name": "スターターセットMEGA メガディアンシーex (MBD)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MBD-48294",
+    "local_id": "48294",
+    "name": "なかよしポフィン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MBD/48294.jpg",
+    "set_id": "MBD",
+    "set_name": "スターターセットMEGA メガディアンシーex (MBD)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MBD-48295",
+    "local_id": "48295",
+    "name": "ハイパーボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MBD/48295.jpg",
+    "set_id": "MBD",
+    "set_name": "スターターセットMEGA メガディアンシーex (MBD)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MBD-48296",
+    "local_id": "48296",
+    "name": "ポケモンいれかえ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MBD/48296.jpg",
+    "set_id": "MBD",
+    "set_name": "スターターセットMEGA メガディアンシーex (MBD)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MBD-48297",
+    "local_id": "48297",
+    "name": "メガシグナル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MBD/48297.jpg",
+    "set_id": "MBD",
+    "set_name": "スターターセットMEGA メガディアンシーex (MBD)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MBD-48298",
+    "local_id": "48298",
+    "name": "夜のタンカ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MBD/48298.jpg",
+    "set_id": "MBD",
+    "set_name": "スターターセットMEGA メガディアンシーex (MBD)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MBD-48299",
+    "local_id": "48299",
+    "name": "ワンダーパッチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MBD/48299.jpg",
+    "set_id": "MBD",
+    "set_name": "スターターセットMEGA メガディアンシーex (MBD)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MBD-48300",
+    "local_id": "48300",
+    "name": "ヒーローマント",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MBD/48300.jpg",
+    "set_id": "MBD",
+    "set_name": "スターターセットMEGA メガディアンシーex (MBD)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MBD-48301",
+    "local_id": "48301",
+    "name": "ふうせん",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MBD/48301.jpg",
+    "set_id": "MBD",
+    "set_name": "スターターセットMEGA メガディアンシーex (MBD)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MBD-48302",
+    "local_id": "48302",
+    "name": "アイリスの闘志",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MBD/48302.jpg",
+    "set_id": "MBD",
+    "set_name": "スターターセットMEGA メガディアンシーex (MBD)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MBD-48303",
+    "local_id": "48303",
+    "name": "ボスの指令",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MBD/48303.jpg",
+    "set_id": "MBD",
+    "set_name": "スターターセットMEGA メガディアンシーex (MBD)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MBD-48304",
+    "local_id": "48304",
+    "name": "リーリエの決心",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MBD/48304.jpg",
+    "set_id": "MBD",
+    "set_name": "スターターセットMEGA メガディアンシーex (MBD)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MBD-48305",
+    "local_id": "48305",
+    "name": "ミステリーガーデン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MBD/48305.jpg",
+    "set_id": "MBD",
+    "set_name": "スターターセットMEGA メガディアンシーex (MBD)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MBG-48262",
+    "local_id": "48262",
+    "name": "ゴース",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MBG/48262.jpg",
+    "set_id": "MBG",
+    "set_name": "スターターセットMEGA メガゲンガーex (MBG)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MBG-48263",
+    "local_id": "48263",
+    "name": "ゴースト",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MBG/48263.jpg",
+    "set_id": "MBG",
+    "set_name": "スターターセットMEGA メガゲンガーex (MBG)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MBG-48264",
+    "local_id": "48264",
+    "name": "メガゲンガーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MBG/48264.jpg",
+    "set_id": "MBG",
+    "set_name": "スターターセットMEGA メガゲンガーex (MBG)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MBG-48265",
+    "local_id": "48265",
+    "name": "ヤミカラス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MBG/48265.jpg",
+    "set_id": "MBG",
+    "set_name": "スターターセットMEGA メガゲンガーex (MBG)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MBG-48266",
+    "local_id": "48266",
+    "name": "ドンカラス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MBG/48266.jpg",
+    "set_id": "MBG",
+    "set_name": "スターターセットMEGA メガゲンガーex (MBG)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MBG-48267",
+    "local_id": "48267",
+    "name": "ヤミラミ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MBG/48267.jpg",
+    "set_id": "MBG",
+    "set_name": "スターターセットMEGA メガゲンガーex (MBG)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MBG-48268",
+    "local_id": "48268",
+    "name": "アブソル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MBG/48268.jpg",
+    "set_id": "MBG",
+    "set_name": "スターターセットMEGA メガゲンガーex (MBG)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MBG-48269",
+    "local_id": "48269",
+    "name": "ムゲンダイナ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MBG/48269.jpg",
+    "set_id": "MBG",
+    "set_name": "スターターセットMEGA メガゲンガーex (MBG)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MBG-48270",
+    "local_id": "48270",
+    "name": "シャリタツ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MBG/48270.jpg",
+    "set_id": "MBG",
+    "set_name": "スターターセットMEGA メガゲンガーex (MBG)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MBG-48283",
+    "local_id": "48283",
+    "name": "ゴースト",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MBG/48283.jpg",
+    "set_id": "MBG",
+    "set_name": "スターターセットMEGA メガゲンガーex (MBG)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MBG-48271",
+    "local_id": "48271",
+    "name": "なかよしポフィン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MBG/48271.jpg",
+    "set_id": "MBG",
+    "set_name": "スターターセットMEGA メガゲンガーex (MBG)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MBG-48272",
+    "local_id": "48272",
+    "name": "ハイパーボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MBG/48272.jpg",
+    "set_id": "MBG",
+    "set_name": "スターターセットMEGA メガゲンガーex (MBG)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MBG-48273",
+    "local_id": "48273",
+    "name": "ふしぎなアメ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MBG/48273.jpg",
+    "set_id": "MBG",
+    "set_name": "スターターセットMEGA メガゲンガーex (MBG)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MBG-48274",
+    "local_id": "48274",
+    "name": "プライムキャッチャー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MBG/48274.jpg",
+    "set_id": "MBG",
+    "set_name": "スターターセットMEGA メガゲンガーex (MBG)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MBG-48275",
+    "local_id": "48275",
+    "name": "ポケモンいれかえ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MBG/48275.jpg",
+    "set_id": "MBG",
+    "set_name": "スターターセットMEGA メガゲンガーex (MBG)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MBG-48276",
+    "local_id": "48276",
+    "name": "メガシグナル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MBG/48276.jpg",
+    "set_id": "MBG",
+    "set_name": "スターターセットMEGA メガゲンガーex (MBG)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MBG-48277",
+    "local_id": "48277",
+    "name": "夜のタンカ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MBG/48277.jpg",
+    "set_id": "MBG",
+    "set_name": "スターターセットMEGA メガゲンガーex (MBG)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MBG-48278",
+    "local_id": "48278",
+    "name": "パンクメット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MBG/48278.jpg",
+    "set_id": "MBG",
+    "set_name": "スターターセットMEGA メガゲンガーex (MBG)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MBG-48279",
+    "local_id": "48279",
+    "name": "ふうせん",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MBG/48279.jpg",
+    "set_id": "MBG",
+    "set_name": "スターターセットMEGA メガゲンガーex (MBG)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MBG-48280",
+    "local_id": "48280",
+    "name": "アイリスの闘志",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MBG/48280.jpg",
+    "set_id": "MBG",
+    "set_name": "スターターセットMEGA メガゲンガーex (MBG)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MBG-48281",
+    "local_id": "48281",
+    "name": "ボスの指令",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MBG/48281.jpg",
+    "set_id": "MBG",
+    "set_name": "スターターセットMEGA メガゲンガーex (MBG)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "MBG-48282",
+    "local_id": "48282",
+    "name": "リーリエの決心",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/MBG/48282.jpg",
+    "set_id": "MBG",
+    "set_name": "スターターセットMEGA メガゲンガーex (MBG)",
+    "region": "JP",
+    "serie_id": "M"
   }
 ]
