@@ -39668,5 +39668,75 @@
     "set_name": "強化拡張パック「ポケモンカード151」 (SV2a)",
     "region": "JP",
     "serie_id": "SV"
+  },
+  {
+    "id": "SVP1-43314",
+    "local_id": "43314",
+    "name": "ノノクラゲ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVP1/43314.jpg",
+    "set_id": "SVP1",
+    "set_name": "SVP1 プロモカード",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVP1-43315",
+    "local_id": "43315",
+    "name": "リククラゲex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVP1/43315.jpg",
+    "set_id": "SVP1",
+    "set_name": "SVP1 プロモカード",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVP1-43316",
+    "local_id": "43316",
+    "name": "パモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVP1/43316.jpg",
+    "set_id": "SVP1",
+    "set_name": "SVP1 プロモカード",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVP1-43317",
+    "local_id": "43317",
+    "name": "パモット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVP1/43317.jpg",
+    "set_id": "SVP1",
+    "set_name": "SVP1 プロモカード",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVP1-43318",
+    "local_id": "43318",
+    "name": "パーモットex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVP1/43318.jpg",
+    "set_id": "SVP1",
+    "set_name": "SVP1 プロモカード",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVP1-43319",
+    "local_id": "43319",
+    "name": "ボチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVP1/43319.jpg",
+    "set_id": "SVP1",
+    "set_name": "SVP1 プロモカード",
+    "region": "JP",
+    "serie_id": "SV"
+  },
+  {
+    "id": "SVP1-43320",
+    "local_id": "43320",
+    "name": "ハカドッグex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/SVP1/43320.jpg",
+    "set_id": "SVP1",
+    "set_name": "SVP1 プロモカード",
+    "region": "JP",
+    "serie_id": "SV"
   }
 ]

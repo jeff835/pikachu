@@ -29,9 +29,9 @@ interface SetInfo {
   manualSymbol?: string;
 }
 
-// 專注於 SV2a 強化擴充包 (Pokemon 151)
+// 專注於 SVP1 促銷包
 const TARGET_SETS: SetInfo[] = [
-  { id: '882', name: '強化拡張パック「ポケモンカード151」 (SV2a)', manualSymbol: 'SV2a' }
+  { id: '881', name: 'SVP1 プロモカード', manualSymbol: 'SVP1' }
 ];
 
 async function uploadImageToSupabase(imageUrl: string, savePath: string): Promise<string | null> {
