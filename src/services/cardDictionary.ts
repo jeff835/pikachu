@@ -18,6 +18,7 @@ export const SERIES_MAP: Record<string, string> = {
   'gym': '道館系列 (Gym)',
   'pop': 'POP 系列',
   'misc': '附錄/其他 (Misc)',
+  'm': '超級進化',
   'other': '其他 (Other)'
 }
 
