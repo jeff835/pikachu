@@ -1,8 +1,18 @@
 {
   "M": {
     "id": "M",
-    "name": "M 系列",
+    "name": "超級進化",
     "sets": [
+      {
+        "id": "M1L",
+        "name": "M1L",
+        "logo": ""
+      },
+      {
+        "id": "M1S",
+        "name": "M1S",
+        "logo": ""
+      },
       {
         "id": "M-P",
         "name": "M-P プロモカード",

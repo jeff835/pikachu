@@ -45258,5 +45258,1845 @@
     "set_name": "M-P プロモカード",
     "region": "JP",
     "serie_id": "M-"
+  },
+  {
+    "id": "M1L-47734",
+    "local_id": "47734",
+    "name": "フシギダネ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47734.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47735",
+    "local_id": "47735",
+    "name": "フシギソウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47735.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47736",
+    "local_id": "47736",
+    "name": "メガフシギバナex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47736.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47737",
+    "local_id": "47737",
+    "name": "タマタマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47737.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47738",
+    "local_id": "47738",
+    "name": "ナッシー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47738.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47739",
+    "local_id": "47739",
+    "name": "セレビィ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47739.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47740",
+    "local_id": "47740",
+    "name": "タネボー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47740.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47741",
+    "local_id": "47741",
+    "name": "コノハナ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47741.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47742",
+    "local_id": "47742",
+    "name": "ダーテング",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47742.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47743",
+    "local_id": "47743",
+    "name": "ロコン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47743.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47744",
+    "local_id": "47744",
+    "name": "キュウコン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47744.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47745",
+    "local_id": "47745",
+    "name": "ドンメル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47745.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47746",
+    "local_id": "47746",
+    "name": "メガバクーダex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47746.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47747",
+    "local_id": "47747",
+    "name": "ボルケニオン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47747.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47748",
+    "local_id": "47748",
+    "name": "ヒバニー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47748.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47749",
+    "local_id": "47749",
+    "name": "ラビフット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47749.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47750",
+    "local_id": "47750",
+    "name": "エースバーン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47750.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47751",
+    "local_id": "47751",
+    "name": "ヘイガニ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47751.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47752",
+    "local_id": "47752",
+    "name": "コレクレー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47752.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47753",
+    "local_id": "47753",
+    "name": "サンド",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47753.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47754",
+    "local_id": "47754",
+    "name": "サンドパン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47754.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47755",
+    "local_id": "47755",
+    "name": "イワーク",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47755.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47756",
+    "local_id": "47756",
+    "name": "バルキー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47756.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47757",
+    "local_id": "47757",
+    "name": "マクノシタ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47757.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47758",
+    "local_id": "47758",
+    "name": "ハリテヤマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47758.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47759",
+    "local_id": "47759",
+    "name": "ルナトーン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47759.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47760",
+    "local_id": "47760",
+    "name": "ソルロック",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47760.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47761",
+    "local_id": "47761",
+    "name": "リオル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47761.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47762",
+    "local_id": "47762",
+    "name": "メガルカリオex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47762.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47763",
+    "local_id": "47763",
+    "name": "グレッグル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47763.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47764",
+    "local_id": "47764",
+    "name": "ドクロッグ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47764.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47765",
+    "local_id": "47765",
+    "name": "マーシャドー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47765.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47766",
+    "local_id": "47766",
+    "name": "イシヘンジン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47766.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47767",
+    "local_id": "47767",
+    "name": "コジオ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47767.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47768",
+    "local_id": "47768",
+    "name": "ジオヅム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47768.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47769",
+    "local_id": "47769",
+    "name": "キョジオーン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47769.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47770",
+    "local_id": "47770",
+    "name": "シザリガー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47770.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47771",
+    "local_id": "47771",
+    "name": "メガアブソルex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47771.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47772",
+    "local_id": "47772",
+    "name": "ミカルゲ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47772.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47773",
+    "local_id": "47773",
+    "name": "イベルタル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47773.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47774",
+    "local_id": "47774",
+    "name": "クスネ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47774.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47775",
+    "local_id": "47775",
+    "name": "フォクスライ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47775.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47776",
+    "local_id": "47776",
+    "name": "シルシュルー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47776.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47777",
+    "local_id": "47777",
+    "name": "タギングル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47777.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47778",
+    "local_id": "47778",
+    "name": "ハガネール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47778.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47779",
+    "local_id": "47779",
+    "name": "メガクチートex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47779.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47780",
+    "local_id": "47780",
+    "name": "ディアルガ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47780.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47781",
+    "local_id": "47781",
+    "name": "カヌチャン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47781.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47782",
+    "local_id": "47782",
+    "name": "ナカヌチャン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47782.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47783",
+    "local_id": "47783",
+    "name": "デカヌチャン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47783.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47784",
+    "local_id": "47784",
+    "name": "サーフゴー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47784.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47785",
+    "local_id": "47785",
+    "name": "オニスズメ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47785.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47786",
+    "local_id": "47786",
+    "name": "オニドリル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47786.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47787",
+    "local_id": "47787",
+    "name": "ミルタンク",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47787.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47788",
+    "local_id": "47788",
+    "name": "ヤングース",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47788.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47789",
+    "local_id": "47789",
+    "name": "デカグース",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47789.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-48421",
+    "local_id": "48421",
+    "name": "フシギダネ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/48421.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-48422",
+    "local_id": "48422",
+    "name": "フシギソウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/48422.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-48423",
+    "local_id": "48423",
+    "name": "ナッシー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/48423.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-48424",
+    "local_id": "48424",
+    "name": "ロコン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/48424.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-48425",
+    "local_id": "48425",
+    "name": "リオル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/48425.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-48426",
+    "local_id": "48426",
+    "name": "マーシャドー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/48426.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-48427",
+    "local_id": "48427",
+    "name": "キョジオーン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/48427.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-48428",
+    "local_id": "48428",
+    "name": "ミカルゲ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/48428.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-48429",
+    "local_id": "48429",
+    "name": "シルシュルー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/48429.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-48430",
+    "local_id": "48430",
+    "name": "ハガネール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/48430.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-48431",
+    "local_id": "48431",
+    "name": "オニスズメ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/48431.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-48432",
+    "local_id": "48432",
+    "name": "デカグース",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/48432.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-48433",
+    "local_id": "48433",
+    "name": "メガフシギバナex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/48433.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-48434",
+    "local_id": "48434",
+    "name": "メガバクーダex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/48434.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-48435",
+    "local_id": "48435",
+    "name": "メガルカリオex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/48435.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-48436",
+    "local_id": "48436",
+    "name": "メガアブソルex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/48436.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-48437",
+    "local_id": "48437",
+    "name": "メガクチートex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/48437.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-48444",
+    "local_id": "48444",
+    "name": "メガフシギバナex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/48444.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-48445",
+    "local_id": "48445",
+    "name": "メガルカリオex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/48445.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-48446",
+    "local_id": "48446",
+    "name": "メガアブソルex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/48446.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-48449",
+    "local_id": "48449",
+    "name": "メガルカリオex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/48449.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47790",
+    "local_id": "47790",
+    "name": "アイアンディフェンダー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47790.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47791",
+    "local_id": "47791",
+    "name": "パワープロテイン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47791.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47792",
+    "local_id": "47792",
+    "name": "ファイトゴング",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47792.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47793",
+    "local_id": "47793",
+    "name": "むしよけスプレー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47793.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47794",
+    "local_id": "47794",
+    "name": "マチスの取引",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47794.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47795",
+    "local_id": "47795",
+    "name": "リーリエの決心",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47795.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-47796",
+    "local_id": "47796",
+    "name": "危ない廃墟",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/47796.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-48438",
+    "local_id": "48438",
+    "name": "パワープロテイン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/48438.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-48439",
+    "local_id": "48439",
+    "name": "ファイトゴング",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/48439.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-48440",
+    "local_id": "48440",
+    "name": "夜のタンカ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/48440.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-48441",
+    "local_id": "48441",
+    "name": "ふうせん",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/48441.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-48442",
+    "local_id": "48442",
+    "name": "マチスの取引",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/48442.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-48443",
+    "local_id": "48443",
+    "name": "リーリエの決心",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/48443.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-48447",
+    "local_id": "48447",
+    "name": "マチスの取引",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/48447.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1L-48448",
+    "local_id": "48448",
+    "name": "リーリエの決心",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1L/48448.jpg",
+    "set_id": "M1L",
+    "set_name": "M1L",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47797",
+    "local_id": "47797",
+    "name": "モンジャラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47797.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47798",
+    "local_id": "47798",
+    "name": "モジャンボ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47798.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47799",
+    "local_id": "47799",
+    "name": "チコリータ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47799.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47800",
+    "local_id": "47800",
+    "name": "ベイリーフ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47800.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47801",
+    "local_id": "47801",
+    "name": "メガニウム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47801.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47802",
+    "local_id": "47802",
+    "name": "ツボツボ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47802.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47803",
+    "local_id": "47803",
+    "name": "ツチニン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47803.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47804",
+    "local_id": "47804",
+    "name": "テッカニン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47804.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47805",
+    "local_id": "47805",
+    "name": "ダダリン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47805.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47806",
+    "local_id": "47806",
+    "name": "シシコ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47806.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47807",
+    "local_id": "47807",
+    "name": "カエンジシ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47807.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47808",
+    "local_id": "47808",
+    "name": "ヤクデ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47808.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47809",
+    "local_id": "47809",
+    "name": "マルヤクデ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47809.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47810",
+    "local_id": "47810",
+    "name": "イーユイ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47810.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47811",
+    "local_id": "47811",
+    "name": "マンタイン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47811.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47812",
+    "local_id": "47812",
+    "name": "カイオーガ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47812.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47813",
+    "local_id": "47813",
+    "name": "ユキカブリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47813.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47814",
+    "local_id": "47814",
+    "name": "メガユキノオーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47814.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47815",
+    "local_id": "47815",
+    "name": "ウデッポウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47815.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47816",
+    "local_id": "47816",
+    "name": "ブロスター",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47816.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47817",
+    "local_id": "47817",
+    "name": "メッソン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47817.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47818",
+    "local_id": "47818",
+    "name": "ジメレオン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47818.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47819",
+    "local_id": "47819",
+    "name": "インテレオン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47819.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47820",
+    "local_id": "47820",
+    "name": "ユキハミ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47820.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47821",
+    "local_id": "47821",
+    "name": "モスノウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47821.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47822",
+    "local_id": "47822",
+    "name": "コオリッポ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47822.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47823",
+    "local_id": "47823",
+    "name": "コイル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47823.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47824",
+    "local_id": "47824",
+    "name": "レアコイル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47824.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47825",
+    "local_id": "47825",
+    "name": "ジバコイル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47825.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47826",
+    "local_id": "47826",
+    "name": "ライコウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47826.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47827",
+    "local_id": "47827",
+    "name": "ラクライ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47827.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47828",
+    "local_id": "47828",
+    "name": "メガライボルトex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47828.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47829",
+    "local_id": "47829",
+    "name": "パチリス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47829.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47830",
+    "local_id": "47830",
+    "name": "エリキテル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47830.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47831",
+    "local_id": "47831",
+    "name": "エレザード",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47831.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47832",
+    "local_id": "47832",
+    "name": "ケーシィ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47832.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47833",
+    "local_id": "47833",
+    "name": "ユンゲラー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47833.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47834",
+    "local_id": "47834",
+    "name": "フーディン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47834.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47835",
+    "local_id": "47835",
+    "name": "ルージュラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47835.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47836",
+    "local_id": "47836",
+    "name": "ラルトス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47836.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47837",
+    "local_id": "47837",
+    "name": "キルリア",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47837.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47838",
+    "local_id": "47838",
+    "name": "メガサーナイトex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47838.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47839",
+    "local_id": "47839",
+    "name": "ヌケニン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47839.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47840",
+    "local_id": "47840",
+    "name": "バネブー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47840.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47841",
+    "local_id": "47841",
+    "name": "ブーピッグ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47841.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47842",
+    "local_id": "47842",
+    "name": "ゼルネアス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47842.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47843",
+    "local_id": "47843",
+    "name": "ボチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47843.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47844",
+    "local_id": "47844",
+    "name": "ハカドッグ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47844.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47845",
+    "local_id": "47845",
+    "name": "メガラティアスex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47845.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47846",
+    "local_id": "47846",
+    "name": "ラティオス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47846.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47847",
+    "local_id": "47847",
+    "name": "メガガルーラex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47847.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47848",
+    "local_id": "47848",
+    "name": "デリバード",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47848.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47849",
+    "local_id": "47849",
+    "name": "ミミロル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47849.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47850",
+    "local_id": "47850",
+    "name": "ミミロップ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47850.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47851",
+    "local_id": "47851",
+    "name": "ヌイコグマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47851.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47852",
+    "local_id": "47852",
+    "name": "キテルグマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47852.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-48450",
+    "local_id": "48450",
+    "name": "ツボツボ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/48450.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-48451",
+    "local_id": "48451",
+    "name": "テッカニン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/48451.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-48452",
+    "local_id": "48452",
+    "name": "シシコ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/48452.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-48453",
+    "local_id": "48453",
+    "name": "ユキカブリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/48453.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-48454",
+    "local_id": "48454",
+    "name": "ブロスター",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/48454.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-48455",
+    "local_id": "48455",
+    "name": "インテレオン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/48455.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-48456",
+    "local_id": "48456",
+    "name": "エリキテル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/48456.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-48457",
+    "local_id": "48457",
+    "name": "フーディン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/48457.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-48458",
+    "local_id": "48458",
+    "name": "ヌケニン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/48458.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-48459",
+    "local_id": "48459",
+    "name": "ハカドッグ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/48459.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-48460",
+    "local_id": "48460",
+    "name": "デリバード",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/48460.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-48461",
+    "local_id": "48461",
+    "name": "ヌイコグマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/48461.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-48462",
+    "local_id": "48462",
+    "name": "メガユキノオーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/48462.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-48463",
+    "local_id": "48463",
+    "name": "メガライボルトex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/48463.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-48464",
+    "local_id": "48464",
+    "name": "メガサーナイトex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/48464.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-48465",
+    "local_id": "48465",
+    "name": "メガラティアスex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/48465.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-48466",
+    "local_id": "48466",
+    "name": "メガガルーラex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/48466.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-48473",
+    "local_id": "48473",
+    "name": "メガサーナイトex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/48473.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-48474",
+    "local_id": "48474",
+    "name": "メガラティアスex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/48474.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-48475",
+    "local_id": "48475",
+    "name": "メガガルーラex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/48475.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-48478",
+    "local_id": "48478",
+    "name": "メガサーナイトex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/48478.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47853",
+    "local_id": "47853",
+    "name": "あやしい時計",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47853.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47854",
+    "local_id": "47854",
+    "name": "メガシグナル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47854.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47855",
+    "local_id": "47855",
+    "name": "アセロラのいたずら",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47855.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47856",
+    "local_id": "47856",
+    "name": "ミツルの思いやり",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47856.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47857",
+    "local_id": "47857",
+    "name": "活力の森",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47857.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47858",
+    "local_id": "47858",
+    "name": "なみのりビーチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47858.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-47859",
+    "local_id": "47859",
+    "name": "ミステリーガーデン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/47859.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-48467",
+    "local_id": "48467",
+    "name": "なかよしポフィン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/48467.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-48468",
+    "local_id": "48468",
+    "name": "ふしぎなアメ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/48468.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-48469",
+    "local_id": "48469",
+    "name": "メガシグナル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/48469.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-48470",
+    "local_id": "48470",
+    "name": "アセロラのいたずら",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/48470.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-48471",
+    "local_id": "48471",
+    "name": "ミツルの思いやり",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/48471.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-48472",
+    "local_id": "48472",
+    "name": "ミステリーガーデン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/48472.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-48476",
+    "local_id": "48476",
+    "name": "アセロラのいたずら",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/48476.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M1S-48477",
+    "local_id": "48477",
+    "name": "ミツルの思いやり",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M1S/48477.jpg",
+    "set_id": "M1S",
+    "set_name": "M1S",
+    "region": "JP",
+    "serie_id": "M"
   }
 ]
