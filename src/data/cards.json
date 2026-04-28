@@ -47968,5 +47968,1165 @@
     "set_name": "スターターセットMEGA メガゲンガーex (MBG)",
     "region": "JP",
     "serie_id": "M"
+  },
+  {
+    "id": "M2-48341",
+    "local_id": "48341",
+    "name": "ナゾノクサ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48341.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48342",
+    "local_id": "48342",
+    "name": "クサイハナ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48342.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48343",
+    "local_id": "48343",
+    "name": "ラフレシア",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48343.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48344",
+    "local_id": "48344",
+    "name": "メガヘラクロスex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48344.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48345",
+    "local_id": "48345",
+    "name": "ハスボー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48345.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48346",
+    "local_id": "48346",
+    "name": "ハスブレロ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48346.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48347",
+    "local_id": "48347",
+    "name": "ルンパッパ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48347.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48348",
+    "local_id": "48348",
+    "name": "ゲノセクト",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48348.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48349",
+    "local_id": "48349",
+    "name": "マメバッタ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48349.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48350",
+    "local_id": "48350",
+    "name": "エクスレッグ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48350.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48351",
+    "local_id": "48351",
+    "name": "ヒトカゲ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48351.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48352",
+    "local_id": "48352",
+    "name": "リザード",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48352.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48353",
+    "local_id": "48353",
+    "name": "メガリザードンXex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48353.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48354",
+    "local_id": "48354",
+    "name": "ファイヤー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48354.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48355",
+    "local_id": "48355",
+    "name": "ダルマッカ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48355.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48356",
+    "local_id": "48356",
+    "name": "ヒヒダルマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48356.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48357",
+    "local_id": "48357",
+    "name": "レシラム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48357.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48358",
+    "local_id": "48358",
+    "name": "オドリドリex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48358.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48359",
+    "local_id": "48359",
+    "name": "カルボウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48359.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48360",
+    "local_id": "48360",
+    "name": "ソウブレイズ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48360.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48361",
+    "local_id": "48361",
+    "name": "パウワウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48361.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48362",
+    "local_id": "48362",
+    "name": "ジュゴン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48362.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48363",
+    "local_id": "48363",
+    "name": "ウリムー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48363.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48364",
+    "local_id": "48364",
+    "name": "イノムー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48364.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48365",
+    "local_id": "48365",
+    "name": "マンムー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48365.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48366",
+    "local_id": "48366",
+    "name": "スイクン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48366.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48367",
+    "local_id": "48367",
+    "name": "ポッチャマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48367.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48368",
+    "local_id": "48368",
+    "name": "ポッタイシ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48368.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48369",
+    "local_id": "48369",
+    "name": "ロトムex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48369.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48370",
+    "local_id": "48370",
+    "name": "ワンパチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48370.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48371",
+    "local_id": "48371",
+    "name": "パルスワン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48371.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48372",
+    "local_id": "48372",
+    "name": "パモ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48372.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48373",
+    "local_id": "48373",
+    "name": "パモット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48373.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48374",
+    "local_id": "48374",
+    "name": "パーモット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48374.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48375",
+    "local_id": "48375",
+    "name": "ムウマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48375.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48376",
+    "local_id": "48376",
+    "name": "ムウマージex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48376.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48377",
+    "local_id": "48377",
+    "name": "モンメン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48377.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48378",
+    "local_id": "48378",
+    "name": "エルフーン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48378.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48379",
+    "local_id": "48379",
+    "name": "ザシアン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48379.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48380",
+    "local_id": "48380",
+    "name": "アノクサ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48380.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48381",
+    "local_id": "48381",
+    "name": "アノホラグサ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48381.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48382",
+    "local_id": "48382",
+    "name": "パルデア ケンタロス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48382.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48383",
+    "local_id": "48383",
+    "name": "グライガー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48383.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48384",
+    "local_id": "48384",
+    "name": "グライオン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48384.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48385",
+    "local_id": "48385",
+    "name": "ナックラー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48385.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48386",
+    "local_id": "48386",
+    "name": "ビブラーバ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48386.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48387",
+    "local_id": "48387",
+    "name": "フライゴン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48387.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48388",
+    "local_id": "48388",
+    "name": "ニューラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48388.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48389",
+    "local_id": "48389",
+    "name": "マニューラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48389.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48390",
+    "local_id": "48390",
+    "name": "キバニア",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48390.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48391",
+    "local_id": "48391",
+    "name": "メガサメハダーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48391.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48392",
+    "local_id": "48392",
+    "name": "ハブネーク",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48392.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48393",
+    "local_id": "48393",
+    "name": "メグロコ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48393.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48394",
+    "local_id": "48394",
+    "name": "ワルビル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48394.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48395",
+    "local_id": "48395",
+    "name": "ワルビアル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48395.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48396",
+    "local_id": "48396",
+    "name": "エレズン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48396.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48397",
+    "local_id": "48397",
+    "name": "ストリンダー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48397.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48398",
+    "local_id": "48398",
+    "name": "エンペルトex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48398.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48399",
+    "local_id": "48399",
+    "name": "ドーミラー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48399.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48400",
+    "local_id": "48400",
+    "name": "ドータクン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48400.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48401",
+    "local_id": "48401",
+    "name": "トゲデマル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48401.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48402",
+    "local_id": "48402",
+    "name": "ジュラルドン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48402.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48403",
+    "local_id": "48403",
+    "name": "ブリジュラス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48403.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48404",
+    "local_id": "48404",
+    "name": "プリン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48404.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48405",
+    "local_id": "48405",
+    "name": "プクリン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48405.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48406",
+    "local_id": "48406",
+    "name": "エイパム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48406.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48407",
+    "local_id": "48407",
+    "name": "エテボース",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48407.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48408",
+    "local_id": "48408",
+    "name": "ドーブル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48408.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48409",
+    "local_id": "48409",
+    "name": "ジグザグマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48409.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48410",
+    "local_id": "48410",
+    "name": "マッスグマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48410.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48411",
+    "local_id": "48411",
+    "name": "ミミロル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48411.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48412",
+    "local_id": "48412",
+    "name": "メガミミロップex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48412.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48487",
+    "local_id": "48487",
+    "name": "ルンパッパ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48487.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48488",
+    "local_id": "48488",
+    "name": "マメバッタ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48488.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48489",
+    "local_id": "48489",
+    "name": "カルボウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48489.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48490",
+    "local_id": "48490",
+    "name": "ジュゴン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48490.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48491",
+    "local_id": "48491",
+    "name": "ポッチャマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48491.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48492",
+    "local_id": "48492",
+    "name": "ワンパチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48492.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48493",
+    "local_id": "48493",
+    "name": "ザシアン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48493.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48494",
+    "local_id": "48494",
+    "name": "フライゴン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48494.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48495",
+    "local_id": "48495",
+    "name": "ストリンダー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48495.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48496",
+    "local_id": "48496",
+    "name": "トゲデマル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48496.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48497",
+    "local_id": "48497",
+    "name": "プクリン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48497.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48498",
+    "local_id": "48498",
+    "name": "エテボース",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48498.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48499",
+    "local_id": "48499",
+    "name": "メガヘラクロスex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48499.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48500",
+    "local_id": "48500",
+    "name": "メガリザードンXex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48500.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48501",
+    "local_id": "48501",
+    "name": "オドリドリex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48501.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48502",
+    "local_id": "48502",
+    "name": "ロトムex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48502.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48503",
+    "local_id": "48503",
+    "name": "ムウマージex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48503.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48504",
+    "local_id": "48504",
+    "name": "メガサメハダーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48504.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48505",
+    "local_id": "48505",
+    "name": "エンペルトex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48505.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48506",
+    "local_id": "48506",
+    "name": "メガミミロップex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48506.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48516",
+    "local_id": "48516",
+    "name": "メガリザードンXex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48516.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48517",
+    "local_id": "48517",
+    "name": "オドリドリex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48517.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48518",
+    "local_id": "48518",
+    "name": "ロトムex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48518.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48519",
+    "local_id": "48519",
+    "name": "メガサメハダーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48519.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48520",
+    "local_id": "48520",
+    "name": "メガミミロップex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48520.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48522",
+    "local_id": "48522",
+    "name": "メガリザードンXex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48522.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48413",
+    "local_id": "48413",
+    "name": "ジャンボアイス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48413.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48414",
+    "local_id": "48414",
+    "name": "ヒートバーナー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48414.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48415",
+    "local_id": "48415",
+    "name": "せいなるおまもり",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48415.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48416",
+    "local_id": "48416",
+    "name": "ギーマの一手",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48416.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48417",
+    "local_id": "48417",
+    "name": "ヒカリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48417.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48418",
+    "local_id": "48418",
+    "name": "ひふきやろう",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48418.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48419",
+    "local_id": "48419",
+    "name": "バトルコロシアム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48419.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48420",
+    "local_id": "48420",
+    "name": "めまいの谷",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48420.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48507",
+    "local_id": "48507",
+    "name": "ヒートバーナー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48507.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48508",
+    "local_id": "48508",
+    "name": "ポケモンいれかえ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48508.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48509",
+    "local_id": "48509",
+    "name": "せいなるおまもり",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48509.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48510",
+    "local_id": "48510",
+    "name": "パンクメット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48510.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48511",
+    "local_id": "48511",
+    "name": "ギーマの一手",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48511.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48512",
+    "local_id": "48512",
+    "name": "ヒカリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48512.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48513",
+    "local_id": "48513",
+    "name": "ひふきやろう",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48513.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48514",
+    "local_id": "48514",
+    "name": "バトルコロシアム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48514.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48521",
+    "local_id": "48521",
+    "name": "ヒカリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48521.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2-48515",
+    "local_id": "48515",
+    "name": "イグニッションエネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2/48515.jpg",
+    "set_id": "M2",
+    "set_name": "拡張パック「インフェルノX」 (M2)",
+    "region": "JP",
+    "serie_id": "M"
   }
 ]
