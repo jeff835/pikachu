@@ -31,7 +31,7 @@ interface SetInfo {
 
 // 專注於 SV-P 特典卡 (Promo Cards)
 const TARGET_SETS: SetInfo[] = [
-  { id: 'M3', name: '拡張パック「ムニキスゼロ」 (M3)', manualSymbol: 'M3' }
+  { id: 'M4', name: '拡張パック「ニンジャスピナー」 (M4)', manualSymbol: 'M4' }
 ];
 
 async function uploadImageToSupabase(imageUrl: string, savePath: string): Promise<string | null> {

@@ -60538,5 +60538,835 @@
     "set_name": "拡張パック「ムニキスゼロ」 (M3)",
     "region": "JP",
     "serie_id": "M"
+  },
+  {
+    "id": "M4-50085",
+    "local_id": "50085",
+    "name": "ビードル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50085.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50086",
+    "local_id": "50086",
+    "name": "コクーン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50086.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50087",
+    "local_id": "50087",
+    "name": "スピアーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50087.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50088",
+    "local_id": "50088",
+    "name": "マスキッパ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50088.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50089",
+    "local_id": "50089",
+    "name": "ハリマロン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50089.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50090",
+    "local_id": "50090",
+    "name": "ハリボーグ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50090.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50091",
+    "local_id": "50091",
+    "name": "ブリガロン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50091.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50092",
+    "local_id": "50092",
+    "name": "ロコン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50092.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50093",
+    "local_id": "50093",
+    "name": "キュウコン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50093.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50094",
+    "local_id": "50094",
+    "name": "ホウオウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50094.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50095",
+    "local_id": "50095",
+    "name": "フォッコ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50095.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50096",
+    "local_id": "50096",
+    "name": "テールナー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50096.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50097",
+    "local_id": "50097",
+    "name": "マフォクシー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50097.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50098",
+    "local_id": "50098",
+    "name": "シシコ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50098.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50099",
+    "local_id": "50099",
+    "name": "メガカエンジシex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50099.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50100",
+    "local_id": "50100",
+    "name": "テッポウオ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50100.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50101",
+    "local_id": "50101",
+    "name": "オクタン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50101.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50102",
+    "local_id": "50102",
+    "name": "デリバード",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50102.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50103",
+    "local_id": "50103",
+    "name": "ケルディオ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50103.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50104",
+    "local_id": "50104",
+    "name": "ケロマツ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50104.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50105",
+    "local_id": "50105",
+    "name": "ゲコガシラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50105.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50106",
+    "local_id": "50106",
+    "name": "メガゲッコウガex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50106.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50107",
+    "local_id": "50107",
+    "name": "カチコール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50107.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50108",
+    "local_id": "50108",
+    "name": "クレベース",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50108.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50109",
+    "local_id": "50109",
+    "name": "コソクムシ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50109.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50110",
+    "local_id": "50110",
+    "name": "グソクムシャ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50110.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50111",
+    "local_id": "50111",
+    "name": "メリープ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50111.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50112",
+    "local_id": "50112",
+    "name": "モココ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50112.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50113",
+    "local_id": "50113",
+    "name": "デンリュウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50113.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50114",
+    "local_id": "50114",
+    "name": "エモンガ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50114.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50115",
+    "local_id": "50115",
+    "name": "デオキシス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50115.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50116",
+    "local_id": "50116",
+    "name": "デオキシス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50116.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50117",
+    "local_id": "50117",
+    "name": "デオキシス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50117.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50118",
+    "local_id": "50118",
+    "name": "デオキシス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50118.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50119",
+    "local_id": "50119",
+    "name": "メガフラエッテex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50119.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50120",
+    "local_id": "50120",
+    "name": "ニャスパー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50120.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50121",
+    "local_id": "50121",
+    "name": "ニャオニクス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50121.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50122",
+    "local_id": "50122",
+    "name": "ボクレー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50122.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50123",
+    "local_id": "50123",
+    "name": "オーロット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50123.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50124",
+    "local_id": "50124",
+    "name": "バケッチャ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50124.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50125",
+    "local_id": "50125",
+    "name": "パンプジンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50125.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50126",
+    "local_id": "50126",
+    "name": "ゼルネアス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50126.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50127",
+    "local_id": "50127",
+    "name": "ウソッキー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50127.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50128",
+    "local_id": "50128",
+    "name": "ゴマゾウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50128.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50129",
+    "local_id": "50129",
+    "name": "ドンファン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50129.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50130",
+    "local_id": "50130",
+    "name": "ヤジロン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50130.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50131",
+    "local_id": "50131",
+    "name": "ネンドール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50131.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50132",
+    "local_id": "50132",
+    "name": "ズバット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50132.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50133",
+    "local_id": "50133",
+    "name": "ゴルバット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50133.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50134",
+    "local_id": "50134",
+    "name": "クロバット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50134.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50135",
+    "local_id": "50135",
+    "name": "ハリーセン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50135.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50136",
+    "local_id": "50136",
+    "name": "スカンプー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50136.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50137",
+    "local_id": "50137",
+    "name": "スカタンク",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50137.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50138",
+    "local_id": "50138",
+    "name": "ヤブクロン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50138.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50139",
+    "local_id": "50139",
+    "name": "ダストダス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50139.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50140",
+    "local_id": "50140",
+    "name": "クズモー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50140.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50141",
+    "local_id": "50141",
+    "name": "ダンバル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50141.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50142",
+    "local_id": "50142",
+    "name": "メタング",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50142.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50143",
+    "local_id": "50143",
+    "name": "メタグロス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50143.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50144",
+    "local_id": "50144",
+    "name": "テッシード",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50144.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50145",
+    "local_id": "50145",
+    "name": "ナットレイ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50145.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50146",
+    "local_id": "50146",
+    "name": "コバルオンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50146.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50147",
+    "local_id": "50147",
+    "name": "メガドラミドロex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50147.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50148",
+    "local_id": "50148",
+    "name": "ヌメラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50148.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50149",
+    "local_id": "50149",
+    "name": "ヌメイル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50149.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50150",
+    "local_id": "50150",
+    "name": "ヌメルゴン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50150.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50151",
+    "local_id": "50151",
+    "name": "ケンタロス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50151.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50152",
+    "local_id": "50152",
+    "name": "ミネズミ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50152.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50153",
+    "local_id": "50153",
+    "name": "ミルホッグ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50153.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50154",
+    "local_id": "50154",
+    "name": "チラーミィ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50154.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50155",
+    "local_id": "50155",
+    "name": "チラチーノex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50155.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50156",
+    "local_id": "50156",
+    "name": "スペシャルレッドカード",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50156.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50157",
+    "local_id": "50157",
+    "name": "大漁ネット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50157.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50158",
+    "local_id": "50158",
+    "name": "変化の書",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50158.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50159",
+    "local_id": "50159",
+    "name": "AZの安らぎ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50159.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50160",
+    "local_id": "50160",
+    "name": "ジプソ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50160.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50161",
+    "local_id": "50161",
+    "name": "ホミカの演奏",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50161.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50162",
+    "local_id": "50162",
+    "name": "マチエール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50162.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50163",
+    "local_id": "50163",
+    "name": "アンジュフラエッテ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50163.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50164",
+    "local_id": "50164",
+    "name": "プリズムタワー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50164.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50165",
+    "local_id": "50165",
+    "name": "ニトロ炎エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50165.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50166",
+    "local_id": "50166",
+    "name": "バブル水エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50166.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M4-50167",
+    "local_id": "50167",
+    "name": "マグネット鋼エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M4/50167.jpg",
+    "set_id": "M4",
+    "set_name": "拡張パック「ニンジャスピナー」 (M4)",
+    "region": "JP",
+    "serie_id": "M"
   }
 ]
