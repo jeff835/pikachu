@@ -56868,5 +56868,3675 @@
     "set_name": "スタートデッキ100「バトルコレクション」 (MC)",
     "region": "JP",
     "serie_id": "M"
+  },
+  {
+    "id": "M2a-48523",
+    "local_id": "48523",
+    "name": "ヒビキのカイロス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48523.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48524",
+    "local_id": "48524",
+    "name": "ヤンヤンマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48524.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48525",
+    "local_id": "48525",
+    "name": "メガヤンマex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48525.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48526",
+    "local_id": "48526",
+    "name": "ケムッソ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48526.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48527",
+    "local_id": "48527",
+    "name": "カラサリス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48527.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48528",
+    "local_id": "48528",
+    "name": "アゲハント",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48528.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48529",
+    "local_id": "48529",
+    "name": "マユルド",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48529.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48530",
+    "local_id": "48530",
+    "name": "ドクケイル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48530.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48531",
+    "local_id": "48531",
+    "name": "シロナのロゼリア",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48531.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48532",
+    "local_id": "48532",
+    "name": "シロナのロズレイド",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48532.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48533",
+    "local_id": "48533",
+    "name": "スボミー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48533.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48534",
+    "local_id": "48534",
+    "name": "シェイミ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48534.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48535",
+    "local_id": "48535",
+    "name": "イシズマイ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48535.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48536",
+    "local_id": "48536",
+    "name": "イワパレス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48536.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48537",
+    "local_id": "48537",
+    "name": "ロケット団のタマンチュラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48537.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48538",
+    "local_id": "48538",
+    "name": "ロケット団のワナイダー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48538.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48539",
+    "local_id": "48539",
+    "name": "オーガポン みどりのめんex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48539.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48540",
+    "local_id": "48540",
+    "name": "ヒビキのマグマッグ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48540.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48541",
+    "local_id": "48541",
+    "name": "ヒビキのマグカルゴ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48541.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48542",
+    "local_id": "48542",
+    "name": "エンテイ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48542.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48543",
+    "local_id": "48543",
+    "name": "ヒビキのホウオウex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48543.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48544",
+    "local_id": "48544",
+    "name": "ドンメル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48544.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48545",
+    "local_id": "48545",
+    "name": "バクーダ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48545.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48546",
+    "local_id": "48546",
+    "name": "ポカブ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48546.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48547",
+    "local_id": "48547",
+    "name": "チャオブー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48547.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48548",
+    "local_id": "48548",
+    "name": "エンブオー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48548.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48549",
+    "local_id": "48549",
+    "name": "Nのダルマッカ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48549.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48550",
+    "local_id": "48550",
+    "name": "Nのヒヒダルマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48550.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48551",
+    "local_id": "48551",
+    "name": "レシラムex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48551.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48552",
+    "local_id": "48552",
+    "name": "カルボウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48552.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48553",
+    "local_id": "48553",
+    "name": "ソウブレイズex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48553.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48554",
+    "local_id": "48554",
+    "name": "コダック",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48554.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48555",
+    "local_id": "48555",
+    "name": "ゴルダック",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48555.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48556",
+    "local_id": "48556",
+    "name": "ロケット団のフリーザー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48556.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48557",
+    "local_id": "48557",
+    "name": "ユキワラシ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48557.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48558",
+    "local_id": "48558",
+    "name": "メガユキメノコex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48558.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48559",
+    "local_id": "48559",
+    "name": "Nのバニプッチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48559.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48560",
+    "local_id": "48560",
+    "name": "Nのバニリッチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48560.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48561",
+    "local_id": "48561",
+    "name": "Nのバイバニラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48561.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48562",
+    "local_id": "48562",
+    "name": "ユキハミ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48562.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48563",
+    "local_id": "48563",
+    "name": "モスノウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48563.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48564",
+    "local_id": "48564",
+    "name": "ブリザポス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48564.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48565",
+    "local_id": "48565",
+    "name": "パオジアン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48565.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48566",
+    "local_id": "48566",
+    "name": "ピカチュウex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48566.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48567",
+    "local_id": "48567",
+    "name": "コイル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48567.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48568",
+    "local_id": "48568",
+    "name": "レアコイル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48568.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48569",
+    "local_id": "48569",
+    "name": "シビシラス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48569.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48570",
+    "local_id": "48570",
+    "name": "シビビール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48570.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48571",
+    "local_id": "48571",
+    "name": "メガシビルドンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48571.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48572",
+    "local_id": "48572",
+    "name": "マッギョ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48572.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48573",
+    "local_id": "48573",
+    "name": "ゼクロムex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48573.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48574",
+    "local_id": "48574",
+    "name": "エリキテル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48574.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48575",
+    "local_id": "48575",
+    "name": "エレザード",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48575.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48576",
+    "local_id": "48576",
+    "name": "カプ・コケコ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48576.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48577",
+    "local_id": "48577",
+    "name": "ゼラオラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48577.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48578",
+    "local_id": "48578",
+    "name": "ナンジャモのズピカ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48578.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48579",
+    "local_id": "48579",
+    "name": "ナンジャモのハラバリーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48579.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48580",
+    "local_id": "48580",
+    "name": "ナンジャモのカイデン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48580.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48581",
+    "local_id": "48581",
+    "name": "ナンジャモのタイカイデン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48581.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48582",
+    "local_id": "48582",
+    "name": "リーリエのピッピex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48582.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48583",
+    "local_id": "48583",
+    "name": "ロケット団のタマタマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48583.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48584",
+    "local_id": "48584",
+    "name": "ロケット団のナッシー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48584.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48585",
+    "local_id": "48585",
+    "name": "ロケット団のミュウツーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48585.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48586",
+    "local_id": "48586",
+    "name": "トゲピー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48586.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48587",
+    "local_id": "48587",
+    "name": "トゲチック",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48587.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48588",
+    "local_id": "48588",
+    "name": "トゲキッス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48588.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48589",
+    "local_id": "48589",
+    "name": "ムウマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48589.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48590",
+    "local_id": "48590",
+    "name": "ムウマージ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48590.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48591",
+    "local_id": "48591",
+    "name": "ラルトス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48591.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48592",
+    "local_id": "48592",
+    "name": "キルリア",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48592.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48593",
+    "local_id": "48593",
+    "name": "メガサーナイトex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48593.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48594",
+    "local_id": "48594",
+    "name": "ヨマワル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48594.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48595",
+    "local_id": "48595",
+    "name": "サマヨール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48595.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48596",
+    "local_id": "48596",
+    "name": "ヨノワール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48596.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48597",
+    "local_id": "48597",
+    "name": "ラティアスex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48597.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48598",
+    "local_id": "48598",
+    "name": "ロトム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48598.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48599",
+    "local_id": "48599",
+    "name": "ホップのボクレー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48599.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48600",
+    "local_id": "48600",
+    "name": "ホップのオーロット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48600.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48601",
+    "local_id": "48601",
+    "name": "ロケット団のミミッキュ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48601.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48602",
+    "local_id": "48602",
+    "name": "レイスポス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48602.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48603",
+    "local_id": "48603",
+    "name": "マシマシラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48603.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48604",
+    "local_id": "48604",
+    "name": "ロケット団のディグダ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48604.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48605",
+    "local_id": "48605",
+    "name": "ロケット団のダグトリオ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48605.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48606",
+    "local_id": "48606",
+    "name": "アサナン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48606.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48607",
+    "local_id": "48607",
+    "name": "チャーレム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48607.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48608",
+    "local_id": "48608",
+    "name": "ルナトーン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48608.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48609",
+    "local_id": "48609",
+    "name": "ソルロック",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48609.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48610",
+    "local_id": "48610",
+    "name": "シロナのフカマル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48610.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48611",
+    "local_id": "48611",
+    "name": "シロナのガバイト",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48611.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48612",
+    "local_id": "48612",
+    "name": "シロナのガブリアスex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48612.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48613",
+    "local_id": "48613",
+    "name": "リオル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48613.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48614",
+    "local_id": "48614",
+    "name": "メガルカリオex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48614.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48615",
+    "local_id": "48615",
+    "name": "ヤンチャム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48615.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48616",
+    "local_id": "48616",
+    "name": "メガルチャブルex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48616.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48617",
+    "local_id": "48617",
+    "name": "タンドン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48617.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48618",
+    "local_id": "48618",
+    "name": "トロッゴン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48618.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48619",
+    "local_id": "48619",
+    "name": "セキタンザン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48619.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48620",
+    "local_id": "48620",
+    "name": "イイネイヌ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48620.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48621",
+    "local_id": "48621",
+    "name": "ロケット団のズバット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48621.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48622",
+    "local_id": "48622",
+    "name": "ロケット団のゴルバット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48622.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48623",
+    "local_id": "48623",
+    "name": "ロケット団のクロバットex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48623.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48624",
+    "local_id": "48624",
+    "name": "ロケット団のヤミカラス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48624.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48625",
+    "local_id": "48625",
+    "name": "ロケット団のドンカラス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48625.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48626",
+    "local_id": "48626",
+    "name": "ロケット団のニューラ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48626.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48627",
+    "local_id": "48627",
+    "name": "ガラル ジグザグマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48627.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48628",
+    "local_id": "48628",
+    "name": "ガラル マッスグマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48628.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48629",
+    "local_id": "48629",
+    "name": "ガラル タチフサグマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48629.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48630",
+    "local_id": "48630",
+    "name": "シロナのミカルゲ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48630.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48631",
+    "local_id": "48631",
+    "name": "ズルッグ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48631.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48632",
+    "local_id": "48632",
+    "name": "メガズルズキンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48632.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48633",
+    "local_id": "48633",
+    "name": "Nのゾロア",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48633.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48634",
+    "local_id": "48634",
+    "name": "Nのゾロアークex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48634.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48635",
+    "local_id": "48635",
+    "name": "ゴロンダ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48635.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48636",
+    "local_id": "48636",
+    "name": "キチキギスex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48636.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48637",
+    "local_id": "48637",
+    "name": "モモワロウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48637.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48638",
+    "local_id": "48638",
+    "name": "コマタナ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48638.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48639",
+    "local_id": "48639",
+    "name": "キリキザン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48639.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48640",
+    "local_id": "48640",
+    "name": "ドドゲザン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48640.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48641",
+    "local_id": "48641",
+    "name": "ゲノセクトex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48641.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48642",
+    "local_id": "48642",
+    "name": "マギアナ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48642.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48643",
+    "local_id": "48643",
+    "name": "ジュラルドン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48643.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48644",
+    "local_id": "48644",
+    "name": "ブリジュラスex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48644.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48645",
+    "local_id": "48645",
+    "name": "ホップのザシアンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48645.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48646",
+    "local_id": "48646",
+    "name": "ミニリュウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48646.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48647",
+    "local_id": "48647",
+    "name": "ハクリュー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48647.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48648",
+    "local_id": "48648",
+    "name": "メガカイリューex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48648.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48649",
+    "local_id": "48649",
+    "name": "レックウザ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48649.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48650",
+    "local_id": "48650",
+    "name": "Nのレシラム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48650.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48651",
+    "local_id": "48651",
+    "name": "Nのゼクロム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48651.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48652",
+    "local_id": "48652",
+    "name": "オンバット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48652.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48653",
+    "local_id": "48653",
+    "name": "オンバーン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48653.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48654",
+    "local_id": "48654",
+    "name": "ドラメシヤ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48654.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48655",
+    "local_id": "48655",
+    "name": "ドロンチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48655.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48656",
+    "local_id": "48656",
+    "name": "ドラパルトex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48656.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48657",
+    "local_id": "48657",
+    "name": "シャリタツ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48657.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48658",
+    "local_id": "48658",
+    "name": "ホップのカビゴン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48658.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48659",
+    "local_id": "48659",
+    "name": "ホーホー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48659.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48660",
+    "local_id": "48660",
+    "name": "ヨルノズク",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48660.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48661",
+    "local_id": "48661",
+    "name": "スピンロトム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48661.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48662",
+    "local_id": "48662",
+    "name": "バッフロン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48662.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48663",
+    "local_id": "48663",
+    "name": "ホップのウールー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48663.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48664",
+    "local_id": "48664",
+    "name": "ホップのバイウールー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48664.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48665",
+    "local_id": "48665",
+    "name": "ホップのウッウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48665.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48666",
+    "local_id": "48666",
+    "name": "テラパゴス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48666.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48667",
+    "local_id": "48667",
+    "name": "テラパゴスex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48667.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49954",
+    "local_id": "49954",
+    "name": "アゲハント",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49954.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49955",
+    "local_id": "49955",
+    "name": "ドクケイル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49955.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49956",
+    "local_id": "49956",
+    "name": "スボミー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49956.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49957",
+    "local_id": "49957",
+    "name": "ヒビキのマグカルゴ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49957.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49958",
+    "local_id": "49958",
+    "name": "ドンメル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49958.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49959",
+    "local_id": "49959",
+    "name": "コダック",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49959.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49960",
+    "local_id": "49960",
+    "name": "ユキワラシ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49960.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49961",
+    "local_id": "49961",
+    "name": "エレザード",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49961.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49962",
+    "local_id": "49962",
+    "name": "ムウマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49962.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49963",
+    "local_id": "49963",
+    "name": "トゲキッス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49963.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49964",
+    "local_id": "49964",
+    "name": "ホップのオーロット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49964.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49965",
+    "local_id": "49965",
+    "name": "ロケット団のミミッキュ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49965.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49966",
+    "local_id": "49966",
+    "name": "ロケット団のダグトリオ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49966.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49967",
+    "local_id": "49967",
+    "name": "チャーレム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49967.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49968",
+    "local_id": "49968",
+    "name": "シロナのミカルゲ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49968.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49969",
+    "local_id": "49969",
+    "name": "ガラル タチフサグマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49969.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49970",
+    "local_id": "49970",
+    "name": "Nのゼクロム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49970.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49971",
+    "local_id": "49971",
+    "name": "ドラメシヤ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49971.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49972",
+    "local_id": "49972",
+    "name": "ドロンチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49972.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49973",
+    "local_id": "49973",
+    "name": "スピンロトム",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49973.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49983",
+    "local_id": "49983",
+    "name": "メガリザードンXex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49983.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49984",
+    "local_id": "49984",
+    "name": "メガユキメノコex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49984.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49985",
+    "local_id": "49985",
+    "name": "メガシビルドンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49985.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49986",
+    "local_id": "49986",
+    "name": "メガサーナイトex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49986.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49987",
+    "local_id": "49987",
+    "name": "メガディアンシーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49987.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49988",
+    "local_id": "49988",
+    "name": "メガルカリオex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49988.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49989",
+    "local_id": "49989",
+    "name": "メガルチャブルex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49989.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49990",
+    "local_id": "49990",
+    "name": "メガゲンガーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49990.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49991",
+    "local_id": "49991",
+    "name": "メガズルズキンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49991.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49992",
+    "local_id": "49992",
+    "name": "メガカイリューex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49992.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49993",
+    "local_id": "49993",
+    "name": "メガユキメノコex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49993.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49994",
+    "local_id": "49994",
+    "name": "ピカチュウex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49994.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49995",
+    "local_id": "49995",
+    "name": "メガシビルドンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49995.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49996",
+    "local_id": "49996",
+    "name": "ナンジャモのハラバリーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49996.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49997",
+    "local_id": "49997",
+    "name": "ロケット団のミュウツーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49997.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49998",
+    "local_id": "49998",
+    "name": "メガディアンシーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49998.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49999",
+    "local_id": "49999",
+    "name": "メガルチャブルex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49999.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-50000",
+    "local_id": "50000",
+    "name": "メガゲンガーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/50000.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-50001",
+    "local_id": "50001",
+    "name": "メガズルズキンex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/50001.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-50002",
+    "local_id": "50002",
+    "name": "Nのゾロアークex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/50002.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-50003",
+    "local_id": "50003",
+    "name": "マリィのオーロンゲex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/50003.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-50004",
+    "local_id": "50004",
+    "name": "キチキギスex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/50004.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-50005",
+    "local_id": "50005",
+    "name": "ダイゴのメタグロスex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/50005.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-50006",
+    "local_id": "50006",
+    "name": "メガカイリューex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/50006.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-50010",
+    "local_id": "50010",
+    "name": "メガカイリューex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/50010.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48668",
+    "local_id": "48668",
+    "name": "Nのポイントアップ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48668.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48669",
+    "local_id": "48669",
+    "name": "エネルギーリサイクル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48669.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48670",
+    "local_id": "48670",
+    "name": "改造ハンマー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48670.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48671",
+    "local_id": "48671",
+    "name": "ガラスのラッパ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48671.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48672",
+    "local_id": "48672",
+    "name": "せいなるはい",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48672.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48673",
+    "local_id": "48673",
+    "name": "ツールスクラッパー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48673.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48674",
+    "local_id": "48674",
+    "name": "テラスタルオーブ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48674.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48675",
+    "local_id": "48675",
+    "name": "なかよしポフィン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48675.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48676",
+    "local_id": "48676",
+    "name": "パワープロテイン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48676.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48677",
+    "local_id": "48677",
+    "name": "ファイトゴング",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48677.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48678",
+    "local_id": "48678",
+    "name": "ホップのバッグ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48678.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48679",
+    "local_id": "48679",
+    "name": "むしとりセット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48679.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48680",
+    "local_id": "48680",
+    "name": "メガシグナル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48680.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48681",
+    "local_id": "48681",
+    "name": "夜のタンカ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48681.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48682",
+    "local_id": "48682",
+    "name": "ロケット団のレシーバー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48682.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48683",
+    "local_id": "48683",
+    "name": "カウンターゲイン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48683.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48684",
+    "local_id": "48684",
+    "name": "シロナのパワーウエイト",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48684.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48685",
+    "local_id": "48685",
+    "name": "でんきだま",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48685.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48686",
+    "local_id": "48686",
+    "name": "ぶあついうろこ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48686.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48687",
+    "local_id": "48687",
+    "name": "ふうせん",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48687.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48688",
+    "local_id": "48688",
+    "name": "ブレイブバングル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48688.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48689",
+    "local_id": "48689",
+    "name": "ホップのこだわりハチマキ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48689.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48690",
+    "local_id": "48690",
+    "name": "アイリスの闘志",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48690.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48691",
+    "local_id": "48691",
+    "name": "アセロラのいたずら",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48691.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48692",
+    "local_id": "48692",
+    "name": "カナリィ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48692.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48693",
+    "local_id": "48693",
+    "name": "サーファー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48693.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48694",
+    "local_id": "48694",
+    "name": "トウコ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48694.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48695",
+    "local_id": "48695",
+    "name": "バーベナとヘレナ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48695.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48696",
+    "local_id": "48696",
+    "name": "ヒビキの冒険",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48696.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48697",
+    "local_id": "48697",
+    "name": "リーリエの決心",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48697.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48698",
+    "local_id": "48698",
+    "name": "ロケット団のアテナ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48698.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48699",
+    "local_id": "48699",
+    "name": "ロケット団のアポロ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48699.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48700",
+    "local_id": "48700",
+    "name": "ロケット団のサカキ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48700.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48701",
+    "local_id": "48701",
+    "name": "ロケット団のラムダ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48701.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48702",
+    "local_id": "48702",
+    "name": "ロケット団のランス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48702.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48703",
+    "local_id": "48703",
+    "name": "Nの城",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48703.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48704",
+    "local_id": "48704",
+    "name": "活力の森",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48704.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48705",
+    "local_id": "48705",
+    "name": "グラビティーマウンテン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48705.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48706",
+    "local_id": "48706",
+    "name": "ゼロの大空洞",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48706.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48707",
+    "local_id": "48707",
+    "name": "ハッコウシティ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48707.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48708",
+    "local_id": "48708",
+    "name": "ハロンタウン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48708.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48709",
+    "local_id": "48709",
+    "name": "ミステリーガーデン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48709.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48710",
+    "local_id": "48710",
+    "name": "夜の鉱山",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48710.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48711",
+    "local_id": "48711",
+    "name": "ロケット団の監視塔",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48711.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48712",
+    "local_id": "48712",
+    "name": "ロケット団のファクトリー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48712.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49974",
+    "local_id": "49974",
+    "name": "Nのポイントアップ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49974.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49975",
+    "local_id": "49975",
+    "name": "ガラスのラッパ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49975.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49976",
+    "local_id": "49976",
+    "name": "ハイパーボール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49976.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49977",
+    "local_id": "49977",
+    "name": "ロケット団のレシーバー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49977.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49978",
+    "local_id": "49978",
+    "name": "カウンターゲイン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49978.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49979",
+    "local_id": "49979",
+    "name": "カナリィ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49979.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49980",
+    "local_id": "49980",
+    "name": "からておうの稽古",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49980.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49981",
+    "local_id": "49981",
+    "name": "バーベナとヘレナ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49981.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-49982",
+    "local_id": "49982",
+    "name": "ジャミングタワー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/49982.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-50007",
+    "local_id": "50007",
+    "name": "アイリスの闘志",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/50007.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-50008",
+    "local_id": "50008",
+    "name": "カナリィ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/50008.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-50009",
+    "local_id": "50009",
+    "name": "サーファー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/50009.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48713",
+    "local_id": "48713",
+    "name": "イグニッションエネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48713.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48714",
+    "local_id": "48714",
+    "name": "プリズムエネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48714.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M2a-48715",
+    "local_id": "48715",
+    "name": "ロケット団エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M2a/48715.jpg",
+    "set_id": "M2a",
+    "set_name": "ハイクラスパック「MEGAドリームex」 (M2a)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49634",
+    "local_id": "49634",
+    "name": "イトマル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49634.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49635",
+    "local_id": "49635",
+    "name": "アリアドス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49635.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49636",
+    "local_id": "49636",
+    "name": "シェイミ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49636.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49637",
+    "local_id": "49637",
+    "name": "ツタージャ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49637.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49638",
+    "local_id": "49638",
+    "name": "ジャノビー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49638.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49639",
+    "local_id": "49639",
+    "name": "ジャローダ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49639.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49640",
+    "local_id": "49640",
+    "name": "コフキムシ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49640.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49641",
+    "local_id": "49641",
+    "name": "コフーライ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49641.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49642",
+    "local_id": "49642",
+    "name": "ビビヨン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49642.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49643",
+    "local_id": "49643",
+    "name": "モクロー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49643.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49644",
+    "local_id": "49644",
+    "name": "フクスロー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49644.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49645",
+    "local_id": "49645",
+    "name": "ジュナイパーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49645.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49646",
+    "local_id": "49646",
+    "name": "ヒノヤコマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49646.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49647",
+    "local_id": "49647",
+    "name": "ファイアロー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49647.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49648",
+    "local_id": "49648",
+    "name": "ヤトウモリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49648.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49649",
+    "local_id": "49649",
+    "name": "エンニュートex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49649.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49650",
+    "local_id": "49650",
+    "name": "バクガメス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49650.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49651",
+    "local_id": "49651",
+    "name": "パウワウ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49651.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49652",
+    "local_id": "49652",
+    "name": "ジュゴン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49652.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49653",
+    "local_id": "49653",
+    "name": "ヒトデマン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49653.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49654",
+    "local_id": "49654",
+    "name": "メガスターミーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49654.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49655",
+    "local_id": "49655",
+    "name": "アマルス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49655.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49656",
+    "local_id": "49656",
+    "name": "アマルルガ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49656.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49657",
+    "local_id": "49657",
+    "name": "ボルケニオン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49657.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49658",
+    "local_id": "49658",
+    "name": "コリンク",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49658.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49659",
+    "local_id": "49659",
+    "name": "ルクシオ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49659.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49660",
+    "local_id": "49660",
+    "name": "レントラー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49660.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49661",
+    "local_id": "49661",
+    "name": "デデンネ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49661.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49662",
+    "local_id": "49662",
+    "name": "ピッピ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49662.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49663",
+    "local_id": "49663",
+    "name": "メガピクシーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49663.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49664",
+    "local_id": "49664",
+    "name": "クチート",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49664.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49665",
+    "local_id": "49665",
+    "name": "ニャスパー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49665.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49666",
+    "local_id": "49666",
+    "name": "ニャオニクス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49666.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49667",
+    "local_id": "49667",
+    "name": "シュシュプ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49667.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49668",
+    "local_id": "49668",
+    "name": "フレフワン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49668.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49669",
+    "local_id": "49669",
+    "name": "ノズパス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49669.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49670",
+    "local_id": "49670",
+    "name": "ダイノーズ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49670.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49671",
+    "local_id": "49671",
+    "name": "ヒポポタス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49671.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49672",
+    "local_id": "49672",
+    "name": "カバルドン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49672.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49673",
+    "local_id": "49673",
+    "name": "ランドロス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49673.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49674",
+    "local_id": "49674",
+    "name": "カメテテ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49674.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49675",
+    "local_id": "49675",
+    "name": "ガメノデス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49675.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49676",
+    "local_id": "49676",
+    "name": "チゴラス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49676.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49677",
+    "local_id": "49677",
+    "name": "ガチゴラス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49677.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49678",
+    "local_id": "49678",
+    "name": "ルチャブル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49678.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49679",
+    "local_id": "49679",
+    "name": "メガジガルデex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49679.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49680",
+    "local_id": "49680",
+    "name": "ゴース",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49680.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49681",
+    "local_id": "49681",
+    "name": "ゴースト",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49681.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49682",
+    "local_id": "49682",
+    "name": "ゲンガー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49682.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49683",
+    "local_id": "49683",
+    "name": "スコルピ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49683.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49684",
+    "local_id": "49684",
+    "name": "ドラピオン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49684.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49685",
+    "local_id": "49685",
+    "name": "イベルタルex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49685.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49686",
+    "local_id": "49686",
+    "name": "パオジアン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49686.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49687",
+    "local_id": "49687",
+    "name": "メガエアームドex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49687.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49688",
+    "local_id": "49688",
+    "name": "ヒトツキ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49688.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49689",
+    "local_id": "49689",
+    "name": "ニダンギル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49689.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49690",
+    "local_id": "49690",
+    "name": "ギルガルド",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49690.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49691",
+    "local_id": "49691",
+    "name": "クレッフィ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49691.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49692",
+    "local_id": "49692",
+    "name": "コラッタ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49692.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49693",
+    "local_id": "49693",
+    "name": "ラッタ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49693.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49694",
+    "local_id": "49694",
+    "name": "ニャースex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49694.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49695",
+    "local_id": "49695",
+    "name": "カビゴン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49695.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49696",
+    "local_id": "49696",
+    "name": "ホルビー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49696.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49697",
+    "local_id": "49697",
+    "name": "ホルード",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49697.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49698",
+    "local_id": "49698",
+    "name": "ヤヤコマ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49698.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49699",
+    "local_id": "49699",
+    "name": "トリミアン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49699.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-50048",
+    "local_id": "50048",
+    "name": "コフーライ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/50048.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-50049",
+    "local_id": "50049",
+    "name": "モクロー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/50049.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-50050",
+    "local_id": "50050",
+    "name": "ファイアロー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/50050.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-50051",
+    "local_id": "50051",
+    "name": "アマルルガ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/50051.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-50052",
+    "local_id": "50052",
+    "name": "デデンネ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/50052.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-50053",
+    "local_id": "50053",
+    "name": "ピッピ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/50053.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-50054",
+    "local_id": "50054",
+    "name": "ニャスパー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/50054.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-50055",
+    "local_id": "50055",
+    "name": "ダイノーズ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/50055.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-50056",
+    "local_id": "50056",
+    "name": "チゴラス",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/50056.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-50057",
+    "local_id": "50057",
+    "name": "ドラピオン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/50057.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-50058",
+    "local_id": "50058",
+    "name": "ニダンギル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/50058.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-50059",
+    "local_id": "50059",
+    "name": "ラッタ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/50059.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-50060",
+    "local_id": "50060",
+    "name": "ジュナイパーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/50060.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-50061",
+    "local_id": "50061",
+    "name": "エンニュートex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/50061.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-50062",
+    "local_id": "50062",
+    "name": "メガスターミーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/50062.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-50063",
+    "local_id": "50063",
+    "name": "メガピクシーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/50063.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-50064",
+    "local_id": "50064",
+    "name": "メガジガルデex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/50064.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-50065",
+    "local_id": "50065",
+    "name": "イベルタルex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/50065.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-50066",
+    "local_id": "50066",
+    "name": "メガエアームドex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/50066.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-50067",
+    "local_id": "50067",
+    "name": "ニャースex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/50067.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-50078",
+    "local_id": "50078",
+    "name": "メガスターミーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/50078.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-50079",
+    "local_id": "50079",
+    "name": "メガピクシーex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/50079.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-50080",
+    "local_id": "50080",
+    "name": "メガジガルデex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/50080.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-50081",
+    "local_id": "50081",
+    "name": "ニャースex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/50081.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-50084",
+    "local_id": "50084",
+    "name": "メガジガルデex",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/50084.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49700",
+    "local_id": "49700",
+    "name": "エネはたき",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49700.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49701",
+    "local_id": "49701",
+    "name": "古びたアゴの化石",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49701.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49702",
+    "local_id": "49702",
+    "name": "古びたヒレの化石",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49702.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49703",
+    "local_id": "49703",
+    "name": "ポケパッド",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49703.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49704",
+    "local_id": "49704",
+    "name": "ミアレガレット",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49704.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49705",
+    "local_id": "49705",
+    "name": "コアメモリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49705.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49706",
+    "local_id": "49706",
+    "name": "タラゴン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49706.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49707",
+    "local_id": "49707",
+    "name": "ピュール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49707.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49708",
+    "local_id": "49708",
+    "name": "メイのはげまし",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49708.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49709",
+    "local_id": "49709",
+    "name": "ユカリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49709.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49710",
+    "local_id": "49710",
+    "name": "ミアレシティ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49710.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-50068",
+    "local_id": "50068",
+    "name": "エネルギーリサイクル",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/50068.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-50069",
+    "local_id": "50069",
+    "name": "せいなるはい",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/50069.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-50070",
+    "local_id": "50070",
+    "name": "ポケパッド",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/50070.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-50071",
+    "local_id": "50071",
+    "name": "ワンダーパッチ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/50071.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-50072",
+    "local_id": "50072",
+    "name": "タラゴン",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/50072.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-50073",
+    "local_id": "50073",
+    "name": "ピュール",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/50073.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-50074",
+    "local_id": "50074",
+    "name": "メイのはげまし",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/50074.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-50075",
+    "local_id": "50075",
+    "name": "ユカリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/50075.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-50076",
+    "local_id": "50076",
+    "name": "活力の森",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/50076.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-50077",
+    "local_id": "50077",
+    "name": "ミアレシティ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/50077.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-50082",
+    "local_id": "50082",
+    "name": "メイのはげまし",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/50082.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-50083",
+    "local_id": "50083",
+    "name": "ユカリ",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/50083.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49711",
+    "local_id": "49711",
+    "name": "グロウ草エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49711.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49712",
+    "local_id": "49712",
+    "name": "テレパス超エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49712.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
+  },
+  {
+    "id": "M3-49713",
+    "local_id": "49713",
+    "name": "ロック闘エネルギー",
+    "image_url": "https://qasaguqcjhliufitcyyk.supabase.co/storage/v1/object/public/card-images/M3/49713.jpg",
+    "set_id": "M3",
+    "set_name": "拡張パック「ムニキスゼロ」 (M3)",
+    "region": "JP",
+    "serie_id": "M"
   }
 ]
