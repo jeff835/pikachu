@@ -141,15 +141,18 @@ async function main() {
       if (imgMatch) {
         card.image_url = imgMatch;
         updated++;
-        process.stdout.write('✓');
       } else {
         notFound++;
-        process.stdout.write('x');
       }
     } else {
       notFound++;
-      process.stdout.write('-');
     }
+
+    const currentCount = updated + notFound;
+    if (currentCount % 10 === 0) {
+      process.stdout.write(`\rProgress: ${currentCount}/${targetCards.length} (Updated: ${updated})... `);
+    }
+    
     await sleep(200); // Rate limit for TCGDex
   }
 

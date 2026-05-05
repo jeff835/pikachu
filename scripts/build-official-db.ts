@@ -97,6 +97,7 @@ async function fetchCardsForSet(set: SetInfo): Promise<{ cards: any[], symbol: s
          break;
       }
 
+      console.log(`  --- 正在處理第 ${page} 頁 / 共 ${response.data.maxPage} 頁 ---`);
       const list: OfficialCard[] = response.data.cardList;
       for (const c of list) {
          // 動態從官方網址提取真正的擴充包代號 (例如 /large/SV11B/...)

@@ -30,6 +30,7 @@ async function fetchCardsForSet(setId: string): Promise<any[]> {
           page: page,
           regulation: 'all'
         },
+        timeout: 15000, // 增加 15 秒超時控制
         headers: {
           'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
           'Referer': 'https://www.pokemon-card.com/card-search/',
@@ -66,7 +67,9 @@ async function fetchCardsForSet(setId: string): Promise<any[]> {
 
       if (page >= response.data.maxPage) {
         hasMore = false;
+        console.log(`  Finished set ${setId}: ${cards.length} cards total.`);
       } else {
+        process.stdout.write(`\r  Fetching set ${setId} (Page ${page}/${response.data.maxPage})... `);
         page++;
       }
       

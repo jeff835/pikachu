@@ -56,7 +56,9 @@ async function syncJpDatabase() {
 
   for (let i = 0; i < totalSets; i++) {
     const set = sets[i];
-    process.stdout.write(`\r處理中 (${i + 1}/${totalSets}): ${set.name} ...`);
+    if ((i + 1) % 5 === 0 || i === 0 || i === totalSets - 1) {
+      console.log(`處理中 (${i + 1}/${totalSets}): ${set.name} ...`);
+    }
 
     const setDetail = await fetchJson(`${API_BASE}/sets/${set.id}`);
     if (!setDetail || !setDetail.cards || setDetail.cards.length === 0) {

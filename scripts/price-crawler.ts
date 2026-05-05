@@ -151,12 +151,20 @@ async function startEnrichment(limit = 50, forceAll = false) {
     };
 
     processed++;
-    fs.writeFileSync(METADATA_FILE, JSON.stringify(enrichedMetadata, null, 2));
+    
+    // 每 5 筆或最後一筆才寫入檔案，減少 I/O 負擔
+    if (processed % 5 === 0) {
+      fs.writeFileSync(METADATA_FILE, JSON.stringify(enrichedMetadata, null, 2));
+      console.log(`💾 已保存進度 (${processed} 筆)`);
+    }
     
     // 頻率限制
     const delay = (ebayResult.price || snkrResult.price) ? 2000 : 500;
     await new Promise(r => setTimeout(r, delay + Math.random() * 500));
   }
+  
+  // 強制最後寫入一次
+  fs.writeFileSync(METADATA_FILE, JSON.stringify(enrichedMetadata, null, 2));
   console.log(`✨ 完成！共更新 ${processed} 筆報價數據。`);
 }
 
