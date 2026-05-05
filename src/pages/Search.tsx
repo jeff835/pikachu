@@ -43,32 +43,50 @@ export default function Search() {
 
   // 核心查詢邏輯
   useEffect(() => {
+    const controller = new AbortController()
+    let isMounted = true
+
     const fetchCards = async () => {
+      if (!searchQuery.trim()) {
+        setCards([])
+        setLoading(false)
+        return
+      }
+
       setLoading(true)
       setError('')
-      setCards([])
+      
       try {
-        let queryBuilder = supabase.from('cards').select('*')
-        
-        // 搜尋字串處理
-        if (searchQuery.trim()) {
-           const translatedQuery = translateCardSearch(searchQuery.trim(), version)
-           const sq = `%${translatedQuery}%`
-           const rawSq = `%${searchQuery.trim()}%`
-           queryBuilder = queryBuilder.or(`name.ilike.${sq},id.ilike.${sq},local_id.ilike.${sq},name.ilike.${rawSq}`)
-        } else {
-           setLoading(false)
-           return
-        }
+        const translatedQuery = translateCardSearch(searchQuery.trim(), version)
+        const sq = `%${translatedQuery}%`
+        const rawSq = `%${searchQuery.trim()}%`
 
-        queryBuilder = queryBuilder.eq('region', version).order('local_id', { ascending: true })
-        
-        // 限制顯示筆數避免瀏覽器過載
-        const { data: dbResults, error: dbError } = await queryBuilder.limit(1000)
+        // 1. 準備 Supabase 查詢
+        const dbPromise = supabase
+          .from('cards')
+          .select('*')
+          .or(`name.ilike.${sq},id.ilike.${sq},local_id.ilike.${sq},name.ilike.${rawSq}`)
+          .eq('region', version)
+          .order('local_id', { ascending: true })
+          .limit(200) // 限制數量提升效能
 
-        if (dbError) throw dbError
+        // 2. 準備美版外部 API 查詢 (僅在 version === 'US' 時)
+        const remotePromise = (version === 'US') 
+          ? axios.get(`https://api.pokemontcg.io/v2/cards`, {
+              params: { q: `name:"*${searchQuery.trim()}*"`, pageSize: 20 },
+              timeout: 5000,
+              signal: controller.signal
+            }).catch(() => ({ data: { data: [] } }))
+          : Promise.resolve({ data: { data: [] } })
 
-        const mappedResults: PokemonCard[] = (dbResults || []).map(c => ({
+        // 3. 併行執行
+        const [dbResponse, apiRes] = await Promise.all([dbPromise, remotePromise])
+
+        if (!isMounted) return
+
+        if (dbResponse.error) throw dbResponse.error
+
+        const mappedResults: PokemonCard[] = (dbResponse.data || []).map(c => ({
            id: c.id,
            localId: c.local_id,
            name: c.name,
@@ -78,34 +96,32 @@ export default function Search() {
            set: { id: c.set_id, name: c.set_name }
         }))
 
-        // 特殊美版外部抓取
-        let remoteResults: PokemonCard[] = []
-        if (version === 'US' && searchQuery.trim()) {
-          try {
-            const apiRes = await axios.get(`https://api.pokemontcg.io/v2/cards`, {
-              params: { q: `name:"*${searchQuery.trim()}*"`, pageSize: 20 },
-              timeout: 5000
-            })
-            remoteResults = apiRes.data.data.map((c: any) => ({ ...c, region: 'US' }))
-          } catch (e) { console.warn("外部 API 失敗") }
-        }
+        const remoteResults = (apiRes as any).data.data.map((c: any) => ({ ...c, region: 'US' }))
 
         const merged = [...mappedResults, ...remoteResults]
         const uniqueCards = Array.from(new Map(merged.map(c => [c.id, c])).values())
-        setCards(uniqueCards)
-      } catch (err) {
+        
+        if (isMounted) {
+          setCards(uniqueCards)
+        }
+      } catch (err: any) {
+        if (err.name === 'AbortError' || axios.isCancel(err)) return
         console.error(err)
-        setError('無法取得卡牌資料，請稍後再試。')
+        if (isMounted) {
+          setError('無法取得卡牌資料，請稍後再試。')
+        }
       } finally {
-        setLoading(false)
+        if (isMounted) {
+          setLoading(false)
+        }
       }
     }
 
-    if (searchQuery) {
-      fetchCards()
-    } else {
-      setCards([])
-      setLoading(false)
+    fetchCards()
+
+    return () => {
+      isMounted = false
+      controller.abort()
     }
   }, [searchQuery, version])
 

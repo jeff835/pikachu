@@ -48,7 +48,7 @@ async function uploadImageToSupabase(imageUrl: string, savePath: string): Promis
       return pubData.publicUrl;
     }
 
-    const res = await axios.get(imageUrl, { responseType: 'arraybuffer' });
+    const res = await axios.get(imageUrl, { responseType: 'arraybuffer', timeout: 15000 });
     const buffer = Buffer.from(res.data, 'binary');
     
     const { data, error } = await supabase.storage
@@ -84,6 +84,7 @@ async function fetchCardsForSet(set: SetInfo): Promise<{ cards: any[], symbol: s
     try {
       const response = await axios.get(API_URL, {
         params: { pg: set.id, page: page, regulation: 'all' },
+        timeout: 15000,
         headers: {
           'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)',
           'Referer': 'https://www.pokemon-card.com/card-search/',

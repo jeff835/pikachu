@@ -33,13 +33,22 @@ const MANUAL_DICT = {
 
 function httpsGet(url) {
   return new Promise((resolve) => {
-    https.get(url, { headers: { 'User-Agent': 'Mozilla/5.0' } }, (res) => {
+    const req = https.get(url, { 
+      headers: { 'User-Agent': 'Mozilla/5.0' },
+      timeout: 10000 // 10秒超時
+    }, (res) => {
       let data = '';
       res.on('data', chunk => data += chunk);
       res.on('end', () => {
         try { resolve(JSON.parse(data)); } catch (e) { resolve(null); }
       });
-    }).on('error', () => resolve(null));
+    });
+    
+    req.on('error', () => resolve(null));
+    req.on('timeout', () => {
+      req.destroy();
+      resolve(null);
+    });
   });
 }
 

@@ -10,6 +10,7 @@ async function probeM4() {
         pg: 'M4',
         regulation: 'all'
       },
+      timeout: 15000, // 強制 15 秒超時
       headers: {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         'Referer': 'https://www.pokemon-card.com/card-search/'
@@ -24,6 +25,7 @@ async function probeM4() {
       for (let p = 2; p <= maxPage; p++) {
         const pRes = await axios.get(API_URL, {
           params: { pg: 'M4', regulation: 'all', page: p },
+          timeout: 15000, // 強制 15 秒超時
           headers: {
             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
             'Referer': 'https://www.pokemon-card.com/card-search/'
