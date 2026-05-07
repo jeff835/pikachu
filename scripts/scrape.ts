@@ -22,7 +22,7 @@ interface DetailedCard extends RawCard {
 async function fetchCards(lang: string, limit: number = 300) {
   try {
     console.log(`[${lang.toUpperCase()}] 正在獲取卡牌列表...`);
-    const response = await axios.get(`https://api.tcgdex.net/v2/${lang}/cards`);
+    const response = await axios.get(`https://api.tcgdex.net/v2/${lang}/cards`, { timeout: 20000 });
     const list = response.data.filter((c: RawCard) => c.image).slice(0, limit);
     
     console.log(`[${lang.toUpperCase()}] 開始抓取 ${list.length} 筆詳細資訊 (批次處理)...`);

@@ -1,5 +1,6 @@
 import fs from 'fs';
 import path from 'path';
+import axios from 'axios';
 
 const API_BASE = 'https://api.tcgdex.net/v2/ja';
 const EN_API_BASE = 'https://api.tcgdex.net/v2/en';
@@ -32,9 +33,8 @@ function containsJapanese(text: string): boolean {
 
 async function fetchJson(url: string) {
   try {
-    const resp = await fetch(url);
-    if (!resp.ok) return null;
-    return resp.json();
+    const resp = await axios.get(url, { timeout: 15000 });
+    return resp.data;
   } catch (e) {
     return null;
   }

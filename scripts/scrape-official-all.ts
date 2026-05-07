@@ -41,8 +41,8 @@ async function fetchCardsForSet(setId: string): Promise<any[]> {
         }
       });
 
-      // Randomized delay: 2000ms - 5000ms
-      const delay = 2000 + Math.random() * 3000;
+      // Optimized delay: 500ms - 1000ms (Reduced from 2-5s to avoid feeling "stuck")
+      const delay = 500 + Math.random() * 500;
       await new Promise(resolve => setTimeout(resolve, delay));
 
       if (response.data.result !== 1) {
@@ -73,8 +73,7 @@ async function fetchCardsForSet(setId: string): Promise<any[]> {
         page++;
       }
       
-      // Be polite to the API
-      await new Promise(resolve => setTimeout(resolve, 200));
+      // No additional delay needed here
     } catch (error: any) {
       console.error(`Request failed for set ${setId} page ${page}:`, error.message);
       hasMore = false;
